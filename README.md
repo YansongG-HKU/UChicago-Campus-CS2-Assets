@@ -38,7 +38,7 @@ Get-FileHash .\Campus_Repaired_20261007_r1_01_assets.zip -Algorithm SHA256
 
 ### 发布状态与核验记录
 
-[PUBLICATION_VERIFICATION.json](PUBLICATION_VERIFICATION.json) 是 **2026-10-12 发布前准备记录**，其 `publication_status` 保持 `NOT_YET_PUBLISHED`，不作为 GitHub 已发布或已公开下载的证明。实际发布状态、十个远端附件的大小和 SHA-256、公开下载检查结果由最终回执 `FINAL_PUBLICATION_VERIFICATION.json` 记录。详见 [验证范围](VERIFICATION.md)。
+[PUBLICATION_VERIFICATION.json](PUBLICATION_VERIFICATION.json) 是 **2026-10-12 发布前准备记录**，其 `publication_status` 保持 `NOT_YET_PUBLISHED`，不作为 GitHub 已发布或已公开下载的证明。实际发布状态、十个远端附件的大小和 SHA-256、公开下载检查结果由 [最终核验回执](FINAL_PUBLICATION_VERIFICATION.json) 记录。详见 [验证范围](VERIFICATION.md)。
 
 ## 版本选择与使用范围
 

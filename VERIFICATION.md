@@ -20,7 +20,7 @@
 
 目标仓库为 [YansongG-HKU/UChicago-Campus-CS2-Assets](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets)，本版标签为 `campus-20261007-r1`。逐附件预期文件名、字节大小、SHA-256 和直接下载链接见 [DOWNLOADS.md](DOWNLOADS.md)。
 
-实际发布完成后，独立的 `FINAL_PUBLICATION_VERIFICATION.json` 记录仓库与 Release 链接、公开/非草稿状态、全部十个远端附件的状态、大小、SHA-256 及公开下载检查结果。应以最终回执记录的实际检查范围与结果判断发布是否完成；本文件与发布前 JSON 中的准备结果不能替代该核验。
+独立的 [FINAL_PUBLICATION_VERIFICATION.json](FINAL_PUBLICATION_VERIFICATION.json) 记录仓库与 Release 链接、公开/非草稿状态、全部十个远端附件的状态、大小、SHA-256 及完整匿名公开下载检查结果。应以最终回执记录的实际检查范围与结果判断发布是否完成；本文件与发布前 JSON 中的准备结果不能替代该核验。
 
 ## 验证边界
 

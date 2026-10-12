@@ -1,14 +1,14 @@
 {
-  "recorded_at_utc": "2026-10-12T03:44:24.079539+00:00",
+  "recorded_at_utc": "2026-10-12T04:07:54.742048+00:00",
   "repository_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets",
   "release_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
   "publication_status": "PUBLISHED",
   "release_draft": false,
   "uploaded_and_server_sha256_verified": 10,
   "total_attachment_bytes": 3370511145,
-  "anonymous_full_download_status": "IN_PROGRESS",
-  "anonymous_full_download_passed": 1,
-  "anonymous_observed_total_bytes": 1124823393,
+  "anonymous_full_download_status": "COMPLETE",
+  "anonymous_full_download_passed": 10,
+  "anonymous_observed_total_bytes": 3370511145,
   "anonymous_downloads": [
     {
       "name": "Campus_Repair_Retest_20261007_r1_ZH.pdf",
@@ -19,67 +19,68 @@
     },
     {
       "name": "Campus_Repaired_20261007_r1_01_assets.zip",
-      "verification_status": "downloading",
-      "downloaded_bytes": 381681664,
+      "verification_status": "passed",
+      "downloaded_bytes": 439078127,
       "expected_bytes": 439078127,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_02_assets.zip",
-      "verification_status": "downloading",
-      "downloaded_bytes": 385875968,
+      "verification_status": "passed",
+      "downloaded_bytes": 433404719,
       "expected_bytes": 433404719,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_03_assets.zip",
-      "verification_status": "downloading",
-      "downloaded_bytes": 344981504,
+      "verification_status": "passed",
+      "downloaded_bytes": 432859403,
       "expected_bytes": 432859403,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_04_assets.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 435461071,
       "expected_bytes": 435461071,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_05_assets.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 433582433,
       "expected_bytes": 433582433,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_06_assets.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 427030565,
       "expected_bytes": 427030565,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_07_assets.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 425768021,
       "expected_bytes": 425768021,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_Repaired_20261007_r1_08_assets.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 330093279,
       "expected_bytes": 330093279,
-      "passed": false
+      "passed": true
     },
     {
       "name": "Campus_r1_Library_Index_QA.zip",
-      "verification_status": "pending",
-      "downloaded_bytes": null,
+      "verification_status": "passed",
+      "downloaded_bytes": 949270,
       "expected_bytes": 949270,
-      "passed": false
+      "passed": true
     }
   ],
-  "note": "Publication is complete. This is an interim progress record; full-download integrity evidence will be in FINAL_PUBLICATION_VERIFICATION.json after all streams pass."
+  "note": "Publication and all ten complete anonymous download streams passed byte count and SHA-256 verification.",
+  "final_verification_receipt": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/FINAL_PUBLICATION_VERIFICATION.json"
 }

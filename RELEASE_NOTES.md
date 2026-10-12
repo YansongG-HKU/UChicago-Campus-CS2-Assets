@@ -23,7 +23,7 @@
 
 附件 SHA-256 见 [下载表](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/DOWNLOADS.md) 和 [RELEASE_SHA256SUMS.txt](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/RELEASE_SHA256SUMS.txt)；校验及解压步骤见 [仓库 README](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets#readme)。
 
-2026-10-12 发布准备重新检查全部八包 CRC、完整包 SHA-256、逐资产大小及 SHA-256，未发现遗漏、重复资产或哈希不符。这是发布前文件检查；`PUBLICATION_VERIFICATION.json` 保留 `NOT_YET_PUBLISHED`。GitHub 实际发布状态、远端附件校验和公开下载检查由最终回执 `FINAL_PUBLICATION_VERIFICATION.json` 记录。
+2026-10-12 发布准备重新检查全部八包 CRC、完整包 SHA-256、逐资产大小及 SHA-256，未发现遗漏、重复资产或哈希不符。这是发布前文件检查；`PUBLICATION_VERIFICATION.json` 保留 `NOT_YET_PUBLISHED`。GitHub 实际发布状态、远端附件校验和完整匿名公开下载检查由 [最终核验回执](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/FINAL_PUBLICATION_VERIFICATION.json) 记录。
 
 `Rockefeller_Chapel_v0.1` 为用户偏好的优先版本，`RockefellerChapel_v02` 保留作独立备选。
 
