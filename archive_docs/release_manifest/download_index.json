@@ -1,0 +1,193 @@
+{
+  "release": "20261007_r1",
+  "buckets": [
+    {
+      "scope": "assets",
+      "groups": [
+        "BoothHarperCenter",
+        "HarperCourtyardAssembly"
+      ],
+      "uncompressed_bytes": 445505279,
+      "source_scopes": [
+        "expansion",
+        "historic"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_01_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "BlakeCobbContactStudy",
+        "BondSwiftEnsemble",
+        "HarperMemorialLibrary",
+        "HullCourt_v0.1",
+        "InternationalHouse"
+      ],
+      "uncompressed_bytes": 445431977,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "original_9"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_02_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "ClassicsBuilding",
+        "CobbLectureHall",
+        "RockefellerChapel_v02",
+        "Rockefeller_Chapel_v0.1",
+        "SaiehAdditionsContext",
+        "StuartHall"
+      ],
+      "uncompressed_bytes": 441250795,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "original_9"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_03_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "BlakeCobbMapProxy",
+        "GatesBlakeHall",
+        "GoodspeedHall",
+        "ISAC",
+        "TowerGroup",
+        "WieboldtHall",
+        "WomensQuadrangle"
+      ],
+      "uncompressed_bytes": 445530931,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "new_assemblies"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_04_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "BurtonJudsonCourts",
+        "CobbGate",
+        "HaskellHall",
+        "KentChemicalLaboratory",
+        "LoganArts",
+        "RegensteinLibrary",
+        "RobieHouse",
+        "SaiehHall",
+        "TaftHouse"
+      ],
+      "uncompressed_bytes": 445130171,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "original_9"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_05_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "BartlettHall",
+        "BillingsHospital",
+        "BlaineHall",
+        "BlaineJuddBelfield",
+        "EckhartHall",
+        "HenryCrownFieldHouse",
+        "IdaNoyesHall",
+        "JonesLaboratory",
+        "MidwayTaft",
+        "NeubauerCollegium",
+        "PresidentsHouse",
+        "RosenwaldWalker",
+        "RyersonLaboratory",
+        "SnellHitchcock",
+        "SocialSciencesResearch"
+      ],
+      "uncompressed_bytes": 445318406,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "new_assemblies"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_06_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "AlumniHouse",
+        "BelfieldHall",
+        "ChicagoLyingIn",
+        "DAngeloLawLibrary",
+        "JuddHall",
+        "KellerCenter",
+        "LillieHouse",
+        "MansuetoLibrary",
+        "MidwayStudios",
+        "RGGEast",
+        "RGGWest",
+        "RatnerAthletics",
+        "Ryerson_Eckhart_Kent",
+        "SaiehNorthPavilion",
+        "SaiehWoodlawn5740",
+        "SaiehWoodlawn5750",
+        "SearleChemistry",
+        "SunnyGymnasium",
+        "WilderHouse",
+        "WoodlawnResidential"
+      ],
+      "uncompressed_bytes": 445160306,
+      "source_scopes": [
+        "expansion",
+        "historic",
+        "original_9"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_07_assets.zip"
+    },
+    {
+      "scope": "assets",
+      "groups": [
+        "BakerDining",
+        "CampusNorthResidential",
+        "CatheyDining",
+        "ChapinOldBuilding",
+        "CochraneWoods",
+        "DavidRubensteinForum",
+        "EdwardHLeviHall",
+        "GordonParksArtsHall",
+        "HenryHindsLaboratory",
+        "HistoricLabs",
+        "Ida_Burton_Inspection",
+        "JohnCrerarLibrary",
+        "KovlerGymnasium",
+        "LawClassroomAdministration",
+        "LawQuadrangleAssembly",
+        "MaxPalevskyCentral",
+        "MaxPalevskyEast",
+        "MaxPalevskyWest",
+        "QuadrangleClub",
+        "ReneeGranvilleGrossmanAssembly",
+        "SmartMuseum",
+        "UniversityHighSchoolModern",
+        "WilliamEckhardtResearchCenter",
+        "WoodlawnCommonsAssembly",
+        "WoodlawnDining",
+        "YoungMemorial",
+        "campus_north_baker",
+        "max_palevsky",
+        "smart_cochrane_woods"
+      ],
+      "uncompressed_bytes": 350748591,
+      "source_scopes": [
+        "expansion",
+        "historic"
+      ],
+      "filename": "Campus_Repaired_20261007_r1_08_assets.zip"
+    }
+  ],
+  "note": "Each logical asset group is self-contained. Do not mix files from old ZIPs into this release. Rockefeller v0.1 is preferred; v02 is a separate alternate."
+}

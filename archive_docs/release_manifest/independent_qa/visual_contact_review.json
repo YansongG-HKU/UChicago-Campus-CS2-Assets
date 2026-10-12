@@ -1,0 +1,97 @@
+[
+  {
+    "assembly": "HarperCourtyard",
+    "assembly_output_sha256": "3d44d9b2a03f0103b5d773587e24f44fcc90941ea8c6ce6b1760ed2738460f99",
+    "views": [
+      {
+        "view": "Harper_Wieboldt_south",
+        "before_png_sha256": "474fed7abd9590676177daaa47db191a34d9834240c4e38b8e18217208839b7e",
+        "after_png_sha256": "c9c9e30f7259c34a6a189731ee1da36c22f6fe5be5825338c77437f73f619005",
+        "before": "campus_repair_20261007/assembly/contact_qa/Harper_Wieboldt_south_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/Harper_Wieboldt_south_after.png"
+      },
+      {
+        "view": "Harper_Wieboldt_north",
+        "before_png_sha256": "24f1724732997833d4c239464391356896c4a88e3e0da38d57cdf0b271173377",
+        "after_png_sha256": "837b581d533213d13a36f9933ef1df384105eca78ede3f85ccd44083e46cd970",
+        "before": "campus_repair_20261007/assembly/contact_qa/Harper_Wieboldt_north_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/Harper_Wieboldt_north_after.png"
+      },
+      {
+        "view": "Classics_Wieboldt",
+        "before_png_sha256": "a98208a43c9d49b8e30317dfdb4a32964614ec82614eb288f0aee8a27664bd17",
+        "after_png_sha256": "3ce5902ef179235c705bb7923bb1c775e630aad6ea0edb8f6df1da6d5c712100",
+        "before": "campus_repair_20261007/assembly/contact_qa/Classics_Wieboldt_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/Classics_Wieboldt_after.png"
+      },
+      {
+        "view": "Classics_Goodspeed",
+        "before_png_sha256": "6030f82feae5d0ac4cfa2f1cd16ddfed73f27c2dad7aabc804ba371856fc1044",
+        "after_png_sha256": "48f7bdda62e53904b75ed35f0900c87e92ddf1e43c2499a6b233290ba6a3effe",
+        "before": "campus_repair_20261007/assembly/contact_qa/Classics_Goodspeed_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/Classics_Goodspeed_after.png"
+      }
+    ],
+    "review": "Corrected single-owner Classics/Goodspeed shell closes the repair-induced slit; other inspected windows, tracery, dormers and roofs retained.",
+    "limitations": "Visual checks concern the stated close views, not exhaustive watertight-solid or CS2 runtime acceptance."
+  },
+  {
+    "assembly": "SaiehAdditions",
+    "assembly_output_sha256": "2ed4c4edec5798ff9c340889d3e55abaf198dce6bd2334dbeb13956ff3dd5e3c",
+    "views": [
+      {
+        "view": "core_pavilion",
+        "before_png_sha256": "30e23d126cadf8e74b5d38351645ecca4e5900a15b902e5913f466a36e45bfc6",
+        "after_png_sha256": "75126cf2c71f943ea2065aa0197ad992be9a4a9eeecc7c6fca510da616851612",
+        "before": "campus_repair_20261007/assembly/contact_qa/core_pavilion_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/core_pavilion_after.png"
+      },
+      {
+        "view": "pavilion_houses",
+        "before_png_sha256": "ec7b04d7f4df46c175e9cd54742575d15beb70c3bd0475a9e6a0a07044cba771",
+        "after_png_sha256": "654af552dbb57ef47add8e19c65f50176b4361f78ec69d593add6852c4c62c37",
+        "before": "campus_repair_20261007/assembly/contact_qa/pavilion_houses_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/pavilion_houses_after.png"
+      }
+    ],
+    "review": "Repaired core wall is continuous; connector roofs, glazing, houses and chimney details remain visible.",
+    "limitations": "Visual checks concern the stated close views, not exhaustive watertight-solid or CS2 runtime acceptance."
+  },
+  {
+    "assembly": "BlakeCobbContact",
+    "assembly_output_sha256": "cb51c4fd1a8df76678e1ee01188f6f3a88f4133f617957a73ad066582e44e4f3",
+    "views": [
+      {
+        "view": "Blake_Cobb_east",
+        "before_png_sha256": "1ac8da1420850e632286c1bd50a38e43a3b40202bbc28ee0ec40d9b56972b5e6",
+        "after_png_sha256": "cbc89cd36258561c433b35317bc4a7dccf3b30e089c30326a62cbbb8f6fae2e7",
+        "before": "campus_repair_20261007/assembly/contact_qa/Blake_Cobb_east_before.png",
+        "after": "campus_repair_20261007/assembly/contact_qa/Blake_Cobb_east_after.png"
+      }
+    ],
+    "review": "Contact exterior retains facade windows, turrets and independent roof profiles.",
+    "limitations": "Visual checks concern the stated close views, not exhaustive watertight-solid or CS2 runtime acceptance."
+  },
+  {
+    "assembly": "BlaineJuddBelfield",
+    "assembly_output_sha256": "0c3eee243a0f134596b90ac4eec77cc0f664b5d0b2c44a03b4df169cbc836654",
+    "views": [
+      {
+        "view": "Blaine_Judd_east",
+        "before_png_sha256": "835a4fa4a35397d979cb9e123be76d714d03aade1b1c40775935f97d2a6410d4",
+        "after_png_sha256": "d7609b28395b65469bbecb5c9f9bc2121d4b1ebe0edc2d30fd435135f775101a",
+        "before": "campus_repair_20261007/assembly/independent_contact_qa/Blaine_Judd_east_before.png",
+        "after": "campus_repair_20261007/assembly/independent_contact_qa/Blaine_Judd_east_after.png"
+      },
+      {
+        "view": "Judd_Belfield_east",
+        "before_png_sha256": "d9fce110c6882f453daeb4052e579d5c894742fed00cd78c93adbc58234e62f1",
+        "after_png_sha256": "610830152961ae371e8eb9bb418f02d009a3dcbd94953d266ae60c230a7d8d29",
+        "before": "campus_repair_20261007/assembly/independent_contact_qa/Judd_Belfield_east_before.png",
+        "after": "campus_repair_20261007/assembly/independent_contact_qa/Judd_Belfield_east_after.png"
+      }
+    ],
+    "review": "Both sampled joints retain gables, window reveals, ledges and roof profiles with no visible new opening.",
+    "limitations": "Visual checks concern the stated close views, not exhaustive watertight-solid or CS2 runtime acceptance."
+  }
+]

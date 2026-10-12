@@ -1,0 +1,82 @@
+[
+  {
+    "file": "FINAL_QA_SUMMARY.json",
+    "bytes": 3154,
+    "sha256": "4ed61308b5eaa4a5ee29e117065eb889758e793c2960df5058850af09697ba63"
+  },
+  {
+    "file": "validation_summary.json",
+    "bytes": 1079743,
+    "sha256": "aebdc364497ad45d47078de3565678c03c8104d0099a63d0998cfbf7ca0deedd"
+  },
+  {
+    "file": "final_inventory_verification.json",
+    "bytes": 825062,
+    "sha256": "c54e2e051916fde607ffe988b027b20de6f7f86e1f9daa77bd3e5b9b45908099"
+  },
+  {
+    "file": "final_file_checks.csv",
+    "bytes": 99260,
+    "sha256": "f1dd40cad1db7993e21414e9ed09967eb40ec90fea1b8c513084227f6dd2a5aa"
+  },
+  {
+    "file": "source_fbx_pairing_final.csv",
+    "bytes": 188724,
+    "sha256": "3fb5788f61f0858be03f35626ae084a999969f4e0a7660b917ae000bda387e5d"
+  },
+  {
+    "file": "all_image_provenance.csv",
+    "bytes": 272990,
+    "sha256": "3abaa25856c4aed47e3e13c44ba080e5337f1417d114dbef428541c1464aaa63"
+  },
+  {
+    "file": "image_checks.csv",
+    "bytes": 208013,
+    "sha256": "79c7d17105a99eb53c62699439318fcfc5d828f23d5fd1c1f4b636d9dd632db9"
+  },
+  {
+    "file": "fbx_binary_comparison.json",
+    "bytes": 2490445,
+    "sha256": "14da270ce3729cc81132a6c8b59151bade9e3c538dc914853fdc6b3a74246f27"
+  },
+  {
+    "file": "immutability_and_occurrences.json",
+    "bytes": 1584202,
+    "sha256": "7d6b23f78110a68d0c5ba53d902ba07083f4499e8a50b6b892834328995cf497"
+  },
+  {
+    "file": "contact_preservation.json",
+    "bytes": 28298,
+    "sha256": "31b35ea2621dff1b1f1c2cb0332d2380f6913a64ad31f8743a0f3985ed3f9303"
+  },
+  {
+    "file": "contact_preservation.csv",
+    "bytes": 9517,
+    "sha256": "15c3d4f9c37adfddad5678f5b17f267638c994adac23a1992a4a3e4692461f45"
+  },
+  {
+    "file": "visual_contact_review.json",
+    "bytes": 5580,
+    "sha256": "8e2e9613b3ca91fff3bfda01be7169e2cb1d6ba0c9d7abb671b03b398b7ae615"
+  },
+  {
+    "file": "overlap_probes.json",
+    "bytes": 78761,
+    "sha256": "1fabbac6b43997c3ace49482027b146418a08b5ba15cec5aa2a7721e0128e291"
+  },
+  {
+    "file": "inspect_assets.py",
+    "bytes": 3514,
+    "sha256": "1d08b6073ebbd487d0f96571147ae27e32882cc5741601a9b8d7d0bb6d81bf9b"
+  },
+  {
+    "file": "verify_contact_preservation.py",
+    "bytes": 3872,
+    "sha256": "4379be8db935db24e2bfff4e39125bc8b2f9cfee61574c97657227f4eada2c70"
+  },
+  {
+    "file": "probe_overlap.py",
+    "bytes": 1852,
+    "sha256": "81fbf47de0045d3a462a7a5dce0b18f3ad1a5d5cef960ac9416f9c79fcd4d2ab"
+  }
+]

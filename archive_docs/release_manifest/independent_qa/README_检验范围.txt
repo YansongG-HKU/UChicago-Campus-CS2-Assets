@@ -1,0 +1,1 @@
+本目录是对本次修复包的独立检验。final_inventory_verification.json 对模型交付哈希进行复核；source_fbx_pairing_final.csv 给出源文件/FBX 对应。数值与画面检查不等于游戏内导入验收。原始输入共206校园资产ZIP及1个既有审计证据ZIP，合计207ZIP；模型审计覆盖547出现记录。

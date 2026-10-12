@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "scope": "Independent read-only Blender 4.3.2 open/import, relocated dependency, source/export correspondence, original immutability, targeted overlap and visual contact QA. No CS2 editor/runtime, surveyed fit, watertight solid, interiors or navigation acceptance.",
+  "original_asset_archives": 206,
+  "audit_evidence_archives": 1,
+  "total_input_archives": 207,
+  "original_extracted_files": 4999,
+  "original_sources": 99,
+  "original_fbx_paths": 442,
+  "original_fbx_archive_occurrences": 448,
+  "final_sources": 101,
+  "final_fbx_paths": 466,
+  "source_export_object_pairings": 514,
+  "final_hash_gated_asset_files": 567,
+  "all_original_source_fbx_paths_retained": true,
+  "packed_image_records": 1453,
+  "unchanged_fbx_nonpath_data": 424,
+  "modified_existing_fbx_geometry_exports": 18,
+  "new_assembly_fbx_exports": 24,
+  "all_fbx_image_paths_relative_resolve": true,
+  "all_final_file_hashes_match_inspections": true,
+  "all_opens_imports_passed": true,
+  "all_source_export_pairs_pass": true,
+  "all_geometry_uv_finite": true,
+  "all_original_inputs_immutable": true,
+  "contact_preservation": {
+    "assembly_count": 4,
+    "object_lod_checks": 42,
+    "outside_cut_vertices": 844828,
+    "outside_cut_triangle_centroid_samples": 881536,
+    "missing_vertices": 0,
+    "missing_surface_samples_above_0_2mm": 0,
+    "max_vertex_delta_m": 9.830249609876773e-07,
+    "max_sampled_surface_distance_or_conservative_matching_bound_m": 1.7321e-05,
+    "method": "Float64 point-to-triangle projection and canonical triangle-coordinate matching at 1e-5m supplement float32 BVH nearest queries. Apparent 0.0511m outlier was identical thin-triangle geometry and numerical error, not deformation."
+  },
+  "intentional_texture_changes": [
+    {
+      "image": "DAngeloLawLibrary_LOD2_BaseColor.png.001",
+      "sha256": "344b4d585b611216760cdf4d41470c697fd5818f12ea7676ad8973bd5ab452f4",
+      "reason": "D’Angelo LOD2 facade correction: regenerated BaseColor/MaskMap payload; 512x512 RGBA, original colorspace and alpha interpretation retained."
+    },
+    {
+      "image": "DAngeloLawLibrary_LOD2_MaskMap.png.001",
+      "sha256": "9a6e0af09ed602c8c5e3caa21fa5ec1e4af29418bf5e801a7bee709a3df91498",
+      "reason": "D’Angelo LOD2 facade correction: regenerated BaseColor/MaskMap payload; 512x512 RGBA, original colorspace and alpha interpretation retained."
+    }
+  ],
+  "issues": [],
+  "resolved_findings": [
+    "Harper Classics/Goodspeed mutual cutter exposed a seam; single-owner boundary shell correction independently verified by same-view before/after images and final source/export inspection.",
+    "Saieh LOD2 union normal corrected; all135 independent north-wall probes across3LODs return exactly one outward surface."
+  ],
+  "limitations": [
+    "Targeted visual views and sampled contact surfaces do not prove globally watertight geometry.",
+    "Quadrangle LOD2 deliberately uses shorter entrance steps; its9 empty probe positions match the original coarse silhouette.",
+    "D’Angelo LOD2 preserves coarse geometry; facade and ground-floor texture continuity improved, not full main-detail equivalence."
+  ]
+}

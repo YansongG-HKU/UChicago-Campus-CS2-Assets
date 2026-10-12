@@ -1,0 +1,402 @@
+[
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Blender_Source_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "original_filename": "SaiehHall.blend",
+    "original_sha256": "bb208affcc3b297ffc816b2815abb017eea89d2e3f863698e1490862c363c225",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "replacement_sha256": "2e325f7e43799f2001586811fcce23a98ac7869b051fdf6fdfbee12aa712d4e1",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Blender_Source_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/scripts/build_asset.py",
+    "original_filename": "build_asset.py",
+    "original_sha256": "b6c9fbcadc0d56f5c90e1711e0ed6d685ce1105169832b8c232f70d208b29b4f",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/scripts/build_asset.py",
+    "replacement_sha256": "9c96c11bbceaba837f38ebed8aa9e221744872009ca09fb33cb938d5d9ad2966",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Blender_Source_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/documentation/fbx_conversion_rebuild.json",
+    "original_filename": "fbx_conversion_rebuild.json",
+    "original_sha256": "9d7e6c9d03287a3a8892d93675805ee0b3010e881b5ab17383f42bab67ebe9c4",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/documentation/fbx_conversion_rebuild.json",
+    "replacement_sha256": "208889d3807d7dae86eab4b8b7158cc323b1151d7439506bd9fb774d2e1d6de6",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Blender_Source_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/documentation/mesh_validation.json",
+    "original_filename": "mesh_validation.json",
+    "original_sha256": "2e5fe14282881e99ddb82db6b9136b08de39de133041afd0a31d8d854a0e213d",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/documentation/mesh_validation.json",
+    "replacement_sha256": "e1280d38519253b13b9b9fa81f44c25ff0dc71327b6fb48b9586d74eebaf10a1",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Import_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall.fbx",
+    "original_filename": "SaiehHall.fbx",
+    "original_sha256": "8092d36f2907d40e16509ea386af8b62a8d3f6d561ba78de02f1cb9f1b802aa7",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/exports/ProjectFiles/SaiehHall/SaiehHall.fbx",
+    "replacement_sha256": "b4b60d141c2d033d54cafd64aba8e0656537175a2dbb0571941d47bb3a2eadac",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Import_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall_LOD1.fbx",
+    "original_filename": "SaiehHall_LOD1.fbx",
+    "original_sha256": "3f103948b22eb34f413c70c5b029885704aa20da6c0c5c221bbf032c0d682f25",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/exports/ProjectFiles/SaiehHall/SaiehHall_LOD1.fbx",
+    "replacement_sha256": "4d1ac4670aefff86800d7d0f1cbe5cdc21e6f67376d81f9ef0b61363ff26b1f8",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_archive": "SaiehHall_CS2_Import_v0.1.zip",
+    "original_member": "SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall_LOD2.fbx",
+    "original_filename": "SaiehHall_LOD2.fbx",
+    "original_sha256": "2b61cac207417ad84e8faf1e6e2b0ed4c428c8216cf930da1168430d021ef868",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/exports/ProjectFiles/SaiehHall/SaiehHall_LOD2.fbx",
+    "replacement_sha256": "37cc953ed066ec1adc6754608ae75f3ea4b82955436aabb032d0d3dfb7dd17ea",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "SaiehHall",
+    "original_filename": "union_boxes.py",
+    "original_member": "SaiehHall_CS2_v0.1/scripts/union_boxes.py",
+    "original_sha256": null,
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/SaiehHall/SaiehHall_CS2_v0.1/scripts/union_boxes.py",
+    "replacement_sha256": "bc28596f86d3614b08f982116d6456540a87a74d70b7d16e9c87da95bbe2403e",
+    "reason": "New reproducible geometry helper; add to scripts/",
+    "new_relative_path": "scripts/union_boxes.py"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/documentation/build_report.json",
+    "original_filename": "build_report.json",
+    "original_sha256": "086e246d2c76813ae599b76800d399aeb5b1a1706b95445731b26276fcb42a6b",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/documentation/build_report.json",
+    "replacement_sha256": "afdf80aeea768e7328982709cd91f333bec81fec9fcca551a23812b4aa78ab56",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/KellerCenter_Blender7400.fbx",
+    "original_filename": "KellerCenter_Blender7400.fbx",
+    "original_sha256": "7c3f04a9793d0c44e1d02807b6801961992ca3243bcd93fc3253ce764a56ab17",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/KellerCenter_Blender7400.fbx",
+    "replacement_sha256": "785da820302763d8fc0e7929b36b07079466dc58dd6c6299af4ecac89740be51",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/KellerCenter_Gls_Blender7400.fbx",
+    "original_filename": "KellerCenter_Gls_Blender7400.fbx",
+    "original_sha256": "407493d0221237b662ad86d5b61143642be35afd17800bb739be9318d1a10c16",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/KellerCenter_Gls_Blender7400.fbx",
+    "replacement_sha256": "6e0758507f37911d8a0f22c910ba6b11b5d528268d7da1730ed84da1fa9ddfba",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/KellerCenter_LOD1_Blender7400.fbx",
+    "original_filename": "KellerCenter_LOD1_Blender7400.fbx",
+    "original_sha256": "d80d43b96c9e7bcef9b5cab62bdff4b393e0bdf6f6e996c524d26843e74cab86",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/KellerCenter_LOD1_Blender7400.fbx",
+    "replacement_sha256": "5ff3cff267a6c795385fabe77a280394d1032ca88873b266eec26911e114e9ea",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/KellerCenter_LOD1_Gls_Blender7400.fbx",
+    "original_filename": "KellerCenter_LOD1_Gls_Blender7400.fbx",
+    "original_sha256": "781524625cc8aace941a07ced1b2b01a3026bf79bb494855fda75c405d21b6d1",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/KellerCenter_LOD1_Gls_Blender7400.fbx",
+    "replacement_sha256": "01f8c7d16a2791afa50ea632a33a745cadb16bc65571c58c52395f063ac597ee",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/KellerCenter_LOD2_Blender7400.fbx",
+    "original_filename": "KellerCenter_LOD2_Blender7400.fbx",
+    "original_sha256": "dc2107c047e1e4664007eeb6114550942c6f8b3d9c1760795504844df3eb78bd",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/KellerCenter_LOD2_Blender7400.fbx",
+    "replacement_sha256": "1c18459861463e07e7c4fe7f1ba7a02202db76231c92d532d9ea711f63d6f90b",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter.fbx",
+    "original_filename": "KellerCenter.fbx",
+    "original_sha256": "004cefa8838221195e7c2308f85a51a033b3fb499a92191fadafc53ee7d8c8d3",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter.fbx",
+    "replacement_sha256": "6730a3485d67c467862c21b7b0eab04a4d7213b0b6ac5be37a406938c97c1f41",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_Gls.fbx",
+    "original_filename": "KellerCenter_Gls.fbx",
+    "original_sha256": "06e9d7f59317322f8d5d66a88cdc99dcaef55db31f67a119d5f03b2b286fd648",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_Gls.fbx",
+    "replacement_sha256": "e51b525c27b15cfaf6bebf0dab144cc30f77efd899871424ca269a83e2afd6f2",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1.fbx",
+    "original_filename": "KellerCenter_LOD1.fbx",
+    "original_sha256": "db4204ed2947518c8769dbff70b470c40a2ec470abc94717c988afa3d760c147",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1.fbx",
+    "replacement_sha256": "b735c0d8a94d92160bc0587612e59382817e9cfdccfdd47414202ad688b0610b",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1_Gls.fbx",
+    "original_filename": "KellerCenter_LOD1_Gls.fbx",
+    "original_sha256": "b8fe605ebd250299551a2443397ecd46ab8cd79e2fa4048b9a696bd5d839e50a",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1_Gls.fbx",
+    "replacement_sha256": "62ec3c0f3dd857c754a1fedc81c6fabdb924e117f96d7685d5fa212ddfae64c9",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD2.fbx",
+    "original_filename": "KellerCenter_LOD2.fbx",
+    "original_sha256": "a1fb84e3be4c576fb0004be6553e194d2c1de444915ccfe6b787def3092adb81",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD2.fbx",
+    "replacement_sha256": "01c3b5f216b849cf155c95acb4d709242ec04e4f9ea368dcf3372c8c0f269e69",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/scripts/architecture.py",
+    "original_filename": "architecture.py",
+    "original_sha256": "ac292351ce973d3a8acab8c1878e7e598023158db0fd06ff9b2ad779f9689e1f",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/scripts/architecture.py",
+    "replacement_sha256": "7889cd8fef8ffb02b32ac28fee66d89a729ef4f790dce2d582e639068968b844",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_archive": "KellerCenter_CS2_SourceCandidate_v01.zip",
+    "original_member": "KellerCenter/source/KellerCenter.blend",
+    "original_filename": "KellerCenter.blend",
+    "original_sha256": "733f8cd0bf09bd362ee5103973911e56dd2b63a6647c6cf290a18a5154df6e2c",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/source/KellerCenter.blend",
+    "replacement_sha256": "1741bec8c54e9920cc04771066a387e5d852968e8943a8214e1e1720236010e4",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "KellerCenter",
+    "original_filename": "union_boxes.py",
+    "original_member": "KellerCenter/scripts/union_boxes.py",
+    "original_sha256": null,
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/Keller/KellerCenter/scripts/union_boxes.py",
+    "replacement_sha256": "0cbf3e23c78f270c0029d07a719cf55ba1a43658cb09325de34656877189fc77",
+    "reason": "New reproducible geometry helper; add to scripts/",
+    "new_relative_path": "scripts/union_boxes.py"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/documentation/build_report.json",
+    "original_filename": "build_report.json",
+    "original_sha256": "f5f6962a349f112b0fca2ce14e404e755d5726577608a72e09402bc51349f701",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/documentation/build_report.json",
+    "replacement_sha256": "17e0987eec8d29935cd3abd11e84c3e2a0b6d6bd19a8a82ba94e3d13eb4297ac",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub.fbx",
+    "original_filename": "QuadrangleClub.fbx",
+    "original_sha256": "00c399d5a622d51fcd972ee17d57ede6d7b0745f2d2bfe3a96715d2dd7abf496",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub.fbx",
+    "replacement_sha256": "b09a0d9b81415619ebe1f57c4c5ffabbcd0dfb953943eb1adec2c0ed9dc2ccad",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD1.fbx",
+    "original_filename": "QuadrangleClub_LOD1.fbx",
+    "original_sha256": "424a4c1ec759bd3a0964f6bc43049b4e1ae12e36417e2bd50adeb407e6f74590",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD1.fbx",
+    "replacement_sha256": "354e35a5546e03cc967045c0c6ea45b9301bb74bf7e2869e66c9c334539ba50a",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD2.fbx",
+    "original_filename": "QuadrangleClub_LOD2.fbx",
+    "original_sha256": "651e4fea645b0d38a0fbe8257abb483b69a6d996b4b71b1b3809b09846911237",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD2.fbx",
+    "replacement_sha256": "d766efc51744201c38cd945f83720008df55187164b63efbadacd121810a959c",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/scripts/build.py",
+    "original_filename": "build.py",
+    "original_sha256": "dd22a4f0fbc990a69ebc3d909e580bc9c4e773d959b48d569c14ae8fa2ef0c94",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/scripts/build.py",
+    "replacement_sha256": "f337747793a4ae6e5df190b5a10af15ae52891467592cd6c18e2d0a5684df92d",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_archive": "QuadrangleClub_SourceCandidate_v1.zip",
+    "original_member": "QuadrangleClub/source/QuadrangleClub.blend",
+    "original_filename": "QuadrangleClub.blend",
+    "original_sha256": "8230662cc6379a00fa70b1b876b04f772bd36b6c44d769ac9d33de657793f64a",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend",
+    "replacement_sha256": "c53d2972c1fa78242a93e86c9be7b1d7af707e4ab6b256605e0a6bff77f1123e",
+    "reason": "UV-preserving exposed-surface geometry repair"
+  },
+  {
+    "asset": "QuadrangleClub",
+    "original_filename": "union_boxes.py",
+    "original_member": "QuadrangleClub/scripts/union_boxes.py",
+    "original_sha256": null,
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/geometry/QuadrangleClub/QuadrangleClub/scripts/union_boxes.py",
+    "replacement_sha256": "0cbf3e23c78f270c0029d07a719cf55ba1a43658cb09325de34656877189fc77",
+    "reason": "New reproducible geometry helper; add to scripts/",
+    "new_relative_path": "scripts/union_boxes.py"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/documentation/build_report.json",
+    "original_filename": "build_report.json",
+    "original_sha256": "e651c5db186eefd9e2c3133b4dbfaa38225035e45e2efc5a07be77f261b4485e",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/documentation/build_report.json",
+    "replacement_sha256": "7b6e10c88bf96479d9e5b0e1659abeb57167e541ffcaf15dedf36e85bd4af77a",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/exports/DAngeloLawLibrary_LOD2_Blender7400.fbx",
+    "original_filename": "DAngeloLawLibrary_LOD2_Blender7400.fbx",
+    "original_sha256": "4b8e207ad9909ad0b6dfa062e0802c5221ae95214678397ebe64474292853857",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/exports/DAngeloLawLibrary_LOD2_Blender7400.fbx",
+    "replacement_sha256": "bce6dc1ba62190632f6fad646bced01cd6e3399c1f75a7bd2bbca70275c531e5",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2.fbx",
+    "original_filename": "DAngeloLawLibrary_LOD2.fbx",
+    "original_sha256": "88d501a01c42183fb74a571fff451021d480476dbf8f67fbf3e85bc6b3d7ea86",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2.fbx",
+    "replacement_sha256": "95cf97998a44acedad3cfabc18cc22be014ea01092bcdea3be42da3b0e6a1a92",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2_BaseColor.png",
+    "original_filename": "DAngeloLawLibrary_LOD2_BaseColor.png",
+    "original_sha256": "6bc5893f99f4f32ba972d5466a68e9fba232aa341780a73ef9e107437adf8070",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2_BaseColor.png",
+    "replacement_sha256": "344b4d585b611216760cdf4d41470c697fd5818f12ea7676ad8973bd5ab452f4",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2_MaskMap.png",
+    "original_filename": "DAngeloLawLibrary_LOD2_MaskMap.png",
+    "original_sha256": "c8c1b86c1aaf9fa854f0d95705937d4f39e23ffc703cf0077b28ff33e78d96ec",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2_MaskMap.png",
+    "replacement_sha256": "9a6e0af09ed602c8c5e3caa21fa5ec1e4af29418bf5e801a7bee709a3df91498",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/scripts/architecture.py",
+    "original_filename": "architecture.py",
+    "original_sha256": "f73eeed279f4f678df57944906e7c62291ad9d8b7581f98ce0a59bb8d88168ae",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/scripts/architecture.py",
+    "replacement_sha256": "8459287c2dcc70dc3496e078634b9c31ec594050232eff7b8fbb4cc27d9132c4",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/scripts/textures.py",
+    "original_filename": "textures.py",
+    "original_sha256": "de196f9371df5bb435507c6c12a3f6842bd85510cdbd621d7d73d78d4d4f6c54",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/scripts/textures.py",
+    "replacement_sha256": "ff8321084cb2e3b16bc694d82a2703d2d8b727bc0a83b90bf90068c61c9af1f1",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/source/DAngeloLawLibrary.blend",
+    "original_filename": "DAngeloLawLibrary.blend",
+    "original_sha256": "c760e3549f9d81624e67019774b9878687a68ad8841d05517c8092ae022ea19d",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/source/DAngeloLawLibrary.blend",
+    "replacement_sha256": "9cb1f189ace504fa39546e2f905b4561ebe857a06a788cd44e1ccc2525b536f3",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/textures/DAngeloLawLibrary_LOD2_BaseColor.png",
+    "original_filename": "DAngeloLawLibrary_LOD2_BaseColor.png",
+    "original_sha256": "6bc5893f99f4f32ba972d5466a68e9fba232aa341780a73ef9e107437adf8070",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/textures/DAngeloLawLibrary_LOD2_BaseColor.png",
+    "replacement_sha256": "344b4d585b611216760cdf4d41470c697fd5818f12ea7676ad8973bd5ab452f4",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/textures/DAngeloLawLibrary_LOD2_MaskMap.png",
+    "original_filename": "DAngeloLawLibrary_LOD2_MaskMap.png",
+    "original_sha256": "c8c1b86c1aaf9fa854f0d95705937d4f39e23ffc703cf0077b28ff33e78d96ec",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/textures/DAngeloLawLibrary_LOD2_MaskMap.png",
+    "replacement_sha256": "9a6e0af09ed602c8c5e3caa21fa5ec1e4af29418bf5e801a7bee709a3df91498",
+    "reason": "Facade LOD continuity repair"
+  },
+  {
+    "asset": "DAngeloLawLibrary",
+    "original_archive": "DAngeloLawLibrary_CS2_SourceCandidate_v01.zip",
+    "original_member": "DAngeloLawLibrary/textures/atlas_layout.json",
+    "original_filename": "atlas_layout.json",
+    "original_sha256": "dc1b1c64d6eeec46752529a8c5af6a208fe5cb523de39587d652d93add882cd7",
+    "replacement_path": "/workspace/scratch/5d4362c31d8d/campus_repair_20261007/library_geometry/revised/DAngeloLawLibrary/textures/atlas_layout.json",
+    "replacement_sha256": "97a385a8b828a5bc7d99d2c423cde62942a312f3c65826ac56cdc2a5a2d87d5a",
+    "reason": "Facade LOD continuity repair"
+  }
+]
