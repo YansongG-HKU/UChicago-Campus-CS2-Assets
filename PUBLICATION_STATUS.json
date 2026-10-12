@@ -1,0 +1,85 @@
+{
+  "recorded_at_utc": "2026-10-12T03:44:24.079539+00:00",
+  "repository_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "release_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
+  "publication_status": "PUBLISHED",
+  "release_draft": false,
+  "uploaded_and_server_sha256_verified": 10,
+  "total_attachment_bytes": 3370511145,
+  "anonymous_full_download_status": "IN_PROGRESS",
+  "anonymous_full_download_passed": 1,
+  "anonymous_observed_total_bytes": 1124823393,
+  "anonymous_downloads": [
+    {
+      "name": "Campus_Repair_Retest_20261007_r1_ZH.pdf",
+      "verification_status": "passed",
+      "downloaded_bytes": 12284257,
+      "expected_bytes": 12284257,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_01_assets.zip",
+      "verification_status": "downloading",
+      "downloaded_bytes": 381681664,
+      "expected_bytes": 439078127,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_02_assets.zip",
+      "verification_status": "downloading",
+      "downloaded_bytes": 385875968,
+      "expected_bytes": 433404719,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_03_assets.zip",
+      "verification_status": "downloading",
+      "downloaded_bytes": 344981504,
+      "expected_bytes": 432859403,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_04_assets.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 435461071,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_05_assets.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 433582433,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_06_assets.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 427030565,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_07_assets.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 425768021,
+      "passed": false
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_08_assets.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 330093279,
+      "passed": false
+    },
+    {
+      "name": "Campus_r1_Library_Index_QA.zip",
+      "verification_status": "pending",
+      "downloaded_bytes": null,
+      "expected_bytes": 949270,
+      "passed": false
+    }
+  ],
+  "note": "Publication is complete. This is an interim progress record; full-download integrity evidence will be in FINAL_PUBLICATION_VERIFICATION.json after all streams pass."
+}
