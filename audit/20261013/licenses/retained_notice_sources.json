@@ -1,0 +1,16 @@
+{
+  "font_notice_identical_in_both_asset_groups": true,
+  "font_notice_copied_without_changes": true,
+  "sources": [
+    {
+      "source_path": "assets/WoodlawnDining/WoodlawnDining/regeneration/fonts/FONT_LICENSE.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "public_copy": "DejaVu_FONT_LICENSE.txt"
+    },
+    {
+      "source_path": "assets/WoodlawnResidential/WoodlawnResidential/regeneration/fonts/FONT_LICENSE.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "public_copy": "DejaVu_FONT_LICENSE.txt"
+    }
+  ]
+}

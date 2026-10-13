@@ -1,0 +1,136 @@
+{
+  "algorithm": "SHA-256",
+  "manifest_note": "Relative to this directory. This manifest and SHA256SUMS.txt are excluded to avoid recursive self-hashing.",
+  "files": [
+    {
+      "path": "Campus_LOD_Atlas_01.pdf",
+      "bytes": 5380771,
+      "sha256": "a7169b3128a80d2710566d0298c5507fb2ff84d9ff8b4f0e69f2d434d876eaa7"
+    },
+    {
+      "path": "Campus_LOD_Atlas_02.pdf",
+      "bytes": 4624950,
+      "sha256": "1e9f77e3ab1a7e1dd52cedb6ab3c522ac0188cc59669dea4dc6a9b13e6d71c55"
+    },
+    {
+      "path": "Campus_LOD_Atlas_03.pdf",
+      "bytes": 5357346,
+      "sha256": "a2907705c5961d0e00322d3c8f1b8a414c08a1e82894fa3306caa1f6ba296e10"
+    },
+    {
+      "path": "Campus_LOD_Atlas_04.pdf",
+      "bytes": 4685530,
+      "sha256": "f292e1d54217dba39e43f35a48c84f68d34a1ad418cfd56ff507b3bc077a96be"
+    },
+    {
+      "path": "Campus_LOD_Atlas_05.pdf",
+      "bytes": 5110237,
+      "sha256": "387eea979fb51dbd228eb7f8d0898b9395c919c6e46e10253af6571ffeb85e49"
+    },
+    {
+      "path": "Campus_LOD_Atlas_06.pdf",
+      "bytes": 4855770,
+      "sha256": "f359805ce5fd99d683d9fac841abbc290bfd3cde77015558ebd727b0e36d618c"
+    },
+    {
+      "path": "Campus_LOD_Atlas_07.pdf",
+      "bytes": 4585797,
+      "sha256": "e1049f1e74a7e8e8ca231685c6610b9b2d25b02f556ba3b93b343ccc8da6ba5a"
+    },
+    {
+      "path": "Campus_LOD_Atlas_08.pdf",
+      "bytes": 4643252,
+      "sha256": "294311a4fcb9519c8f57a13686267c98325c8f575d0f57bfacc75ec1de17219a"
+    },
+    {
+      "path": "Campus_LOD_Atlas_09.pdf",
+      "bytes": 5397108,
+      "sha256": "d47811a63a9476ee9491ffa9a3683abb1e1f52dc9f1df798bdbf406d1c2995da"
+    },
+    {
+      "path": "Campus_LOD_Atlas_10.pdf",
+      "bytes": 5258085,
+      "sha256": "d486de4293fcc8fc59722b089f68ece00e603fe0204d3ca397037438862e6d5e"
+    },
+    {
+      "path": "Campus_LOD_Atlas_11.pdf",
+      "bytes": 4779104,
+      "sha256": "9e9a24daa49b88c7b76561a0301d23037e3bee33252ce060cdce4983c430c18f"
+    },
+    {
+      "path": "Campus_LOD_Atlas_12.pdf",
+      "bytes": 5093400,
+      "sha256": "15b181ea529c6fb703ae03e846510e6f5e78524a4e17a0368021c6616ddd41fd"
+    },
+    {
+      "path": "Campus_LOD_Atlas_13.pdf",
+      "bytes": 4860649,
+      "sha256": "638063250d28872d152dc9bafed238a6bcad7c1738be4f874aeca91b9baf18b7"
+    },
+    {
+      "path": "Campus_LOD_Atlas_14.pdf",
+      "bytes": 4890563,
+      "sha256": "0e39882b3f57d8bfd7a793479454a0b961393ee2c2edd46bede90290289b0672"
+    },
+    {
+      "path": "Campus_LOD_Atlas_15.pdf",
+      "bytes": 4921939,
+      "sha256": "5fd2525e1b85350134c19d8c5f5ae1421ab6072ff1cbef1b65548bfe33314231"
+    },
+    {
+      "path": "Campus_LOD_Atlas_16.pdf",
+      "bytes": 5442432,
+      "sha256": "b260e9247012e734c259da2b9e8ce9272ed3a44a3155c788494db00ff9e6213a"
+    },
+    {
+      "path": "Campus_LOD_Atlas_17.pdf",
+      "bytes": 5030523,
+      "sha256": "9c419dad61f08096f8e41cc6f19545305f91ff93db0ca14adaaea85f71019c34"
+    },
+    {
+      "path": "Campus_LOD_Atlas_18.pdf",
+      "bytes": 4791822,
+      "sha256": "b18148f3f99fa52acb331d1ae428b65298a9fb1b36e6008b4fcd1c5790944b70"
+    },
+    {
+      "path": "Campus_LOD_Atlas_19.pdf",
+      "bytes": 5242203,
+      "sha256": "adccb2e2f5709f2157e2d4556bd6e952b5144000f126f5d7c16341787b7bad68"
+    },
+    {
+      "path": "Campus_LOD_Atlas_20.pdf",
+      "bytes": 703983,
+      "sha256": "fd5e95b4f5be5112ed3d82795f7617dc1f2581f140764b0b0aa9e4f8ea3bdf1f"
+    },
+    {
+      "path": "Campus_LOD_Complete_Review_Notes.pdf",
+      "bytes": 253199,
+      "sha256": "468e3b92fbd33b1ff8f24f3679251721c2e934fa7f2fe5a05848b8c672babe09"
+    },
+    {
+      "path": "Campus_LOD_Directory_and_Review_Brief.pdf",
+      "bytes": 66882,
+      "sha256": "0e49172dd10aa2e8b603002c419627c1eb8f4985f531000cafffe68b3dc928b9"
+    },
+    {
+      "path": "Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "bytes": 725968,
+      "sha256": "68bbd8649271eeb75097646cb69ece4eeb9bf38bdd086ccdf8aa9cb2019290f1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3676,
+      "sha256": "6a3f18436a76a14eada1ff1d0e9050407d6d69f841f607e134578d0b43404606"
+    },
+    {
+      "path": "index.json",
+      "bytes": 9206,
+      "sha256": "75dcab36f8ef2e1f6dd91811a5aa8ca6645c3b1bec38cb2c0f90decdc9a9acec"
+    },
+    {
+      "path": "original_filename_index.csv",
+      "bytes": 4880,
+      "sha256": "e2367a2fe71829d191df0d3ac55245e813666f4eeeac895aa5495ac6e63a026b"
+    }
+  ]
+}

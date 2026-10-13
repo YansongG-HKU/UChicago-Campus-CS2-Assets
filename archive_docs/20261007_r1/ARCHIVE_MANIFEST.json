@@ -1,0 +1,57 @@
+{
+  "version": "20261007_r1",
+  "source_commit": "1d80f2a2bf7736fc90cef58a472c05e8e22734c6",
+  "byte_identical_to_source_commit_root": true,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 4476,
+      "sha256": "1575d15a5f2538faeae9b7e762d9d5d7da97bb35eec07c91fa6abb094d0fa928"
+    },
+    {
+      "file": "DOWNLOADS.md",
+      "bytes": 4466,
+      "sha256": "f9dd6f89f068f206a11cb9958354be01bc0371478165cf7aba631b2dd8f04595"
+    },
+    {
+      "file": "RELEASE_NOTES.md",
+      "bytes": 4325,
+      "sha256": "089c37651d8cb898f0d0e1cb4b4d942a5becdbd5700b5b35884ef4a84b6e1137"
+    },
+    {
+      "file": "VERIFICATION.md",
+      "bytes": 3080,
+      "sha256": "89464162452f45d693a8c9f1aa8cdc46d0fdd9e3aa4a620ae0f1da801a4e92fb"
+    },
+    {
+      "file": "ASSET_FILE_INDEX.csv",
+      "bytes": 1648863,
+      "sha256": "0827383534747738ab7516334ef0c1eee2685525d988d7b5977e26edcaf33799"
+    },
+    {
+      "file": "ASSET_GROUP_INDEX.csv",
+      "bytes": 14510,
+      "sha256": "37e006df2c25b23809e93f7aef5adc89f666b2633367fe6f4f5edbba5cf43034"
+    },
+    {
+      "file": "RELEASE_SHA256SUMS.txt",
+      "bytes": 1067,
+      "sha256": "ccd0c8b511b3ce22531cb0e736d6a4c9bdfa0fc8b2c58e02c2110bb95b219fc1"
+    },
+    {
+      "file": "PUBLICATION_STATUS.json",
+      "bytes": 2844,
+      "sha256": "191ae78edfc3890112b336137a91fab55333e0ca8b165d129d9e15105cde8523"
+    },
+    {
+      "file": "PUBLICATION_VERIFICATION.json",
+      "bytes": 4581,
+      "sha256": "5368de6d685708bc7a3051472e9afd18587796b155ee9ff26b7d8284d47213ef"
+    },
+    {
+      "file": "FINAL_PUBLICATION_VERIFICATION.json",
+      "bytes": 11570,
+      "sha256": "18cf7a8fdd3e32904baf3e962ca7756deb82711b52aae1b1f3309123fe24037e"
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "status": "PASS",
+  "sources": [
+    {
+      "source_path": "assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+      "sha256": "a03419e0e704460fdbf0fc8d840b376fa8cc2091c4b5aae464c5acecd3b63f1b",
+      "objects": [
+        {
+          "object": "BoothHarperCenter_LOD2",
+          "signature": "11abb2576e6f4cb603b88ea3bf76ba22bcf16fff0669c101a8cf081f4f5b8102",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+      "sha256": "a94bd245650c6be82da270d6b62bdbff8061b2cbb75e6b66d0ce06094308821d",
+      "objects": [
+        {
+          "object": "BurtonJudsonCourts_LOD2",
+          "signature": "f98cb78c999ad6d294579523915b6af55d9d00c90bdc032620d334f92429a3ef",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+      "sha256": "8fe50738ce3f65897d900f18004251d9335dbefc84ff62ad33505f0379bbfc1e",
+      "objects": [
+        {
+          "object": "BurtonJudsonCourts_LOD2",
+          "signature": "8f6ca029425fd49a013eaa22a8254e6c7c8a09b1a1b8f61946472a806e20c10e",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "IdaNoyesHall_LOD2",
+          "signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend",
+      "sha256": "fb3741e7638d2894f081d53e0ca2bf12ed8b8ed8b8ddb821c2e37032c9cd3929",
+      "objects": [
+        {
+          "object": "SwiftHall_LOD2",
+          "signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+      "sha256": "c1b621cdadc3ade156d414d05f109c65985465d946dc654bd03c9cc2046066b0",
+      "objects": [
+        {
+          "object": "SwiftHall_LOD2",
+          "signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "BondSwiftCloister_LOD2",
+          "signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+      "sha256": "bd552cacc9af6a3676f04fa73d7ba24d28c7b8e6c136ae8f1ee319d55be066b7",
+      "objects": [
+        {
+          "object": "BlaineHall_LOD2",
+          "signature": "3cae9404c10e3d034e3ea60732dc90c211a2e1eb73c65b181c4de0467c645e6a",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "BelfieldHall_LOD2",
+          "signature": "0fde07469e45a88d1dee20ea276f19accb28cb94b4c8ef2597b289472bedc82a",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend",
+      "sha256": "32fa5427def2c83e325d9f6a08ba08579b9152f91919ca0f8591c0b077931ad7",
+      "objects": [
+        {
+          "object": "IdaNoyesHall_LOD2",
+          "signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BlaineHall/BlaineHall/source/BlaineHall.blend",
+      "sha256": "33f110a4ae66ef15d524cf253d57f9521d1c11c2634962d6c4d084768d2bdd5f",
+      "objects": [
+        {
+          "object": "BlaineHall_LOD2",
+          "signature": "26876e2d116fe9647f139d7cee23038cfde20e895d577666927d7dad3a29cd0f",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend",
+      "sha256": "c031a0ea852971c397bc41e35373af46e5053dd36a122dddc1cf09ee3ed5c17e",
+      "objects": [
+        {
+          "object": "ErmanBiologyCenter_LOD2",
+          "signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend",
+      "sha256": "c9bc554b8a703956083431ed289a105f9b3d89f2ca4d759ba5da5eeea256e655",
+      "objects": [
+        {
+          "object": "ErmanBiologyCenter_LOD2",
+          "signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend",
+      "sha256": "fd09365576c2b5876a35b14d3e30d9ab3d73f194500644df7cc27e01ffcfc449",
+      "objects": [
+        {
+          "object": "LoganArts_LOD2",
+          "signature": "9429f46493784a4d230a21cb124784055ef0cb5c0d5a90b521886ce8b3de33ac",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend",
+      "sha256": "c41335f183c8de0ddde72a688c448be1807fcc88d9255dfeaa2ceb38cac58a5e",
+      "objects": [
+        {
+          "object": "SocialSciencesResearch_LOD2",
+          "signature": "a11b3dd290b3129fcb083ac105dffcd46d297272bd80319273bd0f7184c2ef94",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+      "sha256": "88996a1fa99e606b291bddc61ca06b9af36a1008ae077cce5408ce1f00e88717",
+      "objects": [
+        {
+          "object": "RockefellerChapel",
+          "signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RockefellerChapel_LOD1",
+          "signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RockefellerChapel_LOD2",
+          "signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+      "sha256": "212f4b06543cc130a983bf9b791475cc744e3f1ae15c614dc71b30e612b02dde",
+      "objects": [
+        {
+          "object": "RockefellerChapel",
+          "signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RockefellerChapel_LOD1",
+          "signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RockefellerChapel_LOD2",
+          "signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+      "sha256": "a8afec068e73229eeca3c939223ce5b8b00264eaf0a576abeb198cde5ab36cf6",
+      "objects": [
+        {
+          "object": "SaiehHall",
+          "signature": "da0723dffbbcc2baaa0ded7f71dedcfee10cfba58b2853172da790faafc3b6d3",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "SaiehHall_LOD1",
+          "signature": "438a67050c72557b6d50ea56ce54479de55503c4b25884f452bb182d9e160586",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "SaiehHall_LOD2",
+          "signature": "bf5388586767f56bcdefbf1d125413437fba89e706ff94fe3886c7da9d89f31f",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+      "sha256": "11cab342a76af328c59a8ff14e0b08e31b4e1cdc93e9f360e1e0cdcf30aba42d",
+      "objects": [
+        {
+          "object": "SaiehHall",
+          "signature": "b68c5c7998e9c45a046e42b0f78d4a9d59fafc212d3310cf4c70e6786bc82ff0",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "SaiehHall_LOD1",
+          "signature": "123436f271a76d2993164eb7091bbb7227afa46278ff31a14e5fec0d644497d6",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "SaiehHall_LOD2",
+          "signature": "d4db86059a7f369bed03b5b5e09abd6f8509762ce93f7c0834271a9b054ccf68",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend",
+      "sha256": "dd512bcb190c5b7bc962b39c09652c716c6feab41d5296a514ae95693824faca",
+      "objects": [
+        {
+          "object": "DAngeloLawLibrary_LOD2",
+          "signature": "7915fd4d5a24a61f3b470d6206ed7051062c75017648b9a2298528543c30cb8c",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend",
+      "sha256": "fb0abe16b1deedb7928d580e244d4138998b267f10c033b6f4102f540b2f1c5c",
+      "objects": [
+        {
+          "object": "MidwayStudios_LOD2",
+          "signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/TaftHouse/TaftHouse/source/TaftHouse.blend",
+      "sha256": "26a2fc2af7ef9b752c7b50625b3bd70ea4710f8427636a9fad750084f8c5d848",
+      "objects": [
+        {
+          "object": "TaftHouse_LOD2",
+          "signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend",
+      "sha256": "f3b94d131ba7810eba32ebf84bbd9718d7506c2685c7e1bb420c0deb1ad76245",
+      "objects": [
+        {
+          "object": "MidwayStudios_LOD2",
+          "signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "TaftHouse_LOD2",
+          "signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend",
+      "sha256": "c72155fbafc55c4442f3c9f45d6682d772e733bd150d3f71671505ac65f03a9a",
+      "objects": [
+        {
+          "object": "RobieHouse_LOD2",
+          "signature": "b4751d81f798558416bedc94561e6724c135191a921d077db38fea7bd3ad6d9b",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend",
+      "sha256": "08a1398f590dc78a6e4ca8c9746f0dc7fff3777c091cf02b061291e0c4621ca8",
+      "objects": [
+        {
+          "object": "BelfieldHall_LOD2",
+          "signature": "6cb32d1cfaf71ecafd2280e1a48374b373c5363d306f39499954d265a7bda334",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+      "sha256": "78c4bebb078536808b903557f86f5754588dc0ae484df5a51822905f610fb00d",
+      "objects": [
+        {
+          "object": "BondSwiftCloister_LOD2",
+          "signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+      "sha256": "00dcab657699785219ffc14125416ccbbc756876aad1621272813b22413597d4",
+      "objects": [
+        {
+          "object": "LillieHouse_LOD2",
+          "signature": "ea01a5bebd6193931493fee118820d4c606c8bd40b7dd3f0fcf07563bfca139d",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/StuartHall/StuartHall/source/StuartHall.blend",
+      "sha256": "90b25085bb91148f174ae458e73cb6c4189821b525b965d8b65233d19e892984",
+      "objects": [
+        {
+          "object": "StuartHall_LOD2",
+          "signature": "5b41173a8d19b7b178bc626e0efb247b438cda6f2a5c5d210fcc0e42bbede25c",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+      "sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+      "objects": [
+        {
+          "object": "MitchellTower_LOD2",
+          "signature": "e2e9b81705e5ccfee524fbf958905c0a87679bc156341f76889c08132383a058",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "MitchellTower",
+          "signature": "cfd55f0debfb3d6e986c7fa402474626e6a0c5ee9d4097ec0e26b3d39d45f007",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "MitchellTower_LOD1",
+          "signature": "7f3122817fe4454d994448f82bd2aff047511adf558b8b2f944b2b7a6f6506ab",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend",
+      "sha256": "51938b86693fe4a9a336213fc6589629efb6e95f6a50ba91b11f7b55ec10e20c",
+      "objects": [
+        {
+          "object": "WilliamEckhardtResearchCenter_LOD2",
+          "signature": "c8b68a50eec2204df839bd1929503d66296e1af55ad979829fd771ff2d1453f4",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+      "sha256": "0494ad560687b251bc05b124462c568533df20652435ac39d77eb99ac27bb3ae",
+      "objects": [
+        {
+          "object": "CobbGate",
+          "signature": "31d4de967595b8a250d66b160fa9bf318424c0d403fb1afbf4fd6ab8cab4463c",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "CobbGate_LOD1",
+          "signature": "49e98cdfcb829402dbe48de57654c7067cc5a16c1aff6364996ee9cb09cb6c67",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "CobbGate_LOD2",
+          "signature": "c22fa45cc2feef5ed3300ff869ebf4f123a600c2301f963b6b7479d7a3d431b5",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+      "sha256": "f7e54c1008c3a35c5384ec2bf97413d10f3488ace440d4ebb59e9fdfa73142e0",
+      "objects": [
+        {
+          "object": "StuartHall_LOD2",
+          "signature": "7a43cace2beb854a57a8b244a5e0522bcf8c6c650739aca90f4af20773b9c237",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "HarperMemorialLibrary",
+          "signature": "d9b7ed4ee64bc7a177e14ebee790e0edbd2cd8da20bc48e4d6c27b9a775aa61c",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "HarperMemorialLibrary_LOD1",
+          "signature": "2deb7e1807b3f60245c79baf9af5f7ac7d570ada13379ab531f2a5a63d3723fe",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "HarperMemorialLibrary_LOD2",
+          "signature": "89770a590e20511ed0bc72459b6483b387a5a9eccac123f4f6e8668fd6450891",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+      "sha256": "bb03527fb16b5e1e6dae9281108209f860bcbf3de6ab761c3fa0672c6976ece6",
+      "objects": [
+        {
+          "object": "HarperMemorialLibrary",
+          "signature": "88e632c5099fd8bdb6017d4a7708e1e067ba2940bfa4585b2d6cef888a3a27b6",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "HarperMemorialLibrary_LOD1",
+          "signature": "137cd61641a737beef2f0f3d25a050a94e5d1c223fcce071235fc2e4a002ade9",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "HarperMemorialLibrary_LOD2",
+          "signature": "85ecdf76c937729bf778633b137278679cdbfad8e59e013f18a6d3107f1b77e3",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    },
+    {
+      "source_path": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+      "sha256": "240f0d2bb073c1c95218b71d298a6993d5a64f7d7a527c6c91cbadb9bc96ba0a",
+      "objects": [
+        {
+          "object": "RegensteinLibrary",
+          "signature": "34bf8182c8c437ba8a5902a83e28a5668f7a49e849661f47b3a3b56ceb037765",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RegensteinLibrary_LOD1",
+          "signature": "be9d0aa3256fd519ab65e9350715bd21ad0798c2081d6ce91b5bd98bdc36f254",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        },
+        {
+          "object": "RegensteinLibrary_LOD2",
+          "signature": "9fa7d36c9af9577b51c29193add76d38a251e9565e449096ffe1f8a5cb9770d6",
+          "geometry_uv_winding_corner_normals_material_indices_matrix_match_merged_source": true
+        }
+      ],
+      "status": "PASS_AFTER_FINAL_SAVE"
+    }
+  ]
+}

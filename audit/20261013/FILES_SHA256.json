@@ -1,0 +1,131 @@
+{
+  "algorithm": "SHA-256",
+  "manifest_note": "Relative to this directory. This manifest and SHA256SUMS.txt are excluded to avoid recursive self-hashing.",
+  "files": [
+    {
+      "path": "QA_SUMMARY.md",
+      "bytes": 3554,
+      "sha256": "00df33d32e2ca02d4b97fcfe1d912bfc834284c089885cc6db1ab4f3cf5998c5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4896,
+      "sha256": "c4dd7752ec9efde963404abc5fa741dc23a7ba40506915801a97262c49777345"
+    },
+    {
+      "path": "disposition_ledger_136.csv",
+      "bytes": 319165,
+      "sha256": "b3dd175734b8897f3bfa48c730179088ff59c7908a2d652cbcfad034f0c051b9"
+    },
+    {
+      "path": "disposition_ledger_136.json",
+      "bytes": 402010,
+      "sha256": "9fd32ed90e875d7235817537b13f979cac78d84fd8e1fd8e5000e45ef3b1d955"
+    },
+    {
+      "path": "final_source_sha256_manifest.csv",
+      "bytes": 21946,
+      "sha256": "b9d6bdba1ecd4e4eefdf5f31ede66a393e8e1959737b751c1f49f9bcaf3cb962"
+    },
+    {
+      "path": "final_source_sha256_manifest.json",
+      "bytes": 39855,
+      "sha256": "1812b6924ef570612a39f4a52a4251d29dc5f0071bc2467d57eb186a02a3cd9e"
+    },
+    {
+      "path": "licenses/DejaVu_FONT_LICENSE.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 1103,
+      "sha256": "fdb5e50930ddc41d8072b580480ddf3961b45e69eca42601655f63a691a8beb0"
+    },
+    {
+      "path": "licenses/osm_attribution_16_groups.csv",
+      "bytes": 14461,
+      "sha256": "d53e06da2f4bf507e260b3acb12e5d1ac36c5a5414ad938ab60a321c3463f4f4"
+    },
+    {
+      "path": "licenses/osm_attribution_16_groups.json",
+      "bytes": 18317,
+      "sha256": "a0e6011c60194a03eb1ad2b4cc8d0a464dc372098c7196fa5e949c5311e4d23f"
+    },
+    {
+      "path": "licenses/retained_notice_sources.json",
+      "bytes": 614,
+      "sha256": "41f8bda4b4bb1fd05cc080222df444a18d518ab308e65e81b88f140d8ccbdf4c"
+    },
+    {
+      "path": "review_register_136.csv",
+      "bytes": 240778,
+      "sha256": "210548968ecee655c601e6b793205754a92c092f5c07c9689144195c31136796"
+    },
+    {
+      "path": "review_register_136.json",
+      "bytes": 996725,
+      "sha256": "81ce7ebb6120b43b9543ef92ec7545224c535f0cba8e5818111cb9d76f4c7494"
+    },
+    {
+      "path": "verification/actual_fbx_import_checks.json",
+      "bytes": 665606,
+      "sha256": "46220ed931df859016f8cfb7550ddb8b7b08f712e4410ca2f946d682b6053665"
+    },
+    {
+      "path": "verification/asset_changes.json",
+      "bytes": 61102,
+      "sha256": "73150278300ada01f87ab84ed0868752fa87578343532d09bb8b530c2a22c8fb"
+    },
+    {
+      "path": "verification/changed_asset_paths.csv",
+      "bytes": 40259,
+      "sha256": "4806d9bfc2b773651a74072dd3068181cf773589d630714f3c180b59a8916333"
+    },
+    {
+      "path": "verification/evidence_provenance.json",
+      "bytes": 2886,
+      "sha256": "59fb3ef7e0881da9c4b9c5b20514f41c636a1b2b907d46a3c7c80cf6c4499c4d"
+    },
+    {
+      "path": "verification/final_delivery_verification.json",
+      "bytes": 1937,
+      "sha256": "9f1c03cf00c7f5eb74452748d8a4cc31db3d859abe33d0fb6bab7aa74ea00b5a"
+    },
+    {
+      "path": "verification/final_export_qa_summary.json",
+      "bytes": 4784,
+      "sha256": "a3509f67fae3eb733bb80a86cea9a13493c6dd5d1c6db2dbf7876f8a30dfa306"
+    },
+    {
+      "path": "verification/material_preservation_summary.json",
+      "bytes": 24939,
+      "sha256": "eb7c776f66ec6b11c53e2238beeddd8bb9a50c9a0043db3f87509165e767decf"
+    },
+    {
+      "path": "verification/mesh_merge_verification.json",
+      "bytes": 46035,
+      "sha256": "eddca1914d5428d8360238cd89e155d49fcc1cfe97eff2ccfe112e18bf420cc2"
+    },
+    {
+      "path": "verification/public_packaging_checks.json",
+      "bytes": 12081,
+      "sha256": "79062f8884cdcc5189a85114e3f32388cccef6c65f7303d5af136df66b4cfc7f"
+    },
+    {
+      "path": "verification/reconstruction_test.json",
+      "bytes": 6673,
+      "sha256": "922233fed886c1de6e0f354e01f655c2ebbde2a1ede180feb043c3144077368d"
+    },
+    {
+      "path": "verification/register_validation.json",
+      "bytes": 796,
+      "sha256": "310145bba498943c473eff937ed4aa525a8ac0e3a8baaff110cfbe9234383815"
+    },
+    {
+      "path": "verification/saved_source_signature_verification.json",
+      "bytes": 21647,
+      "sha256": "6d8d40cc579ff38d2a344e39ab3eb31fa4d0c35915650e8dd4ded3d6029969b9"
+    }
+  ]
+}

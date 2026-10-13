@@ -1,0 +1,844 @@
+[
+  {
+    "source_path": "assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+    "baseline_sha256": "82d81603770e79725c227c9efc7881511849043e6a35c85f7e606076597124ef",
+    "merged_sha256": "8faf809a9d3ed7d50fb4c72c1dd9ac1941db62d40373dc8a5c348e9a67cc84db",
+    "objects": [
+      {
+        "object": "BoothHarperCenter_LOD2",
+        "candidate": "booth_review/candidate/assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+        "candidate_sha256": "ce81e4cdf8ad4da860b84c83d39b62eafb31a58a0ea6796b27671903c31dda34",
+        "candidate_mesh_signature": "11abb2576e6f4cb603b88ea3bf76ba22bcf16fff0669c101a8cf081f4f5b8102",
+        "final_object_signature": "11abb2576e6f4cb603b88ea3bf76ba22bcf16fff0669c101a8cf081f4f5b8102",
+        "triangles": 2208,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "booth_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+    "baseline_sha256": "96f2562854bacb790e9a59b3692101d0d7c105dfc63aa14820c0a2b101fa826b",
+    "merged_sha256": "279afa31cb1f8387b35b88cbad7c487db2e3425369f7882a7cf9afd48508ea69",
+    "objects": [
+      {
+        "object": "BurtonJudsonCourts_LOD2",
+        "candidate": "burton_review/candidate/assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+        "candidate_sha256": "e2196dc6d06da2816b18fa850f74a29aaeda184adc55377f17de98a0380eca39",
+        "candidate_mesh_signature": "f98cb78c999ad6d294579523915b6af55d9d00c90bdc032620d334f92429a3ef",
+        "final_object_signature": "f98cb78c999ad6d294579523915b6af55d9d00c90bdc032620d334f92429a3ef",
+        "triangles": 1778,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "burton_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+    "baseline_sha256": "fd3ed2bf3cc44287ca290151db711448c9705b5f0ec8c5f9717487809f004e1e",
+    "merged_sha256": "9d0cd2f0eb2b6f34427c48f4e3d9980855ecb4c3e68975cf0a592a7c3d33bea8",
+    "objects": [
+      {
+        "object": "BurtonJudsonCourts_LOD2",
+        "candidate": "burton_review/candidate/assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+        "candidate_sha256": "a0eee9c77deec02812cef4f14ae6404c84b7c8869e5d332f54e5c069432f424a",
+        "candidate_mesh_signature": "8f6ca029425fd49a013eaa22a8254e6c7c8a09b1a1b8f61946472a806e20c10e",
+        "final_object_signature": "8f6ca029425fd49a013eaa22a8254e6c7c8a09b1a1b8f61946472a806e20c10e",
+        "triangles": 1778,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "burton_review"
+      },
+      {
+        "object": "IdaNoyesHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+        "candidate_sha256": "cb8e7f44cdbe9988896719da15296f65eb26449e0df44b68f4362c4daf261618",
+        "candidate_mesh_signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+        "final_object_signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+        "triangles": 854,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend",
+    "baseline_sha256": "495a052a65b11483687148e235852cbda824f785cfba4c7db0035b761404056c",
+    "merged_sha256": "1dda7b7788cbb8d5b1ea651fc3e8a5e1d97829aa148dbacfbdb4cae3a89fe299",
+    "objects": [
+      {
+        "object": "SwiftHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend",
+        "candidate_sha256": "0c5b0d0e6236bd827b06b764ca07d6e3dcc1837f2245707e16e04cfb0f0dfd26",
+        "candidate_mesh_signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+        "final_object_signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+        "triangles": 1322,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+    "baseline_sha256": "16d302b0efa142a34dfadda473e67c2112edf498cba7f3e76f7e76f97189212d",
+    "merged_sha256": "e4ab22c3b39937254ba1494036b96ff70b0fb1904f01a6ed2302a0cd96a2c8e7",
+    "objects": [
+      {
+        "object": "SwiftHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+        "candidate_sha256": "3811027339589b33df50cf19d77a3a6ca58f5ff0a7335cdd48c3bd0f4d679a14",
+        "candidate_mesh_signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+        "final_object_signature": "7ac630dea08d7cc2ea9d639469ae22ac3be3e509fb25995fe01c72c616ef4ec9",
+        "triangles": 1322,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      },
+      {
+        "object": "BondSwiftCloister_LOD2",
+        "candidate": "remaining_shapes_review/candidate/assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+        "candidate_sha256": "e5c1a8e4ce49715075bf715c9c0926e9a57e423cf9115c7ec5dc37612b1aeba5",
+        "candidate_mesh_signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+        "final_object_signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+        "triangles": 1388,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "remaining_shapes_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+    "baseline_sha256": "ee6ccb58757c45e806ae3e307cb6ab7f80f403b3d5397d181a7957528e09e615",
+    "merged_sha256": "f5dabcdabd97d0be47a3384cf5cf948fff59dce503ecbd95a25a994010c07848",
+    "objects": [
+      {
+        "object": "BlaineHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+        "candidate_sha256": "96bf3b94d6d6775c3c46ed33ca14d00a2e2d1a0428adf9f3dddd34524ea45222",
+        "candidate_mesh_signature": "3cae9404c10e3d034e3ea60732dc90c211a2e1eb73c65b181c4de0467c645e6a",
+        "final_object_signature": "3cae9404c10e3d034e3ea60732dc90c211a2e1eb73c65b181c4de0467c645e6a",
+        "triangles": 521,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      },
+      {
+        "object": "BelfieldHall_LOD2",
+        "candidate": "remaining_shapes_review/candidate/assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+        "candidate_sha256": "9405a1909c77a7973ce66c8cac2b2115970cf9753d19458098d07b7d6deb0c01",
+        "candidate_mesh_signature": "0fde07469e45a88d1dee20ea276f19accb28cb94b4c8ef2597b289472bedc82a",
+        "final_object_signature": "0fde07469e45a88d1dee20ea276f19accb28cb94b4c8ef2597b289472bedc82a",
+        "triangles": 332,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "remaining_shapes_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend",
+    "baseline_sha256": "238842ae5e4d27a4103eb467972475a5dcf96c05cd9569d00120a9af3030ee22",
+    "merged_sha256": "831d9b64e42328dea64b0dbd3389be3fc14a486ed045ecc55a084f77ad483ff5",
+    "objects": [
+      {
+        "object": "IdaNoyesHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend",
+        "candidate_sha256": "9e30e4062cab7d1075dd41c1b7dd770da00853b210e0f32ef662d3193cdf8cbe",
+        "candidate_mesh_signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+        "final_object_signature": "53bf825a3661898de2dbc9e27264b05331ccfa655f7264a8764afd31e862c336",
+        "triangles": 854,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BlaineHall/BlaineHall/source/BlaineHall.blend",
+    "baseline_sha256": "ddefae07cc59fdc9c3762447f88b25784b34b95f0f1a41e43db5f68a916775b8",
+    "merged_sha256": "c1fe5d8216940187a64977bbdbc09bfe6db887de202910907650bdcddb6fc00c",
+    "objects": [
+      {
+        "object": "BlaineHall_LOD2",
+        "candidate": "roof_features_review/candidate/assets/BlaineHall/BlaineHall/source/BlaineHall.blend",
+        "candidate_sha256": "a38093855d14cbe237e2cb55ff9512e29345192d5e25d6f46463613592679cf3",
+        "candidate_mesh_signature": "26876e2d116fe9647f139d7cee23038cfde20e895d577666927d7dad3a29cd0f",
+        "final_object_signature": "26876e2d116fe9647f139d7cee23038cfde20e895d577666927d7dad3a29cd0f",
+        "triangles": 504,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "roof_features_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend",
+    "baseline_sha256": "049bb32d49448faadbf9da6ceaff73f28102b004257913fac430ee7672340761",
+    "merged_sha256": "272552dd43b028caa2de1e0d835dac1bfbd3c445b51fa0b909a686c9ac84890f",
+    "objects": [
+      {
+        "object": "ErmanBiologyCenter_LOD2",
+        "candidate": "erman_review/candidate/assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend",
+        "candidate_sha256": "44923d43ac4d632c95fe136a40f1d7d3f3d4aff2b2d9ee5272a9f3ae827c71dc",
+        "candidate_mesh_signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+        "final_object_signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+        "triangles": 320,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "erman_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend",
+    "baseline_sha256": "c4e8bbc340ef07278887069c2cf4769403ae7726d1a58878672329f2c8c2b347",
+    "merged_sha256": "4e794986dc0837d350910b0dbe0b7c854af908892bf902da519f7d12db1fa2ea",
+    "objects": [
+      {
+        "object": "ErmanBiologyCenter_LOD2",
+        "candidate": "erman_review/candidate/assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend",
+        "candidate_sha256": "8ed1c18ac5604e740e347a8402572769a6d4e912bdf74cf68c6f5cfb857ecd06",
+        "candidate_mesh_signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+        "final_object_signature": "6ad4d635d4677dac747ab16a797a6415fa27e30b7e258ccc340b1ef108bbef83",
+        "triangles": 320,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "erman_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend",
+    "baseline_sha256": "61fc62f64a2883a04c1658709abf974c1ecb69265c36cd13f19050ccc3e040e6",
+    "merged_sha256": "7411eaa03be193c88cf5b66f1b1565d5c74edf9d979591dbeaa55ff628ae2ca2",
+    "objects": [
+      {
+        "object": "LoganArts_LOD2",
+        "candidate": "logan_review/candidate/assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend",
+        "candidate_sha256": "8840094bf242fccbbef26c3ee3b5f5645f79f25d23f31d64c537d246541f1d7f",
+        "candidate_mesh_signature": "9429f46493784a4d230a21cb124784055ef0cb5c0d5a90b521886ce8b3de33ac",
+        "final_object_signature": "9429f46493784a4d230a21cb124784055ef0cb5c0d5a90b521886ce8b3de33ac",
+        "triangles": 534,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "logan_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend",
+    "baseline_sha256": "7d680213bcbed717b1e3e9aeee00b9a95d63ba507633131587811af198f9b314",
+    "merged_sha256": "a93272d3bdc2db9f31e6d16d56471707bd84b2c046d18cd15e54b88ebee7e551",
+    "objects": [
+      {
+        "object": "SocialSciencesResearch_LOD2",
+        "candidate": "ssr_review/candidate/assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend",
+        "candidate_sha256": "27c999970e291d893dc495aa4e45d12fcb435696f989855ced2ba99b138f1f0a",
+        "candidate_mesh_signature": "a11b3dd290b3129fcb083ac105dffcd46d297272bd80319273bd0f7184c2ef94",
+        "final_object_signature": "a11b3dd290b3129fcb083ac105dffcd46d297272bd80319273bd0f7184c2ef94",
+        "triangles": 677,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "ssr_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+    "baseline_sha256": "3cc6f66c4fe7bca055295e8f376d25f79ed2338db07104253174439dba9b7574",
+    "merged_sha256": "cb726f69e88fdeefc239ab778501ff4da86ef18ec1ee0875b87f4e790de66108",
+    "objects": [
+      {
+        "object": "RockefellerChapel",
+        "candidate": "landmark_review/candidate/assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+        "candidate_sha256": "6e76a4be103632bc60438446f412bb3e766a47138b768f962958187b376b8753",
+        "candidate_mesh_signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+        "final_object_signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+        "triangles": 79600,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "RockefellerChapel_LOD1",
+        "candidate": "landmark_review/candidate/assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+        "candidate_sha256": "6e76a4be103632bc60438446f412bb3e766a47138b768f962958187b376b8753",
+        "candidate_mesh_signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+        "final_object_signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+        "triangles": 47418,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "RockefellerChapel_LOD2",
+        "candidate": "landmark_review/candidate/assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+        "candidate_sha256": "6e76a4be103632bc60438446f412bb3e766a47138b768f962958187b376b8753",
+        "candidate_mesh_signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+        "final_object_signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+        "triangles": 364,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+    "baseline_sha256": "7b69a99424d0862c279060e87627daa9d6f05b6192afa497f932dd3189fd42c5",
+    "merged_sha256": "8b1803731c143a89ef27cba629e4e937d1b0701ccc59b7f10817560ef57a94e1",
+    "objects": [
+      {
+        "object": "RockefellerChapel",
+        "candidate": "landmark_review/candidate/assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+        "candidate_sha256": "8ed114c18ba6054f8c61794b3ced3264e99d25543a09dc1f891e62a58685326e",
+        "candidate_mesh_signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+        "final_object_signature": "fef464e80b5bc19b09523019f929df8c212670800dae1dcefa09d16baf91acd5",
+        "triangles": 79600,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "RockefellerChapel_LOD1",
+        "candidate": "landmark_review/candidate/assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+        "candidate_sha256": "8ed114c18ba6054f8c61794b3ced3264e99d25543a09dc1f891e62a58685326e",
+        "candidate_mesh_signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+        "final_object_signature": "d5e37d8d54c0d7a6cceb38ddb40d85adff8178ad2c8defc2db342576b4bf0528",
+        "triangles": 47418,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "RockefellerChapel_LOD2",
+        "candidate": "landmark_review/candidate/assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+        "candidate_sha256": "8ed114c18ba6054f8c61794b3ced3264e99d25543a09dc1f891e62a58685326e",
+        "candidate_mesh_signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+        "final_object_signature": "c1622a956d48a686b8a86c9dc4c9e40964aaf71faa60503a11d2e055585631e9",
+        "triangles": 364,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "baseline_sha256": "31eb7efbd4539556b68d498978158fb3a576d50829d5df8a491a49567a4b0bc0",
+    "merged_sha256": "a305a0151d6d4f6d0ae15b19574f75524de98a2c89c29241b22d76df1d3f0230",
+    "objects": [
+      {
+        "object": "SaiehHall",
+        "candidate": "landmark_review/candidate/assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+        "candidate_sha256": "efc1b2e3fd96ed8ed820ec579ba40284550e7aaef781f8adbc83684841f08b94",
+        "candidate_mesh_signature": "da0723dffbbcc2baaa0ded7f71dedcfee10cfba58b2853172da790faafc3b6d3",
+        "final_object_signature": "da0723dffbbcc2baaa0ded7f71dedcfee10cfba58b2853172da790faafc3b6d3",
+        "triangles": 59596,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "SaiehHall_LOD1",
+        "candidate": "landmark_review/candidate/assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+        "candidate_sha256": "efc1b2e3fd96ed8ed820ec579ba40284550e7aaef781f8adbc83684841f08b94",
+        "candidate_mesh_signature": "438a67050c72557b6d50ea56ce54479de55503c4b25884f452bb182d9e160586",
+        "final_object_signature": "438a67050c72557b6d50ea56ce54479de55503c4b25884f452bb182d9e160586",
+        "triangles": 22273,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "SaiehHall_LOD2",
+        "candidate": "landmark_review/candidate/assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+        "candidate_sha256": "efc1b2e3fd96ed8ed820ec579ba40284550e7aaef781f8adbc83684841f08b94",
+        "candidate_mesh_signature": "bf5388586767f56bcdefbf1d125413437fba89e706ff94fe3886c7da9d89f31f",
+        "final_object_signature": "bf5388586767f56bcdefbf1d125413437fba89e706ff94fe3886c7da9d89f31f",
+        "triangles": 718,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+    "baseline_sha256": "0185731d95f2bef227b244c45982b6fe1bd4577c351b2c4d1d8b021692b681a0",
+    "merged_sha256": "80616b22f625bd13643fdd8f8e5ea97e71d7c07d6f4d9ff117e34797d14ac8a3",
+    "objects": [
+      {
+        "object": "SaiehHall",
+        "candidate": "landmark_review/candidate/assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+        "candidate_sha256": "26b10610fa84ce48d44a684fba3c1bc8f95e447b29ef7897cbcf13bf169e797c",
+        "candidate_mesh_signature": "b68c5c7998e9c45a046e42b0f78d4a9d59fafc212d3310cf4c70e6786bc82ff0",
+        "final_object_signature": "b68c5c7998e9c45a046e42b0f78d4a9d59fafc212d3310cf4c70e6786bc82ff0",
+        "triangles": 58927,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "SaiehHall_LOD1",
+        "candidate": "landmark_review/candidate/assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+        "candidate_sha256": "26b10610fa84ce48d44a684fba3c1bc8f95e447b29ef7897cbcf13bf169e797c",
+        "candidate_mesh_signature": "123436f271a76d2993164eb7091bbb7227afa46278ff31a14e5fec0d644497d6",
+        "final_object_signature": "123436f271a76d2993164eb7091bbb7227afa46278ff31a14e5fec0d644497d6",
+        "triangles": 21892,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      },
+      {
+        "object": "SaiehHall_LOD2",
+        "candidate": "landmark_review/candidate/assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+        "candidate_sha256": "26b10610fa84ce48d44a684fba3c1bc8f95e447b29ef7897cbcf13bf169e797c",
+        "candidate_mesh_signature": "d4db86059a7f369bed03b5b5e09abd6f8509762ce93f7c0834271a9b054ccf68",
+        "final_object_signature": "d4db86059a7f369bed03b5b5e09abd6f8509762ce93f7c0834271a9b054ccf68",
+        "triangles": 719,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend",
+    "baseline_sha256": "9064acb5afd043f191f5bff2ca829cbc75e5d88b95ffaa8efc582c4aea42ee05",
+    "merged_sha256": "135363663e950e63ebc5a56c5c503bb91ad2291e473bca964edb266a0f734f9a",
+    "objects": [
+      {
+        "object": "DAngeloLawLibrary_LOD2",
+        "candidate": "landmark_review/candidate/assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend",
+        "candidate_sha256": "1b70a57ab101f3e03816b0a720d458f840259125b5f1d586053ee2bc24192e70",
+        "candidate_mesh_signature": "7915fd4d5a24a61f3b470d6206ed7051062c75017648b9a2298528543c30cb8c",
+        "final_object_signature": "7915fd4d5a24a61f3b470d6206ed7051062c75017648b9a2298528543c30cb8c",
+        "triangles": 456,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "landmark_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend",
+    "baseline_sha256": "aa3d7258f5c691b2560c48073fb05483dd94473abbe2e0b8eae96aaee7b1c813",
+    "merged_sha256": "32f86d79025e2600acfd32fc1c914ac68dc0d407ead4f266d0f63a873f619ed2",
+    "objects": [
+      {
+        "object": "MidwayStudios_LOD2",
+        "candidate": "midtaft_review/candidate/assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend",
+        "candidate_sha256": "f9cf76cafd9bc3fb987485b33e30e2defcf8d8666b73f6621aec9bc350886195",
+        "candidate_mesh_signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+        "final_object_signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+        "triangles": 360,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "midtaft_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/TaftHouse/TaftHouse/source/TaftHouse.blend",
+    "baseline_sha256": "2217c31234d7b9926cfdc8ca48785b0e223abf0d05ae2e936532e1445940edf0",
+    "merged_sha256": "9f52bd925e001a9a151676b48ef2bf23f4998a420eb447709b7e6fc5e3250fb0",
+    "objects": [
+      {
+        "object": "TaftHouse_LOD2",
+        "candidate": "midtaft_review/candidate/assets/TaftHouse/TaftHouse/source/TaftHouse.blend",
+        "candidate_sha256": "71980cb0688734abd3fd9c50503f84321093d06fd0460e76ac6f96d7dde09a9a",
+        "candidate_mesh_signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+        "final_object_signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+        "triangles": 540,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "midtaft_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend",
+    "baseline_sha256": "941e40399614d9a7eff01f20f12c49fda585160ff8be592b8faf07b45c03d22b",
+    "merged_sha256": "d9304ebe604cde9279e98f28bb211ee34777f9bf333c27008d32478b3872a1f7",
+    "objects": [
+      {
+        "object": "MidwayStudios_LOD2",
+        "candidate": "midtaft_review/candidate/assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend",
+        "candidate_sha256": "ada30a7e245c39eb8d71e27328e0305a6c39ba6c3a0b035744136c12183161f7",
+        "candidate_mesh_signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+        "final_object_signature": "5fb2dd13a0025a0e76e8e379c7aedd172c19173c39e5d09c11743148b01ec29a",
+        "triangles": 360,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "midtaft_review"
+      },
+      {
+        "object": "TaftHouse_LOD2",
+        "candidate": "midtaft_review/candidate/assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend",
+        "candidate_sha256": "ada30a7e245c39eb8d71e27328e0305a6c39ba6c3a0b035744136c12183161f7",
+        "candidate_mesh_signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+        "final_object_signature": "244f456183100960907e09c7b0d24495637dea053198bebddb885e8eb00d5643",
+        "triangles": 540,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "midtaft_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend",
+    "baseline_sha256": "80d1c055af68a6069a7119429bfb252f48e5acf53bbbe71f18fbec7a2a19f458",
+    "merged_sha256": "e4c7a4f097af127e7b513a65e696735604c417dc8d2e74b97c40f35d23c4e304",
+    "objects": [
+      {
+        "object": "RobieHouse_LOD2",
+        "candidate": "remaining_shapes_review/candidate/assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend",
+        "candidate_sha256": "cdade38d1c66d7c2e63664e906e0c436d03302ec628ae35d790e406b6705359e",
+        "candidate_mesh_signature": "b4751d81f798558416bedc94561e6724c135191a921d077db38fea7bd3ad6d9b",
+        "final_object_signature": "b4751d81f798558416bedc94561e6724c135191a921d077db38fea7bd3ad6d9b",
+        "triangles": 296,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "remaining_shapes_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend",
+    "baseline_sha256": "961ebb93d1390deac5974b1bff3a46daae2efbf8517c7056ded5e780b36a1d4a",
+    "merged_sha256": "7705049d39935ac1a95aadc3d1eeed9bde5f04bb3db709b32c7b9187f814e251",
+    "objects": [
+      {
+        "object": "BelfieldHall_LOD2",
+        "candidate": "remaining_shapes_review/candidate/assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend",
+        "candidate_sha256": "30830b80d716c9702e95b0c1844399a93417aa9c8a56e830c3213e681e110f53",
+        "candidate_mesh_signature": "6cb32d1cfaf71ecafd2280e1a48374b373c5363d306f39499954d265a7bda334",
+        "final_object_signature": "6cb32d1cfaf71ecafd2280e1a48374b373c5363d306f39499954d265a7bda334",
+        "triangles": 320,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "remaining_shapes_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+    "baseline_sha256": "25c152c0f8c9f653a466a59a9a86b007429f4ad89f9f2f8235c6d418cd8b4084",
+    "merged_sha256": "890d04a9a74e4cd81871293bf0d4ee9a742b274fe62effefe29df2f1fff18478",
+    "objects": [
+      {
+        "object": "BondSwiftCloister_LOD2",
+        "candidate": "remaining_shapes_review/candidate/assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+        "candidate_sha256": "fc1a7d0c4fd3829c6133be1adaa107795b8f87f70e52e30e7679e33afd66e080",
+        "candidate_mesh_signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+        "final_object_signature": "6baa25bdd4cb64d9b65d84fdb756da7bc5586f3b4ef96a19c890e2a3356ec3bf",
+        "triangles": 1388,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "remaining_shapes_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+    "baseline_sha256": "12a9e9e5fa030e683c468af284fe98e83207eaa5e1a9db877e0ed2f80ab7921c",
+    "merged_sha256": "15d25694b7c13c16f29ee91e1086ac6c2f36e4b21186963fed6ae8edeb08fff0",
+    "objects": [
+      {
+        "object": "LillieHouse_LOD2",
+        "candidate": "entrances_review/candidate/assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+        "candidate_sha256": "7c4e6cecaa8e343ceb5215068df95e2b4a847c36919d2f59aa3e59bbeb3eb594",
+        "candidate_mesh_signature": "ea01a5bebd6193931493fee118820d4c606c8bd40b7dd3f0fcf07563bfca139d",
+        "final_object_signature": "ea01a5bebd6193931493fee118820d4c606c8bd40b7dd3f0fcf07563bfca139d",
+        "triangles": 1433,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "entrances_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/StuartHall/StuartHall/source/StuartHall.blend",
+    "baseline_sha256": "15c4e1f9558cc86a4bcf9e7ce77c1c7ac4ca00cdd1de06c4a1357d8cf856428b",
+    "merged_sha256": "568a8f4ff853d618ec895f93a7b6b65155d9c8cb0c1693e2014a5e968d2cad3b",
+    "objects": [
+      {
+        "object": "StuartHall_LOD2",
+        "candidate": "entrances_review/candidate/assets/StuartHall/StuartHall/source/StuartHall.blend",
+        "candidate_sha256": "6497495bf45d454cfbc93b98be547c8e8e6dcf87262442b8057001166a919790",
+        "candidate_mesh_signature": "5b41173a8d19b7b178bc626e0efb247b438cda6f2a5c5d210fcc0e42bbede25c",
+        "final_object_signature": "5b41173a8d19b7b178bc626e0efb247b438cda6f2a5c5d210fcc0e42bbede25c",
+        "triangles": 346,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "entrances_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "baseline_sha256": "39d7e2e320ad001203a41a09377e96f5fa7e87799b4017fd6fb8dadf8af8fbd0",
+    "merged_sha256": "0dcaee9c9937fc268551ee5bc6ca44b8aa89733df03cf73ed970ef339439922d",
+    "objects": [
+      {
+        "object": "MitchellTower_LOD2",
+        "candidate": "material_semantics_review/candidate/assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+        "candidate_sha256": "dd8a79664fe9efb7d71f2b5fbbff2bd4a816ca3ce234a736abbac7e160759b31",
+        "candidate_mesh_signature": "e2e9b81705e5ccfee524fbf958905c0a87679bc156341f76889c08132383a058",
+        "final_object_signature": "e2e9b81705e5ccfee524fbf958905c0a87679bc156341f76889c08132383a058",
+        "triangles": 1597,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "material_semantics_review"
+      },
+      {
+        "object": "MitchellTower",
+        "candidate": "material_semantics_review/candidate/assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+        "candidate_sha256": "dd8a79664fe9efb7d71f2b5fbbff2bd4a816ca3ce234a736abbac7e160759b31",
+        "candidate_mesh_signature": "cfd55f0debfb3d6e986c7fa402474626e6a0c5ee9d4097ec0e26b3d39d45f007",
+        "final_object_signature": "cfd55f0debfb3d6e986c7fa402474626e6a0c5ee9d4097ec0e26b3d39d45f007",
+        "triangles": 27129,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "material_semantics_review"
+      },
+      {
+        "object": "MitchellTower_LOD1",
+        "candidate": "material_semantics_review/candidate/assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+        "candidate_sha256": "dd8a79664fe9efb7d71f2b5fbbff2bd4a816ca3ce234a736abbac7e160759b31",
+        "candidate_mesh_signature": "7f3122817fe4454d994448f82bd2aff047511adf558b8b2f944b2b7a6f6506ab",
+        "final_object_signature": "7f3122817fe4454d994448f82bd2aff047511adf558b8b2f944b2b7a6f6506ab",
+        "triangles": 8919,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "material_semantics_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend",
+    "baseline_sha256": "66d161c11aa7a408c00876f7e182ef00bc42ca3db2d7e9b81a0bb96d9c4075a5",
+    "merged_sha256": "e6ff87b60b989a4b57d35616c7ddd102684bf739f470c9bc238ca37ca82d1f63",
+    "objects": [
+      {
+        "object": "WilliamEckhardtResearchCenter_LOD2",
+        "candidate": "material_semantics_review/candidate/assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend",
+        "candidate_sha256": "bf7ddb6d3745e2ecf9e91561b77e3772449b86d1e7a2b92faa4c1b9655bf11f6",
+        "candidate_mesh_signature": "c8b68a50eec2204df839bd1929503d66296e1af55ad979829fd771ff2d1453f4",
+        "final_object_signature": "c8b68a50eec2204df839bd1929503d66296e1af55ad979829fd771ff2d1453f4",
+        "triangles": 370,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "material_semantics_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+    "baseline_sha256": "8d8efe592e841a5f2f0c1b4fc65c20898d443322545ffd96510736ae137d937a",
+    "merged_sha256": "f5d1e1a797255f4f040a5546d1218f379df32459a0dd036d2b2c047ac5e0c9c7",
+    "objects": [
+      {
+        "object": "CobbGate",
+        "candidate": "secondary_normals_review/candidate/assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+        "candidate_sha256": "fcd8c893e1bb84bf327709c936ccd44d0493856ebfec3b5f457c7df6d9c38c38",
+        "candidate_mesh_signature": "31d4de967595b8a250d66b160fa9bf318424c0d403fb1afbf4fd6ab8cab4463c",
+        "final_object_signature": "31d4de967595b8a250d66b160fa9bf318424c0d403fb1afbf4fd6ab8cab4463c",
+        "triangles": 32902,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      },
+      {
+        "object": "CobbGate_LOD1",
+        "candidate": "secondary_normals_review/candidate/assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+        "candidate_sha256": "fcd8c893e1bb84bf327709c936ccd44d0493856ebfec3b5f457c7df6d9c38c38",
+        "candidate_mesh_signature": "49e98cdfcb829402dbe48de57654c7067cc5a16c1aff6364996ee9cb09cb6c67",
+        "final_object_signature": "49e98cdfcb829402dbe48de57654c7067cc5a16c1aff6364996ee9cb09cb6c67",
+        "triangles": 5238,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      },
+      {
+        "object": "CobbGate_LOD2",
+        "candidate": "secondary_normals_review/candidate/assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+        "candidate_sha256": "fcd8c893e1bb84bf327709c936ccd44d0493856ebfec3b5f457c7df6d9c38c38",
+        "candidate_mesh_signature": "c22fa45cc2feef5ed3300ff869ebf4f123a600c2301f963b6b7479d7a3d431b5",
+        "final_object_signature": "c22fa45cc2feef5ed3300ff869ebf4f123a600c2301f963b6b7479d7a3d431b5",
+        "triangles": 262,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+    "baseline_sha256": "e2ced47d03849349f20650bda1daf69b076d8ad885069a7d966cf6643dc634c5",
+    "merged_sha256": "0cc154280b713335611b4f8b91722ba5e9d3dac7b38bd307fbc57e8a9bb3ca8d",
+    "objects": [
+      {
+        "object": "StuartHall_LOD2",
+        "candidate": "entrances_review/candidate/assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+        "candidate_sha256": "dbe2d2e5a307e090a44a06377684c2ab193827179fe9a5bd7d67e6a13fc01a22",
+        "candidate_mesh_signature": "7a43cace2beb854a57a8b244a5e0522bcf8c6c650739aca90f4af20773b9c237",
+        "final_object_signature": "7a43cace2beb854a57a8b244a5e0522bcf8c6c650739aca90f4af20773b9c237",
+        "triangles": 346,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "entrances_review"
+      },
+      {
+        "object": "HarperMemorialLibrary",
+        "candidate": "boundary_review/candidate/assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+        "candidate_sha256": "c8938e576d04419b3b5959f1bc4acb0cb0c40a9ba2236e68ce5d1f173ea9dafd",
+        "candidate_mesh_signature": "d9b7ed4ee64bc7a177e14ebee790e0edbd2cd8da20bc48e4d6c27b9a775aa61c",
+        "final_object_signature": "d9b7ed4ee64bc7a177e14ebee790e0edbd2cd8da20bc48e4d6c27b9a775aa61c",
+        "triangles": 131563,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "boundary_review"
+      },
+      {
+        "object": "HarperMemorialLibrary_LOD1",
+        "candidate": "boundary_review/candidate/assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+        "candidate_sha256": "c8938e576d04419b3b5959f1bc4acb0cb0c40a9ba2236e68ce5d1f173ea9dafd",
+        "candidate_mesh_signature": "2deb7e1807b3f60245c79baf9af5f7ac7d570ada13379ab531f2a5a63d3723fe",
+        "final_object_signature": "2deb7e1807b3f60245c79baf9af5f7ac7d570ada13379ab531f2a5a63d3723fe",
+        "triangles": 46418,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "boundary_review"
+      },
+      {
+        "object": "HarperMemorialLibrary_LOD2",
+        "candidate": "harper_review/candidate/assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+        "candidate_sha256": "5020a621baf28625692a90ee3730d03c1ecac2e9e491074dcb7dbf4c0163c8dd",
+        "candidate_mesh_signature": "89770a590e20511ed0bc72459b6483b387a5a9eccac123f4f6e8668fd6450891",
+        "final_object_signature": "89770a590e20511ed0bc72459b6483b387a5a9eccac123f4f6e8668fd6450891",
+        "triangles": 446,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "harper_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+    "baseline_sha256": "f521316f24d317e2d031a80a028a7363060f8a25cdc5822940da29aee125b816",
+    "merged_sha256": "c7a03c80b2c4351f01d500152763dd0614a3434cfb2f339b6a9d7dd8557579d7",
+    "objects": [
+      {
+        "object": "HarperMemorialLibrary",
+        "candidate": "boundary_review/candidate/assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+        "candidate_sha256": "181a85b964bee060f98994a792102c49ca18463fcfda0d680503d88d626b3496",
+        "candidate_mesh_signature": "88e632c5099fd8bdb6017d4a7708e1e067ba2940bfa4585b2d6cef888a3a27b6",
+        "final_object_signature": "88e632c5099fd8bdb6017d4a7708e1e067ba2940bfa4585b2d6cef888a3a27b6",
+        "triangles": 133016,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "boundary_review"
+      },
+      {
+        "object": "HarperMemorialLibrary_LOD1",
+        "candidate": "boundary_review/candidate/assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+        "candidate_sha256": "181a85b964bee060f98994a792102c49ca18463fcfda0d680503d88d626b3496",
+        "candidate_mesh_signature": "137cd61641a737beef2f0f3d25a050a94e5d1c223fcce071235fc2e4a002ade9",
+        "final_object_signature": "137cd61641a737beef2f0f3d25a050a94e5d1c223fcce071235fc2e4a002ade9",
+        "triangles": 46718,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "boundary_review"
+      },
+      {
+        "object": "HarperMemorialLibrary_LOD2",
+        "candidate": "harper_review/candidate/assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+        "candidate_sha256": "cd732df386b3098b00876f883965ec20d6bca57882ef568d9cd022a6e0e2c411",
+        "candidate_mesh_signature": "85ecdf76c937729bf778633b137278679cdbfad8e59e013f18a6d3107f1b77e3",
+        "final_object_signature": "85ecdf76c937729bf778633b137278679cdbfad8e59e013f18a6d3107f1b77e3",
+        "triangles": 432,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "harper_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  },
+  {
+    "source_path": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+    "baseline_sha256": "b80f19e7fb623ce2b736ba13e51d501126d2f3bf97730ba5503031c40bf9e412",
+    "merged_sha256": "96e936d92e7911ec00f0acb95a9bf17268de8e0f6746d3884848446d76b63807",
+    "objects": [
+      {
+        "object": "RegensteinLibrary",
+        "candidate": "secondary_normals_review/candidate/assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+        "candidate_sha256": "ac99feeb638d46ed1fedf123e9a121b00c767a0b7aa6c691b711bb3aada2e5b4",
+        "candidate_mesh_signature": "34bf8182c8c437ba8a5902a83e28a5668f7a49e849661f47b3a3b56ceb037765",
+        "final_object_signature": "34bf8182c8c437ba8a5902a83e28a5668f7a49e849661f47b3a3b56ceb037765",
+        "triangles": 51834,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      },
+      {
+        "object": "RegensteinLibrary_LOD1",
+        "candidate": "secondary_normals_review/candidate/assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+        "candidate_sha256": "ac99feeb638d46ed1fedf123e9a121b00c767a0b7aa6c691b711bb3aada2e5b4",
+        "candidate_mesh_signature": "be9d0aa3256fd519ab65e9350715bd21ad0798c2081d6ce91b5bd98bdc36f254",
+        "final_object_signature": "be9d0aa3256fd519ab65e9350715bd21ad0798c2081d6ce91b5bd98bdc36f254",
+        "triangles": 20848,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      },
+      {
+        "object": "RegensteinLibrary_LOD2",
+        "candidate": "secondary_normals_review/candidate/assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+        "candidate_sha256": "ac99feeb638d46ed1fedf123e9a121b00c767a0b7aa6c691b711bb3aada2e5b4",
+        "candidate_mesh_signature": "9fa7d36c9af9577b51c29193add76d38a251e9565e449096ffe1f8a5cb9770d6",
+        "final_object_signature": "9fa7d36c9af9577b51c29193add76d38a251e9565e449096ffe1f8a5cb9770d6",
+        "triangles": 778,
+        "original_materials_preserved": true,
+        "matrix_preserved": true,
+        "donor": "secondary_normals_review"
+      }
+    ],
+    "all_nontarget_mesh_geometry_uv_normals_material_slots_matrices_unchanged": true
+  }
+]

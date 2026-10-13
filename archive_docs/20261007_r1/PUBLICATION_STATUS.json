@@ -1,0 +1,86 @@
+{
+  "recorded_at_utc": "2026-10-12T04:07:54.742048+00:00",
+  "repository_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "release_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
+  "publication_status": "PUBLISHED",
+  "release_draft": false,
+  "uploaded_and_server_sha256_verified": 10,
+  "total_attachment_bytes": 3370511145,
+  "anonymous_full_download_status": "COMPLETE",
+  "anonymous_full_download_passed": 10,
+  "anonymous_observed_total_bytes": 3370511145,
+  "anonymous_downloads": [
+    {
+      "name": "Campus_Repair_Retest_20261007_r1_ZH.pdf",
+      "verification_status": "passed",
+      "downloaded_bytes": 12284257,
+      "expected_bytes": 12284257,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_01_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 439078127,
+      "expected_bytes": 439078127,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_02_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 433404719,
+      "expected_bytes": 433404719,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_03_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 432859403,
+      "expected_bytes": 432859403,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_04_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 435461071,
+      "expected_bytes": 435461071,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_05_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 433582433,
+      "expected_bytes": 433582433,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_06_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 427030565,
+      "expected_bytes": 427030565,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_07_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 425768021,
+      "expected_bytes": 425768021,
+      "passed": true
+    },
+    {
+      "name": "Campus_Repaired_20261007_r1_08_assets.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 330093279,
+      "expected_bytes": 330093279,
+      "passed": true
+    },
+    {
+      "name": "Campus_r1_Library_Index_QA.zip",
+      "verification_status": "passed",
+      "downloaded_bytes": 949270,
+      "expected_bytes": 949270,
+      "passed": true
+    }
+  ],
+  "note": "Publication and all ten complete anonymous download streams passed byte count and SHA-256 verification.",
+  "final_verification_receipt": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/FINAL_PUBLICATION_VERIFICATION.json"
+}

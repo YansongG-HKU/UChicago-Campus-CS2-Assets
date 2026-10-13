@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "tested_utc": "2026-10-13T18:08:10Z",
+  "environment": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python": "3.12.14",
+  "test_method": "Extract exact delivery ZIP envelopes, join their parts through the shipped installer, copy verified 7940 baseline into a fresh separate folder, apply delta and independently check every final asset SHA-256.",
+  "source_baseline_assets": 7940,
+  "baseline_manifest_sha256": "86db4ca3ae17a73fbbcf1dbc85e0525ecd9bbda17c8a3d6ace1d59cbb7032dde",
+  "baseline_all_assets_and_manifest_unchanged": true,
+  "final_asset_count": 8032,
+  "final_asset_bytes": 3505395608,
+  "matched_asset_count": 8032,
+  "unexpected_final_assets": [],
+  "final_assets_match_frozen_candidate": true,
+  "delta_sha256": "fbc7447c5fdd53d72a2e0206845005e0e8410f8707ba9d6b95cfc0e8a3d479b5",
+  "delta_bytes": 108356736,
+  "data_part_count": 21,
+  "installer_sha256": "cc90b478ecb647001af10e0c9f22e1a8cc53bad0ad88d49168e84131603edfe9",
+  "verify_bundle_sha256": "1f10792b410da764e38dc285f0835f129ac813a3327248bb17a970341ec33c37",
+  "asset_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+  "guard_tests": [
+    {
+      "case": "existing_output",
+      "result": "PASS_REJECTED",
+      "exit_code": 1,
+      "seconds": 0.031
+    },
+    {
+      "case": "nested_output",
+      "result": "PASS_REJECTED",
+      "exit_code": 1,
+      "seconds": 0.033
+    },
+    {
+      "case": "wrong_baseline",
+      "result": "PASS_REJECTED",
+      "exit_code": 1,
+      "seconds": 0.406
+    },
+    {
+      "case": "corrupted_part",
+      "result": "PASS_REJECTED",
+      "exit_code": 1,
+      "seconds": 0.035
+    }
+  ],
+  "elapsed_seconds": 24.492,
+  "tested_data_zip_envelopes": [
+    {
+      "file": "Campus_LOD_Strict_Patch_01_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "38269bf4b08e24c795be7adec895a6ee210ef69614f86f6ec5f5c9f52c192a82",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_02_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "8fbe03ba91ed0b60f06338a31b54ce7ea91f71ff727ab540a7648bf77ca5de5b",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_03_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e18877b8c8a66c78e8c4b5b97dac761bc2961c64a5e850d2493fe97760b0209a",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_04_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e8570e7bc930787ecd71fea64077706c8c1d4d79f16552989bd4057f2fda0601",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_05_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "c848e7645271477e26a9f666a9a1d3a8806b11c169ee36c57a18be53ff72ca0e",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_06_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "c4c90b23dbd13513e649b2a7c7d33b1bb217c4085b638815ef63034c697de11b",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_07_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e6b6caf49ebe313a90399b77486e645ed71d4c8d2328ba6304f6f5e2d328fc7c",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_08_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "82009f1ecba25305fd589c847832549e4f415a010e396430b9461537e6c312d8",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_09_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "8cafbfcd040c5111e6f24bb2482f1a2f464cbd42076629e264420ba300464037",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_10_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "1a7e1499339502404f8c20b0d2ecc36ea14c21a24173b25341cf1e3637fc4b7b",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_11_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "ade97bcf7115c0822bf5afa808087e27afd1a215c88374a31285a7a30d1c8905",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_12_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "2947571f1bbafa6809b5383aa7535d4dc56e857ab5e09b286f61e83e8b163350",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_13_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "4ef9190c36512a0e7435c1f940a79554c02fb064a205b1fa1d878943ca56983f",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_14_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "7857ab009f9bd4accf863ddb4813ca0feb48c8fac67418c9168ed70380f5f6bd",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_15_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "a4af7c42f7eb2cd20b150a865459c05690f30a6db6368a9cb3780800c85b0464",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_16_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "da6f36420faf30732ba44173dd78661839d5db80a05ee80bce4641198882a60d",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_17_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "80c7134313bdf9fce61078a597c79fcde17cec2a3e807a5a51e62806a8b027c4",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_18_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "50288a8767b36269d4318d2e7f5e86712b2759c0d1a2c439a9601ac46bbbfc76",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_19_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "b7c1bad141056746bc82cf1f225102b21d574621489aa8ab2c07bf47db199d71",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_20_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "84cbfa18076f28a81945ce61984168cec0f5a40d01c39eeef07813099bcc5039",
+      "zip_crc": "PASS"
+    },
+    {
+      "file": "Campus_LOD_Strict_Patch_21_of_21.zip",
+      "bytes": 2356938,
+      "sha256": "def727f7793fb9012ae4a227788c7d68f6e3c85506a031a463c191b15b3f0584",
+      "zip_crc": "PASS"
+    }
+  ],
+  "start_here_note": "The starter ZIP is re-created after this test only to include the test report and final explanatory documents. The installer, verifier, part index, asset manifest, change manifest and all data-part ZIPs remain byte-identical.",
+  "verification_limits": [
+    "This test proves lossless reconstruction and asset byte integrity.",
+    "CS2 editor/runtime import, automatic glass/water material dispatch, shader appearance, LOD switching, collisions, memory and performance are not tested."
+  ],
+  "baseline_final_independent_verification": {
+    "expected_assets": 7940,
+    "matched_assets": 7940,
+    "failures": [],
+    "extra_assets": [],
+    "scope": "Byte integrity only; does not certify CS2 editor/runtime, shaders or performance."
+  }
+}

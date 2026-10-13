@@ -1,0 +1,71 @@
+{
+  "schema": "campus-public-orchestrator-tests-1",
+  "date": "2026-10-13",
+  "orchestrator_file": "reconstruct.py",
+  "orchestrator_sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5",
+  "chain_manifest_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50",
+  "python_3_9_syntax_check": "PASS",
+  "help_command": "PASS",
+  "fixture_tests": {
+    "passed": 31,
+    "failed": 0,
+    "names": [
+      "test_aliased_names_and_file_prefix",
+      "test_asset_inventory_exact_and_hashes",
+      "test_conflicting_root_metadata_rejected",
+      "test_crc_corruption_is_detected",
+      "test_download_redirect_requires_official_host",
+      "test_duplicate_entries_even_identical",
+      "test_existing_extract_directory_is_never_overwritten",
+      "test_https_connect_rejects_private_dns_before_opening_socket",
+      "test_https_connect_uses_validated_address_and_original_tls_hostname",
+      "test_identical_root_metadata_allowed_across_base_zips",
+      "test_manifest_duplicates_aliases_and_nonasset_rejected",
+      "test_manifest_pin_and_duplicate_json_key",
+      "test_no_output_overwrite_or_subprocess_on_existing_output",
+      "test_pinned_file_hash_and_size",
+      "test_prepare_layer_joins_checks_and_releases_only_extracted_parts",
+      "test_prepare_layer_rejects_altered_installer_pin",
+      "test_prepare_layer_rejects_altered_manifest_pin",
+      "test_prepare_layer_rejects_out_of_bounds_copy_before_execution",
+      "test_private_dns_and_redirect_rejected",
+      "test_private_or_authenticated_urls_rejected",
+      "test_reparse_archive",
+      "test_repeated_assets_rejected",
+      "test_required_cli_source_is_exclusive",
+      "test_special_file_archive",
+      "test_subprocess_is_isolated_and_only_installer",
+      "test_symlink_archive",
+      "test_symlink_parent_rejected",
+      "test_traversal_archive",
+      "test_unsafe_paths",
+      "test_update_url_requires_exact_official_repository_path",
+      "test_valid_extract_reads_bytes"
+    ]
+  },
+  "real_package_preparation": {
+    "package_hashes": "PASS",
+    "zip_count": 35,
+    "package_crc_and_safe_extraction": "PASS",
+    "both_delta_crc_and_hashes": "PASS",
+    "manifest_bridge": "PASS",
+    "baseline_count": 7854,
+    "first_count": 7940,
+    "final_count": 8032,
+    "stage_bytes_after_part_cleanup": 173236059,
+    "net_peak_asset_bytes_after_reclaiming_first_delta": 7143285792,
+    "additional_free_gate_after_staging": 7243285792,
+    "minimum_initial_free_with_local_updates": 7416521851,
+    "test_scope": "Package preparation and manifests only; no installer execution, asset copy or base download."
+  },
+  "scope_limits": [
+    "This report validates package preparation, safety checks, CRC, hashes and the exact manifest bridge.",
+    "The full asset reconstruction and live network download routes were not executed for this report.",
+    "Unchanged original installers have their separate reconstruction evidence; this report does not imply game acceptance."
+  ],
+  "storage_policy": {
+    "base_and_update_inputs": "Read-only; never modified.",
+    "retained": "Both reconstructed asset trees and downloaded ZIPs.",
+    "temporary_cleanup": "Only newly created, package-owned staging under the fresh work directory is removed. Extracted binary parts are released after verified assembly; the first assembled delta is released only after the first output passes verification."
+  }
+}

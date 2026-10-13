@@ -1,0 +1,28 @@
+{
+  "version": "20261013_strict_offline",
+  "delivery_route": "existing public r1 Release plus both repository update layers",
+  "new_github_release_created": false,
+  "self_contained_latest_full_zip_archives_publicly_uploaded": false,
+  "base_release_tag": "campus-20261007-r1",
+  "asset_file_counts": {
+    "r1": 7854,
+    "after_layer1": 7940,
+    "final": 8032
+  },
+  "final_asset_bytes": 3505395608,
+  "technical_asset_groups": 93,
+  "blender_source_files": 101,
+  "fbx_files": 484,
+  "png_jpeg_files": 4652,
+  "final_asset_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+  "installation": "updates/20261013/README.md",
+  "chain_manifest": "updates/20261013/chain_manifest.json",
+  "file_index": "ASSET_FILE_INDEX_20261013.csv",
+  "group_index": "ASSET_GROUP_INDEX_20261013.csv",
+  "atlas_index": "atlas/20261013/index.json",
+  "audit_register": "audit/20261013/review_register_136.json",
+  "old_root_publication_receipts_scope": "20261007_r1 only; not proof of latest remote publication",
+  "historical_archive": "archive_docs/20261007_r1/INDEX.md",
+  "paradox_mods_published_items": 0,
+  "engine_runtime_tested": false
+}

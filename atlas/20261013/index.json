@@ -1,0 +1,373 @@
+{
+  "release_date": "2026-10-13",
+  "pdf_count": 23,
+  "pdf_bytes_unchanged_from_delivered_originals": true,
+  "language": "Chinese review text; English filenames",
+  "atlas_groups": 136,
+  "appendix_adds_to_group_count": false,
+  "files": [
+    {
+      "original_name": "校园LOD_效果图册_01.pdf",
+      "file": "Campus_LOD_Atlas_01.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R001",
+        "R002",
+        "R003",
+        "R004",
+        "R005",
+        "R006",
+        "R007",
+        "R008"
+      ],
+      "pages": 8,
+      "bytes": 5380771,
+      "sha256": "a7169b3128a80d2710566d0298c5507fb2ff84d9ff8b4f0e69f2d434d876eaa7"
+    },
+    {
+      "original_name": "校园LOD_效果图册_02.pdf",
+      "file": "Campus_LOD_Atlas_02.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R009",
+        "R010",
+        "R011",
+        "R012",
+        "R013",
+        "R014"
+      ],
+      "pages": 6,
+      "bytes": 4624950,
+      "sha256": "1e9f77e3ab1a7e1dd52cedb6ab3c522ac0188cc59669dea4dc6a9b13e6d71c55"
+    },
+    {
+      "original_name": "校园LOD_效果图册_03.pdf",
+      "file": "Campus_LOD_Atlas_03.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R015",
+        "R016",
+        "R017",
+        "R018",
+        "R019",
+        "R020"
+      ],
+      "pages": 6,
+      "bytes": 5357346,
+      "sha256": "a2907705c5961d0e00322d3c8f1b8a414c08a1e82894fa3306caa1f6ba296e10"
+    },
+    {
+      "original_name": "校园LOD_效果图册_04.pdf",
+      "file": "Campus_LOD_Atlas_04.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R021",
+        "R022",
+        "R023",
+        "R024",
+        "R025",
+        "R026",
+        "R027"
+      ],
+      "pages": 7,
+      "bytes": 4685530,
+      "sha256": "f292e1d54217dba39e43f35a48c84f68d34a1ad418cfd56ff507b3bc077a96be"
+    },
+    {
+      "original_name": "校园LOD_效果图册_05.pdf",
+      "file": "Campus_LOD_Atlas_05.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R028",
+        "R029",
+        "R030",
+        "R031",
+        "R032",
+        "R033",
+        "R034",
+        "R035"
+      ],
+      "pages": 8,
+      "bytes": 5110237,
+      "sha256": "387eea979fb51dbd228eb7f8d0898b9395c919c6e46e10253af6571ffeb85e49"
+    },
+    {
+      "original_name": "校园LOD_效果图册_06.pdf",
+      "file": "Campus_LOD_Atlas_06.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R036",
+        "R037",
+        "R038",
+        "R039",
+        "R040",
+        "R041"
+      ],
+      "pages": 6,
+      "bytes": 4855770,
+      "sha256": "f359805ce5fd99d683d9fac841abbc290bfd3cde77015558ebd727b0e36d618c"
+    },
+    {
+      "original_name": "校园LOD_效果图册_07.pdf",
+      "file": "Campus_LOD_Atlas_07.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R042",
+        "R043",
+        "R044",
+        "R045",
+        "R046",
+        "R047",
+        "R048"
+      ],
+      "pages": 7,
+      "bytes": 4585797,
+      "sha256": "e1049f1e74a7e8e8ca231685c6610b9b2d25b02f556ba3b93b343ccc8da6ba5a"
+    },
+    {
+      "original_name": "校园LOD_效果图册_08.pdf",
+      "file": "Campus_LOD_Atlas_08.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R049",
+        "R050",
+        "R051",
+        "R052",
+        "R053"
+      ],
+      "pages": 5,
+      "bytes": 4643252,
+      "sha256": "294311a4fcb9519c8f57a13686267c98325c8f575d0f57bfacc75ec1de17219a"
+    },
+    {
+      "original_name": "校园LOD_效果图册_09.pdf",
+      "file": "Campus_LOD_Atlas_09.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R054",
+        "R055",
+        "R056",
+        "R057",
+        "R058",
+        "R059"
+      ],
+      "pages": 6,
+      "bytes": 5397108,
+      "sha256": "d47811a63a9476ee9491ffa9a3683abb1e1f52dc9f1df798bdbf406d1c2995da"
+    },
+    {
+      "original_name": "校园LOD_效果图册_10.pdf",
+      "file": "Campus_LOD_Atlas_10.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R060",
+        "R061",
+        "R062",
+        "R063",
+        "R064",
+        "R065",
+        "R066",
+        "R067"
+      ],
+      "pages": 8,
+      "bytes": 5258085,
+      "sha256": "d486de4293fcc8fc59722b089f68ece00e603fe0204d3ca397037438862e6d5e"
+    },
+    {
+      "original_name": "校园LOD_效果图册_11.pdf",
+      "file": "Campus_LOD_Atlas_11.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R068",
+        "R069",
+        "R070",
+        "R071",
+        "R072",
+        "R073",
+        "R074",
+        "R075"
+      ],
+      "pages": 8,
+      "bytes": 4779104,
+      "sha256": "9e9a24daa49b88c7b76561a0301d23037e3bee33252ce060cdce4983c430c18f"
+    },
+    {
+      "original_name": "校园LOD_效果图册_12.pdf",
+      "file": "Campus_LOD_Atlas_12.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R076",
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082"
+      ],
+      "pages": 7,
+      "bytes": 5093400,
+      "sha256": "15b181ea529c6fb703ae03e846510e6f5e78524a4e17a0368021c6616ddd41fd"
+    },
+    {
+      "original_name": "校园LOD_效果图册_13.pdf",
+      "file": "Campus_LOD_Atlas_13.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R083",
+        "R084",
+        "R085",
+        "R086",
+        "R087",
+        "R088",
+        "R089"
+      ],
+      "pages": 7,
+      "bytes": 4860649,
+      "sha256": "638063250d28872d152dc9bafed238a6bcad7c1738be4f874aeca91b9baf18b7"
+    },
+    {
+      "original_name": "校园LOD_效果图册_14.pdf",
+      "file": "Campus_LOD_Atlas_14.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R090",
+        "R091",
+        "R092",
+        "R093",
+        "R094",
+        "R095",
+        "R096"
+      ],
+      "pages": 7,
+      "bytes": 4890563,
+      "sha256": "0e39882b3f57d8bfd7a793479454a0b961393ee2c2edd46bede90290289b0672"
+    },
+    {
+      "original_name": "校园LOD_效果图册_15.pdf",
+      "file": "Campus_LOD_Atlas_15.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R097",
+        "R098",
+        "R099",
+        "R100",
+        "R101",
+        "R102",
+        "R103"
+      ],
+      "pages": 7,
+      "bytes": 4921939,
+      "sha256": "5fd2525e1b85350134c19d8c5f5ae1421ab6072ff1cbef1b65548bfe33314231"
+    },
+    {
+      "original_name": "校园LOD_效果图册_16.pdf",
+      "file": "Campus_LOD_Atlas_16.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R104",
+        "R105",
+        "R106",
+        "R107",
+        "R108",
+        "R109",
+        "R110",
+        "R111"
+      ],
+      "pages": 8,
+      "bytes": 5442432,
+      "sha256": "b260e9247012e734c259da2b9e8ce9272ed3a44a3155c788494db00ff9e6213a"
+    },
+    {
+      "original_name": "校园LOD_效果图册_17.pdf",
+      "file": "Campus_LOD_Atlas_17.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R112",
+        "R113",
+        "R114",
+        "R115",
+        "R116",
+        "R117",
+        "R118"
+      ],
+      "pages": 7,
+      "bytes": 5030523,
+      "sha256": "9c419dad61f08096f8e41cc6f19545305f91ff93db0ca14adaaea85f71019c34"
+    },
+    {
+      "original_name": "校园LOD_效果图册_18.pdf",
+      "file": "Campus_LOD_Atlas_18.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R119",
+        "R120",
+        "R121",
+        "R122",
+        "R123",
+        "R124",
+        "R125"
+      ],
+      "pages": 7,
+      "bytes": 4791822,
+      "sha256": "b18148f3f99fa52acb331d1ae428b65298a9fb1b36e6008b4fcd1c5790944b70"
+    },
+    {
+      "original_name": "校园LOD_效果图册_19.pdf",
+      "file": "Campus_LOD_Atlas_19.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R126",
+        "R127",
+        "R128",
+        "R129",
+        "R130",
+        "R131",
+        "R132",
+        "R133",
+        "R134"
+      ],
+      "pages": 9,
+      "bytes": 5242203,
+      "sha256": "adccb2e2f5709f2157e2d4556bd6e952b5144000f126f5d7c16341787b7bad68"
+    },
+    {
+      "original_name": "校园LOD_效果图册_20.pdf",
+      "file": "Campus_LOD_Atlas_20.pdf",
+      "kind": "visual_atlas",
+      "groups": [
+        "R135",
+        "R136"
+      ],
+      "pages": 2,
+      "bytes": 703983,
+      "sha256": "fd5e95b4f5be5112ed3d82795f7617dc1f2581f140764b0b0aa9e4f8ea3bdf1f"
+    },
+    {
+      "original_name": "校园LOD_完整文字说明.pdf",
+      "file": "Campus_LOD_Complete_Review_Notes.pdf",
+      "kind": "complete_review_notes",
+      "groups": [],
+      "pages": 41,
+      "bytes": 253199,
+      "sha256": "468e3b92fbd33b1ff8f24f3679251721c2e934fa7f2fe5a05848b8c672babe09"
+    },
+    {
+      "original_name": "校园LOD_附录_Harper庭院组合.pdf",
+      "file": "Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "kind": "harper_courtyard_appendix",
+      "groups": [],
+      "pages": 1,
+      "bytes": 725968,
+      "sha256": "68bbd8649271eeb75097646cb69ece4eeb9bf38bdd086ccdf8aa9cb2019290f1"
+    },
+    {
+      "original_name": "校园LOD_20261013_目录与复核简报.pdf",
+      "file": "Campus_LOD_Directory_and_Review_Brief.pdf",
+      "kind": "directory_and_review_brief",
+      "groups": [],
+      "pages": 6,
+      "bytes": 66882,
+      "sha256": "0e49172dd10aa2e8b603002c419627c1eb8f4985f531000cafffe68b3dc928b9"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "note": "Hashes identify original source evidence. Public extracts are sanitized, sometimes compacted, and have separate public-file hashes. Source evidence paths are relative provenance labels, not downloadable links.",
+  "sources": [
+    {
+      "path": "final_review_register/review_register_136.json",
+      "bytes": 2842718,
+      "sha256": "244670861380cecfab518204c4b8a929d4cdb6d82782c83e51e41a2b9ae1c877"
+    },
+    {
+      "path": "final_review_register/disposition_ledger_136.json",
+      "bytes": 402904,
+      "sha256": "d401a2dcd4a242db2da18b1b7a52a296fd00f7f50a768cec9d1bd6faf1848e02"
+    },
+    {
+      "path": "final_review_register/final_source_sha256_manifest.json",
+      "bytes": 22643,
+      "sha256": "1d8e91e844fcb6debd61802c5afad71efd5f7e5dcf4dd824ed2914bee333a6a3"
+    },
+    {
+      "path": "final_review_register/register_validation.json",
+      "bytes": 796,
+      "sha256": "310145bba498943c473eff937ed4aa525a8ac0e3a8baaff110cfbe9234383815"
+    },
+    {
+      "path": "final_integration/reports/final_export_qa_summary.json",
+      "bytes": 5678,
+      "sha256": "3e90d71e78d86abfcc0b593985d4dcee47d62fd07479edc1de0c008697dc0a0a"
+    },
+    {
+      "path": "final_integration/reports/final_actual_import_verification.json",
+      "bytes": 838095,
+      "sha256": "3bc1a424d11762ada9ba9f08dd566973d2003d092adbf16a59218514527b1c8a"
+    },
+    {
+      "path": "final_integration/reports/mesh_merge_verification.json",
+      "bytes": 46034,
+      "sha256": "ee19ac8313f1b7bece1bf260ccd3f71b772cecaf5cc737262b8128081481a80b"
+    },
+    {
+      "path": "final_integration/reports/saved_source_signature_verification.json",
+      "bytes": 21646,
+      "sha256": "3856fde240548c1d178d8d6432837901c0f71ad8d98a4ab87dc151a2f34593d8"
+    },
+    {
+      "path": "final_integration/reports/material_image_preservation.json",
+      "bytes": 772159,
+      "sha256": "3e634b2784a198bbafaf29284dc698c4f2645d85bece72289e997cf2b3f6e87d"
+    },
+    {
+      "path": "strict_patch_delivery/reconstruction_test.json",
+      "bytes": 11400,
+      "sha256": "4d4d96ffb722ce8d9aa1ac4e6443fab677384da4d08c77dde9be70a5099beff0"
+    },
+    {
+      "path": "strict_patch_delivery/final_delivery_verification.json",
+      "bytes": 1936,
+      "sha256": "c0ef4b552eebaef6fe096e7ac7d77d51f0b2a0ba314c58173449dc358c3a07da"
+    },
+    {
+      "path": "strict_patch_delivery/asset_delivery_summary.json",
+      "bytes": 61136,
+      "sha256": "f49a2090bf721fb7453eab21d63f091cf97d0c6f19101f917d70981378c0724e"
+    },
+    {
+      "path": "final_visual_atlas/delivery/source_index.json",
+      "bytes": 768735,
+      "sha256": "e394ae06f6ff609fbc0405872825a5db629ddd3a71d69993eb53ed45e0946c4e"
+    },
+    {
+      "path": "prior_final/rights_evidence_93_groups_20261012.csv",
+      "bytes": 43077,
+      "sha256": "facda83b4d3343ef605625f79fe93f16408f3abc43de79f5082d0975b88ef3f9"
+    }
+  ]
+}

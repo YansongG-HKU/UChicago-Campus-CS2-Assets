@@ -1,0 +1,394 @@
+{
+  "schema": "campus-public-two-layer-chain-1",
+  "base_release": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
+  "base_root": "Campus_Repair_20261007_r1",
+  "public_base_archives": {
+    "archives": [
+      {
+        "bytes": 439078127,
+        "filename": "Campus_Repaired_20261007_r1_01_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "51e552f73f7e8ad38fbca5ba76db9366599cf47afb81bdf5adffe67ece4a0e8e",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_01_assets.zip",
+        "verified_zip_entries": 262
+      },
+      {
+        "bytes": 433404719,
+        "filename": "Campus_Repaired_20261007_r1_02_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "514f4a3a5cfe136c464fe7a2f2cc0352a35453fd9e056114da39094ec62c4d19",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_02_assets.zip",
+        "verified_zip_entries": 724
+      },
+      {
+        "bytes": 432859403,
+        "filename": "Campus_Repaired_20261007_r1_03_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "90dffe1761da853b5b510b2687ed290b8aaae6c0b4f6d008026efa55f2f77c73",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_03_assets.zip",
+        "verified_zip_entries": 574
+      },
+      {
+        "bytes": 435461071,
+        "filename": "Campus_Repaired_20261007_r1_04_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "be9426c1b9d34c2714d7c27cdfb82f49d94ea4a49e729a14dea8f4981d906be2",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_04_assets.zip",
+        "verified_zip_entries": 784
+      },
+      {
+        "bytes": 433582433,
+        "filename": "Campus_Repaired_20261007_r1_05_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "1bd82ceaac17038c6e80f4b959825cfe4eeed8a4a8a86da54529d836ef5b1ceb",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_05_assets.zip",
+        "verified_zip_entries": 765
+      },
+      {
+        "bytes": 427030565,
+        "filename": "Campus_Repaired_20261007_r1_06_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "307140fc91af74bcfb1366e75d7cc75dbcbefd5c7af04b3c69f78f6e1b943450",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_06_assets.zip",
+        "verified_zip_entries": 1339
+      },
+      {
+        "bytes": 425768021,
+        "filename": "Campus_Repaired_20261007_r1_07_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "e8adc4837084761d8b6b2045f9f8241b8032543966e10ab8f7eba1a387693263",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_07_assets.zip",
+        "verified_zip_entries": 1667
+      },
+      {
+        "bytes": 330093279,
+        "filename": "Campus_Repaired_20261007_r1_08_assets.zip",
+        "previous_archive_crc_verification": "PASS",
+        "sha256": "e0ff7a0d92f81d024fde430b78c5f475374c7822e4b9b7d3ab00a1751f00ad85",
+        "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_08_assets.zip",
+        "verified_zip_entries": 1971
+      }
+    ],
+    "extracted_root": "Campus_Repair_20261007_r1",
+    "extraction": "These are eight independent ordinary ZIPs, not binary split volumes. Extract all eight into one empty parent, preserving and merging the common root and identical repeated metadata.",
+    "release_tag": "campus-20261007-r1",
+    "release_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
+    "required_archive_count": 8
+  },
+  "final_root": "Campus_Strict_20261013",
+  "final_asset_count": 8032,
+  "final_asset_bytes": 3505395608,
+  "final_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+  "layers": [
+    {
+      "id": "layer1_20261012",
+      "root": "Campus_LOD_Patch",
+      "installer": "apply_delta.py",
+      "installer_sha256": "fcd39694af11a2eed3f8fccf40f1f40c7c5d0943df34f2be18aa389bd1b3bcc5",
+      "base_count": 7854,
+      "final_count": 7940,
+      "start_zip": "layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "part_zips": [
+        "layer1_20261012/Campus_LOD_Patch_01_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_02_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_03_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_04_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_05_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_06_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_07_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_08_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_09_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_10_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_11_of_12.zip",
+        "layer1_20261012/Campus_LOD_Patch_12_of_12.zip"
+      ],
+      "manifest_sha256": "86db4ca3ae17a73fbbcf1dbc85e0525ecd9bbda17c8a3d6ace1d59cbb7032dde",
+      "parts_sha256": "c5854d25752d36b361dc1dbdb7e07a92649f9c523968218b30a7e75b019bb980",
+      "delta_sha256": "058a96e3be738f6dc83d03d20f8090737de6c944618aa911388203e5c4652eae",
+      "delta_bytes": 61206721
+    },
+    {
+      "id": "layer2_20261013",
+      "root": "Campus_LOD_Strict_Patch_20261013",
+      "installer": "apply_second_delta.py",
+      "installer_sha256": "cc90b478ecb647001af10e0c9f22e1a8cc53bad0ad88d49168e84131603edfe9",
+      "base_count": 7940,
+      "final_count": 8032,
+      "start_zip": "layer2_20261013/Campus_LOD_Strict_START_HERE.zip",
+      "part_zips": [
+        "layer2_20261013/Campus_LOD_Strict_Patch_01_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_02_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_03_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_04_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_05_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_06_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_07_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_08_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_09_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_10_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_11_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_12_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_13_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_14_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_15_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_16_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_17_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_18_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_19_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_20_of_21.zip",
+        "layer2_20261013/Campus_LOD_Strict_Patch_21_of_21.zip"
+      ],
+      "manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+      "parts_sha256": "655542e0255aefec9dd723fbd866b4388fe5d3bf362d8fb2c99d4e8e5cceadff",
+      "delta_sha256": "fbc7447c5fdd53d72a2e0206845005e0e8410f8707ba9d6b95cfc0e8a3d479b5",
+      "delta_bytes": 108356736
+    }
+  ],
+  "files": [
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_01_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "231e6473da442071825eef4d5c4866f7f6fdd2ab3cc32b33911edc7cc3b80cc4",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_02_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "8291d041407bd6342c6dd94ba02615dfbbd328df85f41245c7d6aeb026515119",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_03_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "c6e97c684e7fb36120cc26591b2e5f8bef3dadbff21336fb77ae8451c74e298e",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_04_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "f0e812377431d1eda4d8523a42bb40b3150678deea441ebe110dd990d18473a4",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_05_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "e48d8c23af24e2731fd11ec25c9103caf1f4283077acfde0865c9805b11dc81e",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_06_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "76a67c6b32620bcd6ce3cffbdf601fad563980990d914a6b12fcbae2f77fd888",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_07_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "39a388e555829047ec3c47f77e399770fdca2eb73256b2d2950bf02e9fc8a2a2",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_08_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "16a41cf11d7a67f0d4b00a8370432443adc22e957a84bcdb88b4a0c5cbcf9c41",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_09_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "b6d0645cc5eb152720dc8fcdadf561a4f9dc8f8d0a0b0e4ea2748800e88b795e",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_10_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "d98e74223627a05291788fdc3680ce552bddab626b6080c9118cc7522dd4195c",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_11_of_12.zip",
+      "bytes": 5300170,
+      "sha256": "7993580dfe071fae823703412ebf2e82116b8b171673834bf0f7be34eb82fdba",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_12_of_12.zip",
+      "bytes": 2906891,
+      "sha256": "dad6a80e0f737a94552149f0f9e90d8e745dc759e79cc278adc4d84f92423f84",
+      "kind": "part_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "bytes": 292883,
+      "sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+      "kind": "start_zip",
+      "layer": "layer1_20261012"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_01_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "38269bf4b08e24c795be7adec895a6ee210ef69614f86f6ec5f5c9f52c192a82",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_02_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "8fbe03ba91ed0b60f06338a31b54ce7ea91f71ff727ab540a7648bf77ca5de5b",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_03_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e18877b8c8a66c78e8c4b5b97dac761bc2961c64a5e850d2493fe97760b0209a",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_04_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e8570e7bc930787ecd71fea64077706c8c1d4d79f16552989bd4057f2fda0601",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_05_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "c848e7645271477e26a9f666a9a1d3a8806b11c169ee36c57a18be53ff72ca0e",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_06_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "c4c90b23dbd13513e649b2a7c7d33b1bb217c4085b638815ef63034c697de11b",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_07_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "e6b6caf49ebe313a90399b77486e645ed71d4c8d2328ba6304f6f5e2d328fc7c",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_08_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "82009f1ecba25305fd589c847832549e4f415a010e396430b9461537e6c312d8",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_09_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "8cafbfcd040c5111e6f24bb2482f1a2f464cbd42076629e264420ba300464037",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_10_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "1a7e1499339502404f8c20b0d2ecc36ea14c21a24173b25341cf1e3637fc4b7b",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_11_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "ade97bcf7115c0822bf5afa808087e27afd1a215c88374a31285a7a30d1c8905",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_12_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "2947571f1bbafa6809b5383aa7535d4dc56e857ab5e09b286f61e83e8b163350",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_13_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "4ef9190c36512a0e7435c1f940a79554c02fb064a205b1fa1d878943ca56983f",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_14_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "7857ab009f9bd4accf863ddb4813ca0feb48c8fac67418c9168ed70380f5f6bd",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_15_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "a4af7c42f7eb2cd20b150a865459c05690f30a6db6368a9cb3780800c85b0464",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_16_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "da6f36420faf30732ba44173dd78661839d5db80a05ee80bce4641198882a60d",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_17_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "80c7134313bdf9fce61078a597c79fcde17cec2a3e807a5a51e62806a8b027c4",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_18_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "50288a8767b36269d4318d2e7f5e86712b2759c0d1a2c439a9601ac46bbbfc76",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_19_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "b7c1bad141056746bc82cf1f225102b21d574621489aa8ab2c07bf47db199d71",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_20_of_21.zip",
+      "bytes": 5300202,
+      "sha256": "84cbfa18076f28a81945ce61984168cec0f5a40d01c39eeef07813099bcc5039",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_Patch_21_of_21.zip",
+      "bytes": 2356938,
+      "sha256": "def727f7793fb9012ae4a227788c7d68f6e3c85506a031a463c191b15b3f0584",
+      "kind": "part_zip",
+      "layer": "layer2_20261013"
+    },
+    {
+      "path": "layer2_20261013/Campus_LOD_Strict_START_HERE.zip",
+      "bytes": 299481,
+      "sha256": "4ebeff86a729194bb10bae0c20d86adf884bf9ea5b4507bcb03a5d267e25c261",
+      "kind": "start_zip",
+      "layer": "layer2_20261013"
+    }
+  ]
+}

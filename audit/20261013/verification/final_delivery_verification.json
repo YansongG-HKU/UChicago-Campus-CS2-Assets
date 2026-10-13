@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "zip_count": 22,
+  "data_part_count": 21,
+  "max_zip_bytes": 5300202,
+  "total_zip_bytes": 109024152,
+  "every_zip_under_5500000_bytes": true,
+  "all_zip_crc_pass": true,
+  "all_part_data_and_zip_sha256_pass": true,
+  "combined_delta_bytes": 108356736,
+  "combined_delta_sha256": "fbc7447c5fdd53d72a2e0206845005e0e8410f8707ba9d6b95cfc0e8a3d479b5",
+  "all_final_delivery_sha256_pass": true,
+  "start_here_content_files": 29,
+  "start_here_content_bytes_match_stage": true,
+  "protected_installer_and_indexes_unchanged_since_full_restore": [
+    {
+      "file": "apply_second_delta.py",
+      "sha256": "cc90b478ecb647001af10e0c9f22e1a8cc53bad0ad88d49168e84131603edfe9",
+      "same_as_actual_reconstruction_test": true
+    },
+    {
+      "file": "verify_bundle.py",
+      "sha256": "1f10792b410da764e38dc285f0835f129ac813a3327248bb17a970341ec33c37",
+      "same_as_actual_reconstruction_test": true
+    },
+    {
+      "file": "parts.json",
+      "sha256": "655542e0255aefec9dd723fbd866b4388fe5d3bf362d8fb2c99d4e8e5cceadff",
+      "same_as_actual_reconstruction_test": true
+    },
+    {
+      "file": "asset_manifest.json",
+      "sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+      "same_as_actual_reconstruction_test": true
+    },
+    {
+      "file": "change_manifest.csv",
+      "sha256": "4806d9bfc2b773651a74072dd3068181cf773589d630714f3c180b59a8916333",
+      "same_as_actual_reconstruction_test": true
+    }
+  ],
+  "restored_asset_files": 8032,
+  "baseline_asset_files_rechecked": 7940,
+  "baseline_manifest_assets_unchanged": true,
+  "baseline_extra_assets_after_temporary_cache_cleanup": [],
+  "final_start_here_sha256": "e69c6f35cc10cda39f50ce8168586bd83b7ce10a7422e653b90198c61783ec9a",
+  "verification_limits": "Offline reconstruction and documented model/FBX QA only. CS2 runtime, glass/water naming shaders, LOD switching, collisions and performance remain untested."
+}

@@ -1,0 +1,410 @@
+{
+  "status": "PASS",
+  "scope": "Public audit assembly: final source and exported FBX identities rehashed; existing review conclusions retained with scope labels; PDF page text, metadata and object dictionaries scanned before unchanged copying.",
+  "source_files_rehashed": 101,
+  "source_hash_mismatches": 0,
+  "fbx_unique_paths_rehashed": 76,
+  "fbx_source_comparison_records": 77,
+  "fbx_hash_mismatches": 0,
+  "group_rows": 136,
+  "new_final_material_manual_review_records": 36,
+  "all_136_rerendered_claimed": false,
+  "pdfs_checked": [
+    {
+      "file": "Campus_LOD_Atlas_01.pdf",
+      "pages": 8,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_02.pdf",
+      "pages": 6,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_03.pdf",
+      "pages": 6,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_04.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_05.pdf",
+      "pages": 8,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_06.pdf",
+      "pages": 6,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_07.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_08.pdf",
+      "pages": 5,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_09.pdf",
+      "pages": 6,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_10.pdf",
+      "pages": 8,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_11.pdf",
+      "pages": 8,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_12.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_13.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_14.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_15.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_16.pdf",
+      "pages": 8,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_17.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_18.pdf",
+      "pages": 7,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_19.pdf",
+      "pages": 9,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Atlas_20.pdf",
+      "pages": 2,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Complete_Review_Notes.pdf",
+      "pages": 41,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "pages": 1,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    },
+    {
+      "file": "Campus_LOD_Directory_and_Review_Brief.pdf",
+      "pages": 6,
+      "text_extraction_nonempty": true,
+      "embedded_attachment_count": 0,
+      "inspected_components": [
+        "all page text",
+        "PDF metadata and XML metadata",
+        "all decoded PDF object dictionaries"
+      ],
+      "findings": {
+        "absolute_private_workspace": 0,
+        "private_delivery_reference": 0,
+        "credential_pattern": 0
+      },
+      "copy_bytes_unchanged": true
+    }
+  ],
+  "models_rerendered_for_public_audit_packaging": false,
+  "Blender_imports_rerun_for_public_audit_packaging": false,
+  "CS2_tests_performed": false,
+  "Pmod_tests_performed": false,
+  "limitations": "Pattern scanning and PDF object/text inspection are safeguards, not a formal guarantee of absence of all possible sensitive information. Copied PDFs are the delivered originals; no content or layout changes were made."
+}

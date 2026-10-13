@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "chain": "7854 → 7940 → 8032",
+  "archives": 35,
+  "total_public_zip_bytes": 170162103,
+  "first_layer_zip_bytes": 61501644,
+  "second_layer_zip_bytes": 108660459,
+  "all_existing_part_envelopes_preserved": true,
+  "first_start_preserved": true,
+  "second_start_documentation_only_rebuilt": true,
+  "all_start_members_privacy_scanned": true,
+  "all_outer_zip_crc_verified": true,
+  "all_inner_delta_zip_crc_verified": true,
+  "first_output_equals_second_baseline_for_every_path_size_sha256": true,
+  "second_output_equals_latest_manifest_for_every_path_size_sha256": true,
+  "removals": {
+    "first_layer": 0,
+    "second_layer": 0
+  },
+  "existing_actual_reconstruction_proofs": {
+    "first": {
+      "status": "PASS",
+      "base_files": 7854,
+      "final_files": 7940,
+      "installer_sha256": "fcd39694af11a2eed3f8fccf40f1f40c7c5d0943df34f2be18aa389bd1b3bcc5",
+      "delta_sha256": "058a96e3be738f6dc83d03d20f8090737de6c944618aa911388203e5c4652eae",
+      "all_final_hashes_and_direct_byte_comparison_passed": true
+    },
+    "second": {
+      "status": "PASS",
+      "base_files": 7940,
+      "final_files": 8032,
+      "installer_sha256": "cc90b478ecb647001af10e0c9f22e1a8cc53bad0ad88d49168e84131603edfe9",
+      "delta_sha256": "fbc7447c5fdd53d72a2e0206845005e0e8410f8707ba9d6b95cfc0e8a3d479b5",
+      "all_final_hashes_passed": true,
+      "baseline_unchanged": true
+    }
+  },
+  "layers": [
+    {
+      "layer": "layer1_20261012",
+      "all_zip_crc": "PASS",
+      "all_part_and_envelope_sha256": "PASS",
+      "start_handling": "Unchanged original START ZIP; all eight members privacy-scanned and CRC-verified.",
+      "installer_unchanged": true,
+      "protected_asset_inputs_unchanged": true,
+      "archives": 13
+    },
+    {
+      "layer": "layer2_20261013",
+      "all_zip_crc": "PASS",
+      "all_part_and_envelope_sha256": "PASS",
+      "start_handling": "Public documentation-only START replacement; six protected installer/index/manifest files unchanged. Source execution-path-bearing reports omitted; public audit is provided separately.",
+      "installer_unchanged": true,
+      "protected_asset_inputs_unchanged": true,
+      "archives": 22
+    }
+  ],
+  "scope": "File-integrity and chain compatibility; no CS2 runtime claim."
+}

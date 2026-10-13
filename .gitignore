@@ -1,6 +1,11 @@
+# Keep full source assets and generated working files out of Git.
 *.zip
 *.blend
 *.fbx
 *.png
 *.jpg
 *.pdf
+
+# Audited release update parts and review PDFs are deliberately tracked.
+!updates/20261013/**/*.zip
+!atlas/20261013/*.pdf

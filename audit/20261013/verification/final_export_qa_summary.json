@@ -1,0 +1,112 @@
+{
+  "status": "ALL_SOURCES_FROZEN_WITH_DISCLOSED_PREEXISTING_SAIEH_EXCEPTIONS",
+  "source_count": 31,
+  "modified_object_occurrences": 54,
+  "unique_fbx_exports": 76,
+  "original_path_original_version_replacements": 58,
+  "new_validation_files": 18,
+  "new_single_object_validation_files": 17,
+  "new_additional_multi_object_validation_files": 1,
+  "auxiliary_source_comparisons_not_original_pairing": 1,
+  "every_unique_fbx_exported_once": true,
+  "all_final_sha256_rechecked": true,
+  "baseline_touched_source_and_export_sha256_unchanged": true,
+  "all_object_referenced_material_graphs_material_slots_images_and_packed_bytes_preserved": true,
+  "all_original_texture_byte_payloads_available_in_final_release": true,
+  "unused_material_datablocks_dropped_by_save": 10,
+  "unused_image_datablocks_dropped_by_save": 74,
+  "saieh_preexisting_microsliver_exceptions": [
+    {
+      "path": "assets/SaiehAdditionsContext/repair_20261007/SaiehAdditions_LOD1.fbx",
+      "source_path": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+      "object": "SaiehHall_LOD1",
+      "undefined_corner_normals": 6,
+      "polygons": 3,
+      "area_m2": 1.907157866298803e-05,
+      "area_fraction": 5.009445280483213e-10
+    },
+    {
+      "path": "assets/SaiehAdditionsContext/repair_20261007/SaiehAdditions_Main.fbx",
+      "source_path": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+      "object": "SaiehHall",
+      "undefined_corner_normals": 22,
+      "polygons": 11,
+      "area_m2": 4.135847132147319e-05,
+      "area_fraction": 7.677478198203879e-10
+    },
+    {
+      "path": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall.fbx",
+      "source_path": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+      "object": "SaiehHall",
+      "undefined_corner_normals": 38,
+      "polygons": 19,
+      "area_m2": 5.2738906902050076e-05,
+      "area_fraction": 9.759889488913666e-10
+    },
+    {
+      "path": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall_LOD1.fbx",
+      "source_path": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+      "object": "SaiehHall_LOD1",
+      "undefined_corner_normals": 6,
+      "polygons": 3,
+      "area_m2": 1.907157866298803e-05,
+      "area_fraction": 4.993392254970766e-10
+    }
+  ],
+  "geometric_normal_precision_diagnostics": [
+    {
+      "path": "assets/HarperCourtyardAssembly/repair_20261007/HarperCourtyard_LOD1.fbx",
+      "object": "HarperMemorialLibrary_LOD1",
+      "source_polygon_index": 43448,
+      "rounded_world_coordinate_recalculation_dot": 0.9994174709868702,
+      "local_geometry_normal_transformed_to_world_dot": 0.9999999999999901,
+      "source_local_coordinates": [
+        [
+          23.087003707885742,
+          -12.780980110168457,
+          38.29452896118164
+        ],
+        [
+          23.06725311279297,
+          -12.734399795532227,
+          38.14310836791992
+        ],
+        [
+          23.087095260620117,
+          -12.780967712402344,
+          38.294639587402344
+        ]
+      ],
+      "imported_local_coordinates_aligned": [
+        [
+          23.087003707885742,
+          -12.780980110168457,
+          38.29452896118164
+        ],
+        [
+          23.06725311279297,
+          -12.734399795532227,
+          38.14310836791992
+        ],
+        [
+          23.087095260620117,
+          -12.780967712402344,
+          38.294639587402344
+        ]
+      ],
+      "local_coordinates_exactly_identical": true,
+      "source_local_area_m2": 7.1787224875498425e-06,
+      "source_minimum_triangle_altitude_m": 8.986754110759794e-05,
+      "interpretation": "Diagnostic-only float32 absolute-world-coordinate cancellation; acceptance uses translation-invariant local geometric normal transformed by inverse-transpose matrix. No tolerance relaxation."
+    }
+  ],
+  "normal_comparison_method": "double precision local face cross product transformed by inverse transpose world matrix; strict normal dot threshold remains >0.99998",
+  "limits": [
+    "Offline Blender actual FBX import only; no Cities: Skylines II editor/runtime or shader certification.",
+    "New single-object validation files do not represent full assembly exports.",
+    "The original preexisting Saieh microslivers remain; undefined corner normals are disclosed, not removed.",
+    "Unused duplicate material/image datablocks may be omitted by Blender save; original active semantics and all texture byte payloads are retained."
+  ],
+  "created_utc": "2026-10-13T18:04:39.663694+00:00",
+  "scope_note": "Reported results of the completed offline verification. This public audit packaging step independently rechecks file identities; it does not rerun Blender or any engine."
+}

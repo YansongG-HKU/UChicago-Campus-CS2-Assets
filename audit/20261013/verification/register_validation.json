@@ -1,0 +1,20 @@
+{
+  "generated_utc": "2026-10-13T18:10:09.187311+00:00",
+  "rows": 136,
+  "unique_source_family_keys": 136,
+  "source_files": 101,
+  "full_lod_families": 133,
+  "context_main_only_groups": 3,
+  "original_manual_source_sha_consistency": true,
+  "final_changed_sources": 31,
+  "exact_merged_target_meshes": 54,
+  "new_final_material_manual_reviews": 36,
+  "actual_fbx_imports_verified": 76,
+  "actual_import_status": "PASS_WITH_EXPLICIT_PREEXISTING_SAIEH_CORNER_NORMAL_EXCEPTIONS",
+  "failures": [],
+  "every_row_has_actual_final_sha": true,
+  "all_unmodified_source_bytes_match_original_review": true,
+  "all_shared_source_nontarget_meshes_preserved": true,
+  "all_repaired_family_images_match_current_final_source_and_image_hash": true,
+  "visual_review_not_inferred_from_script_success": true
+}

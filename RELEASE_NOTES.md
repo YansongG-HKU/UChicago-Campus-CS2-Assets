@@ -1,30 +1,31 @@
-# 校园建筑资产修复版 20261007_r1
+# 更新说明 · 20261013 严格离线复核版
 
-完整离线资产：93 个技术资产组，101 个 Blender 源文件，466 个 FBX，7,854 个唯一资产文件。
+## 交付方式
 
-仓库：[YansongG-HKU/UChicago-Campus-CS2-Assets](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets)；本版标签为 `campus-20261007-r1`，下载页面为 [本版 Release](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1)。
+本次仓库更新提供公开可恢复链：原 `campus-20261007-r1` 的 **7,854 文件** → 第一层离线候选 **7,940 文件** → 第二层严格复核 **8,032 文件**。原标签、Release 与八个基础资产 ZIP 保留；本次未创建新 GitHub Release，最新版的八个自包含完整 ZIP 尚未公开上传。
 
-完整交付共 **10 个附件，3,370,511,145 字节**。全部模型与纹理分布在 01–08 八个独立资产 ZIP 中；中文复测 PDF 和索引/QA ZIP 为配套资料。
+运行 [统一恢复入口](updates/20261013/README.md) 获得完整最终资产集合。Code → Download ZIP 包含更新和复核资料，基础八包仍需从原 Release 单独取得；入口支持自动下载基础包。第二层不能单独作用于原 r1。
 
-| 附件 | 大小（字节） |
-| --- | ---: |
-| [Campus_Repaired_20261007_r1_01_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_01_assets.zip) | 439,078,127 |
-| [Campus_Repaired_20261007_r1_02_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_02_assets.zip) | 433,404,719 |
-| [Campus_Repaired_20261007_r1_03_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_03_assets.zip) | 432,859,403 |
-| [Campus_Repaired_20261007_r1_04_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_04_assets.zip) | 435,461,071 |
-| [Campus_Repaired_20261007_r1_05_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_05_assets.zip) | 433,582,433 |
-| [Campus_Repaired_20261007_r1_06_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_06_assets.zip) | 427,030,565 |
-| [Campus_Repaired_20261007_r1_07_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_07_assets.zip) | 425,768,021 |
-| [Campus_Repaired_20261007_r1_08_assets.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_08_assets.zip) | 330,093,279 |
-| [Campus_Repair_Retest_20261007_r1_ZH.pdf](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repair_Retest_20261007_r1_ZH.pdf) | 12,284,257 |
-| [Campus_r1_Library_Index_QA.zip](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_r1_Library_Index_QA.zip) | 949,270 |
+最终集合：**93 个技术组、101 个 .blend、484 个 .fbx、4,652 个 PNG/JPEG、8,032 个文件，共 3,505,395,608 字节**。完整文件与哈希见 [最新版索引](ASSET_FILE_INDEX_20261013.csv)。
 
-八个资产 ZIP 不需要二进制拼接。将它们解压到同一个新目录，保留共有的 `Campus_Repair_20261007_r1` 根目录及模型、纹理的相对路径；同名文件夹可合并，内容一致的公共清单可覆盖。按建筑查找见 [资产组索引](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/ASSET_GROUP_INDEX.csv)，逐文件路径与哈希见 [完整文件索引](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/ASSET_FILE_INDEX.csv)。
+## 严格复核与修复
 
-附件 SHA-256 见 [下载表](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/DOWNLOADS.md) 和 [RELEASE_SHA256SUMS.txt](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/RELEASE_SHA256SUMS.txt)；校验及解压步骤见 [仓库 README](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets#readme)。
+- 136 个源文件/模型家族审阅项：133 个完整 LOD 家族、2 个 Main-only 组、1 个背景场景；不是 136 栋独立建筑。
+- 修复涉及 23 个建筑名称、36 个家族出现项、31 个源文件、54 个命名网格。
+- 36 个修复项以最终源文件原材质的四角 Main/LOD1/LOD2 联系图重新人工复核。
+- 另外 84 项沿用整源 SHA-256 相同的原人工证据；16 项为修改过的共享源文件中未改动家族，依据非目标网格几何、UV、角点法线、材质槽和变换保留记录继续引用原人工证据。
+- 当前处置：36 项已修复并在边界内人工复核、14 项无须修复但有明确边界、83 项主体完整但保留声明的简化、3 项 Main-only/背景场景。每条已记录的原问题均有当前处置，不等于尚未实施的游戏测试已经通过。
+- 76 个唯一最终 FBX 已实际导回 Blender 检查，另有 1 次辅助源比较；其中 58 个替换原路径/版本，18 个新增验证导出。单对象验证导出不代表完整组合体导出。
+- 保留原对象引用的材质语义和全部原纹理字节；保存时移除 10 个未使用重复材质数据块、74 个未使用图像数据块。Saieh 原有极细三角面的角点法线例外公开保留。
 
-2026-10-12 发布准备重新检查全部八包 CRC、完整包 SHA-256、逐资产大小及 SHA-256，未发现遗漏、重复资产或哈希不符。这是发布前文件检查；`PUBLICATION_VERIFICATION.json` 保留 `NOT_YET_PUBLISHED`。GitHub 实际发布状态、远端附件校验和完整匿名公开下载检查由 [最终核验回执](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/blob/main/FINAL_PUBLICATION_VERIFICATION.json) 记录。
+## 新增阅读材料
 
-`Rockefeller_Chapel_v0.1` 为用户偏好的优先版本，`RockefellerChapel_v02` 保留作独立备选。
+[20 册效果图册](atlas/20261013/README.md) 覆盖 R001–R136，另有完整文字说明、Harper 庭院附录和目录/复核简报，共 23 份 PDF。PDF 字节与原交付一致，仅采用英文文件名；中文内容未重新翻译。
 
-尚未进行 Cities: Skylines II 编辑器/游戏验收，不是 .cok/prefab 安装成品。近似重建，不保证测绘精度，也无芝加哥大学官方背书。未新增或替换许可；已有第三方许可与来源说明保留。
+[136 组审计](audit/20261013/README.md) 提供 CSV/JSON、最终源哈希、处置台账、实际 FBX 导回记录、来源复用说明及许可署名。[验证范围](VERIFICATION.md) 区分已完成的模型复核、文件校验与未实施的运行测试。
+
+## 保留限制与历史
+
+未做 CS2 编辑器/运行、玻璃/水材质分派、游戏内 LOD 切换、碰撞/导航、性能或 Paradox Mods 验收；Paradox Mods 发布条目为 0。近似重建不保证测绘精度、全局水密或室内完整度。原许可与署名不变；无官方背书。
+
+[20261007_r1 原版更新说明](archive_docs/20261007_r1/RELEASE_NOTES.md) 与 [历史档案入口](archive_docs/20261007_r1/INDEX.md) 保留原文件字节和旧版核验结论。
