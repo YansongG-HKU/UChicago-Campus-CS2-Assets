@@ -26,5 +26,8 @@
   "paradox_mods_published_items": 0,
   "engine_runtime_tested": false,
   "public_verification_index": "verification/20261013/README.md",
-  "initial_verified_publication_commit": "60fe8297c591682166c148643b5017b811bad35c"
+  "initial_verified_publication_commit": "60fe8297c591682166c148643b5017b811bad35c",
+  "latest_verified_helper_commit": "d5a541a30db9e74d602dff5e49cbf2855bd05ecd",
+  "latest_public_verification": "verification/20261013/LATEST_PUBLIC_VERIFICATION.json",
+  "latest_public_verification_status": "PASS"
 }

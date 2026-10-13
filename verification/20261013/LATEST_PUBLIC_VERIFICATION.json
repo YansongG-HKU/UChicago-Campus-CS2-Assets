@@ -1,0 +1,74 @@
+{
+  "schema": "campus-public-supplemental-verification-1",
+  "status": "PASS",
+  "verified_at_utc": "2026-10-13T21:04:23.177050+00:00",
+  "commit": "d5a541a30db9e74d602dff5e49cbf2855bd05ecd",
+  "tree": "9252ff082e3c78dea4ea387ca76cf7fd1f77dca8",
+  "helper": {
+    "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/d5a541a30db9e74d602dff5e49cbf2855bd05ecd/updates/20261013/reconstruct.py",
+    "sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+    "chain_manifest_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50"
+  },
+  "public_bytes": {
+    "all_expected_tree_paths_exact_git_sha_and_size": 131,
+    "changed_files_freshly_anonymously_downloaded": 20,
+    "changed_download_bytes": 4994648,
+    "all_changed_downloads_http_200_and_exact_sha256_git_sha": true,
+    "unreachable_changed_urls": 0,
+    "unchanged_paths_proven_identical_to_initial_commit": 111,
+    "initial_commit": "60fe8297c591682166c148643b5017b811bad35c",
+    "initial_119_file_download_proof": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/d5a541a30db9e74d602dff5e49cbf2855bd05ecd/verification/20261013/initial-publication/PUBLIC_DOWNLOAD_VERIFICATION.json"
+  },
+  "reconstruction": {
+    "exit_code": 0,
+    "sequence": [
+      7854,
+      7940,
+      8032
+    ],
+    "source": "Exact newly downloaded helper; six changed/new update files fetched from this commit. Thirty-nine unchanged update inputs were freshly rehashed and checked against identical new-commit Git blobs; all 35 ZIPs were hardlinked from the original anonymous downloads. No locally staged payload was substituted.",
+    "independent_final": {
+      "status": "PASS",
+      "verified_count": 8032,
+      "total_bytes": 3505395608,
+      "inventory_sha256": "d240dd9256dfaf829763af00926a73f62212fb6b8546c505e2cc149d7d77d993"
+    },
+    "independent_intermediate": {
+      "status": "PASS",
+      "verified_count": 7940,
+      "total_bytes": 3530282309,
+      "inventory_sha256": "b452394a9de8bf1810c9f5a7a5fd7735821b774d4f157fca4c8a4ef0b579fc0f"
+    },
+    "independent_original_baseline_after": {
+      "status": "PASS",
+      "verified_count": 7854,
+      "total_bytes": 3464076456,
+      "inventory_sha256": "f8045f4c3e793dc29c6edd2eafbe61d63d737c97221fe72317ad955072d7df9c"
+    },
+    "original_baseline_unchanged": true,
+    "rebuilt_final_manifest_exact_frozen_bytes": true,
+    "frozen_final_asset_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53"
+  },
+  "exact_public_helper_network_checks": {
+    "method": "Unmodified download() function; normal system HTTPS/proxy; official host/redirect restrictions, TLS certificate/hostname verification and size/SHA-256 checks. No GitHub authentication supplied.",
+    "raw_immutable_start_zip_bytes": 292883,
+    "raw_immutable_start_zip_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+    "old_release_small_zip_bytes": 949270,
+    "old_release_small_zip_sha256": "c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c",
+    "both": "PASS"
+  },
+  "preservation": {
+    "old_r1_tag": "83ae42e6bc2e3e0045f4ebc09067fbeb62493e39",
+    "old_r1_release_assets_unchanged": 10,
+    "initial_verification_evidence_and_original_helper_preserved": true
+  },
+  "scope_limits": [
+    "No Blender, CS2, editor or game-runtime acceptance tests.",
+    "Two small live network checks do not claim downloading all eight large r1 archives.",
+    "All full per-asset verification evidence retained; no need to duplicate the original public inventories."
+  ],
+  "storage": {
+    "verification_output_cleanup": "Only this run’s two new disposable reconstructed trees removed after full proof was saved. All old and new download/evidence inputs retained.",
+    "free_bytes_after_cleanup": 7445544960
+  }
+}

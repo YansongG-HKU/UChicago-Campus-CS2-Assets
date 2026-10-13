@@ -1,5 +1,11 @@
 # 20261013 公开发布核验
 
+## 最新公开入口复核
+
+[精简最终回执](LATEST_PUBLIC_VERIFICATION.json) 对应不可变提交 [d5a541a30db9e74d602dff5e49cbf2855bd05ecd](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/commit/d5a541a30db9e74d602dff5e49cbf2855bd05ecd)：131 个预期 Git 对象匹配，20 个变化文件匿名下载通过；111 个未变化文件与首次公开证明保持同一对象。35 个 ZIP 保持原字节，重新检查后复用。
+
+从该提交匿名取回的兼容版脚本又实际完成完整两层重建；8,032 个最终资产、7,940 个中间资产和原 r1 的 7,854 个资产均独立全量重哈希通过。该精确公开脚本自己的联网函数也成功下载并校验了原始文件地址与历史 Release 重定向附件。没有把工具下载成功冒充脚本下载成功，也没有宣称重新自动下载了全部八个基础包。
+
 ## 首次完整发布
 
 [公开提交 60fe8297c591682166c148643b5017b811bad35c](https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/commit/60fe8297c591682166c148643b5017b811bad35c) 已完成独立验证：
