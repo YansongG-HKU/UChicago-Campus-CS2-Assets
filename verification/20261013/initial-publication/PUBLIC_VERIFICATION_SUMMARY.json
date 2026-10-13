@@ -1,0 +1,83 @@
+{
+  "schema": "campus-public-verification-summary-1",
+  "status": "PASS",
+  "verified_at_utc": "2026-10-13T20:51:47.079158+00:00",
+  "repository": "YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "commit": "60fe8297c591682166c148643b5017b811bad35c",
+  "tree": "908bd71533e6ff36197de1b9c118cbc96c1a7b7d",
+  "results": {
+    "anonymous_public_files_verified": 119,
+    "anonymous_public_file_bytes": 273839372,
+    "update_zip_files_verified": 35,
+    "update_directory_files_retained": 44,
+    "pdf_files_verified": 23,
+    "all_http_statuses": 200,
+    "unreachable_links": 0,
+    "size_mismatches": 0,
+    "sha256_mismatches": 0,
+    "git_blob_sha1_mismatches": 0,
+    "actual_reconstruction_sequence": [
+      7854,
+      7940,
+      8032
+    ],
+    "independent_final_asset_hashes_verified": 8032,
+    "independent_final_asset_bytes": 3505395608,
+    "independent_intermediate_asset_hashes_verified": 7940,
+    "independent_original_asset_hashes_unchanged": 7854,
+    "old_r1_tag_unchanged": "83ae42e6bc2e3e0045f4ebc09067fbeb62493e39",
+    "old_r1_release_assets_unchanged": 10
+  },
+  "receipts": [
+    {
+      "path": "PUBLIC_DOWNLOAD_VERIFICATION.json",
+      "bytes": 127216,
+      "sha256": "2eac73af0fe41435a86a3d41da23b5e3aeeae50f4103e00c686640a4a91e6bcb"
+    },
+    {
+      "path": "PUBLIC_REPOSITORY_PRESERVATION.json",
+      "bytes": 8040,
+      "sha256": "541cabee08f8df76162893ab309762cad78bccbd10f1948f815700a8168c675c"
+    },
+    {
+      "path": "PUBLIC_RECONSTRUCTION_VERIFICATION.json",
+      "bytes": 4073,
+      "sha256": "f2085213f885b8eb5d40ffec511440a3177ed4a93ac54a456733b09ceacc6b08"
+    },
+    {
+      "path": "FINAL_ASSET_HASHES.jsonl",
+      "bytes": 1597217,
+      "sha256": "d240dd9256dfaf829763af00926a73f62212fb6b8546c505e2cc149d7d77d993"
+    },
+    {
+      "path": "INTERMEDIATE_ASSET_HASHES.jsonl",
+      "bytes": 1575701,
+      "sha256": "b452394a9de8bf1810c9f5a7a5fd7735821b774d4f157fca4c8a4ef0b579fc0f"
+    },
+    {
+      "path": "BASELINE_AFTER_ASSET_HASHES.jsonl",
+      "bytes": 1554631,
+      "sha256": "f8045f4c3e793dc29c6edd2eafbe61d63d737c97221fe72317ad955072d7df9c"
+    },
+    {
+      "path": "BASELINE_PRECHECK.json",
+      "bytes": 450,
+      "sha256": "b71dea0052bba35675ab633d96c8353ac32bcaf07c7294540c1619385c39a076"
+    },
+    {
+      "path": "PUBLIC_RECONSTRUCTION_LOG.txt",
+      "bytes": 45158,
+      "sha256": "26d714da8008c102aaa896dfcd7522f4378f6beda9a4fae24b15227a742923ee"
+    },
+    {
+      "path": "VERIFICATION_OUTPUT_CLEANUP.json",
+      "bytes": 966,
+      "sha256": "68037ca0702683c0a7d25735f76d27066e63839b312a0af8d06175c6e24c7c9e"
+    }
+  ],
+  "storage": "All downloaded update components and evidence retained. Only newly generated verification output trees removed after their full independent verification and hash inventories were saved.",
+  "scope_limits": [
+    "No Blender or CS2 runtime/engine tests were run.",
+    "No new release or repository change was published by this verifier."
+  ]
+}

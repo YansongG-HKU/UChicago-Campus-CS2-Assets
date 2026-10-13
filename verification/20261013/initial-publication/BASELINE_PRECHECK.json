@@ -1,0 +1,14 @@
+{
+  "schema": "campus-baseline-independent-precheck-1",
+  "status": "PASS",
+  "expected_count": 7854,
+  "actual_count": 7854,
+  "verified_count": 7854,
+  "total_bytes": 3464076456,
+  "inventory_sha256": "f8045f4c3e793dc29c6edd2eafbe61d63d737c97221fe72317ad955072d7df9c",
+  "reference_manifest_sha256": "afff9a219386f96e46c72b692abeb863b840ae9d32708ae76ade5f8dc35b90f1",
+  "mismatches": [],
+  "extra": [],
+  "missing": [],
+  "elapsed_seconds": 3.16
+}

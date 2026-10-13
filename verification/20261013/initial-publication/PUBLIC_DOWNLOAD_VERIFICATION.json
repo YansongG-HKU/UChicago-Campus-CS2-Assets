@@ -1,0 +1,2519 @@
+{
+  "schema": "campus-anonymous-public-download-verification-1",
+  "repository": "YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "commit": "60fe8297c591682166c148643b5017b811bad35c",
+  "started_at_utc": "2026-10-13T20:46:01.189182+00:00",
+  "authentication": "none",
+  "method": "Fresh anonymous HTTPS GET to each immutable raw.githubusercontent.com commit URL; all bodies read in full and independently SHA-256 plus Git-blob-SHA1 hashed. Only update-chain bytes retained. No staged local payload is used.",
+  "expected_count": 119,
+  "expected_total_bytes": 273839372,
+  "expected_pdf_count": 23,
+  "expected_zip_count": 35,
+  "status": "PASS",
+  "files": [
+    {
+      "path": ".gitignore",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/.gitignore",
+      "expected_bytes": 227,
+      "expected_sha256": "6aedb8931f0c38d7ca327977c7a3c839cef863aa499686f9321a17c216f76008",
+      "expected_git_blob_sha1": "2ef9e282a97a8417fa6756925d39469d28703e06",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/.gitignore",
+      "actual_bytes": 227,
+      "actual_sha256": "6aedb8931f0c38d7ca327977c7a3c839cef863aa499686f9321a17c216f76008",
+      "actual_git_blob_sha1": "2ef9e282a97a8417fa6756925d39469d28703e06",
+      "status": "PASS"
+    },
+    {
+      "path": "ASSET_FILE_INDEX_20261013.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/ASSET_FILE_INDEX_20261013.csv",
+      "expected_bytes": 2154398,
+      "expected_sha256": "4aaa9dc76217dcad03237576673ef5aea4689234f3e82df150b9920ebb60e3d0",
+      "expected_git_blob_sha1": "95dd20f0542358e7ca6d9431f4df3b010f01551e",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/ASSET_FILE_INDEX_20261013.csv",
+      "actual_bytes": 2154398,
+      "actual_sha256": "4aaa9dc76217dcad03237576673ef5aea4689234f3e82df150b9920ebb60e3d0",
+      "actual_git_blob_sha1": "95dd20f0542358e7ca6d9431f4df3b010f01551e",
+      "status": "PASS"
+    },
+    {
+      "path": "ASSET_GROUP_INDEX_20261013.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/ASSET_GROUP_INDEX_20261013.csv",
+      "expected_bytes": 28224,
+      "expected_sha256": "4f1757091af0ac61a20cbdd51d05f0f561072301d97969fbb6a6e3af68f029db",
+      "expected_git_blob_sha1": "37f0c0dd65c7e8dedc0415e69d9e63430fabe756",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/ASSET_GROUP_INDEX_20261013.csv",
+      "actual_bytes": 28224,
+      "actual_sha256": "4f1757091af0ac61a20cbdd51d05f0f561072301d97969fbb6a6e3af68f029db",
+      "actual_git_blob_sha1": "37f0c0dd65c7e8dedc0415e69d9e63430fabe756",
+      "status": "PASS"
+    },
+    {
+      "path": "DOWNLOADS.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/DOWNLOADS.md",
+      "expected_bytes": 9150,
+      "expected_sha256": "2a8a9f694f05485c514c27e2b3e620b401eb4ea67b47ad82ee31ad1d10063556",
+      "expected_git_blob_sha1": "770b8b978b3dbc5d86041213dd89849ffd318eaa",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/DOWNLOADS.md",
+      "actual_bytes": 9150,
+      "actual_sha256": "2a8a9f694f05485c514c27e2b3e620b401eb4ea67b47ad82ee31ad1d10063556",
+      "actual_git_blob_sha1": "770b8b978b3dbc5d86041213dd89849ffd318eaa",
+      "status": "PASS"
+    },
+    {
+      "path": "LATEST_VERSION.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/LATEST_VERSION.json",
+      "expected_bytes": 1166,
+      "expected_sha256": "e14926cff769e6b447a8e69f2bb9246f19fcf108469b49a5a725d45a124c2abd",
+      "expected_git_blob_sha1": "29b6dae386c8e8f15a2d005611e3cb823d01b31f",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/LATEST_VERSION.json",
+      "actual_bytes": 1166,
+      "actual_sha256": "e14926cff769e6b447a8e69f2bb9246f19fcf108469b49a5a725d45a124c2abd",
+      "actual_git_blob_sha1": "29b6dae386c8e8f15a2d005611e3cb823d01b31f",
+      "status": "PASS"
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/README.md",
+      "expected_bytes": 6076,
+      "expected_sha256": "9ba9a3ffbd40bd979d6ba7ac16af8cc56fec282b2c515095ebe62f01d55e1950",
+      "expected_git_blob_sha1": "60117984998643c6f6b242c6b29a34f949407148",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/README.md",
+      "actual_bytes": 6076,
+      "actual_sha256": "9ba9a3ffbd40bd979d6ba7ac16af8cc56fec282b2c515095ebe62f01d55e1950",
+      "actual_git_blob_sha1": "60117984998643c6f6b242c6b29a34f949407148",
+      "status": "PASS"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/RELEASE_NOTES.md",
+      "expected_bytes": 3195,
+      "expected_sha256": "d3c6fd90bb18f51319033437c1d4d802c8e0a86cb274fecb54cc5598345c9064",
+      "expected_git_blob_sha1": "f7db563cfebe2de190f4baf431a49ded940a4649",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/RELEASE_NOTES.md",
+      "actual_bytes": 3195,
+      "actual_sha256": "d3c6fd90bb18f51319033437c1d4d802c8e0a86cb274fecb54cc5598345c9064",
+      "actual_git_blob_sha1": "f7db563cfebe2de190f4baf431a49ded940a4649",
+      "status": "PASS"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/VERIFICATION.md",
+      "expected_bytes": 6674,
+      "expected_sha256": "d6d15ff6794ae186a895c9f6d77d0f486073fa368f5e8accd157321ecd80d3d1",
+      "expected_git_blob_sha1": "20adc0832c853deee4ff4ab1cfa024241161da7a",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/VERIFICATION.md",
+      "actual_bytes": 6674,
+      "actual_sha256": "d6d15ff6794ae186a895c9f6d77d0f486073fa368f5e8accd157321ecd80d3d1",
+      "actual_git_blob_sha1": "20adc0832c853deee4ff4ab1cfa024241161da7a",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/ARCHIVE_MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ARCHIVE_MANIFEST.json",
+      "expected_bytes": 1716,
+      "expected_sha256": "98765090c70bba71297daa69a60e53d421f29c715d09150281d52aa644d770f3",
+      "expected_git_blob_sha1": "0792ef26a403f4e297c95564736bce567b06c7f3",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ARCHIVE_MANIFEST.json",
+      "actual_bytes": 1716,
+      "actual_sha256": "98765090c70bba71297daa69a60e53d421f29c715d09150281d52aa644d770f3",
+      "actual_git_blob_sha1": "0792ef26a403f4e297c95564736bce567b06c7f3",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/ASSET_FILE_INDEX.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ASSET_FILE_INDEX.csv",
+      "expected_bytes": 1648863,
+      "expected_sha256": "0827383534747738ab7516334ef0c1eee2685525d988d7b5977e26edcaf33799",
+      "expected_git_blob_sha1": "311cbfff2bcee1c74151475386572c1001622bdf",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ASSET_FILE_INDEX.csv",
+      "actual_bytes": 1648863,
+      "actual_sha256": "0827383534747738ab7516334ef0c1eee2685525d988d7b5977e26edcaf33799",
+      "actual_git_blob_sha1": "311cbfff2bcee1c74151475386572c1001622bdf",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/ASSET_GROUP_INDEX.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ASSET_GROUP_INDEX.csv",
+      "expected_bytes": 14510,
+      "expected_sha256": "37e006df2c25b23809e93f7aef5adc89f666b2633367fe6f4f5edbba5cf43034",
+      "expected_git_blob_sha1": "ec066eefef0cf9a1f4d88e0c5612ef17ec5c489f",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/ASSET_GROUP_INDEX.csv",
+      "actual_bytes": 14510,
+      "actual_sha256": "37e006df2c25b23809e93f7aef5adc89f666b2633367fe6f4f5edbba5cf43034",
+      "actual_git_blob_sha1": "ec066eefef0cf9a1f4d88e0c5612ef17ec5c489f",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/DOWNLOADS.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/DOWNLOADS.md",
+      "expected_bytes": 4466,
+      "expected_sha256": "f9dd6f89f068f206a11cb9958354be01bc0371478165cf7aba631b2dd8f04595",
+      "expected_git_blob_sha1": "b874990d20fc8ad2a7481eb0c3008a8cb2b42449",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/DOWNLOADS.md",
+      "actual_bytes": 4466,
+      "actual_sha256": "f9dd6f89f068f206a11cb9958354be01bc0371478165cf7aba631b2dd8f04595",
+      "actual_git_blob_sha1": "b874990d20fc8ad2a7481eb0c3008a8cb2b42449",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/FINAL_PUBLICATION_VERIFICATION.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/FINAL_PUBLICATION_VERIFICATION.json",
+      "expected_bytes": 11570,
+      "expected_sha256": "18cf7a8fdd3e32904baf3e962ca7756deb82711b52aae1b1f3309123fe24037e",
+      "expected_git_blob_sha1": "245265bcc9fd3220dca59abdfe1cadd6c2a76596",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/FINAL_PUBLICATION_VERIFICATION.json",
+      "actual_bytes": 11570,
+      "actual_sha256": "18cf7a8fdd3e32904baf3e962ca7756deb82711b52aae1b1f3309123fe24037e",
+      "actual_git_blob_sha1": "245265bcc9fd3220dca59abdfe1cadd6c2a76596",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/INDEX.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/INDEX.md",
+      "expected_bytes": 1264,
+      "expected_sha256": "70ab99379ccada8a1fa3a53561cca422bf4dd5affd3a26140f4df45cf74efe1c",
+      "expected_git_blob_sha1": "47ef4587d0a90132beb4f7e172199fbaa446d945",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/INDEX.md",
+      "actual_bytes": 1264,
+      "actual_sha256": "70ab99379ccada8a1fa3a53561cca422bf4dd5affd3a26140f4df45cf74efe1c",
+      "actual_git_blob_sha1": "47ef4587d0a90132beb4f7e172199fbaa446d945",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/PUBLICATION_STATUS.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/PUBLICATION_STATUS.json",
+      "expected_bytes": 2844,
+      "expected_sha256": "191ae78edfc3890112b336137a91fab55333e0ca8b165d129d9e15105cde8523",
+      "expected_git_blob_sha1": "2e9f9b5b0e94195fd4bcd29729017b5e52a77c25",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/PUBLICATION_STATUS.json",
+      "actual_bytes": 2844,
+      "actual_sha256": "191ae78edfc3890112b336137a91fab55333e0ca8b165d129d9e15105cde8523",
+      "actual_git_blob_sha1": "2e9f9b5b0e94195fd4bcd29729017b5e52a77c25",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/PUBLICATION_VERIFICATION.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/PUBLICATION_VERIFICATION.json",
+      "expected_bytes": 4581,
+      "expected_sha256": "5368de6d685708bc7a3051472e9afd18587796b155ee9ff26b7d8284d47213ef",
+      "expected_git_blob_sha1": "59d5571129d63045db449fb3363e8d5926ee4f18",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/PUBLICATION_VERIFICATION.json",
+      "actual_bytes": 4581,
+      "actual_sha256": "5368de6d685708bc7a3051472e9afd18587796b155ee9ff26b7d8284d47213ef",
+      "actual_git_blob_sha1": "59d5571129d63045db449fb3363e8d5926ee4f18",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/README.md",
+      "expected_bytes": 4476,
+      "expected_sha256": "1575d15a5f2538faeae9b7e762d9d5d7da97bb35eec07c91fa6abb094d0fa928",
+      "expected_git_blob_sha1": "e2e0ec69722b961e0af890544f6e3f031320f12a",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/README.md",
+      "actual_bytes": 4476,
+      "actual_sha256": "1575d15a5f2538faeae9b7e762d9d5d7da97bb35eec07c91fa6abb094d0fa928",
+      "actual_git_blob_sha1": "e2e0ec69722b961e0af890544f6e3f031320f12a",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/RELEASE_NOTES.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/RELEASE_NOTES.md",
+      "expected_bytes": 4325,
+      "expected_sha256": "089c37651d8cb898f0d0e1cb4b4d942a5becdbd5700b5b35884ef4a84b6e1137",
+      "expected_git_blob_sha1": "6a09594608f4eb4de06ded37daf5093bf46a1c9f",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/RELEASE_NOTES.md",
+      "actual_bytes": 4325,
+      "actual_sha256": "089c37651d8cb898f0d0e1cb4b4d942a5becdbd5700b5b35884ef4a84b6e1137",
+      "actual_git_blob_sha1": "6a09594608f4eb4de06ded37daf5093bf46a1c9f",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/RELEASE_SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/RELEASE_SHA256SUMS.txt",
+      "expected_bytes": 1067,
+      "expected_sha256": "ccd0c8b511b3ce22531cb0e736d6a4c9bdfa0fc8b2c58e02c2110bb95b219fc1",
+      "expected_git_blob_sha1": "beb8a1797b35f6ae1c32faf951c0b4e4e6852aa4",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/RELEASE_SHA256SUMS.txt",
+      "actual_bytes": 1067,
+      "actual_sha256": "ccd0c8b511b3ce22531cb0e736d6a4c9bdfa0fc8b2c58e02c2110bb95b219fc1",
+      "actual_git_blob_sha1": "beb8a1797b35f6ae1c32faf951c0b4e4e6852aa4",
+      "status": "PASS"
+    },
+    {
+      "path": "archive_docs/20261007_r1/VERIFICATION.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/VERIFICATION.md",
+      "expected_bytes": 3080,
+      "expected_sha256": "89464162452f45d693a8c9f1aa8cdc46d0fdd9e3aa4a620ae0f1da801a4e92fb",
+      "expected_git_blob_sha1": "a78d92f29fade4d904cad80cca0cd6f7c89a490b",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/archive_docs/20261007_r1/VERIFICATION.md",
+      "actual_bytes": 3080,
+      "actual_sha256": "89464162452f45d693a8c9f1aa8cdc46d0fdd9e3aa4a620ae0f1da801a4e92fb",
+      "actual_git_blob_sha1": "a78d92f29fade4d904cad80cca0cd6f7c89a490b",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_01.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_01.pdf",
+      "expected_bytes": 5380771,
+      "expected_sha256": "a7169b3128a80d2710566d0298c5507fb2ff84d9ff8b4f0e69f2d434d876eaa7",
+      "expected_git_blob_sha1": "186e712427c1406cbc7bc05e0ffb1f8ef20b07a5",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_01.pdf",
+      "actual_bytes": 5380771,
+      "actual_sha256": "a7169b3128a80d2710566d0298c5507fb2ff84d9ff8b4f0e69f2d434d876eaa7",
+      "actual_git_blob_sha1": "186e712427c1406cbc7bc05e0ffb1f8ef20b07a5",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_02.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_02.pdf",
+      "expected_bytes": 4624950,
+      "expected_sha256": "1e9f77e3ab1a7e1dd52cedb6ab3c522ac0188cc59669dea4dc6a9b13e6d71c55",
+      "expected_git_blob_sha1": "8230ca041f7bf4c466e3140bdee5a4bd1a47cc60",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_02.pdf",
+      "actual_bytes": 4624950,
+      "actual_sha256": "1e9f77e3ab1a7e1dd52cedb6ab3c522ac0188cc59669dea4dc6a9b13e6d71c55",
+      "actual_git_blob_sha1": "8230ca041f7bf4c466e3140bdee5a4bd1a47cc60",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_03.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_03.pdf",
+      "expected_bytes": 5357346,
+      "expected_sha256": "a2907705c5961d0e00322d3c8f1b8a414c08a1e82894fa3306caa1f6ba296e10",
+      "expected_git_blob_sha1": "7432bad12f078ea572220016964a2bb4f7a5bd2b",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_03.pdf",
+      "actual_bytes": 5357346,
+      "actual_sha256": "a2907705c5961d0e00322d3c8f1b8a414c08a1e82894fa3306caa1f6ba296e10",
+      "actual_git_blob_sha1": "7432bad12f078ea572220016964a2bb4f7a5bd2b",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_04.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_04.pdf",
+      "expected_bytes": 4685530,
+      "expected_sha256": "f292e1d54217dba39e43f35a48c84f68d34a1ad418cfd56ff507b3bc077a96be",
+      "expected_git_blob_sha1": "ff55ab56e6d967e1ed790f142aea2d1d30626574",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_04.pdf",
+      "actual_bytes": 4685530,
+      "actual_sha256": "f292e1d54217dba39e43f35a48c84f68d34a1ad418cfd56ff507b3bc077a96be",
+      "actual_git_blob_sha1": "ff55ab56e6d967e1ed790f142aea2d1d30626574",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_05.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_05.pdf",
+      "expected_bytes": 5110237,
+      "expected_sha256": "387eea979fb51dbd228eb7f8d0898b9395c919c6e46e10253af6571ffeb85e49",
+      "expected_git_blob_sha1": "1931fc48e302729e865446652312a3f0f6d2ff7c",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_05.pdf",
+      "actual_bytes": 5110237,
+      "actual_sha256": "387eea979fb51dbd228eb7f8d0898b9395c919c6e46e10253af6571ffeb85e49",
+      "actual_git_blob_sha1": "1931fc48e302729e865446652312a3f0f6d2ff7c",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_06.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_06.pdf",
+      "expected_bytes": 4855770,
+      "expected_sha256": "f359805ce5fd99d683d9fac841abbc290bfd3cde77015558ebd727b0e36d618c",
+      "expected_git_blob_sha1": "33fb94b54a5d94ead86ec50acb0b493370462a56",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_06.pdf",
+      "actual_bytes": 4855770,
+      "actual_sha256": "f359805ce5fd99d683d9fac841abbc290bfd3cde77015558ebd727b0e36d618c",
+      "actual_git_blob_sha1": "33fb94b54a5d94ead86ec50acb0b493370462a56",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_07.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_07.pdf",
+      "expected_bytes": 4585797,
+      "expected_sha256": "e1049f1e74a7e8e8ca231685c6610b9b2d25b02f556ba3b93b343ccc8da6ba5a",
+      "expected_git_blob_sha1": "6c0737aac7a4e569026aeb2e5108ea4294a96841",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_07.pdf",
+      "actual_bytes": 4585797,
+      "actual_sha256": "e1049f1e74a7e8e8ca231685c6610b9b2d25b02f556ba3b93b343ccc8da6ba5a",
+      "actual_git_blob_sha1": "6c0737aac7a4e569026aeb2e5108ea4294a96841",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_08.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_08.pdf",
+      "expected_bytes": 4643252,
+      "expected_sha256": "294311a4fcb9519c8f57a13686267c98325c8f575d0f57bfacc75ec1de17219a",
+      "expected_git_blob_sha1": "7e6d0916d15a8b80b5d085c2d6455a23db6b8b8f",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_08.pdf",
+      "actual_bytes": 4643252,
+      "actual_sha256": "294311a4fcb9519c8f57a13686267c98325c8f575d0f57bfacc75ec1de17219a",
+      "actual_git_blob_sha1": "7e6d0916d15a8b80b5d085c2d6455a23db6b8b8f",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_09.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_09.pdf",
+      "expected_bytes": 5397108,
+      "expected_sha256": "d47811a63a9476ee9491ffa9a3683abb1e1f52dc9f1df798bdbf406d1c2995da",
+      "expected_git_blob_sha1": "a76c67ac3eff1055e554bb89bc312e7d8bd53cc3",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_09.pdf",
+      "actual_bytes": 5397108,
+      "actual_sha256": "d47811a63a9476ee9491ffa9a3683abb1e1f52dc9f1df798bdbf406d1c2995da",
+      "actual_git_blob_sha1": "a76c67ac3eff1055e554bb89bc312e7d8bd53cc3",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_10.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_10.pdf",
+      "expected_bytes": 5258085,
+      "expected_sha256": "d486de4293fcc8fc59722b089f68ece00e603fe0204d3ca397037438862e6d5e",
+      "expected_git_blob_sha1": "66cb840969ba857d6c5a50fbda4b5eae29dfc0d1",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_10.pdf",
+      "actual_bytes": 5258085,
+      "actual_sha256": "d486de4293fcc8fc59722b089f68ece00e603fe0204d3ca397037438862e6d5e",
+      "actual_git_blob_sha1": "66cb840969ba857d6c5a50fbda4b5eae29dfc0d1",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_11.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_11.pdf",
+      "expected_bytes": 4779104,
+      "expected_sha256": "9e9a24daa49b88c7b76561a0301d23037e3bee33252ce060cdce4983c430c18f",
+      "expected_git_blob_sha1": "523fdb57623b4ed01c25fa6623c7747d4985b03e",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_11.pdf",
+      "actual_bytes": 4779104,
+      "actual_sha256": "9e9a24daa49b88c7b76561a0301d23037e3bee33252ce060cdce4983c430c18f",
+      "actual_git_blob_sha1": "523fdb57623b4ed01c25fa6623c7747d4985b03e",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_12.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_12.pdf",
+      "expected_bytes": 5093400,
+      "expected_sha256": "15b181ea529c6fb703ae03e846510e6f5e78524a4e17a0368021c6616ddd41fd",
+      "expected_git_blob_sha1": "211b41c899c5c655525450bb9f0f1c32ed0c5005",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_12.pdf",
+      "actual_bytes": 5093400,
+      "actual_sha256": "15b181ea529c6fb703ae03e846510e6f5e78524a4e17a0368021c6616ddd41fd",
+      "actual_git_blob_sha1": "211b41c899c5c655525450bb9f0f1c32ed0c5005",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_13.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_13.pdf",
+      "expected_bytes": 4860649,
+      "expected_sha256": "638063250d28872d152dc9bafed238a6bcad7c1738be4f874aeca91b9baf18b7",
+      "expected_git_blob_sha1": "6bb85a5834a82e2da71b3a32c577a545bb98f9b3",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_13.pdf",
+      "actual_bytes": 4860649,
+      "actual_sha256": "638063250d28872d152dc9bafed238a6bcad7c1738be4f874aeca91b9baf18b7",
+      "actual_git_blob_sha1": "6bb85a5834a82e2da71b3a32c577a545bb98f9b3",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_14.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_14.pdf",
+      "expected_bytes": 4890563,
+      "expected_sha256": "0e39882b3f57d8bfd7a793479454a0b961393ee2c2edd46bede90290289b0672",
+      "expected_git_blob_sha1": "94975928f845f403ae5a903e930e642ec9927531",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_14.pdf",
+      "actual_bytes": 4890563,
+      "actual_sha256": "0e39882b3f57d8bfd7a793479454a0b961393ee2c2edd46bede90290289b0672",
+      "actual_git_blob_sha1": "94975928f845f403ae5a903e930e642ec9927531",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_15.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_15.pdf",
+      "expected_bytes": 4921939,
+      "expected_sha256": "5fd2525e1b85350134c19d8c5f5ae1421ab6072ff1cbef1b65548bfe33314231",
+      "expected_git_blob_sha1": "1e661c3681bbf9464684aa67012802d942ccc106",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_15.pdf",
+      "actual_bytes": 4921939,
+      "actual_sha256": "5fd2525e1b85350134c19d8c5f5ae1421ab6072ff1cbef1b65548bfe33314231",
+      "actual_git_blob_sha1": "1e661c3681bbf9464684aa67012802d942ccc106",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_16.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_16.pdf",
+      "expected_bytes": 5442432,
+      "expected_sha256": "b260e9247012e734c259da2b9e8ce9272ed3a44a3155c788494db00ff9e6213a",
+      "expected_git_blob_sha1": "9eeff74fd655409ad750251dbef70f826ab75140",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_16.pdf",
+      "actual_bytes": 5442432,
+      "actual_sha256": "b260e9247012e734c259da2b9e8ce9272ed3a44a3155c788494db00ff9e6213a",
+      "actual_git_blob_sha1": "9eeff74fd655409ad750251dbef70f826ab75140",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_17.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_17.pdf",
+      "expected_bytes": 5030523,
+      "expected_sha256": "9c419dad61f08096f8e41cc6f19545305f91ff93db0ca14adaaea85f71019c34",
+      "expected_git_blob_sha1": "f444780b911c3b7b8f6383f147368000583ca2fa",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_17.pdf",
+      "actual_bytes": 5030523,
+      "actual_sha256": "9c419dad61f08096f8e41cc6f19545305f91ff93db0ca14adaaea85f71019c34",
+      "actual_git_blob_sha1": "f444780b911c3b7b8f6383f147368000583ca2fa",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_18.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_18.pdf",
+      "expected_bytes": 4791822,
+      "expected_sha256": "b18148f3f99fa52acb331d1ae428b65298a9fb1b36e6008b4fcd1c5790944b70",
+      "expected_git_blob_sha1": "d1f75657197335d769b615b8245ebb53082a17fd",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_18.pdf",
+      "actual_bytes": 4791822,
+      "actual_sha256": "b18148f3f99fa52acb331d1ae428b65298a9fb1b36e6008b4fcd1c5790944b70",
+      "actual_git_blob_sha1": "d1f75657197335d769b615b8245ebb53082a17fd",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_19.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_19.pdf",
+      "expected_bytes": 5242203,
+      "expected_sha256": "adccb2e2f5709f2157e2d4556bd6e952b5144000f126f5d7c16341787b7bad68",
+      "expected_git_blob_sha1": "f04173222bbdff4c321fb8750eab801994ce51b9",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_19.pdf",
+      "actual_bytes": 5242203,
+      "actual_sha256": "adccb2e2f5709f2157e2d4556bd6e952b5144000f126f5d7c16341787b7bad68",
+      "actual_git_blob_sha1": "f04173222bbdff4c321fb8750eab801994ce51b9",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Atlas_20.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_20.pdf",
+      "expected_bytes": 703983,
+      "expected_sha256": "fd5e95b4f5be5112ed3d82795f7617dc1f2581f140764b0b0aa9e4f8ea3bdf1f",
+      "expected_git_blob_sha1": "03556a1017dd255d96aed4b78e9fc947e8f018da",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Atlas_20.pdf",
+      "actual_bytes": 703983,
+      "actual_sha256": "fd5e95b4f5be5112ed3d82795f7617dc1f2581f140764b0b0aa9e4f8ea3bdf1f",
+      "actual_git_blob_sha1": "03556a1017dd255d96aed4b78e9fc947e8f018da",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Complete_Review_Notes.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Complete_Review_Notes.pdf",
+      "expected_bytes": 253199,
+      "expected_sha256": "468e3b92fbd33b1ff8f24f3679251721c2e934fa7f2fe5a05848b8c672babe09",
+      "expected_git_blob_sha1": "c39c0cc27154205a70c9c0856d003fa6621407db",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Complete_Review_Notes.pdf",
+      "actual_bytes": 253199,
+      "actual_sha256": "468e3b92fbd33b1ff8f24f3679251721c2e934fa7f2fe5a05848b8c672babe09",
+      "actual_git_blob_sha1": "c39c0cc27154205a70c9c0856d003fa6621407db",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Directory_and_Review_Brief.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Directory_and_Review_Brief.pdf",
+      "expected_bytes": 66882,
+      "expected_sha256": "0e49172dd10aa2e8b603002c419627c1eb8f4985f531000cafffe68b3dc928b9",
+      "expected_git_blob_sha1": "0057fc83bf30fccaa18fdb84a092c3fc72e74e82",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Directory_and_Review_Brief.pdf",
+      "actual_bytes": 66882,
+      "actual_sha256": "0e49172dd10aa2e8b603002c419627c1eb8f4985f531000cafffe68b3dc928b9",
+      "actual_git_blob_sha1": "0057fc83bf30fccaa18fdb84a092c3fc72e74e82",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "expected_bytes": 725968,
+      "expected_sha256": "68bbd8649271eeb75097646cb69ece4eeb9bf38bdd086ccdf8aa9cb2019290f1",
+      "expected_git_blob_sha1": "aa50438a472b49d9389cfac9c9df7f938b13e9ef",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/Campus_LOD_Harper_Courtyard_Appendix.pdf",
+      "actual_bytes": 725968,
+      "actual_sha256": "68bbd8649271eeb75097646cb69ece4eeb9bf38bdd086ccdf8aa9cb2019290f1",
+      "actual_git_blob_sha1": "aa50438a472b49d9389cfac9c9df7f938b13e9ef",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/FILES_SHA256.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/FILES_SHA256.json",
+      "expected_bytes": 4372,
+      "expected_sha256": "25f815779e7c8a5d88cd08dd45dfa6441857fa3f0ea290b0b782c4c901ef3319",
+      "expected_git_blob_sha1": "339b5562475f95dc024739a979213fda76f153e8",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/FILES_SHA256.json",
+      "actual_bytes": 4372,
+      "actual_sha256": "25f815779e7c8a5d88cd08dd45dfa6441857fa3f0ea290b0b782c4c901ef3319",
+      "actual_git_blob_sha1": "339b5562475f95dc024739a979213fda76f153e8",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/README.md",
+      "expected_bytes": 3676,
+      "expected_sha256": "6a3f18436a76a14eada1ff1d0e9050407d6d69f841f607e134578d0b43404606",
+      "expected_git_blob_sha1": "8b01370f6dc6b43a3dbfe06a38868123524a4e10",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/README.md",
+      "actual_bytes": 3676,
+      "actual_sha256": "6a3f18436a76a14eada1ff1d0e9050407d6d69f841f607e134578d0b43404606",
+      "actual_git_blob_sha1": "8b01370f6dc6b43a3dbfe06a38868123524a4e10",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/SHA256SUMS.txt",
+      "expected_bytes": 2365,
+      "expected_sha256": "231096024a2168f6a62ba88de32f2fa0e0d1867236d485b045f03281a4389230",
+      "expected_git_blob_sha1": "667dc265ab8623839bd6da3b5342aace15e817bb",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/SHA256SUMS.txt",
+      "actual_bytes": 2365,
+      "actual_sha256": "231096024a2168f6a62ba88de32f2fa0e0d1867236d485b045f03281a4389230",
+      "actual_git_blob_sha1": "667dc265ab8623839bd6da3b5342aace15e817bb",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/index.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/index.json",
+      "expected_bytes": 9206,
+      "expected_sha256": "75dcab36f8ef2e1f6dd91811a5aa8ca6645c3b1bec38cb2c0f90decdc9a9acec",
+      "expected_git_blob_sha1": "17bbb0e8b62f47c73242389d6daa84e8ccfa7c61",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/index.json",
+      "actual_bytes": 9206,
+      "actual_sha256": "75dcab36f8ef2e1f6dd91811a5aa8ca6645c3b1bec38cb2c0f90decdc9a9acec",
+      "actual_git_blob_sha1": "17bbb0e8b62f47c73242389d6daa84e8ccfa7c61",
+      "status": "PASS"
+    },
+    {
+      "path": "atlas/20261013/original_filename_index.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/original_filename_index.csv",
+      "expected_bytes": 4880,
+      "expected_sha256": "e2367a2fe71829d191df0d3ac55245e813666f4eeeac895aa5495ac6e63a026b",
+      "expected_git_blob_sha1": "df4ae298f4f299ac69407d9bf3bdb034514118ed",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/atlas/20261013/original_filename_index.csv",
+      "actual_bytes": 4880,
+      "actual_sha256": "e2367a2fe71829d191df0d3ac55245e813666f4eeeac895aa5495ac6e63a026b",
+      "actual_git_blob_sha1": "df4ae298f4f299ac69407d9bf3bdb034514118ed",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/FILES_SHA256.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/FILES_SHA256.json",
+      "expected_bytes": 4407,
+      "expected_sha256": "abd492371f96823f2a55c271d8dec00284ddf886a00a3b9707fa0d305b3a0038",
+      "expected_git_blob_sha1": "b8a48fad479fa373b40eaca68340eebb1ae53321",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/FILES_SHA256.json",
+      "actual_bytes": 4407,
+      "actual_sha256": "abd492371f96823f2a55c271d8dec00284ddf886a00a3b9707fa0d305b3a0038",
+      "actual_git_blob_sha1": "b8a48fad479fa373b40eaca68340eebb1ae53321",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/QA_SUMMARY.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/QA_SUMMARY.md",
+      "expected_bytes": 3554,
+      "expected_sha256": "00df33d32e2ca02d4b97fcfe1d912bfc834284c089885cc6db1ab4f3cf5998c5",
+      "expected_git_blob_sha1": "c4d35cf809f9f70e5a24b4014551f4e558242fc9",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/QA_SUMMARY.md",
+      "actual_bytes": 3554,
+      "actual_sha256": "00df33d32e2ca02d4b97fcfe1d912bfc834284c089885cc6db1ab4f3cf5998c5",
+      "actual_git_blob_sha1": "c4d35cf809f9f70e5a24b4014551f4e558242fc9",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/README.md",
+      "expected_bytes": 4896,
+      "expected_sha256": "c4dd7752ec9efde963404abc5fa741dc23a7ba40506915801a97262c49777345",
+      "expected_git_blob_sha1": "1fef2c03d2ba9e41e4a99d8ff0e2f6f2605e2592",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/README.md",
+      "actual_bytes": 4896,
+      "actual_sha256": "c4dd7752ec9efde963404abc5fa741dc23a7ba40506915801a97262c49777345",
+      "actual_git_blob_sha1": "1fef2c03d2ba9e41e4a99d8ff0e2f6f2605e2592",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/SHA256SUMS.txt",
+      "expected_bytes": 2514,
+      "expected_sha256": "88eed6175fd5373e8cba056f308f247877fcdf7785daaf4e3a077140dd024481",
+      "expected_git_blob_sha1": "8b85a88826961cbb0b70ef56cc37e894176d44b2",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/SHA256SUMS.txt",
+      "actual_bytes": 2514,
+      "actual_sha256": "88eed6175fd5373e8cba056f308f247877fcdf7785daaf4e3a077140dd024481",
+      "actual_git_blob_sha1": "8b85a88826961cbb0b70ef56cc37e894176d44b2",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/disposition_ledger_136.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/disposition_ledger_136.csv",
+      "expected_bytes": 319165,
+      "expected_sha256": "b3dd175734b8897f3bfa48c730179088ff59c7908a2d652cbcfad034f0c051b9",
+      "expected_git_blob_sha1": "ee398966b3679674a449114d08bfbdd2e1691eac",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/disposition_ledger_136.csv",
+      "actual_bytes": 319165,
+      "actual_sha256": "b3dd175734b8897f3bfa48c730179088ff59c7908a2d652cbcfad034f0c051b9",
+      "actual_git_blob_sha1": "ee398966b3679674a449114d08bfbdd2e1691eac",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/disposition_ledger_136.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/disposition_ledger_136.json",
+      "expected_bytes": 402010,
+      "expected_sha256": "9fd32ed90e875d7235817537b13f979cac78d84fd8e1fd8e5000e45ef3b1d955",
+      "expected_git_blob_sha1": "d707d23b14e40d5e4c4c6cc8a3748580c3579b75",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/disposition_ledger_136.json",
+      "actual_bytes": 402010,
+      "actual_sha256": "9fd32ed90e875d7235817537b13f979cac78d84fd8e1fd8e5000e45ef3b1d955",
+      "actual_git_blob_sha1": "d707d23b14e40d5e4c4c6cc8a3748580c3579b75",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/final_source_sha256_manifest.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/final_source_sha256_manifest.csv",
+      "expected_bytes": 21946,
+      "expected_sha256": "b9d6bdba1ecd4e4eefdf5f31ede66a393e8e1959737b751c1f49f9bcaf3cb962",
+      "expected_git_blob_sha1": "b01f554fb02d92bad4c35b703568e5a4c9bb99f3",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/final_source_sha256_manifest.csv",
+      "actual_bytes": 21946,
+      "actual_sha256": "b9d6bdba1ecd4e4eefdf5f31ede66a393e8e1959737b751c1f49f9bcaf3cb962",
+      "actual_git_blob_sha1": "b01f554fb02d92bad4c35b703568e5a4c9bb99f3",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/final_source_sha256_manifest.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/final_source_sha256_manifest.json",
+      "expected_bytes": 39855,
+      "expected_sha256": "1812b6924ef570612a39f4a52a4251d29dc5f0071bc2467d57eb186a02a3cd9e",
+      "expected_git_blob_sha1": "1b854253b3acbb1da4eb3ca30b5da9f433a1bfcf",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/final_source_sha256_manifest.json",
+      "actual_bytes": 39855,
+      "actual_sha256": "1812b6924ef570612a39f4a52a4251d29dc5f0071bc2467d57eb186a02a3cd9e",
+      "actual_git_blob_sha1": "1b854253b3acbb1da4eb3ca30b5da9f433a1bfcf",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/licenses/DejaVu_FONT_LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/DejaVu_FONT_LICENSE.txt",
+      "expected_bytes": 3859,
+      "expected_sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "expected_git_blob_sha1": "b3d93a1235a82213fbc451853317c40e62ed9272",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/DejaVu_FONT_LICENSE.txt",
+      "actual_bytes": 3859,
+      "actual_sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "actual_git_blob_sha1": "b3d93a1235a82213fbc451853317c40e62ed9272",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/licenses/README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/README.md",
+      "expected_bytes": 1103,
+      "expected_sha256": "fdb5e50930ddc41d8072b580480ddf3961b45e69eca42601655f63a691a8beb0",
+      "expected_git_blob_sha1": "0259e7087f3e248a43be3c1928914fdd6d3e5c9a",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/README.md",
+      "actual_bytes": 1103,
+      "actual_sha256": "fdb5e50930ddc41d8072b580480ddf3961b45e69eca42601655f63a691a8beb0",
+      "actual_git_blob_sha1": "0259e7087f3e248a43be3c1928914fdd6d3e5c9a",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/licenses/osm_attribution_16_groups.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/osm_attribution_16_groups.csv",
+      "expected_bytes": 14461,
+      "expected_sha256": "d53e06da2f4bf507e260b3acb12e5d1ac36c5a5414ad938ab60a321c3463f4f4",
+      "expected_git_blob_sha1": "0a98cde4e3c98bab17010b8f8d0ac933675d183c",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/osm_attribution_16_groups.csv",
+      "actual_bytes": 14461,
+      "actual_sha256": "d53e06da2f4bf507e260b3acb12e5d1ac36c5a5414ad938ab60a321c3463f4f4",
+      "actual_git_blob_sha1": "0a98cde4e3c98bab17010b8f8d0ac933675d183c",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/licenses/osm_attribution_16_groups.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/osm_attribution_16_groups.json",
+      "expected_bytes": 18317,
+      "expected_sha256": "a0e6011c60194a03eb1ad2b4cc8d0a464dc372098c7196fa5e949c5311e4d23f",
+      "expected_git_blob_sha1": "ca4e24d57842feae72cbd92472800f485db80003",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/osm_attribution_16_groups.json",
+      "actual_bytes": 18317,
+      "actual_sha256": "a0e6011c60194a03eb1ad2b4cc8d0a464dc372098c7196fa5e949c5311e4d23f",
+      "actual_git_blob_sha1": "ca4e24d57842feae72cbd92472800f485db80003",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/licenses/retained_notice_sources.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/retained_notice_sources.json",
+      "expected_bytes": 614,
+      "expected_sha256": "41f8bda4b4bb1fd05cc080222df444a18d518ab308e65e81b88f140d8ccbdf4c",
+      "expected_git_blob_sha1": "4fa9fb284a370cbe0c7ce5214f61e9a4a3e51006",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/licenses/retained_notice_sources.json",
+      "actual_bytes": 614,
+      "actual_sha256": "41f8bda4b4bb1fd05cc080222df444a18d518ab308e65e81b88f140d8ccbdf4c",
+      "actual_git_blob_sha1": "4fa9fb284a370cbe0c7ce5214f61e9a4a3e51006",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/review_register_136.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/review_register_136.csv",
+      "expected_bytes": 240778,
+      "expected_sha256": "210548968ecee655c601e6b793205754a92c092f5c07c9689144195c31136796",
+      "expected_git_blob_sha1": "5278cfab8ab4be8a1d80b0d337319d9da2a31286",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/review_register_136.csv",
+      "actual_bytes": 240778,
+      "actual_sha256": "210548968ecee655c601e6b793205754a92c092f5c07c9689144195c31136796",
+      "actual_git_blob_sha1": "5278cfab8ab4be8a1d80b0d337319d9da2a31286",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/review_register_136.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/review_register_136.json",
+      "expected_bytes": 996725,
+      "expected_sha256": "81ce7ebb6120b43b9543ef92ec7545224c535f0cba8e5818111cb9d76f4c7494",
+      "expected_git_blob_sha1": "d04849ad89ec97f119afcfd6644098d051926edb",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/review_register_136.json",
+      "actual_bytes": 996725,
+      "actual_sha256": "81ce7ebb6120b43b9543ef92ec7545224c535f0cba8e5818111cb9d76f4c7494",
+      "actual_git_blob_sha1": "d04849ad89ec97f119afcfd6644098d051926edb",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/actual_fbx_import_checks.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/actual_fbx_import_checks.json",
+      "expected_bytes": 665606,
+      "expected_sha256": "46220ed931df859016f8cfb7550ddb8b7b08f712e4410ca2f946d682b6053665",
+      "expected_git_blob_sha1": "0a4465319ec7a738135925f021682d00e601fd93",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/actual_fbx_import_checks.json",
+      "actual_bytes": 665606,
+      "actual_sha256": "46220ed931df859016f8cfb7550ddb8b7b08f712e4410ca2f946d682b6053665",
+      "actual_git_blob_sha1": "0a4465319ec7a738135925f021682d00e601fd93",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/asset_changes.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/asset_changes.json",
+      "expected_bytes": 61102,
+      "expected_sha256": "73150278300ada01f87ab84ed0868752fa87578343532d09bb8b530c2a22c8fb",
+      "expected_git_blob_sha1": "6a3f8e8926c09d5f9d8a92fca2202ee5b4549b0e",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/asset_changes.json",
+      "actual_bytes": 61102,
+      "actual_sha256": "73150278300ada01f87ab84ed0868752fa87578343532d09bb8b530c2a22c8fb",
+      "actual_git_blob_sha1": "6a3f8e8926c09d5f9d8a92fca2202ee5b4549b0e",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/changed_asset_paths.csv",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/changed_asset_paths.csv",
+      "expected_bytes": 40259,
+      "expected_sha256": "4806d9bfc2b773651a74072dd3068181cf773589d630714f3c180b59a8916333",
+      "expected_git_blob_sha1": "b24c6f70997ea3a7035ba72d709c88442230657c",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/changed_asset_paths.csv",
+      "actual_bytes": 40259,
+      "actual_sha256": "4806d9bfc2b773651a74072dd3068181cf773589d630714f3c180b59a8916333",
+      "actual_git_blob_sha1": "b24c6f70997ea3a7035ba72d709c88442230657c",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/evidence_provenance.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/evidence_provenance.json",
+      "expected_bytes": 2886,
+      "expected_sha256": "59fb3ef7e0881da9c4b9c5b20514f41c636a1b2b907d46a3c7c80cf6c4499c4d",
+      "expected_git_blob_sha1": "6a1ed6e6d54b0ab76a31c6955d1e00eb1aa449c3",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/evidence_provenance.json",
+      "actual_bytes": 2886,
+      "actual_sha256": "59fb3ef7e0881da9c4b9c5b20514f41c636a1b2b907d46a3c7c80cf6c4499c4d",
+      "actual_git_blob_sha1": "6a1ed6e6d54b0ab76a31c6955d1e00eb1aa449c3",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/final_delivery_verification.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/final_delivery_verification.json",
+      "expected_bytes": 1937,
+      "expected_sha256": "9f1c03cf00c7f5eb74452748d8a4cc31db3d859abe33d0fb6bab7aa74ea00b5a",
+      "expected_git_blob_sha1": "5ea501362cf8e8714ea53dafac57d49ebb43f26b",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/final_delivery_verification.json",
+      "actual_bytes": 1937,
+      "actual_sha256": "9f1c03cf00c7f5eb74452748d8a4cc31db3d859abe33d0fb6bab7aa74ea00b5a",
+      "actual_git_blob_sha1": "5ea501362cf8e8714ea53dafac57d49ebb43f26b",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/final_export_qa_summary.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/final_export_qa_summary.json",
+      "expected_bytes": 4784,
+      "expected_sha256": "a3509f67fae3eb733bb80a86cea9a13493c6dd5d1c6db2dbf7876f8a30dfa306",
+      "expected_git_blob_sha1": "24d1f630727ae102e60deab25b96482e3350b19c",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/final_export_qa_summary.json",
+      "actual_bytes": 4784,
+      "actual_sha256": "a3509f67fae3eb733bb80a86cea9a13493c6dd5d1c6db2dbf7876f8a30dfa306",
+      "actual_git_blob_sha1": "24d1f630727ae102e60deab25b96482e3350b19c",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/material_preservation_summary.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/material_preservation_summary.json",
+      "expected_bytes": 24939,
+      "expected_sha256": "eb7c776f66ec6b11c53e2238beeddd8bb9a50c9a0043db3f87509165e767decf",
+      "expected_git_blob_sha1": "9449263b624dc06e0c1579773c756409257be76e",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/material_preservation_summary.json",
+      "actual_bytes": 24939,
+      "actual_sha256": "eb7c776f66ec6b11c53e2238beeddd8bb9a50c9a0043db3f87509165e767decf",
+      "actual_git_blob_sha1": "9449263b624dc06e0c1579773c756409257be76e",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/mesh_merge_verification.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/mesh_merge_verification.json",
+      "expected_bytes": 46035,
+      "expected_sha256": "eddca1914d5428d8360238cd89e155d49fcc1cfe97eff2ccfe112e18bf420cc2",
+      "expected_git_blob_sha1": "a6f2f20ee31a09be450dfb4d44d03c0aabd2260b",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/mesh_merge_verification.json",
+      "actual_bytes": 46035,
+      "actual_sha256": "eddca1914d5428d8360238cd89e155d49fcc1cfe97eff2ccfe112e18bf420cc2",
+      "actual_git_blob_sha1": "a6f2f20ee31a09be450dfb4d44d03c0aabd2260b",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/public_packaging_checks.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/public_packaging_checks.json",
+      "expected_bytes": 12081,
+      "expected_sha256": "79062f8884cdcc5189a85114e3f32388cccef6c65f7303d5af136df66b4cfc7f",
+      "expected_git_blob_sha1": "8c9f60e97d9097263cf4c497ba42a1481619f34e",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/public_packaging_checks.json",
+      "actual_bytes": 12081,
+      "actual_sha256": "79062f8884cdcc5189a85114e3f32388cccef6c65f7303d5af136df66b4cfc7f",
+      "actual_git_blob_sha1": "8c9f60e97d9097263cf4c497ba42a1481619f34e",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/reconstruction_test.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/reconstruction_test.json",
+      "expected_bytes": 6673,
+      "expected_sha256": "922233fed886c1de6e0f354e01f655c2ebbde2a1ede180feb043c3144077368d",
+      "expected_git_blob_sha1": "d62bc134df51ae9ee3fdb9ca12652649dcca0327",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/reconstruction_test.json",
+      "actual_bytes": 6673,
+      "actual_sha256": "922233fed886c1de6e0f354e01f655c2ebbde2a1ede180feb043c3144077368d",
+      "actual_git_blob_sha1": "d62bc134df51ae9ee3fdb9ca12652649dcca0327",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/register_validation.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/register_validation.json",
+      "expected_bytes": 796,
+      "expected_sha256": "310145bba498943c473eff937ed4aa525a8ac0e3a8baaff110cfbe9234383815",
+      "expected_git_blob_sha1": "8ecfb8d1d6502b9bda0e8d052f32e8e540762e66",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/register_validation.json",
+      "actual_bytes": 796,
+      "actual_sha256": "310145bba498943c473eff937ed4aa525a8ac0e3a8baaff110cfbe9234383815",
+      "actual_git_blob_sha1": "8ecfb8d1d6502b9bda0e8d052f32e8e540762e66",
+      "status": "PASS"
+    },
+    {
+      "path": "audit/20261013/verification/saved_source_signature_verification.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/saved_source_signature_verification.json",
+      "expected_bytes": 21647,
+      "expected_sha256": "6d8d40cc579ff38d2a344e39ab3eb31fa4d0c35915650e8dd4ded3d6029969b9",
+      "expected_git_blob_sha1": "740c0e426f5862cecee389651f96c7fafccfa798",
+      "retained_for_reconstruction": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/audit/20261013/verification/saved_source_signature_verification.json",
+      "actual_bytes": 21647,
+      "actual_sha256": "6d8d40cc579ff38d2a344e39ab3eb31fa4d0c35915650e8dd4ded3d6029969b9",
+      "actual_git_blob_sha1": "740c0e426f5862cecee389651f96c7fafccfa798",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/CHAIN_VERIFICATION.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/CHAIN_VERIFICATION.json",
+      "expected_bytes": 2287,
+      "expected_sha256": "b85f64f526749ed4ac60680d4aaa94c07a8ca6163f7bb566123b5480ef2c2479",
+      "expected_git_blob_sha1": "1a7afa78761324ee46e1e199f4cc57b67562f85c",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/CHAIN_VERIFICATION.json",
+      "actual_bytes": 2287,
+      "actual_sha256": "b85f64f526749ed4ac60680d4aaa94c07a8ca6163f7bb566123b5480ef2c2479",
+      "actual_git_blob_sha1": "1a7afa78761324ee46e1e199f4cc57b67562f85c",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/ORCHESTRATOR_TESTS.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/ORCHESTRATOR_TESTS.json",
+      "expected_bytes": 3438,
+      "expected_sha256": "0d39086b400718987272222a95f5513e1a44c3e05bdd48c1ac46d847642de513",
+      "expected_git_blob_sha1": "3051f4efff57c4589c4edc468dfb4ed218f99e60",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/ORCHESTRATOR_TESTS.json",
+      "actual_bytes": 3438,
+      "actual_sha256": "0d39086b400718987272222a95f5513e1a44c3e05bdd48c1ac46d847642de513",
+      "actual_git_blob_sha1": "3051f4efff57c4589c4edc468dfb4ed218f99e60",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/PUBLICATION_FILES.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/PUBLICATION_FILES.json",
+      "expected_bytes": 7988,
+      "expected_sha256": "9983ac9515ef47a0ec60276a0e1449961bd04f948bb2832b2dfa0f75204792d1",
+      "expected_git_blob_sha1": "8f11ad867c804d84d79a31f14439eddb68002851",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/PUBLICATION_FILES.json",
+      "actual_bytes": 7988,
+      "actual_sha256": "9983ac9515ef47a0ec60276a0e1449961bd04f948bb2832b2dfa0f75204792d1",
+      "actual_git_blob_sha1": "8f11ad867c804d84d79a31f14439eddb68002851",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/README.md",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/README.md",
+      "expected_bytes": 9666,
+      "expected_sha256": "fdfdb87762da335e6cba08ea1c4884d1c72b8bfbd0ab7d1b9444d4dc0f83aad1",
+      "expected_git_blob_sha1": "0b4564217ca6efd344b6e600c627a43143413ec4",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/README.md",
+      "actual_bytes": 9666,
+      "actual_sha256": "fdfdb87762da335e6cba08ea1c4884d1c72b8bfbd0ab7d1b9444d4dc0f83aad1",
+      "actual_git_blob_sha1": "0b4564217ca6efd344b6e600c627a43143413ec4",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/SHA256SUMS.txt",
+      "expected_bytes": 4689,
+      "expected_sha256": "d60faef7710dbb7688ee984c90751845b16140a66fa78c47a7bd4529b7fcf0ff",
+      "expected_git_blob_sha1": "3962cb0016e926f39fe4e7e6d13cbb76ec9e24f6",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/SHA256SUMS.txt",
+      "actual_bytes": 4689,
+      "actual_sha256": "d60faef7710dbb7688ee984c90751845b16140a66fa78c47a7bd4529b7fcf0ff",
+      "actual_git_blob_sha1": "3962cb0016e926f39fe4e7e6d13cbb76ec9e24f6",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/chain_manifest.json",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/chain_manifest.json",
+      "expected_bytes": 16508,
+      "expected_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50",
+      "expected_git_blob_sha1": "d07be3dedd48a1eea334681cf17a813689f070f2",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/chain_manifest.json",
+      "actual_bytes": 16508,
+      "actual_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50",
+      "actual_git_blob_sha1": "d07be3dedd48a1eea334681cf17a813689f070f2",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_01_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_01_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "231e6473da442071825eef4d5c4866f7f6fdd2ab3cc32b33911edc7cc3b80cc4",
+      "expected_git_blob_sha1": "7737b12ae0b4e4b62947ab9622dca6e413f580e9",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_01_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "231e6473da442071825eef4d5c4866f7f6fdd2ab3cc32b33911edc7cc3b80cc4",
+      "actual_git_blob_sha1": "7737b12ae0b4e4b62947ab9622dca6e413f580e9",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_02_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_02_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "8291d041407bd6342c6dd94ba02615dfbbd328df85f41245c7d6aeb026515119",
+      "expected_git_blob_sha1": "c6678f368462f752010cabc254b9a1dbb4c75490",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_02_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "8291d041407bd6342c6dd94ba02615dfbbd328df85f41245c7d6aeb026515119",
+      "actual_git_blob_sha1": "c6678f368462f752010cabc254b9a1dbb4c75490",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_03_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_03_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "c6e97c684e7fb36120cc26591b2e5f8bef3dadbff21336fb77ae8451c74e298e",
+      "expected_git_blob_sha1": "3963cac53c95ad0b37b74e9fbd11c5e6843bfd3e",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_03_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "c6e97c684e7fb36120cc26591b2e5f8bef3dadbff21336fb77ae8451c74e298e",
+      "actual_git_blob_sha1": "3963cac53c95ad0b37b74e9fbd11c5e6843bfd3e",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_04_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_04_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "f0e812377431d1eda4d8523a42bb40b3150678deea441ebe110dd990d18473a4",
+      "expected_git_blob_sha1": "b560f8ce491a382bdc041695279cbd15510e12f5",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_04_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "f0e812377431d1eda4d8523a42bb40b3150678deea441ebe110dd990d18473a4",
+      "actual_git_blob_sha1": "b560f8ce491a382bdc041695279cbd15510e12f5",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_05_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_05_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "e48d8c23af24e2731fd11ec25c9103caf1f4283077acfde0865c9805b11dc81e",
+      "expected_git_blob_sha1": "99cbdbe90fd0dc063c8e19333ff8f45f3fca8581",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_05_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "e48d8c23af24e2731fd11ec25c9103caf1f4283077acfde0865c9805b11dc81e",
+      "actual_git_blob_sha1": "99cbdbe90fd0dc063c8e19333ff8f45f3fca8581",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_06_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_06_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "76a67c6b32620bcd6ce3cffbdf601fad563980990d914a6b12fcbae2f77fd888",
+      "expected_git_blob_sha1": "d0e7cb6dcac87171d994ca81413c8a29dc572d38",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_06_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "76a67c6b32620bcd6ce3cffbdf601fad563980990d914a6b12fcbae2f77fd888",
+      "actual_git_blob_sha1": "d0e7cb6dcac87171d994ca81413c8a29dc572d38",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_07_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_07_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "39a388e555829047ec3c47f77e399770fdca2eb73256b2d2950bf02e9fc8a2a2",
+      "expected_git_blob_sha1": "44a93902f3221658404b2c1590dc60a5f7f242c1",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_07_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "39a388e555829047ec3c47f77e399770fdca2eb73256b2d2950bf02e9fc8a2a2",
+      "actual_git_blob_sha1": "44a93902f3221658404b2c1590dc60a5f7f242c1",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_08_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_08_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "16a41cf11d7a67f0d4b00a8370432443adc22e957a84bcdb88b4a0c5cbcf9c41",
+      "expected_git_blob_sha1": "b7ecc1a88a04e207c1b1d281d7e483cb8803e59f",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_08_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "16a41cf11d7a67f0d4b00a8370432443adc22e957a84bcdb88b4a0c5cbcf9c41",
+      "actual_git_blob_sha1": "b7ecc1a88a04e207c1b1d281d7e483cb8803e59f",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_09_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_09_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "b6d0645cc5eb152720dc8fcdadf561a4f9dc8f8d0a0b0e4ea2748800e88b795e",
+      "expected_git_blob_sha1": "fdedf63d5a2fe98c91026f2856938b23aa450b48",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_09_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "b6d0645cc5eb152720dc8fcdadf561a4f9dc8f8d0a0b0e4ea2748800e88b795e",
+      "actual_git_blob_sha1": "fdedf63d5a2fe98c91026f2856938b23aa450b48",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_10_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_10_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "d98e74223627a05291788fdc3680ce552bddab626b6080c9118cc7522dd4195c",
+      "expected_git_blob_sha1": "c12991c6644056e9a9ff2acca842e0cf0e98c2ab",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_10_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "d98e74223627a05291788fdc3680ce552bddab626b6080c9118cc7522dd4195c",
+      "actual_git_blob_sha1": "c12991c6644056e9a9ff2acca842e0cf0e98c2ab",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_11_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_11_of_12.zip",
+      "expected_bytes": 5300170,
+      "expected_sha256": "7993580dfe071fae823703412ebf2e82116b8b171673834bf0f7be34eb82fdba",
+      "expected_git_blob_sha1": "0cdc4af055e252a35663a3864092e9614ea758a1",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_11_of_12.zip",
+      "actual_bytes": 5300170,
+      "actual_sha256": "7993580dfe071fae823703412ebf2e82116b8b171673834bf0f7be34eb82fdba",
+      "actual_git_blob_sha1": "0cdc4af055e252a35663a3864092e9614ea758a1",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_12_of_12.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_12_of_12.zip",
+      "expected_bytes": 2906891,
+      "expected_sha256": "dad6a80e0f737a94552149f0f9e90d8e745dc759e79cc278adc4d84f92423f84",
+      "expected_git_blob_sha1": "4212c727804256b39ab59e5dfaa7256c0e1c3794",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_12_of_12.zip",
+      "actual_bytes": 2906891,
+      "actual_sha256": "dad6a80e0f737a94552149f0f9e90d8e745dc759e79cc278adc4d84f92423f84",
+      "actual_git_blob_sha1": "4212c727804256b39ab59e5dfaa7256c0e1c3794",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "expected_bytes": 292883,
+      "expected_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+      "expected_git_blob_sha1": "9f92669615d546a350c2e1c24ba3f93f242afd92",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "actual_bytes": 292883,
+      "actual_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+      "actual_git_blob_sha1": "9f92669615d546a350c2e1c24ba3f93f242afd92",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer1_20261012/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/SHA256SUMS.txt",
+      "expected_bytes": 1250,
+      "expected_sha256": "3565d3a77e9ad3c035fb60e8edd11243ad7fdd923c01f44225814c7d5338ba85",
+      "expected_git_blob_sha1": "fc6b6c326118b6f6a595fcc11d1f724e76fcd8a7",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/SHA256SUMS.txt",
+      "actual_bytes": 1250,
+      "actual_sha256": "3565d3a77e9ad3c035fb60e8edd11243ad7fdd923c01f44225814c7d5338ba85",
+      "actual_git_blob_sha1": "fc6b6c326118b6f6a595fcc11d1f724e76fcd8a7",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_01_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_01_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "38269bf4b08e24c795be7adec895a6ee210ef69614f86f6ec5f5c9f52c192a82",
+      "expected_git_blob_sha1": "c642eda352f0501deca6d6c45f6a0a8da18dabec",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_01_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "38269bf4b08e24c795be7adec895a6ee210ef69614f86f6ec5f5c9f52c192a82",
+      "actual_git_blob_sha1": "c642eda352f0501deca6d6c45f6a0a8da18dabec",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_02_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_02_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "8fbe03ba91ed0b60f06338a31b54ce7ea91f71ff727ab540a7648bf77ca5de5b",
+      "expected_git_blob_sha1": "faa44ad25966d269925535fd6e77fbe8fbe3e76c",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_02_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "8fbe03ba91ed0b60f06338a31b54ce7ea91f71ff727ab540a7648bf77ca5de5b",
+      "actual_git_blob_sha1": "faa44ad25966d269925535fd6e77fbe8fbe3e76c",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_03_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_03_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "e18877b8c8a66c78e8c4b5b97dac761bc2961c64a5e850d2493fe97760b0209a",
+      "expected_git_blob_sha1": "c520bf335a79aec9c1ecc1fd92af9c34d42ca48f",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_03_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "e18877b8c8a66c78e8c4b5b97dac761bc2961c64a5e850d2493fe97760b0209a",
+      "actual_git_blob_sha1": "c520bf335a79aec9c1ecc1fd92af9c34d42ca48f",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_04_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_04_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "e8570e7bc930787ecd71fea64077706c8c1d4d79f16552989bd4057f2fda0601",
+      "expected_git_blob_sha1": "4f5d6d12ad8ee71ddf0e9ad9b458d113c522f706",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_04_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "e8570e7bc930787ecd71fea64077706c8c1d4d79f16552989bd4057f2fda0601",
+      "actual_git_blob_sha1": "4f5d6d12ad8ee71ddf0e9ad9b458d113c522f706",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_05_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_05_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "c848e7645271477e26a9f666a9a1d3a8806b11c169ee36c57a18be53ff72ca0e",
+      "expected_git_blob_sha1": "befd4cd8dce470d2e958d455d4cfb7a16fe5c9ec",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_05_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "c848e7645271477e26a9f666a9a1d3a8806b11c169ee36c57a18be53ff72ca0e",
+      "actual_git_blob_sha1": "befd4cd8dce470d2e958d455d4cfb7a16fe5c9ec",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_06_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_06_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "c4c90b23dbd13513e649b2a7c7d33b1bb217c4085b638815ef63034c697de11b",
+      "expected_git_blob_sha1": "eed59897bfc32d2d21e47ce980b8959e92b6451c",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_06_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "c4c90b23dbd13513e649b2a7c7d33b1bb217c4085b638815ef63034c697de11b",
+      "actual_git_blob_sha1": "eed59897bfc32d2d21e47ce980b8959e92b6451c",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_07_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_07_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "e6b6caf49ebe313a90399b77486e645ed71d4c8d2328ba6304f6f5e2d328fc7c",
+      "expected_git_blob_sha1": "d54f1c89545d00b9ed103c53343e45c123dfcb91",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_07_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "e6b6caf49ebe313a90399b77486e645ed71d4c8d2328ba6304f6f5e2d328fc7c",
+      "actual_git_blob_sha1": "d54f1c89545d00b9ed103c53343e45c123dfcb91",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_08_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_08_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "82009f1ecba25305fd589c847832549e4f415a010e396430b9461537e6c312d8",
+      "expected_git_blob_sha1": "ee02bae89d622f3c1a3ffb62b7dc1c2c1267bc6b",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_08_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "82009f1ecba25305fd589c847832549e4f415a010e396430b9461537e6c312d8",
+      "actual_git_blob_sha1": "ee02bae89d622f3c1a3ffb62b7dc1c2c1267bc6b",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_09_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_09_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "8cafbfcd040c5111e6f24bb2482f1a2f464cbd42076629e264420ba300464037",
+      "expected_git_blob_sha1": "a8b2e5bf00b04e5e3adc551029466aab9043ac14",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_09_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "8cafbfcd040c5111e6f24bb2482f1a2f464cbd42076629e264420ba300464037",
+      "actual_git_blob_sha1": "a8b2e5bf00b04e5e3adc551029466aab9043ac14",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_10_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_10_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "1a7e1499339502404f8c20b0d2ecc36ea14c21a24173b25341cf1e3637fc4b7b",
+      "expected_git_blob_sha1": "3fc160a9ee0527b8c39d9cea667c8f21378b613d",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_10_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "1a7e1499339502404f8c20b0d2ecc36ea14c21a24173b25341cf1e3637fc4b7b",
+      "actual_git_blob_sha1": "3fc160a9ee0527b8c39d9cea667c8f21378b613d",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_11_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_11_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "ade97bcf7115c0822bf5afa808087e27afd1a215c88374a31285a7a30d1c8905",
+      "expected_git_blob_sha1": "e105cdd86c95b4033f2f618897b3d4236f2ab241",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_11_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "ade97bcf7115c0822bf5afa808087e27afd1a215c88374a31285a7a30d1c8905",
+      "actual_git_blob_sha1": "e105cdd86c95b4033f2f618897b3d4236f2ab241",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_12_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_12_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "2947571f1bbafa6809b5383aa7535d4dc56e857ab5e09b286f61e83e8b163350",
+      "expected_git_blob_sha1": "66c4726626df20ab3a50f08acdce6f2756218738",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_12_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "2947571f1bbafa6809b5383aa7535d4dc56e857ab5e09b286f61e83e8b163350",
+      "actual_git_blob_sha1": "66c4726626df20ab3a50f08acdce6f2756218738",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_13_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_13_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "4ef9190c36512a0e7435c1f940a79554c02fb064a205b1fa1d878943ca56983f",
+      "expected_git_blob_sha1": "cd23802adac9af4de2cfc7904214dbc583227135",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_13_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "4ef9190c36512a0e7435c1f940a79554c02fb064a205b1fa1d878943ca56983f",
+      "actual_git_blob_sha1": "cd23802adac9af4de2cfc7904214dbc583227135",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_14_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_14_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "7857ab009f9bd4accf863ddb4813ca0feb48c8fac67418c9168ed70380f5f6bd",
+      "expected_git_blob_sha1": "c17448b56c4a0c4e43b1d630cfec7b381da1357e",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_14_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "7857ab009f9bd4accf863ddb4813ca0feb48c8fac67418c9168ed70380f5f6bd",
+      "actual_git_blob_sha1": "c17448b56c4a0c4e43b1d630cfec7b381da1357e",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_15_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_15_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "a4af7c42f7eb2cd20b150a865459c05690f30a6db6368a9cb3780800c85b0464",
+      "expected_git_blob_sha1": "5229b90adc713fe8f38b2b98547fc27f8dc59628",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_15_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "a4af7c42f7eb2cd20b150a865459c05690f30a6db6368a9cb3780800c85b0464",
+      "actual_git_blob_sha1": "5229b90adc713fe8f38b2b98547fc27f8dc59628",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_16_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_16_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "da6f36420faf30732ba44173dd78661839d5db80a05ee80bce4641198882a60d",
+      "expected_git_blob_sha1": "5b5be551fb29e4b3d740b1f12bfd5b85f9d30944",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_16_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "da6f36420faf30732ba44173dd78661839d5db80a05ee80bce4641198882a60d",
+      "actual_git_blob_sha1": "5b5be551fb29e4b3d740b1f12bfd5b85f9d30944",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_17_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_17_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "80c7134313bdf9fce61078a597c79fcde17cec2a3e807a5a51e62806a8b027c4",
+      "expected_git_blob_sha1": "bd9c9a7e9d1c4c444f84719216b5957a1133c93c",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_17_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "80c7134313bdf9fce61078a597c79fcde17cec2a3e807a5a51e62806a8b027c4",
+      "actual_git_blob_sha1": "bd9c9a7e9d1c4c444f84719216b5957a1133c93c",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_18_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_18_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "50288a8767b36269d4318d2e7f5e86712b2759c0d1a2c439a9601ac46bbbfc76",
+      "expected_git_blob_sha1": "611eff697311a3676ceb819c65c9f8ddcd896137",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_18_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "50288a8767b36269d4318d2e7f5e86712b2759c0d1a2c439a9601ac46bbbfc76",
+      "actual_git_blob_sha1": "611eff697311a3676ceb819c65c9f8ddcd896137",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_19_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_19_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "b7c1bad141056746bc82cf1f225102b21d574621489aa8ab2c07bf47db199d71",
+      "expected_git_blob_sha1": "88920f5e720ec5eb7af71ded5a02b6f2a98140a9",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_19_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "b7c1bad141056746bc82cf1f225102b21d574621489aa8ab2c07bf47db199d71",
+      "actual_git_blob_sha1": "88920f5e720ec5eb7af71ded5a02b6f2a98140a9",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_20_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_20_of_21.zip",
+      "expected_bytes": 5300202,
+      "expected_sha256": "84cbfa18076f28a81945ce61984168cec0f5a40d01c39eeef07813099bcc5039",
+      "expected_git_blob_sha1": "1df384359b0722a4c7c7055762fc09c13e77480d",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_20_of_21.zip",
+      "actual_bytes": 5300202,
+      "actual_sha256": "84cbfa18076f28a81945ce61984168cec0f5a40d01c39eeef07813099bcc5039",
+      "actual_git_blob_sha1": "1df384359b0722a4c7c7055762fc09c13e77480d",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_21_of_21.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_21_of_21.zip",
+      "expected_bytes": 2356938,
+      "expected_sha256": "def727f7793fb9012ae4a227788c7d68f6e3c85506a031a463c191b15b3f0584",
+      "expected_git_blob_sha1": "904353b463bf93240c6d94c61b62afaddacc4f74",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_Patch_21_of_21.zip",
+      "actual_bytes": 2356938,
+      "actual_sha256": "def727f7793fb9012ae4a227788c7d68f6e3c85506a031a463c191b15b3f0584",
+      "actual_git_blob_sha1": "904353b463bf93240c6d94c61b62afaddacc4f74",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/Campus_LOD_Strict_START_HERE.zip",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_START_HERE.zip",
+      "expected_bytes": 299481,
+      "expected_sha256": "4ebeff86a729194bb10bae0c20d86adf884bf9ea5b4507bcb03a5d267e25c261",
+      "expected_git_blob_sha1": "f4b4794236d644d6cc8fd267020dbeeb11be9760",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/Campus_LOD_Strict_START_HERE.zip",
+      "actual_bytes": 299481,
+      "actual_sha256": "4ebeff86a729194bb10bae0c20d86adf884bf9ea5b4507bcb03a5d267e25c261",
+      "actual_git_blob_sha1": "f4b4794236d644d6cc8fd267020dbeeb11be9760",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/layer2_20261013/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/SHA256SUMS.txt",
+      "expected_bytes": 2262,
+      "expected_sha256": "f611c7d589a39f3a70c599767f287112355356c6b2a0689f78d2cee736eb0ace",
+      "expected_git_blob_sha1": "a57e69a4ebd28ab08286fb7d95db4f2b5ad4f3a0",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer2_20261013/SHA256SUMS.txt",
+      "actual_bytes": 2262,
+      "actual_sha256": "f611c7d589a39f3a70c599767f287112355356c6b2a0689f78d2cee736eb0ace",
+      "actual_git_blob_sha1": "a57e69a4ebd28ab08286fb7d95db4f2b5ad4f3a0",
+      "status": "PASS"
+    },
+    {
+      "path": "updates/20261013/reconstruct.py",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/reconstruct.py",
+      "expected_bytes": 28348,
+      "expected_sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5",
+      "expected_git_blob_sha1": "c53b3361ead9bd9e57c4008a180e6e82b8de6aff",
+      "retained_for_reconstruction": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "http_status": 200,
+          "status": "PASS"
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/reconstruct.py",
+      "actual_bytes": 28348,
+      "actual_sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5",
+      "actual_git_blob_sha1": "c53b3361ead9bd9e57c4008a180e6e82b8de6aff",
+      "status": "PASS"
+    }
+  ],
+  "completed_at_utc": "2026-10-13T20:49:28.929283+00:00",
+  "verified_count": 119,
+  "verified_total_bytes": 273839372,
+  "unreachable_urls": [],
+  "failed_paths": []
+}

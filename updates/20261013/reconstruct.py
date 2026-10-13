@@ -13,7 +13,6 @@ Keep the base, update files, and work directory unchanged while running.
 """
 import argparse
 import hashlib
-import http.client
 import ipaddress
 import json
 import os
@@ -24,6 +23,7 @@ import socket
 import stat
 import subprocess
 import sys
+import ssl
 import tempfile
 import unicodedata
 import urllib.parse
@@ -305,49 +305,28 @@ def official_updates_url(url):
 
 class PublicRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
-        official_download_url(newurl, resolve=True)
+        official_download_url(newurl)
         return super().redirect_request(req, fp, code, msg, headers, newurl)
 
 
 
-class PublicHTTPSConnection(http.client.HTTPSConnection):
-    def connect(self):
-        if self._tunnel_host:
-            fail("Proxy tunnels are not supported for public downloads")
-        addresses = socket.getaddrinfo(self.host, self.port, type=socket.SOCK_STREAM)
-        if not addresses or any(not ipaddress.ip_address(item[4][0]).is_global for item in addresses):
-            fail("Local/private connection destination is forbidden")
-        last_error = None
-        for family, socktype, proto, _canonical, sockaddr in addresses:
-            connection = socket.socket(family, socktype, proto)
-            try:
-                connection.settimeout(self.timeout)
-                if self.source_address:
-                    connection.bind(self.source_address)
-                # Use exactly the validated address, with no second DNS lookup.
-                connection.connect(sockaddr)
-                self.sock = self._context.wrap_socket(connection, server_hostname=self.host)
-                return
-            except OSError as exc:
-                connection.close()
-                last_error = exc
-        raise last_error
-
-
-class PublicHTTPSHandler(urllib.request.HTTPSHandler):
-    def https_open(self, req):
-        return self.do_open(PublicHTTPSConnection, req, context=self._context)
+def download_opener():
+    # Honor the standard HTTPS/proxy configuration. Destinations and redirects
+    # remain restricted to official GitHub hosts; certificate and hostname
+    # validation are mandatory. Do not require direct DNS/network connectivity.
+    context = ssl.create_default_context()
+    return urllib.request.build_opener(PublicRedirect(), urllib.request.HTTPSHandler(context=context))
 
 
 def download(url, target, row):
-    official_download_url(url, resolve=True)
+    official_download_url(url)
     target = check_no_links(target)
     target.parent.mkdir(mode=0o700, parents=True, exist_ok=True)
     if target.exists():
         fail("Download target already exists: " + str(target))
     print("Downloading", target.name, flush=True)
-    # Disable proxy discovery, cookies, netrc and authentication: public files only.
-    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}), PublicRedirect(), PublicHTTPSHandler())
+    # Public files: no account login, cookies or repository authentication.
+    opener = download_opener()
     request = urllib.request.Request(url, headers={"User-Agent": "Campus-public-reconstruction/1"})
     with opener.open(request, timeout=120) as response, target.open("xb") as out:
         official_download_url(response.geturl())

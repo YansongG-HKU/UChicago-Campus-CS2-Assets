@@ -1,0 +1,28 @@
+{
+  "schema": "campus-verification-output-cleanup-1",
+  "status": "PASS",
+  "started_at_utc": "2026-10-13T20:51:46.398133+00:00",
+  "authorization_scope": "Only the two freshly created disposable cloud verification output trees; all independent receipts and per-asset hashes saved first.",
+  "free_bytes_before": 368517120,
+  "removed": [
+    {
+      "path": "Campus_Public_Verification/Campus_Cloud_Offline_Candidate_20261012",
+      "files": 7945,
+      "bytes": 3532089851
+    },
+    {
+      "path": "Campus_Public_Verification/Campus_Strict_20261013",
+      "files": 8037,
+      "bytes": 3507229807
+    }
+  ],
+  "preserved": [
+    "44 anonymous update downloads including 35 ZIPs",
+    "all verification receipts and full per-asset hash inventories",
+    "original r1 baseline",
+    "frozen final source assets",
+    "all original source and public staging files"
+  ],
+  "completed_at_utc": "2026-10-13T20:51:47.078900+00:00",
+  "free_bytes_after": 7455760384
+}

@@ -49,6 +49,10 @@ macOS/Linux 如需可将 `python` 改成 `python3`，Windows 可用 `py -3`。�
 
 `Rockefeller_Chapel_v0.1` 为优先版本；`RockefellerChapel_v02` 保留为独立备选。`BlakeCobbMapProxy` 为敏感性研究用代理场景。
 
+## 公开下载与重建回执
+
+[独立公开验收记录](verification/20261013/README.md) 包含不可变提交、全部文件的匿名下载哈希、真实两层重建及原 r1 保留检查。
+
 ## 明确边界
 
 - 尚未进行 Cities: Skylines II 编辑器或游戏运行测试，游戏内 LOD 切换、碰撞/导航、内存与性能均未验收。

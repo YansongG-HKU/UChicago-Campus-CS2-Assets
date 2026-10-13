@@ -1,0 +1,181 @@
+{
+  "schema": "campus-public-repository-preservation-verification-1",
+  "verified_at_utc": "2026-10-13T20:47:17.609964+00:00",
+  "authentication": "none",
+  "repository": "YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "commit": "60fe8297c591682166c148643b5017b811bad35c",
+  "tree": "908bd71533e6ff36197de1b9c118cbc96c1a7b7d",
+  "status": "PASS",
+  "checks": {
+    "main_is_exact_commit": true,
+    "commit_is_exact": true,
+    "commit_tree_is_exact": true,
+    "tree_not_truncated": true,
+    "all_119_uploads_have_exact_git_blob_sha_and_size": true,
+    "every_added_or_updated_commit_path_covered": true,
+    "old_r1_tag_unchanged": true,
+    "old_r1_release_is_same": true,
+    "old_r1_release_exact_10_assets_unchanged": true
+  },
+  "requests": [
+    {
+      "url": "https://api.github.com/repos/YansongG-HKU/UChicago-Campus-CS2-Assets/git/ref/heads/main",
+      "http_status": 200,
+      "response_bytes": 376,
+      "response_sha256": "e8831ffb853c0846114eccd5b64e5200335a27a783d99853e7103ecade0b7899"
+    },
+    {
+      "url": "https://api.github.com/repos/YansongG-HKU/UChicago-Campus-CS2-Assets/git/ref/tags/campus-20261007-r1",
+      "http_status": 200,
+      "response_bytes": 419,
+      "response_sha256": "7ec293325135561095145f310462007af7f806adeb3f4c2c6e55abad9b6d8a7c"
+    },
+    {
+      "url": "https://api.github.com/repos/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/410097954",
+      "http_status": 200,
+      "response_bytes": 22378,
+      "response_sha256": "55d82b541c289e6c180554d01dcedfca8e33a5826cd14067fa55917184e0d199"
+    },
+    {
+      "url": "https://api.github.com/repos/YansongG-HKU/UChicago-Campus-CS2-Assets/git/trees/908bd71533e6ff36197de1b9c118cbc96c1a7b7d?recursive=1",
+      "http_status": 200,
+      "response_bytes": 48152,
+      "response_sha256": "8ceddf27ce592580a58040703cf6e1e9b88a48af3a499600d1385f13bf820e72"
+    },
+    {
+      "url": "https://api.github.com/repos/YansongG-HKU/UChicago-Campus-CS2-Assets/commits/60fe8297c591682166c148643b5017b811bad35c",
+      "http_status": 200,
+      "response_bytes": 686495,
+      "response_sha256": "7f8fc9a3a10d48e287260e33912e14097a675971ebf15c02546a0bb8b79f1ac8"
+    }
+  ],
+  "upload_count": 119,
+  "tree_mismatches": [],
+  "commit_change_count": 119,
+  "uncovered_added_or_modified_paths": [],
+  "removed_paths": [],
+  "r1_tag_commit": "83ae42e6bc2e3e0045f4ebc09067fbeb62493e39",
+  "r1_release_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/tag/campus-20261007-r1",
+  "r1_assets": [
+    {
+      "id": 632476410,
+      "name": "Campus_Repair_Retest_20261007_r1_ZH.pdf",
+      "size": 12284257,
+      "digest": "sha256:488b57ca0786ecc12867e5186d02936561e06162e6bb760122c08ff2ffa4c73f",
+      "created_at": "2026-10-12T02:56:25Z",
+      "updated_at": "2026-10-12T02:56:44Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repair_Retest_20261007_r1_ZH.pdf",
+      "content_type": "application/pdf",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632486781,
+      "name": "Campus_Repaired_20261007_r1_01_assets.zip",
+      "size": 439078127,
+      "digest": "sha256:51e552f73f7e8ad38fbca5ba76db9366599cf47afb81bdf5adffe67ece4a0e8e",
+      "created_at": "2026-10-12T03:01:21Z",
+      "updated_at": "2026-10-12T03:12:38Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_01_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632486782,
+      "name": "Campus_Repaired_20261007_r1_02_assets.zip",
+      "size": 433404719,
+      "digest": "sha256:514f4a3a5cfe136c464fe7a2f2cc0352a35453fd9e056114da39094ec62c4d19",
+      "created_at": "2026-10-12T03:01:21Z",
+      "updated_at": "2026-10-12T03:12:18Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_02_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632486887,
+      "name": "Campus_Repaired_20261007_r1_03_assets.zip",
+      "size": 432859403,
+      "digest": "sha256:90dffe1761da853b5b510b2687ed290b8aaae6c0b4f6d008026efa55f2f77c73",
+      "created_at": "2026-10-12T03:01:24Z",
+      "updated_at": "2026-10-12T03:11:54Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_03_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632518406,
+      "name": "Campus_Repaired_20261007_r1_04_assets.zip",
+      "size": 435461071,
+      "digest": "sha256:be9426c1b9d34c2714d7c27cdfb82f49d94ea4a49e729a14dea8f4981d906be2",
+      "created_at": "2026-10-12T03:17:00Z",
+      "updated_at": "2026-10-12T03:29:30Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_04_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632518351,
+      "name": "Campus_Repaired_20261007_r1_05_assets.zip",
+      "size": 433582433,
+      "digest": "sha256:1bd82ceaac17038c6e80f4b959825cfe4eeed8a4a8a86da54529d836ef5b1ceb",
+      "created_at": "2026-10-12T03:16:58Z",
+      "updated_at": "2026-10-12T03:30:38Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_05_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632518374,
+      "name": "Campus_Repaired_20261007_r1_06_assets.zip",
+      "size": 427030565,
+      "digest": "sha256:307140fc91af74bcfb1366e75d7cc75dbcbefd5c7af04b3c69f78f6e1b943450",
+      "created_at": "2026-10-12T03:16:59Z",
+      "updated_at": "2026-10-12T03:30:47Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_06_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632518725,
+      "name": "Campus_Repaired_20261007_r1_07_assets.zip",
+      "size": 425768021,
+      "digest": "sha256:e8adc4837084761d8b6b2045f9f8241b8032543966e10ab8f7eba1a387693263",
+      "created_at": "2026-10-12T03:17:10Z",
+      "updated_at": "2026-10-12T03:30:20Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_07_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632518732,
+      "name": "Campus_Repaired_20261007_r1_08_assets.zip",
+      "size": 330093279,
+      "digest": "sha256:e0ff7a0d92f81d024fde430b78c5f475374c7822e4b9b7d3ab00a1751f00ad85",
+      "created_at": "2026-10-12T03:17:10Z",
+      "updated_at": "2026-10-12T03:27:14Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_Repaired_20261007_r1_08_assets.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    },
+    {
+      "id": 632476408,
+      "name": "Campus_r1_Library_Index_QA.zip",
+      "size": 949270,
+      "digest": "sha256:c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c",
+      "created_at": "2026-10-12T02:56:25Z",
+      "updated_at": "2026-10-12T02:56:29Z",
+      "browser_download_url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_r1_Library_Index_QA.zip",
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "label": ""
+    }
+  ]
+}

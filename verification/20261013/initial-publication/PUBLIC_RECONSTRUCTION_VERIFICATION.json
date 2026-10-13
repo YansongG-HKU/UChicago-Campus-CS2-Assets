@@ -1,0 +1,95 @@
+{
+  "schema": "campus-public-anonymous-reconstruction-verification-1",
+  "verified_at_utc": "2026-10-13T20:50:57.485724+00:00",
+  "repository": "YansongG-HKU/UChicago-Campus-CS2-Assets",
+  "immutable_commit": "60fe8297c591682166c148643b5017b811bad35c",
+  "status": "PASS",
+  "reconstruction": {
+    "exit_code": 0,
+    "sequence": [
+      7854,
+      7940,
+      8032
+    ],
+    "command_template": "python updates/20261013/reconstruct.py --base <read-only-official-r1> --work <fresh-cloud-verification-directory>",
+    "script_and_package_source": "All 44 update-directory files, including 35 ZIPs, downloaded anonymously from the exact immutable commit and independently checked before execution. No locally staged update blob was reused.",
+    "base_source": "Previously extracted official r1 baseline; independently rehashed before and after reconstruction.",
+    "downloaded_helpers": [
+      {
+        "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/reconstruct.py",
+        "bytes": 28348,
+        "sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/chain_manifest.json",
+        "bytes": 16508,
+        "sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50"
+      }
+    ]
+  },
+  "independent_verification": {
+    "method": "Independent standard-library verifier; read every asset in full; exact path set, byte count, SHA-256, and no symlinks/special files. No reconstruction code or verifier functions imported.",
+    "final_8032": {
+      "status": "PASS",
+      "expected_count": 8032,
+      "actual_count": 8032,
+      "verified_count": 8032,
+      "total_bytes": 3505395608,
+      "inventory_sha256": "d240dd9256dfaf829763af00926a73f62212fb6b8546c505e2cc149d7d77d993",
+      "missing": [],
+      "extra": [],
+      "links_or_special_files": [],
+      "mismatches": [],
+      "elapsed_seconds": 3.09
+    },
+    "intermediate_7940": {
+      "status": "PASS",
+      "expected_count": 7940,
+      "actual_count": 7940,
+      "verified_count": 7940,
+      "total_bytes": 3530282309,
+      "inventory_sha256": "b452394a9de8bf1810c9f5a7a5fd7735821b774d4f157fca4c8a4ef0b579fc0f",
+      "missing": [],
+      "extra": [],
+      "links_or_special_files": [],
+      "mismatches": [],
+      "elapsed_seconds": 3.18
+    },
+    "original_baseline_7854_before": {
+      "schema": "campus-baseline-independent-precheck-1",
+      "status": "PASS",
+      "expected_count": 7854,
+      "actual_count": 7854,
+      "verified_count": 7854,
+      "total_bytes": 3464076456,
+      "inventory_sha256": "f8045f4c3e793dc29c6edd2eafbe61d63d737c97221fe72317ad955072d7df9c",
+      "reference_manifest_sha256": "afff9a219386f96e46c72b692abeb863b840ae9d32708ae76ade5f8dc35b90f1",
+      "mismatches": [],
+      "extra": [],
+      "missing": [],
+      "elapsed_seconds": 3.16
+    },
+    "original_baseline_7854_after": {
+      "status": "PASS",
+      "expected_count": 7854,
+      "actual_count": 7854,
+      "verified_count": 7854,
+      "total_bytes": 3464076456,
+      "inventory_sha256": "f8045f4c3e793dc29c6edd2eafbe61d63d737c97221fe72317ad955072d7df9c",
+      "missing": [],
+      "extra": [],
+      "links_or_special_files": [],
+      "mismatches": [],
+      "elapsed_seconds": 5.86
+    },
+    "original_baseline_unchanged": true,
+    "frozen_final_asset_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+    "rebuilt_final_asset_manifest_sha256": "716926e2a349413cd27c74304c90541307321302612f792f3619cfa291fb1c53",
+    "final_manifest_exact_bytes_match": true
+  },
+  "limits": [
+    "Cloud-only integrity and reconstruction verification.",
+    "No Blender, CS2, game/editor, runtime LOD, materials, collision/navigation, frame-rate, VRAM, or loading-performance acceptance was run.",
+    "No new Release was published by this verification."
+  ]
+}

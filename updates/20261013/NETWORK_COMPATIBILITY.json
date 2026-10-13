@@ -1,0 +1,58 @@
+{
+  "schema": "campus-public-network-compatibility-1",
+  "date": "2026-10-13",
+  "orchestrator_file": "reconstruct.py",
+  "orchestrator_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+  "chain_manifest_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50",
+  "status": "PASS",
+  "change": "Replace custom direct-address HTTPS transport and disabled proxies with standard urllib HTTPSHandler using ssl.create_default_context() and ordinary environment proxy configuration. No direct DNS prerequisite remains on the download route.",
+  "security_tradeoff": "The candidate relies on normal DNS/proxy routing and the configured certificate trust store instead of connecting directly to a prevalidated numeric address. Arbitrary destination domains remain forbidden. Hostname and certificate verification plus immutable content hashes still authenticate the allowed official GitHub downloads. This restores ordinary enterprise/cloud proxy compatibility without disabling TLS checks.",
+  "preserved_controls": [
+    "Exact official repository/ref/updates URL constraint",
+    "Official GitHub download and redirect host allowlist",
+    "HTTPS only; no URL user credentials",
+    "TLS certificate verification and hostname checking",
+    "Pinned chain manifest and all downloaded size/SHA-256 checks",
+    "Unchanged ZIP extraction, asset inventory and installer validation"
+  ],
+  "live_network_tests": [
+    {
+      "target_commit": "60fe8297c591682166c148643b5017b811bad35c",
+      "candidate_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "expected_bytes": 292883,
+      "expected_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+      "network_method": "Candidate download() with stdlib HTTPSHandler, normal environment proxy configuration, strict official GitHub host and redirect allowlist, certificate and hostname verification enabled.",
+      "status": "PASS",
+      "actual_bytes": 292883,
+      "actual_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa"
+    },
+    {
+      "candidate_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+      "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_r1_Library_Index_QA.zip",
+      "expected_bytes": 949270,
+      "expected_sha256": "c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c",
+      "network_method": "Unmodified candidate download() with standard verified HTTPS and unchanged strict official GitHub redirect allowlist.",
+      "status": "PASS",
+      "actual_bytes": 949270,
+      "actual_sha256": "c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c"
+    }
+  ],
+  "independent_code_review": {
+    "status": "PASS",
+    "reviewed_orchestrator_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+    "concrete_blockers_found": 0,
+    "independently_rerun_tests": 31,
+    "python_3_9_syntax_check": "PASS",
+    "tls_certificate_verification": "CERT_REQUIRED",
+    "tls_hostname_checking": true,
+    "scope": "Narrow transport diff; content, path, ZIP and installer validation unchanged. Network evidence reviewed; downloads and whole reconstruction were not repeated by the reviewer.",
+    "tradeoff": "Standard system proxy/DNS routing replaces direct numeric-address pinning. No claim is made that the underlying connection is globally routed or proxy-free."
+  },
+  "scope_limits": [
+    "Both named live checks used this exact helper download() function and verified the downloaded size and SHA-256.",
+    "Only the public source URLs are recorded. Temporary redirect signatures, credentials and private paths are not included.",
+    "These small-file tests do not claim a full download or reconstruction of the eight large r1 archives.",
+    "Normal system proxy and DNS routing is used; direct numeric-address pinning is intentionally not claimed."
+  ]
+}

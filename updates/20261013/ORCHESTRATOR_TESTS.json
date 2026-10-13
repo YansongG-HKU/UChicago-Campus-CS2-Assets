@@ -1,8 +1,8 @@
 {
-  "schema": "campus-public-orchestrator-tests-1",
+  "schema": "campus-public-orchestrator-tests-2",
   "date": "2026-10-13",
   "orchestrator_file": "reconstruct.py",
-  "orchestrator_sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5",
+  "orchestrator_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
   "chain_manifest_sha256": "f218e8186d09095c970caf26688460b10add5813e4c50303ac7508f25832cb50",
   "python_3_9_syntax_check": "PASS",
   "help_command": "PASS",
@@ -17,12 +17,12 @@
       "test_download_redirect_requires_official_host",
       "test_duplicate_entries_even_identical",
       "test_existing_extract_directory_is_never_overwritten",
-      "test_https_connect_rejects_private_dns_before_opening_socket",
-      "test_https_connect_uses_validated_address_and_original_tls_hostname",
+      "test_https_opener_preserves_certificate_and_hostname_validation",
       "test_identical_root_metadata_allowed_across_base_zips",
       "test_manifest_duplicates_aliases_and_nonasset_rejected",
       "test_manifest_pin_and_duplicate_json_key",
       "test_no_output_overwrite_or_subprocess_on_existing_output",
+      "test_official_url_and_redirect_validation_require_no_direct_dns",
       "test_pinned_file_hash_and_size",
       "test_prepare_layer_joins_checks_and_releases_only_extracted_parts",
       "test_prepare_layer_rejects_altered_installer_pin",
@@ -43,29 +43,79 @@
       "test_valid_extract_reads_bytes"
     ]
   },
-  "real_package_preparation": {
-    "package_hashes": "PASS",
-    "zip_count": 35,
-    "package_crc_and_safe_extraction": "PASS",
-    "both_delta_crc_and_hashes": "PASS",
-    "manifest_bridge": "PASS",
-    "baseline_count": 7854,
-    "first_count": 7940,
-    "final_count": 8032,
-    "stage_bytes_after_part_cleanup": 173236059,
-    "net_peak_asset_bytes_after_reclaiming_first_delta": 7143285792,
-    "additional_free_gate_after_staging": 7243285792,
-    "minimum_initial_free_with_local_updates": 7416521851,
-    "test_scope": "Package preparation and manifests only; no installer execution, asset copy or base download."
-  },
-  "scope_limits": [
-    "This report validates package preparation, safety checks, CRC, hashes and the exact manifest bridge.",
-    "The full asset reconstruction and live network download routes were not executed for this report.",
-    "Unchanged original installers have their separate reconstruction evidence; this report does not imply game acceptance."
+  "live_network_tests": [
+    {
+      "target_commit": "60fe8297c591682166c148643b5017b811bad35c",
+      "candidate_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+      "url": "https://raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/60fe8297c591682166c148643b5017b811bad35c/updates/20261013/layer1_20261012/Campus_LOD_Patch_START_HERE.zip",
+      "expected_bytes": 292883,
+      "expected_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa",
+      "network_method": "Candidate download() with stdlib HTTPSHandler, normal environment proxy configuration, strict official GitHub host and redirect allowlist, certificate and hostname verification enabled.",
+      "status": "PASS",
+      "actual_bytes": 292883,
+      "actual_sha256": "d77f00cb6570b2d9cca47e9aa56d3fdff96cf29b4a3337d5cf5341ab8afeaefa"
+    },
+    {
+      "candidate_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+      "url": "https://github.com/YansongG-HKU/UChicago-Campus-CS2-Assets/releases/download/campus-20261007-r1/Campus_r1_Library_Index_QA.zip",
+      "expected_bytes": 949270,
+      "expected_sha256": "c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c",
+      "network_method": "Unmodified candidate download() with standard verified HTTPS and unchanged strict official GitHub redirect allowlist.",
+      "status": "PASS",
+      "actual_bytes": 949270,
+      "actual_sha256": "c9ea5b5ba5be0380000ef1775b69fc70bab66831ab5a108971b1c168db7e1a0c"
+    }
   ],
+  "historical_package_preparation": {
+    "tested_helper_sha256": "0d8cfcd95ee0930b6907658dbff4e85bae34c920257acad5e6b7c63cbfd706d5",
+    "result": {
+      "package_hashes": "PASS",
+      "zip_count": 35,
+      "package_crc_and_safe_extraction": "PASS",
+      "both_delta_crc_and_hashes": "PASS",
+      "manifest_bridge": "PASS",
+      "baseline_count": 7854,
+      "first_count": 7940,
+      "final_count": 8032,
+      "stage_bytes_after_part_cleanup": 173236059,
+      "net_peak_asset_bytes_after_reclaiming_first_delta": 7143285792,
+      "additional_free_gate_after_staging": 7243285792,
+      "minimum_initial_free_with_local_updates": 7416521851,
+      "test_scope": "Package preparation and manifests only; no installer execution, asset copy or base download."
+    },
+    "relationship": "The candidate changes only the HTTPS transport and its tests. ZIP, delta, asset inventory and reconstruction code are unchanged; this historical check is not represented as a rerun of the candidate."
+  },
+  "transport_compatibility": {
+    "change": "Replace custom direct-address HTTPS transport and disabled proxies with standard urllib HTTPSHandler using ssl.create_default_context() and ordinary environment proxy configuration. No direct DNS prerequisite remains on the download route.",
+    "security_tradeoff": "The candidate relies on normal DNS/proxy routing and the configured certificate trust store instead of connecting directly to a prevalidated numeric address. Arbitrary destination domains remain forbidden. Hostname and certificate verification plus immutable content hashes still authenticate the allowed official GitHub downloads. This restores ordinary enterprise/cloud proxy compatibility without disabling TLS checks.",
+    "preserved_controls": [
+      "Exact official repository/ref/updates URL constraint",
+      "Official GitHub download and redirect host allowlist",
+      "HTTPS only; no URL user credentials",
+      "TLS certificate verification and hostname checking",
+      "Pinned chain manifest and all downloaded size/SHA-256 checks",
+      "Unchanged ZIP extraction, asset inventory and installer validation"
+    ]
+  },
   "storage_policy": {
     "base_and_update_inputs": "Read-only; never modified.",
     "retained": "Both reconstructed asset trees and downloaded ZIPs.",
     "temporary_cleanup": "Only newly created, package-owned staging under the fresh work directory is removed. Extracted binary parts are released after verified assembly; the first assembled delta is released only after the first output passes verification."
+  },
+  "scope_limits": [
+    "The two live network tests downloaded and size/SHA-256 verified only their named small files through this exact helper.",
+    "Full baseline download and end-to-end asset reconstruction were not repeated for this transport candidate.",
+    "Offline integrity and transport checks do not imply game acceptance."
+  ],
+  "independent_code_review": {
+    "status": "PASS",
+    "reviewed_orchestrator_sha256": "d370071ecf70e8e0e287406ecf96a9479ca7195a1736e89f5e47c4374d01a23c",
+    "concrete_blockers_found": 0,
+    "independently_rerun_tests": 31,
+    "python_3_9_syntax_check": "PASS",
+    "tls_certificate_verification": "CERT_REQUIRED",
+    "tls_hostname_checking": true,
+    "scope": "Narrow transport diff; content, path, ZIP and installer validation unchanged. Network evidence reviewed; downloads and whole reconstruction were not repeated by the reviewer.",
+    "tradeoff": "Standard system proxy/DNS routing replaces direct numeric-address pinning. No claim is made that the underlying connection is globally routed or proxy-free."
   }
 }

@@ -28,6 +28,7 @@ python updates/20261013/reconstruct.py --base ../Campus_Repair_20261007_r1 --wor
 - 中间版：Campus_Strict_Work/Campus_Cloud_Offline_Candidate_20261012。
 - 只使用 Python 标准库，不启动 Blender、游戏或任何资产内脚本。macOS/Linux 可将 python 替换为 python3，Windows 可用 py -3。
 - 更新文件默认从脚本旁的相对路径读取。可用 --updates-url 指定本仓库 raw.githubusercontent.com/YansongG-HKU/UChicago-Campus-CS2-Assets/<ref>/updates/20261013 的官方 HTTPS 原始文件根地址，以下载缺少的更新 ZIP；不接受其他仓库或任意域名，也不会跳过哈希失败。
+- 联网使用 Python 标准 HTTPS 和环境已有的代理配置，保持证书与主机名验证开启，无需更改 DNS、VPN 或安全设置。已用当前脚本实际下载并校验一个仓库原始 START ZIP 和一个 r1 Release 小附件；这两条联网证据不等于重新下载全部原始资产或运行完整复原。详见 [网络兼容性验证](NETWORK_COMPATIBILITY.json)。
 - 脚本固定校验 chain_manifest.json 的 SHA，随后校验每个 ZIP、每个分块和完整资产清单。请先从可信仓库取得脚本和校验清单；哈希不是数字签名，不能凭不可信文件自证来源。
 
 ## 手动安装：两层都必须执行
