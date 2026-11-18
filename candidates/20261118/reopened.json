@@ -1,0 +1,340 @@
+[
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+    "meshes": [
+      {
+        "name": "BondSwiftCloister",
+        "triangles": 21992
+      },
+      {
+        "name": "BondSwiftCloister_LOD1",
+        "triangles": 9380
+      },
+      {
+        "name": "BondSwiftCloister_LOD2",
+        "triangles": 1318
+      },
+      {
+        "name": "DISPLAY_GROUND_NOT_EXPORTED",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+    "meshes": [
+      {
+        "name": "BondChapel",
+        "triangles": 51299
+      },
+      {
+        "name": "BondChapel_LOD1",
+        "triangles": 17069
+      },
+      {
+        "name": "BondChapel_LOD2",
+        "triangles": 390
+      },
+      {
+        "name": "BondSwiftCloister",
+        "triangles": 21992
+      },
+      {
+        "name": "BondSwiftCloister_LOD1",
+        "triangles": 9380
+      },
+      {
+        "name": "BondSwiftCloister_LOD2",
+        "triangles": 1318
+      },
+      {
+        "name": "DISPLAY_GROUND_NOT_EXPORTED",
+        "triangles": 2
+      },
+      {
+        "name": "SwiftHall",
+        "triangles": 97339
+      },
+      {
+        "name": "SwiftHall_LOD1",
+        "triangles": 45525
+      },
+      {
+        "name": "SwiftHall_LOD2",
+        "triangles": 1322
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+    "meshes": [
+      {
+        "name": "BoothHarperCenter",
+        "triangles": 28104
+      },
+      {
+        "name": "BoothHarperCenter_Gls",
+        "triangles": 4528
+      },
+      {
+        "name": "BoothHarperCenter_LOD1",
+        "triangles": 12644
+      },
+      {
+        "name": "BoothHarperCenter_LOD1_Gls",
+        "triangles": 1264
+      },
+      {
+        "name": "BoothHarperCenter_LOD2",
+        "triangles": 1986
+      },
+      {
+        "name": "StudioGround",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+    "meshes": [
+      {
+        "name": "BurtonJudsonCourts",
+        "triangles": 161305
+      },
+      {
+        "name": "BurtonJudsonCourts_LOD1",
+        "triangles": 42255
+      },
+      {
+        "name": "BurtonJudsonCourts_LOD2",
+        "triangles": 1742
+      },
+      {
+        "name": "StudioGround_NOT_EXPORTED",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+    "meshes": [
+      {
+        "name": "BurtonJudsonCourts",
+        "triangles": 161305
+      },
+      {
+        "name": "BurtonJudsonCourts_LOD1",
+        "triangles": 42255
+      },
+      {
+        "name": "BurtonJudsonCourts_LOD2",
+        "triangles": 1742
+      },
+      {
+        "name": "IdaNoyesHall",
+        "triangles": 63040
+      },
+      {
+        "name": "IdaNoyesHall_LOD1",
+        "triangles": 18322
+      },
+      {
+        "name": "IdaNoyesHall_LOD2",
+        "triangles": 854
+      },
+      {
+        "name": "StudioGround_NOT_EXPORTED",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+    "meshes": [
+      {
+        "name": "LillieHouse",
+        "triangles": 25244
+      },
+      {
+        "name": "LillieHouse_LOD1",
+        "triangles": 11644
+      },
+      {
+        "name": "LillieHouse_LOD2",
+        "triangles": 1418
+      },
+      {
+        "name": "StudioGround",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+    "meshes": [
+      {
+        "name": "RockefellerChapel",
+        "triangles": 79600
+      },
+      {
+        "name": "RockefellerChapel_LOD1",
+        "triangles": 46469
+      },
+      {
+        "name": "RockefellerChapel_LOD2",
+        "triangles": 364
+      },
+      {
+        "name": "Studio ground (not asset)",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4f18\u5316\u6e90\u6587\u4ef6/assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+    "meshes": [
+      {
+        "name": "RockefellerChapel",
+        "triangles": 79600
+      },
+      {
+        "name": "RockefellerChapel_LOD1",
+        "triangles": 46469
+      },
+      {
+        "name": "RockefellerChapel_LOD2",
+        "triangles": 364
+      },
+      {
+        "name": "Studio ground (not asset)",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4fee\u590d\u6e90\u6587\u4ef6/assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+    "meshes": [
+      {
+        "name": "BelfieldHall",
+        "triangles": 25354
+      },
+      {
+        "name": "BelfieldHall_LOD1",
+        "triangles": 7094
+      },
+      {
+        "name": "BelfieldHall_LOD2",
+        "triangles": 332
+      },
+      {
+        "name": "BlaineHall",
+        "triangles": 63219
+      },
+      {
+        "name": "BlaineHall_LOD1",
+        "triangles": 22809
+      },
+      {
+        "name": "BlaineHall_LOD2",
+        "triangles": 521
+      },
+      {
+        "name": "JuddHall",
+        "triangles": 28826
+      },
+      {
+        "name": "JuddHall_LOD1",
+        "triangles": 8783
+      },
+      {
+        "name": "JuddHall_LOD2",
+        "triangles": 500
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4fee\u590d\u6e90\u6587\u4ef6/assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+    "meshes": [
+      {
+        "name": "SaiehHall",
+        "triangles": 58916
+      },
+      {
+        "name": "SaiehHall_LOD1",
+        "triangles": 21888
+      },
+      {
+        "name": "SaiehHall_LOD2",
+        "triangles": 719
+      },
+      {
+        "name": "SaiehNorthPavilion",
+        "triangles": 11208
+      },
+      {
+        "name": "SaiehNorthPavilion_LOD1",
+        "triangles": 5251
+      },
+      {
+        "name": "SaiehNorthPavilion_LOD2",
+        "triangles": 437
+      },
+      {
+        "name": "SaiehWoodlawn5740",
+        "triangles": 13559
+      },
+      {
+        "name": "SaiehWoodlawn5740_LOD1",
+        "triangles": 5506
+      },
+      {
+        "name": "SaiehWoodlawn5740_LOD2",
+        "triangles": 252
+      },
+      {
+        "name": "SaiehWoodlawn5750",
+        "triangles": 9063
+      },
+      {
+        "name": "SaiehWoodlawn5750_LOD1",
+        "triangles": 4202
+      },
+      {
+        "name": "SaiehWoodlawn5750_LOD2",
+        "triangles": 275
+      }
+    ],
+    "unpacked_file_images": []
+  },
+  {
+    "source": "\u4fee\u590d\u6e90\u6587\u4ef6/assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "meshes": [
+      {
+        "name": "SaiehHall",
+        "triangles": 59577
+      },
+      {
+        "name": "SaiehHall_LOD1",
+        "triangles": 22269
+      },
+      {
+        "name": "SaiehHall_LOD2",
+        "triangles": 718
+      },
+      {
+        "name": "Studio ground",
+        "triangles": 2
+      }
+    ],
+    "unpacked_file_images": []
+  }
+]
