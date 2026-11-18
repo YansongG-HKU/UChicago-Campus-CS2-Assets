@@ -1,0 +1,9 @@
+﻿源文件,优化网格,原三角面,新三角面,采样最大表面偏差米,重新打开源文件三角面,说明
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend,BondSwiftCloister_LOD2,1388,1318,3.4e-05,1318,双向顶点与面中心采样；不是严格全表面误差界
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,BondSwiftCloister_LOD2,1388,1318,3.4e-05,1318,双向顶点与面中心采样；不是严格全表面误差界
+assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend,BoothHarperCenter_LOD2,2208,1986,0.014653,1986,双向顶点与面中心采样；不是严格全表面误差界
+assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend,BurtonJudsonCourts_LOD2,1778,1742,0.024265,1742,双向顶点与面中心采样；不是严格全表面误差界
+assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,BurtonJudsonCourts_LOD2,1778,1742,0.024265,1742,双向顶点与面中心采样；不是严格全表面误差界
+assets/LillieHouse/LillieHouse/source/LillieHouse.blend,LillieHouse_LOD2,1433,1418,0.00343,1418,双向顶点与面中心采样；不是严格全表面误差界
+assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend,RockefellerChapel_LOD1,47418,46469,0.009117,46469,双向顶点与面中心采样；不是严格全表面误差界
+assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend,RockefellerChapel_LOD1,47418,46469,0.009117,46469,双向顶点与面中心采样；不是严格全表面误差界

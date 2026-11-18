@@ -9,3 +9,8 @@
 # Audited release update parts and review PDFs are deliberately tracked.
 !updates/20261013/**/*.zip
 !atlas/20261013/*.pdf
+
+# Reviewed cloud candidates; keep baseline reconstruction unchanged.
+!candidates/20261118/**/*.zip
+!candidates/20261118/**/*.zip.part*
+!candidates/20261118/previews/*.jpg

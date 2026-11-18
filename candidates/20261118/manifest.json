@@ -1,0 +1,181 @@
+[
+  {
+    "path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+    "zip": "01_BondSwiftCloister.zip",
+    "bytes": 7176228,
+    "sha256": "73cadeb2a168c831be12aa3ab2478bb24a9937142c61a08ac343d4e03dfad14a",
+    "zip_bytes": 7169000,
+    "zip_sha256": "44cb72e0f1d5ade862b4941b6c9bd774d6d2863fb208af3636e1787d44632707",
+    "baseline_sha256": "78c4bebb078536808b903557f86f5754588dc0ae484df5a51822905f610fb00d",
+    "baseline_bytes": 7178004,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend",
+    "zip": "02_BondSwiftEnsemble.zip",
+    "bytes": 11641265,
+    "sha256": "92e3b10b3b80f0610db720b4c5a4b738e06407176cca18630ccedbdba7ee08cc",
+    "zip_bytes": 11597871,
+    "zip_sha256": "a00d98d9e6489f5c7489744afbd6944cebe13371ebc1c9accce819848599ce7e",
+    "baseline_sha256": "c1b621cdadc3ade156d414d05f109c65985465d946dc654bd03c9cc2046066b0",
+    "baseline_bytes": 11643380,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+    "zip": "03_BoothHarperCenter.zip",
+    "bytes": 1295179,
+    "sha256": "29c39350bfedd4c1d9e280bfd92a9d5d24b881eb6bbfdd2f5a68bca351f2769d",
+    "zip_bytes": 1289453,
+    "zip_sha256": "cdd6ef5108498b42dc27dea66f5d591a72c5576a0e5a3797465cc2c967843396",
+    "baseline_sha256": "a03419e0e704460fdbf0fc8d840b376fa8cc2091c4b5aae464c5acecd3b63f1b",
+    "baseline_bytes": 1298995,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+    "zip": "04_BurtonJudsonCourts.zip",
+    "bytes": 8011584,
+    "sha256": "24ca75b6b870c6f520a4308116c0ef5f3bfe6d8d40f4135a58c9edddb70230bb",
+    "zip_bytes": 7717260,
+    "zip_sha256": "46d3961d52d9f056cddbbfd9122c590514a0ee5acec42a7ba1240887b9fdc3d2",
+    "baseline_sha256": "a94bd245650c6be82da270d6b62bdbff8061b2cbb75e6b66d0ce06094308821d",
+    "baseline_bytes": 8010832,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend",
+    "zip": "05_Ida_Burton_Inspection_Assembly.zip",
+    "bytes": 11868003,
+    "sha256": "03c5a7b535792adca32f81ab2fdf3fbe6a3b720ca3ede5c6a736ab5e07f0811c",
+    "zip_bytes": 11473633,
+    "zip_sha256": "61eb206bbb67bb3a753284bdec19ec6af2f9595ade261228f8a69e9349d2bdb1",
+    "baseline_sha256": "8fe50738ce3f65897d900f18004251d9335dbefc84ff62ad33505f0379bbfc1e",
+    "baseline_bytes": 11885340,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+    "zip": "06_LillieHouse.zip",
+    "bytes": 1004237,
+    "sha256": "a824d6c72610027a7a51ea6236a8a58181c32c9ebefd5af953f056c9e61b04de",
+    "zip_bytes": 998442,
+    "zip_sha256": "7d577a831d281ffacda7f51876cf49c59f25f6b18796fdcce5027e98579f2b5a",
+    "baseline_sha256": "00dcab657699785219ffc14125416ccbbc756876aad1621272813b22413597d4",
+    "baseline_bytes": 1004773,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend",
+    "zip": "07_RockefellerChapel.zip",
+    "bytes": 20902331,
+    "sha256": "ba5d45ec79f726a8bbed7027b4e9c7ea8429bed163e95bf4176299ce2d2079e7",
+    "zip_bytes": 20870196,
+    "zip_sha256": "e50e84e0e639ff6678ffdcdef1fbe34758368edb688027d0e5fd90d029cc2ab6",
+    "parts": [
+      {
+        "name": "07_RockefellerChapel.zip.part01",
+        "bytes": 8000000,
+        "sha256": "aa2e61a9fdff0f17c25cf4b1307183fc86a42bd16c4f651b2036d4858832081b"
+      },
+      {
+        "name": "07_RockefellerChapel.zip.part02",
+        "bytes": 8000000,
+        "sha256": "7cba0b0731c5e8cc2eca2b728a89a95b482747ae142901811d31268897508799"
+      },
+      {
+        "name": "07_RockefellerChapel.zip.part03",
+        "bytes": 4870196,
+        "sha256": "80f1ce9bd658439a3f2b2daa3d0baeea593ceb365f7355ccea70a3807a94885f"
+      }
+    ],
+    "baseline_sha256": "88996a1fa99e606b291bddc61ca06b9af36a1008ae077cce5408ce1f00e88717",
+    "baseline_bytes": 20922129,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+    "zip": "08_RockefellerChapel.zip",
+    "bytes": 12860211,
+    "sha256": "f1360c040f6cc703d704dfb127d082f276d638bdbfa20b14c8a8a64a70362b89",
+    "zip_bytes": 12842248,
+    "zip_sha256": "54667d5c8e4a2353c4652458136d46485b13b36531522ad914791fcea85a05e4",
+    "parts": [
+      {
+        "name": "08_RockefellerChapel.zip.part01",
+        "bytes": 8000000,
+        "sha256": "75f8e68c922a48501ceae0bd3b59b8f20b39e6494accc46f2a938e5120f9992d"
+      },
+      {
+        "name": "08_RockefellerChapel.zip.part02",
+        "bytes": 4842248,
+        "sha256": "097f2f70a6823b0bbea16e22daab2375f9dccdba6436228687bb02c655fb8c9b"
+      }
+    ],
+    "baseline_sha256": "212f4b06543cc130a983bf9b791475cc744e3f1ae15c614dc71b30e612b02dde",
+    "baseline_bytes": 12881160,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+    "zip": "09_BlaineJuddBelfield.zip",
+    "bytes": 13420742,
+    "sha256": "0cd1d937187116afb19c86b8d93b7006de4c8c6ad982cd0f08ae2a90d574b63e",
+    "zip_bytes": 13403952,
+    "zip_sha256": "3da20809a7f839576c4529f19af8ab7652b18563a2a6e0de9642414d851f8f13",
+    "parts": [
+      {
+        "name": "09_BlaineJuddBelfield.zip.part01",
+        "bytes": 8000000,
+        "sha256": "59a6f3c91d104129e5ed9ef9324863436dbeb5b07764c1d69d0e5623661c17ea"
+      },
+      {
+        "name": "09_BlaineJuddBelfield.zip.part02",
+        "bytes": 5403952,
+        "sha256": "bb685c3bbb70d990141c60446d01bf2398d6dc011a4cdfb1f79fd57dfd2d087d"
+      }
+    ],
+    "baseline_sha256": "bd552cacc9af6a3676f04fa73d7ba24d28c7b8e6c136ae8f1ee319d55be066b7",
+    "baseline_bytes": 13422189,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+    "zip": "10_SaiehAdditionsContext.zip",
+    "bytes": 17645811,
+    "sha256": "885b4f4c97e7dd57a71154af5a0d953aff00355e775d0be14d93a8be261c9c58",
+    "zip_bytes": 17624786,
+    "zip_sha256": "fa1b41650ca5297e89110db5ce5555073900a6bed8383e6e57a2d5eeae9969c4",
+    "parts": [
+      {
+        "name": "10_SaiehAdditionsContext.zip.part01",
+        "bytes": 8000000,
+        "sha256": "b19220c5d9cf86748d868863d6cce4c0a53a1eacc2819c346812e40617704cd9"
+      },
+      {
+        "name": "10_SaiehAdditionsContext.zip.part02",
+        "bytes": 8000000,
+        "sha256": "81838b55140bc6e5da1bf6a040af7a69e5d2366b3376df1261aec856be611bb3"
+      },
+      {
+        "name": "10_SaiehAdditionsContext.zip.part03",
+        "bytes": 1624786,
+        "sha256": "83d68ca6dc6a5e16879214fdc3e71d5ae4851ea4b79e6b99f6dd328627905ede"
+      }
+    ],
+    "baseline_sha256": "11cab342a76af328c59a8ff14e0b08e31b4e1cdc93e9f360e1e0cdcf30aba42d",
+    "baseline_bytes": 17640580,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  },
+  {
+    "path": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "zip": "11_SaiehHall.zip",
+    "bytes": 9510867,
+    "sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+    "zip_bytes": 9496000,
+    "zip_sha256": "4b53a5bba86d8d2a03d13793bc0e5f35dc9873e85fb33f4ca05aa78cdd789158",
+    "baseline_sha256": "a8afec068e73229eeca3c939223ce5b8b00264eaf0a576abeb198cde5ab36cf6",
+    "baseline_bytes": 9511288,
+    "baseline_commit": "e9376376b9cce862358e0fc68c52c8f6ddf2df60"
+  }
+]

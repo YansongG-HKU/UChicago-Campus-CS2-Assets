@@ -1,0 +1,80 @@
+[
+  {
+    "file": "fbx_10_BondSwiftCloister.zip",
+    "path": "candidates/20261118/fbx-check-only/10_BondSwiftCloister.zip",
+    "size": 758532,
+    "sha256": "02bfafeccae50e379acf6269cddedd2ce27896584f65dc7ca47a56da005c9be4"
+  },
+  {
+    "file": "fbx_11_BondSwiftEnsemble.zip",
+    "path": "candidates/20261118/fbx-check-only/11_BondSwiftEnsemble.zip",
+    "size": 758522,
+    "sha256": "a9595e70791ae736becb5017f68f1982c356288fc765c11a6e8506ea0660f104"
+  },
+  {
+    "file": "fbx_13_BoothHarperCenter.zip",
+    "path": "candidates/20261118/fbx-check-only/13_BoothHarperCenter.zip",
+    "size": 90781,
+    "sha256": "4c6b93ba51435f16c169e24a539d4862a7f90d06ee287991907d65ad8470c0c3"
+  },
+  {
+    "file": "fbx_14_BurtonJudsonCourts.zip",
+    "path": "candidates/20261118/fbx-check-only/14_BurtonJudsonCourts.zip",
+    "size": 177396,
+    "sha256": "90db3a46d570611b95d5666b406617efc9c00874e0deea8682ead12826658576"
+  },
+  {
+    "file": "fbx_43_Ida_Burton_Inspection_Assembly.zip",
+    "path": "candidates/20261118/fbx-check-only/43_Ida_Burton_Inspection_Assembly.zip",
+    "size": 177510,
+    "sha256": "4173b1d60f25d32cd2f96ec2b0b68fee6f4fc5ea2e7fbdfaa72e0775ad74cb35"
+  },
+  {
+    "file": "fbx_53_LillieHouse.zip",
+    "path": "candidates/20261118/fbx-check-only/53_LillieHouse.zip",
+    "size": 112218,
+    "sha256": "eb18ba11ba95bfc2574826ba7a248c19ac3ca55c4d97c4f8e2bd7bc556895146"
+  },
+  {
+    "file": "fbx_70_RockefellerChapel.zip",
+    "path": "candidates/20261118/fbx-check-only/70_RockefellerChapel.zip",
+    "size": 13593836,
+    "sha256": "30c687ab5c8bea699cafc18d43eaabd7a1220efca769c711e6185705842871be",
+    "parts": [
+      {
+        "name": "70_RockefellerChapel.zip.part01",
+        "bytes": 8000000,
+        "sha256": "09584d0a90396a35b3ff948e26a851bbfe5f4d03d4a3debd0b9e8db44660f4da"
+      },
+      {
+        "name": "70_RockefellerChapel.zip.part02",
+        "bytes": 5593836,
+        "sha256": "afe5782bbcb0b52127a371bc3985d682075b9c186406870b8ec7da9b57a941fc"
+      }
+    ]
+  },
+  {
+    "file": "fbx_71_RockefellerChapel.zip",
+    "path": "candidates/20261118/fbx-check-only/71_RockefellerChapel.zip",
+    "size": 10984672,
+    "sha256": "a84d599ef740631f92dbb129a8ca1f34ce04f7e0861d73d133b98fbeb2c23df1"
+  },
+  {
+    "file": "fbx_BlaineJuddBelfield.zip",
+    "path": "candidates/20261118/fbx-check-only/BlaineJuddBelfield.zip",
+    "size": 6618355,
+    "sha256": "99276fcdb9304feda0d3f2d1b8e56aa35462537072b5879e5ce7d0f361681433"
+  },
+  {
+    "file": "fbx_SaiehAdditionsContext.zip",
+    "path": "candidates/20261118/fbx-check-only/SaiehAdditionsContext.zip",
+    "size": 10279406,
+    "sha256": "5eff93d4797ca2d402f384868af8e4b558b297279a48be8dfc42ea4ca56ea160"
+  },
+  {
+    "file": "fbx_SaiehHall.zip",
+    "path": "candidates/20261118/fbx-check-only/SaiehHall.zip",
+    "size": 8935909,
+    "sha256": "25045660674ceb2d7e5f66b5e5d20f3e7b7bccf58a64d17208a91e70b8721351"
+  }
+]

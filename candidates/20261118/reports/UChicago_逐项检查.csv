@@ -1,0 +1,137 @@
+﻿条目,建筑或家族,源文件,当前扫描,主模型三角面,问题,游戏验收
+R001,AlumniHouse,assets/AlumniHouse/AlumniHouse/source/AlumniHouse.blend,audited_saved,29811,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R002,BakerDining,assets/BakerDining/BakerDining/source/BakerDining.blend,audited_saved,3858,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R003,BartlettHall,assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/source/BartlettHall.blend,audited_saved,56854,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R004,BelfieldHall,assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend,audited_saved,26132,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R005,BillingsHospital,assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend,audited_saved,195963,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R006,BlaineHall,assets/BlaineHall/BlaineHall/source/BlaineHall.blend,audited_saved,63921,BlaineHall_LOD2 504三角面，超过官方500建议，需保形优化,未进行
+R007,BelfieldHall,assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,audited_saved,25355,BelfieldHall 原有1极小退化面，副本已清除; BelfieldHall_LOD1 原有1极小退化面，副本已清除,未进行
+R008,BlaineHall,assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,audited_saved,63219,BlaineHall_LOD2 521三角面，超过官方500建议，需保形优化,未进行
+R009,JuddHall,assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,audited_saved,28826,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R010,CobbLectureHall,assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend,audited_saved,56556,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R011,GatesBlakeHall,assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend,audited_saved,57828,GatesBlakeHall_LOD2 501三角面，超过官方500建议，需保形优化,未进行
+R012,CobbLectureHall,assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend,audited_saved,56594,CobbLectureHall_LOD2 533三角面，超过官方500建议，需保形优化,未进行
+R013,GatesBlakeHall,assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend,audited_saved,57828,GatesBlakeHall_LOD2 501三角面，超过官方500建议，需保形优化,未进行
+R014,BondChapel,assets/BondSwiftEnsemble/bond_swift_haskell/source/BondChapel.blend,audited_saved,51299,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R015,BondSwiftCloister,assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend,audited_saved,21992,BondSwiftCloister_LOD2 1388三角面，超过官方500建议，需保形优化,未进行
+R016,BondChapel,assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,audited_saved,51299,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R017,BondSwiftCloister,assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,audited_saved,21992,BondSwiftCloister_LOD2 1388三角面，超过官方500建议，需保形优化,未进行
+R018,SwiftHall,assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,audited_saved,97339,SwiftHall_LOD2 1322三角面，超过官方500建议，需保形优化,未进行
+R019,SwiftHall,assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend,audited_saved,97339,SwiftHall_LOD2 1322三角面，超过官方500建议，需保形优化,未进行
+R020,BoothHarperCenter,assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend,audited_saved,28104,BoothHarperCenter_LOD2 2208三角面，超过官方500建议，需保形优化,未进行
+R021,BurtonJudsonCourts,assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend,audited_saved,161305,BurtonJudsonCourts_LOD2 1778三角面，超过官方500建议，需保形优化,未进行
+R022,CampusNorthResidential,assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend,audited_saved,75560,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R023,CatheyDining,assets/CatheyDining/CatheyDining/source/CatheyDining.blend,audited_saved,4858,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R024,ChapinOldBuilding,assets/ChapinOldBuilding/ChapinOldBuilding/source/ChapinOldBuilding.blend,audited_saved,40843,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R025,ChicagoLyingIn,assets/ChicagoLyingIn/ChicagoLyingIn/source/ChicagoLyingIn.blend,audited_saved,85151,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R026,ClassicsBuilding,assets/ClassicsBuilding/ClassicsBuilding/source/ClassicsBuilding.blend,audited_saved,87317,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R027,CobbGate,assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend,audited_saved,32902,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R028,CobbLectureHall,assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/source/CobbLectureHall.blend,audited_saved,57211,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R029,CochraneWoods,assets/CochraneWoods/CochraneWoods/source/CochraneWoods.blend,audited_saved,1982,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R030,DAngeloLawLibrary,assets/DAngeloLawLibrary/DAngeloLawLibrary/source/DAngeloLawLibrary.blend,audited_saved,11634,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R031,DavidRubensteinForum,assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/source/DavidRubensteinForum.blend,audited_saved,14508,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R032,EckhartHall,assets/EckhartHall/EckhartHall/source/EckhartHall.blend,audited_saved,77348,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R033,EdwardHLeviHall,assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/source/EdwardHLeviHall.blend,audited_saved,24808,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R034,GatesBlakeHall,assets/GatesBlakeHall/GatesBlakeHall/source/GatesBlakeHall.blend,audited_saved,57755,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R035,GoodspeedHall,assets/GoodspeedHall/GoodspeedHall/source/GoodspeedHall.blend,audited_saved,25439,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R036,GordonParksArtsHall,assets/GordonParksArtsHall/GordonParksArtsHall/source/GordonParksArtsHall.blend,audited_saved,9326,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R037,ClassicsBuilding,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,71016,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R038,GatesBlakeHall,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,57839,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R039,GoodspeedHall,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,25509,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R040,HarperMemorialLibrary,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,131563,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R041,StuartHall,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,97785,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R042,WieboldtHall,assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,audited_saved,53829,WieboldtHall_LOD2 654三角面，超过官方500建议，需保形优化,未进行
+R043,HarperMemorialLibrary,assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend,audited_saved,133016,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R044,HaskellHall,assets/HaskellHall/haskell_hall/source/HaskellHall.blend,audited_saved,18140,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R045,HenryCrownFieldHouse,assets/HenryCrownFieldHouse/HenryCrownFieldHouse/source/HenryCrownFieldHouse.blend,audited_saved,126042,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R046,HenryHindsLaboratory,assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend,audited_saved,33442,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R047,JuddHall,assets/HistoricLabs/HistoricLabs_Inspection/HistoricLabs_Inspection.blend,audited_saved,29365,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R048,SunnyGymnasium,assets/HistoricLabs/HistoricLabs_Inspection/HistoricLabs_Inspection.blend,audited_saved,35975,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R049,AnatomyBuilding,assets/HullCourt_v0.1/HullCourt/source/AnatomyBuilding.blend,audited_saved,47970,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R050,CulverHall,assets/HullCourt_v0.1/HullCourt/source/CulverHall.blend,audited_saved,50477,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R051,ErmanBiologyCenter,assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend,audited_saved,50353,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R052,AnatomyBuilding,assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,audited_saved,47970,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R053,CulverHall,assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,audited_saved,50477,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R054,ErmanBiologyCenter,assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,audited_saved,50353,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R055,ZoologyBuilding,assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,audited_saved,48610,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R056,ZoologyBuilding,assets/HullCourt_v0.1/HullCourt/source/ZoologyBuilding.blend,audited_saved,48610,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R057,ISAC,assets/ISAC/ISAC/source/ISAC.blend,audited_saved,19458,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R058,IdaNoyesHall,assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend,audited_saved,63040,IdaNoyesHall_LOD2 854三角面，超过官方500建议，需保形优化,未进行
+R059,BurtonJudsonCourts,assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,audited_saved,161305,BurtonJudsonCourts_LOD2 1778三角面，超过官方500建议，需保形优化,未进行
+R060,IdaNoyesHall,assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,audited_saved,63040,IdaNoyesHall_LOD2 854三角面，超过官方500建议，需保形优化,未进行
+R061,InternationalHouse,assets/InternationalHouse/InternationalHouse/source/InternationalHouse.blend,audited_saved,193605,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R062,JohnCrerarLibrary,assets/JohnCrerarLibrary/JohnCrerarLibrary/source/JohnCrerarLibrary.blend,audited_saved,18430,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R063,JonesLaboratory,assets/JonesLaboratory/JonesLaboratory/source/JonesLaboratory.blend,audited_saved,24403,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R064,JuddHall,assets/JuddHall/JuddHall/source/JuddHall.blend,audited_saved,29365,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R065,KellerCenter,assets/KellerCenter/KellerCenter/source/KellerCenter.blend,audited_saved,30200,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R066,KentChemicalLaboratory,assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend,audited_saved,98408,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R067,KovlerGymnasium,assets/KovlerGymnasium/KovlerGymnasium/source/KovlerGymnasium.blend,audited_saved,13250,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R068,LawClassroomAdministration,assets/LawClassroomAdministration/LawClassroomAdministration/source/LawClassroomAdministration.blend,audited_saved,5990,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R069,DAngeloLawLibrary,assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend,audited_saved,11634,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R070,LawClassroomAdministration,assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend,audited_saved,5990,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R071,LillieHouse,assets/LillieHouse/LillieHouse/source/LillieHouse.blend,audited_saved,25244,LillieHouse_LOD2 1433三角面，超过官方500建议，需保形优化,未进行
+R072,LoganArts,assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend,audited_saved,9278,LoganArts_LOD2 534三角面，超过官方500建议，需保形优化,未进行
+R073,MansuetoLibrary,assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/source/MansuetoLibrary.blend,audited_saved,76380,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R074,MaxPalevskyCentral,assets/MaxPalevskyCentral/MaxPalevskyCentral/source/MaxPalevskyCentral.blend,audited_saved,16554,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R075,MaxPalevskyEast,assets/MaxPalevskyEast/MaxPalevskyEast/source/MaxPalevskyEast.blend,audited_saved,22716,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R076,MaxPalevskyWest,assets/MaxPalevskyWest/MaxPalevskyWest/source/MaxPalevskyWest.blend,audited_saved,16310,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R077,MidwayStudios,assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend,audited_saved,6430,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R078,MidwayStudios,assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend,audited_saved,6430,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R079,TaftHouse,assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend,audited_saved,15900,TaftHouse_LOD2 540三角面，超过官方500建议，需保形优化,未进行
+R080,NeubauerCollegium,assets/NeubauerCollegium/NeubauerCollegium/source/NeubauerCollegium.blend,audited_saved,18780,主模型最低点-0.04m、LOD1最低点-0.02m，核对是否为有意嵌地；未擅自抬高,未进行
+R081,PresidentsHouse,assets/PresidentsHouse/PresidentsHouse/source/PresidentsHouse.blend,audited_saved,5792,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R082,QuadrangleClub,assets/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend,audited_saved,26258,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R083,RGGEast,assets/RGGEast/RGGEast/source/RGGEast.blend,audited_saved,55070,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R084,RGGWest,assets/RGGWest/RGGWest/source/RGGWest.blend,audited_saved,30128,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R085,RatnerAthletics,assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend,audited_saved,31806,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R086,RegensteinLibrary,assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend,audited_saved,51834,RegensteinLibrary_LOD2 778三角面，超过官方500建议，需保形优化,未进行
+R087,RGGEast,assets/ReneeGranvilleGrossmanAssembly/ReneeGranvilleGrossmanAssembly/source/ReneeGranvilleGrossmanAssembly.blend,audited_saved,55070,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R088,RGGWest,assets/ReneeGranvilleGrossmanAssembly/ReneeGranvilleGrossmanAssembly/source/ReneeGranvilleGrossmanAssembly.blend,audited_saved,30128,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R089,RobieHouse,assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend,audited_saved,15972,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R090,RockefellerChapel,assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend,audited_saved,79600,LOD1为主体59.6%，未达到低于50%的优化建议,未进行
+R091,RockefellerChapel,assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend,audited_saved,79600,LOD1为主体59.6%，未达到低于50%的优化建议,未进行
+R092,RosenwaldWalker,assets/RosenwaldWalker/RosenwaldWalker/source/RosenwaldWalker.blend,audited_saved,101352,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R093,RyersonLaboratory,assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend,audited_saved,92662,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R094,EckhartHall,assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,audited_saved,77342,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R095,KentChemicalLaboratory,assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,audited_saved,98408,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R096,RyersonLaboratory,assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,audited_saved,92662,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R097,SaiehHall,assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,audited_saved,58927,SaiehHall 原有11极小退化面，副本已清除; SaiehHall_LOD1 原有4极小退化面，副本已清除; SaiehHall_LOD2 719三角面，超过官方500建议，需保形优化,未进行
+R098,SaiehNorthPavilion,assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,audited_saved,11208,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R099,SaiehWoodlawn5740,assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,audited_saved,13559,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R100,SaiehWoodlawn5750,assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,audited_saved,9063,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R101,SaiehHall,assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend,audited_saved,59596,SaiehHall 原有19极小退化面，副本已清除; SaiehHall_LOD1 原有4极小退化面，副本已清除; SaiehHall_LOD2 718三角面，超过官方500建议，需保形优化,未进行
+R102,SaiehNorthPavilion,assets/SaiehNorthPavilion/SaiehNorthPavilion/source/SaiehNorthPavilion.blend,audited_saved,10838,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R103,SaiehWoodlawn5740,assets/SaiehWoodlawn5740/SaiehWoodlawn5740/source/SaiehWoodlawn5740.blend,audited_saved,13479,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R104,SaiehWoodlawn5750,assets/SaiehWoodlawn5750/SaiehWoodlawn5750/source/SaiehWoodlawn5750.blend,audited_saved,8995,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R105,SearleChemistry,assets/SearleChemistry/SearleChemistry/source/SearleChemistry.blend,audited_saved,41818,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R106,SmartMuseum,assets/SmartMuseum/SmartMuseum/source/SmartMuseum.blend,audited_saved,2086,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R107,SnellHitchcock,assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcock.blend,audited_saved,72059,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R108,__context_scene__,assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcockAssembly.blend,audited_saved,,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R109,SocialSciencesResearch,assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend,audited_saved,84112,SocialSciencesResearch_LOD2 677三角面，超过官方500建议，需保形优化,未进行
+R110,StuartHall,assets/StuartHall/StuartHall/source/StuartHall.blend,audited_saved,97785,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R111,SunnyGymnasium,assets/SunnyGymnasium/SunnyGymnasium/source/SunnyGymnasium.blend,audited_saved,35975,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R112,TaftHouse,assets/TaftHouse/TaftHouse/source/TaftHouse.blend,audited_saved,15900,TaftHouse_LOD2 540三角面，超过官方500建议，需保形优化,未进行
+R113,HutchinsonCommons,assets/TowerGroup/TowerGroup/source/TowerGroup.blend,audited_saved,28598,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R114,MandelHall,assets/TowerGroup/TowerGroup/source/TowerGroup.blend,audited_saved,27724,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R115,MitchellTower,assets/TowerGroup/TowerGroup/source/TowerGroup.blend,audited_saved,27129,MitchellTower_LOD2 1597三角面，超过官方500建议，需保形优化,未进行
+R116,ReynoldsClubhouse,assets/TowerGroup/TowerGroup/source/TowerGroup.blend,audited_saved,12002,ReynoldsClubhouse_LOD2 631三角面，超过官方500建议，需保形优化,未进行
+R117,UniversityHighSchoolModern,assets/UniversityHighSchoolModern/UniversityHighSchoolModern/source/UniversityHighSchoolModern.blend,audited_saved,10358,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R118,WieboldtHall,assets/WieboldtHall/WieboldtHall/source/WieboldtHall.blend,audited_saved,65188,WieboldtHall_LOD2 660三角面，超过官方500建议，需保形优化,未进行
+R119,WilderHouse,assets/WilderHouse/WilderHouse/source/WilderHouse.blend,audited_saved,14850,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R120,WilliamEckhardtResearchCenter,assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend,audited_saved,41936,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R121,BeecherHall,assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,audited_saved,17577,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R122,FosterHall,assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,audited_saved,40853,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R123,GreenHall,assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,audited_saved,35056,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R124,KellyHall,assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,audited_saved,19563,KellyHall_LOD2 1036三角面，超过官方500建议，需保形优化,未进行
+R125,WoodlawnDining,assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend,audited_saved,4470,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R126,WoodlawnResidential,assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend,audited_saved,52246,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R127,WoodlawnDining,assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend,audited_saved,4470,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R128,WoodlawnResidential,assets/WoodlawnResidential/WoodlawnResidential/source/WoodlawnResidential.blend,audited_saved,52246,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R129,YoungMemorial,assets/YoungMemorial/YoungMemorial/source/YoungMemorial.blend,audited_saved,28538,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R130,BakerDining,assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend,audited_saved,3858,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R131,CampusNorthResidential,assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend,audited_saved,75560,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R132,MaxPalevskyCentral,assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,audited_saved,16554,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R133,MaxPalevskyEast,assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,audited_saved,22716,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R134,MaxPalevskyWest,assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,audited_saved,16310,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R135,CochraneWoods,assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend,audited_saved,1982,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
+R136,SmartMuseum,assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend,audited_saved,2086,本次基础自动检查未发现明确新缺陷；非完整外观/游戏验收,未进行
