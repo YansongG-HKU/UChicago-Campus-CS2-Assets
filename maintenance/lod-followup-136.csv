@@ -1,0 +1,137 @@
+source,family,lod1_ratio,lod1_over_half,lod2_triangles,classification,action
+assets/AlumniHouse/AlumniHouse/source/AlumniHouse.blend,AlumniHouse,0.28093656703901243,False,178,within_500,retain; static recommendation check does not establish game acceptance
+assets/BakerDining/BakerDining/source/BakerDining.blend,BakerDining,0.168481078278901,False,230,within_500,retain; static recommendation check does not establish game acceptance
+assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/source/BartlettHall.blend,BartlettHall,0.3138917226580364,False,474,within_500,retain; static recommendation check does not establish game acceptance
+assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend,BelfieldHall,0.2750650543395071,False,320,within_500,retain; static recommendation check does not establish game acceptance
+assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend,BillingsHospital,0.20437021274424252,False,252,within_500,retain; static recommendation check does not establish game acceptance
+assets/BlaineHall/BlaineHall/source/BlaineHall.blend,BlaineHall,0.3593967553699097,False,504,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,BelfieldHall,0.27979805947779446,False,332,within_500,retain; static recommendation check does not establish game acceptance
+assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,BlaineHall,0.3607934323541973,False,521,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,JuddHall,0.30469021022687853,False,500,within_500,retain; static recommendation check does not establish game acceptance
+assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend,CobbLectureHall,0.4243935214654502,False,488,within_500,retain; static recommendation check does not establish game acceptance
+assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend,GatesBlakeHall,0.4439717783772567,False,501,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend,CobbLectureHall,0.42495670919178713,False,533,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend,GatesBlakeHall,0.4439717783772567,False,501,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondChapel.blend,BondChapel,0.3327355309070352,False,390,within_500,retain; static recommendation check does not establish game acceptance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend,BondSwiftCloister,0.42651873408512186,False,1318,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,BondChapel,0.3327355309070352,False,390,within_500,retain; static recommendation check does not establish game acceptance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,BondSwiftCloister,0.42651873408512186,False,1318,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,SwiftHall,0.46769537389946475,False,1322,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend,SwiftHall,0.46769537389946475,False,1322,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend,BoothHarperCenter,0.44990037005408484,False,1986,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend,BurtonJudsonCourts,0.26195716189826723,False,1742,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend,CampusNorthResidential,0.24107993647432505,False,234,within_500,retain; static recommendation check does not establish game acceptance
+assets/CatheyDining/CatheyDining/source/CatheyDining.blend,CatheyDining,0.2704816797035817,False,354,within_500,retain; static recommendation check does not establish game acceptance
+assets/ChapinOldBuilding/ChapinOldBuilding/source/ChapinOldBuilding.blend,ChapinOldBuilding,0.44509463065886445,False,142,within_500,retain; static recommendation check does not establish game acceptance
+assets/ChicagoLyingIn/ChicagoLyingIn/source/ChicagoLyingIn.blend,ChicagoLyingIn,0.29316156005214267,False,398,within_500,retain; static recommendation check does not establish game acceptance
+assets/ClassicsBuilding/ClassicsBuilding/source/ClassicsBuilding.blend,ClassicsBuilding,0.23671220953537112,False,336,within_500,retain; static recommendation check does not establish game acceptance
+assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend,CobbGate,0.15920004862926265,False,262,within_500,retain; static recommendation check does not establish game acceptance
+assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/source/CobbLectureHall.blend,CobbLectureHall,0.42416668123263007,False,474,within_500,retain; static recommendation check does not establish game acceptance
+assets/CochraneWoods/CochraneWoods/source/CochraneWoods.blend,CochraneWoods,0.2542885973763875,False,200,within_500,retain; static recommendation check does not establish game acceptance
+assets/DAngeloLawLibrary/DAngeloLawLibrary/source/DAngeloLawLibrary.blend,DAngeloLawLibrary,0.26766374419804023,False,490,within_500,retain; static recommendation check does not establish game acceptance
+assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/source/DavidRubensteinForum.blend,DavidRubensteinForum,0.21753515301902399,False,280,within_500,retain; static recommendation check does not establish game acceptance
+assets/EckhartHall/EckhartHall/source/EckhartHall.blend,EckhartHall,0.24636706831462998,False,413,within_500,retain; static recommendation check does not establish game acceptance
+assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/source/EdwardHLeviHall.blend,EdwardHLeviHall,0.19509835536923573,False,496,within_500,retain; static recommendation check does not establish game acceptance
+assets/GatesBlakeHall/GatesBlakeHall/source/GatesBlakeHall.blend,GatesBlakeHall,0.4432689810406025,False,461,within_500,retain; static recommendation check does not establish game acceptance
+assets/GoodspeedHall/GoodspeedHall/source/GoodspeedHall.blend,GoodspeedHall,0.44526121309799915,False,240,within_500,retain; static recommendation check does not establish game acceptance
+assets/GordonParksArtsHall/GordonParksArtsHall/source/GordonParksArtsHall.blend,GordonParksArtsHall,0.4145399957109157,False,442,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,ClassicsBuilding,0.2567731215500732,False,348,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,GatesBlakeHall,0.44310932070056536,False,472,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,GoodspeedHall,0.444548982711984,False,240,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,HarperMemorialLibrary,0.3528195617308818,False,446,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,StuartHall,0.2198189906427366,False,346,within_500,retain; static recommendation check does not establish game acceptance
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,WieboldtHall,0.26652919430047,False,654,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend,HarperMemorialLibrary,0.3512209057556986,False,432,within_500,retain; static recommendation check does not establish game acceptance
+assets/HaskellHall/haskell_hall/source/HaskellHall.blend,HaskellHall,0.47497243660418964,False,367,within_500,retain; static recommendation check does not establish game acceptance
+assets/HenryCrownFieldHouse/HenryCrownFieldHouse/source/HenryCrownFieldHouse.blend,HenryCrownFieldHouse,0.47236635407245203,False,118,within_500,retain; static recommendation check does not establish game acceptance
+assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend,HenryHindsLaboratory,0.3096106692183482,False,382,within_500,retain; static recommendation check does not establish game acceptance
+assets/HistoricLabs/HistoricLabs_Inspection/HistoricLabs_Inspection.blend,JuddHall,,False,,not_applicable,retain; static recommendation check does not establish game acceptance
+assets/HistoricLabs/HistoricLabs_Inspection/HistoricLabs_Inspection.blend,SunnyGymnasium,,False,,not_applicable,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/AnatomyBuilding.blend,AnatomyBuilding,0.32257661038148844,False,312,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/CulverHall.blend,CulverHall,0.2812568100322919,False,300,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend,ErmanBiologyCenter,0.2811550453796199,False,320,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,AnatomyBuilding,0.32257661038148844,False,312,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,CulverHall,0.2812568100322919,False,300,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,ErmanBiologyCenter,0.2811550453796199,False,320,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,ZoologyBuilding,0.3153672083933347,False,306,within_500,retain; static recommendation check does not establish game acceptance
+assets/HullCourt_v0.1/HullCourt/source/ZoologyBuilding.blend,ZoologyBuilding,0.3153672083933347,False,306,within_500,retain; static recommendation check does not establish game acceptance
+assets/ISAC/ISAC/source/ISAC.blend,ISAC,0.35512385651146056,False,280,within_500,retain; static recommendation check does not establish game acceptance
+assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend,IdaNoyesHall,0.2906408629441624,False,854,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,BurtonJudsonCourts,0.26195716189826723,False,1742,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,IdaNoyesHall,0.2906408629441624,False,854,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/InternationalHouse/InternationalHouse/source/InternationalHouse.blend,InternationalHouse,0.29499754655096716,False,436,within_500,retain; static recommendation check does not establish game acceptance
+assets/JohnCrerarLibrary/JohnCrerarLibrary/source/JohnCrerarLibrary.blend,JohnCrerarLibrary,0.441345632121541,False,282,within_500,retain; static recommendation check does not establish game acceptance
+assets/JonesLaboratory/JonesLaboratory/source/JonesLaboratory.blend,JonesLaboratory,0.28451419907388437,False,327,within_500,retain; static recommendation check does not establish game acceptance
+assets/JuddHall/JuddHall/source/JuddHall.blend,JuddHall,0.29971053975821554,False,472,within_500,retain; static recommendation check does not establish game acceptance
+assets/KellerCenter/KellerCenter/source/KellerCenter.blend,KellerCenter,0.47589403973509936,False,356,within_500,retain; static recommendation check does not establish game acceptance
+assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend,KentChemicalLaboratory,0.23030647914803676,False,477,within_500,retain; static recommendation check does not establish game acceptance
+assets/KovlerGymnasium/KovlerGymnasium/source/KovlerGymnasium.blend,KovlerGymnasium,0.43818867924528304,False,154,within_500,retain; static recommendation check does not establish game acceptance
+assets/LawClassroomAdministration/LawClassroomAdministration/source/LawClassroomAdministration.blend,LawClassroomAdministration,0.41903171953255425,False,338,within_500,retain; static recommendation check does not establish game acceptance
+assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend,DAngeloLawLibrary,0.26766374419804023,False,456,within_500,retain; static recommendation check does not establish game acceptance
+assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend,LawClassroomAdministration,0.41903171953255425,False,338,within_500,retain; static recommendation check does not establish game acceptance
+assets/LillieHouse/LillieHouse/source/LillieHouse.blend,LillieHouse,0.46125812074156236,False,1418,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend,LoganArts,0.18689372709635696,False,534,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/source/MansuetoLibrary.blend,MansuetoLibrary,0.07881644409531291,False,458,within_500,retain; static recommendation check does not establish game acceptance
+assets/MaxPalevskyCentral/MaxPalevskyCentral/source/MaxPalevskyCentral.blend,MaxPalevskyCentral,0.1715597438685514,False,344,within_500,retain; static recommendation check does not establish game acceptance
+assets/MaxPalevskyEast/MaxPalevskyEast/source/MaxPalevskyEast.blend,MaxPalevskyEast,0.1648177496038035,False,464,within_500,retain; static recommendation check does not establish game acceptance
+assets/MaxPalevskyWest/MaxPalevskyWest/source/MaxPalevskyWest.blend,MaxPalevskyWest,0.17388105456774985,False,336,within_500,retain; static recommendation check does not establish game acceptance
+assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend,MidwayStudios,0.4345256609642302,False,360,within_500,retain; static recommendation check does not establish game acceptance
+assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend,MidwayStudios,0.4345256609642302,False,360,within_500,retain; static recommendation check does not establish game acceptance
+assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend,TaftHouse,0.3142138364779874,False,540,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/NeubauerCollegium/NeubauerCollegium/source/NeubauerCollegium.blend,NeubauerCollegium,0.4928647497337593,False,158,within_500,retain; static recommendation check does not establish game acceptance
+assets/PresidentsHouse/PresidentsHouse/source/PresidentsHouse.blend,PresidentsHouse,0.3791436464088398,False,214,within_500,retain; static recommendation check does not establish game acceptance
+assets/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend,QuadrangleClub,0.33155609718942797,False,316,within_500,retain; static recommendation check does not establish game acceptance
+assets/RGGEast/RGGEast/source/RGGEast.blend,RGGEast,0.3278736153985836,False,434,within_500,retain; static recommendation check does not establish game acceptance
+assets/RGGWest/RGGWest/source/RGGWest.blend,RGGWest,0.33278013807753587,False,302,within_500,retain; static recommendation check does not establish game acceptance
+assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend,RatnerAthletics,0.08621014902848519,False,392,within_500,retain; static recommendation check does not establish game acceptance
+assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend,RegensteinLibrary,0.40220704556854575,False,778,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/ReneeGranvilleGrossmanAssembly/ReneeGranvilleGrossmanAssembly/source/ReneeGranvilleGrossmanAssembly.blend,RGGEast,0.3278736153985836,False,434,within_500,retain; static recommendation check does not establish game acceptance
+assets/ReneeGranvilleGrossmanAssembly/ReneeGranvilleGrossmanAssembly/source/ReneeGranvilleGrossmanAssembly.blend,RGGWest,0.33278013807753587,False,302,within_500,retain; static recommendation check does not establish game acceptance
+assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend,RobieHouse,0.2622088655146506,False,296,within_500,retain; static recommendation check does not establish game acceptance
+assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend,RockefellerChapel,0.5837814070351759,True,364,within_500,no blind decimation; compare silhouette and texture at transition distance
+assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend,RockefellerChapel,0.5837814070351759,True,364,within_500,no blind decimation; compare silhouette and texture at transition distance
+assets/RosenwaldWalker/RosenwaldWalker/source/RosenwaldWalker.blend,RosenwaldWalker,0.20599494829899756,False,354,within_500,retain; static recommendation check does not establish game acceptance
+assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend,RyersonLaboratory,0.2204355615030973,False,480,within_500,retain; static recommendation check does not establish game acceptance
+assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,EckhartHall,0.2463086033461767,False,407,within_500,retain; static recommendation check does not establish game acceptance
+assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,KentChemicalLaboratory,0.23030647914803676,False,477,within_500,retain; static recommendation check does not establish game acceptance
+assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,RyersonLaboratory,0.2204355615030973,False,480,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,SaiehHall,0.3715119831624686,False,719,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,SaiehNorthPavilion,0.46850463954318344,False,437,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,SaiehWoodlawn5740,0.4060771443321779,False,252,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,SaiehWoodlawn5750,0.4636433851925411,False,275,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend,SaiehHall,0.3737851855581852,False,718,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/SaiehNorthPavilion/SaiehNorthPavilion/source/SaiehNorthPavilion.blend,SaiehNorthPavilion,0.45377375899612477,False,386,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehWoodlawn5740/SaiehWoodlawn5740/source/SaiehWoodlawn5740.blend,SaiehWoodlawn5740,0.4038133392684917,False,224,within_500,retain; static recommendation check does not establish game acceptance
+assets/SaiehWoodlawn5750/SaiehWoodlawn5750/source/SaiehWoodlawn5750.blend,SaiehWoodlawn5750,0.46058921623123955,False,247,within_500,retain; static recommendation check does not establish game acceptance
+assets/SearleChemistry/SearleChemistry/source/SearleChemistry.blend,SearleChemistry,0.31876225548806736,False,226,within_500,retain; static recommendation check does not establish game acceptance
+assets/SmartMuseum/SmartMuseum/source/SmartMuseum.blend,SmartMuseum,0.21380632790028764,False,134,within_500,retain; static recommendation check does not establish game acceptance
+assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcock.blend,SnellHitchcock,0.4450380937842601,False,470,within_500,retain; static recommendation check does not establish game acceptance
+assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcockAssembly.blend,__context_scene__,,False,,not_applicable,retain; static recommendation check does not establish game acceptance
+assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend,SocialSciencesResearch,0.17410119840213048,False,677,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/StuartHall/StuartHall/source/StuartHall.blend,StuartHall,0.2198189906427366,False,346,within_500,retain; static recommendation check does not establish game acceptance
+assets/SunnyGymnasium/SunnyGymnasium/source/SunnyGymnasium.blend,SunnyGymnasium,0.19477414871438498,False,334,within_500,retain; static recommendation check does not establish game acceptance
+assets/TaftHouse/TaftHouse/source/TaftHouse.blend,TaftHouse,0.3142138364779874,False,540,near_501_550,no blind decimation; compare silhouette and texture at transition distance
+assets/TowerGroup/TowerGroup/source/TowerGroup.blend,HutchinsonCommons,0.3824742989020211,False,330,within_500,retain; static recommendation check does not establish game acceptance
+assets/TowerGroup/TowerGroup/source/TowerGroup.blend,MandelHall,0.3941711152791805,False,268,within_500,retain; static recommendation check does not establish game acceptance
+assets/TowerGroup/TowerGroup/source/TowerGroup.blend,MitchellTower,0.32876257879022447,False,1597,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/TowerGroup/TowerGroup/source/TowerGroup.blend,ReynoldsClubhouse,0.40409931678053657,False,631,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/UniversityHighSchoolModern/UniversityHighSchoolModern/source/UniversityHighSchoolModern.blend,UniversityHighSchoolModern,0.3261247345047306,False,330,within_500,retain; static recommendation check does not establish game acceptance
+assets/WieboldtHall/WieboldtHall/source/WieboldtHall.blend,WieboldtHall,0.25317543106093143,False,660,moderate_551_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/WilderHouse/WilderHouse/source/WilderHouse.blend,WilderHouse,0.28619528619528617,False,212,within_500,retain; static recommendation check does not establish game acceptance
+assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend,WilliamEckhardtResearchCenter,0.359357115604731,False,370,within_500,retain; static recommendation check does not establish game acceptance
+assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,BeecherHall,0.34829606872617624,False,454,within_500,retain; static recommendation check does not establish game acceptance
+assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,FosterHall,0.32083323134163955,False,443,within_500,retain; static recommendation check does not establish game acceptance
+assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,GreenHall,0.33084208124144227,False,376,within_500,retain; static recommendation check does not establish game acceptance
+assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,KellyHall,0.34289219444870417,False,1036,high_over_1000,no blind decimation; compare silhouette and texture at transition distance
+assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend,WoodlawnDining,0.36644295302013424,False,66,within_500,retain; static recommendation check does not establish game acceptance
+assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend,WoodlawnResidential,0.17926731233013055,False,494,within_500,retain; static recommendation check does not establish game acceptance
+assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend,WoodlawnDining,0.36644295302013424,False,66,within_500,retain; static recommendation check does not establish game acceptance
+assets/WoodlawnResidential/WoodlawnResidential/source/WoodlawnResidential.blend,WoodlawnResidential,0.17926731233013055,False,494,within_500,retain; static recommendation check does not establish game acceptance
+assets/YoungMemorial/YoungMemorial/source/YoungMemorial.blend,YoungMemorial,0.43990468848552805,False,452,within_500,retain; static recommendation check does not establish game acceptance
+assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend,BakerDining,0.168481078278901,False,230,within_500,retain; static recommendation check does not establish game acceptance
+assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend,CampusNorthResidential,0.24107993647432505,False,234,within_500,retain; static recommendation check does not establish game acceptance
+assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,MaxPalevskyCentral,0.1715597438685514,False,344,within_500,retain; static recommendation check does not establish game acceptance
+assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,MaxPalevskyEast,0.1648177496038035,False,464,within_500,retain; static recommendation check does not establish game acceptance
+assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,MaxPalevskyWest,0.17388105456774985,False,336,within_500,retain; static recommendation check does not establish game acceptance
+assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend,CochraneWoods,0.2542885973763875,False,200,within_500,retain; static recommendation check does not establish game acceptance
+assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend,SmartMuseum,0.21380632790028764,False,134,within_500,retain; static recommendation check does not establish game acceptance

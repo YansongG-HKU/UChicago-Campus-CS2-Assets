@@ -1,0 +1,102 @@
+source,image_references,unique_image_contents,embedded_payload_bytes,duplicate_embedded_payload_bytes,action
+assets/AlumniHouse/AlumniHouse/source/AlumniHouse.blend,10,10,188170,0,no within-scene byte-identical image duplication
+assets/BakerDining/BakerDining/source/BakerDining.blend,10,10,151890,0,no within-scene byte-identical image duplication
+assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/source/BartlettHall.blend,10,10,1681440,0,no within-scene byte-identical image duplication
+assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend,10,10,1718875,0,no within-scene byte-identical image duplication
+assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend,10,10,207260,0,no within-scene byte-identical image duplication
+assets/BlaineHall/BlaineHall/source/BlaineHall.blend,10,10,1719020,0,no within-scene byte-identical image duplication
+assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend,45,18,9751616,6410788,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend,30,20,23969773,11626655,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend,30,20,23969773,11626655,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondChapel.blend,10,10,6710747,0,no within-scene byte-identical image duplication
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend,10,10,6710747,0,no within-scene byte-identical image duplication
+assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftEnsemble.blend,10,10,6710747,0,no within-scene byte-identical image duplication
+assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend,10,10,6710747,0,no within-scene byte-identical image duplication
+assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend,10,10,157700,0,no within-scene byte-identical image duplication
+assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend,10,10,1589056,0,no within-scene byte-identical image duplication
+assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend,10,10,116892,0,no within-scene byte-identical image duplication
+assets/CatheyDining/CatheyDining/source/CatheyDining.blend,10,10,111655,0,no within-scene byte-identical image duplication
+assets/ChapinOldBuilding/ChapinOldBuilding/source/ChapinOldBuilding.blend,10,10,203251,0,no within-scene byte-identical image duplication
+assets/ChicagoLyingIn/ChicagoLyingIn/source/ChicagoLyingIn.blend,10,10,204225,0,no within-scene byte-identical image duplication
+assets/ClassicsBuilding/ClassicsBuilding/source/ClassicsBuilding.blend,10,10,11665856,0,no within-scene byte-identical image duplication
+assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend,10,10,6288859,0,no within-scene byte-identical image duplication
+assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/source/CobbLectureHall.blend,10,10,1614899,0,no within-scene byte-identical image duplication
+assets/CochraneWoods/CochraneWoods/source/CochraneWoods.blend,10,10,151666,0,no within-scene byte-identical image duplication
+assets/DAngeloLawLibrary/DAngeloLawLibrary/source/DAngeloLawLibrary.blend,10,10,165452,0,no within-scene byte-identical image duplication
+assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/source/DavidRubensteinForum.blend,10,10,305911,0,no within-scene byte-identical image duplication
+assets/EckhartHall/EckhartHall/source/EckhartHall.blend,19,10,4983232,3223305,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/source/EdwardHLeviHall.blend,10,10,165633,0,no within-scene byte-identical image duplication
+assets/GatesBlakeHall/GatesBlakeHall/source/GatesBlakeHall.blend,10,10,10728219,0,no within-scene byte-identical image duplication
+assets/GoodspeedHall/GoodspeedHall/source/GoodspeedHall.blend,10,10,10728219,0,no within-scene byte-identical image duplication
+assets/GordonParksArtsHall/GordonParksArtsHall/source/GordonParksArtsHall.blend,10,10,133039,0,no within-scene byte-identical image duplication
+assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend,87,22,131767983,75432011,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend,8,8,11613588,0,no within-scene byte-identical image duplication
+assets/HaskellHall/haskell_hall/source/HaskellHall.blend,19,10,18309659,11900713,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/HenryCrownFieldHouse/HenryCrownFieldHouse/source/HenryCrownFieldHouse.blend,10,10,201260,0,no within-scene byte-identical image duplication
+assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend,10,10,171041,0,no within-scene byte-identical image duplication
+assets/HistoricLabs/HistoricLabs_Inspection/HistoricLabs_Inspection.blend,10,8,2884188,31002,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/HullCourt_v0.1/HullCourt/source/AnatomyBuilding.blend,10,10,1977583,0,no within-scene byte-identical image duplication
+assets/HullCourt_v0.1/HullCourt/source/CulverHall.blend,10,10,1976772,0,no within-scene byte-identical image duplication
+assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend,10,10,1976982,0,no within-scene byte-identical image duplication
+assets/HullCourt_v0.1/HullCourt/source/HullCourtAssembly.blend,40,19,7908951,4983267,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/HullCourt_v0.1/HullCourt/source/ZoologyBuilding.blend,10,10,1977614,0,no within-scene byte-identical image duplication
+assets/ISAC/ISAC/source/ISAC.blend,10,10,1604991,0,no within-scene byte-identical image duplication
+assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend,10,10,1587663,0,no within-scene byte-identical image duplication
+assets/Ida_Burton_Inspection/Ida_Burton_Inspection_Assembly/Ida_Burton_Inspection_Assembly.blend,20,12,3176719,1462447,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/InternationalHouse/InternationalHouse/source/InternationalHouse.blend,10,10,204365,0,no within-scene byte-identical image duplication
+assets/JohnCrerarLibrary/JohnCrerarLibrary/source/JohnCrerarLibrary.blend,10,10,157699,0,no within-scene byte-identical image duplication
+assets/JonesLaboratory/JonesLaboratory/source/JonesLaboratory.blend,10,10,1679641,0,no within-scene byte-identical image duplication
+assets/JuddHall/JuddHall/source/JuddHall.blend,10,10,1605531,0,no within-scene byte-identical image duplication
+assets/KellerCenter/KellerCenter/source/KellerCenter.blend,10,10,177760,0,no within-scene byte-identical image duplication
+assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend,19,10,4983232,3223305,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/KovlerGymnasium/KovlerGymnasium/source/KovlerGymnasium.blend,10,10,134034,0,no within-scene byte-identical image duplication
+assets/LawClassroomAdministration/LawClassroomAdministration/source/LawClassroomAdministration.blend,10,10,157700,0,no within-scene byte-identical image duplication
+assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend,20,14,274055,78017,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/LillieHouse/LillieHouse/source/LillieHouse.blend,10,10,220934,0,no within-scene byte-identical image duplication
+assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend,10,10,7623058,0,no within-scene byte-identical image duplication
+assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/source/MansuetoLibrary.blend,10,10,802943,0,no within-scene byte-identical image duplication
+assets/MaxPalevskyCentral/MaxPalevskyCentral/source/MaxPalevskyCentral.blend,10,10,118712,0,no within-scene byte-identical image duplication
+assets/MaxPalevskyEast/MaxPalevskyEast/source/MaxPalevskyEast.blend,10,10,118685,0,no within-scene byte-identical image duplication
+assets/MaxPalevskyWest/MaxPalevskyWest/source/MaxPalevskyWest.blend,10,10,118701,0,no within-scene byte-identical image duplication
+assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend,10,10,205984,0,no within-scene byte-identical image duplication
+assets/MidwayTaft/MidwayTaftAssembly/source/MidwayTaftAssembly.blend,20,12,408504,103756,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/NeubauerCollegium/NeubauerCollegium/source/NeubauerCollegium.blend,10,10,1685126,0,no within-scene byte-identical image duplication
+assets/PresidentsHouse/PresidentsHouse/source/PresidentsHouse.blend,10,10,1730627,0,no within-scene byte-identical image duplication
+assets/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend,10,10,220464,0,no within-scene byte-identical image duplication
+assets/RGGEast/RGGEast/source/RGGEast.blend,10,10,259061,0,no within-scene byte-identical image duplication
+assets/RGGWest/RGGWest/source/RGGWest.blend,10,10,259061,0,no within-scene byte-identical image duplication
+assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend,10,10,375845,0,no within-scene byte-identical image duplication
+assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend,10,10,7079992,0,no within-scene byte-identical image duplication
+assets/ReneeGranvilleGrossmanAssembly/ReneeGranvilleGrossmanAssembly/source/ReneeGranvilleGrossmanAssembly.blend,20,10,518122,259061,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend,10,10,7691874,0,no within-scene byte-identical image duplication
+assets/RockefellerChapel_v02/rockefeller_chapel_v0_2/source/RockefellerChapel.blend,8,8,18029916,0,no within-scene byte-identical image duplication
+assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend,4,4,10108493,0,no within-scene byte-identical image duplication
+assets/RosenwaldWalker/RosenwaldWalker/source/RosenwaldWalker.blend,10,10,1780522,0,no within-scene byte-identical image duplication
+assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend,19,10,4983232,3223305,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/Ryerson_Eckhart_Kent/assembly/RyersonEckhartKent_RelationshipStudy.blend,30,10,5279781,3519854,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend,57,22,15257144,7518157,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend,8,8,7379796,0,no within-scene byte-identical image duplication
+assets/SaiehNorthPavilion/SaiehNorthPavilion/source/SaiehNorthPavilion.blend,10,10,169544,0,no within-scene byte-identical image duplication
+assets/SaiehWoodlawn5740/SaiehWoodlawn5740/source/SaiehWoodlawn5740.blend,10,10,198665,0,no within-scene byte-identical image duplication
+assets/SaiehWoodlawn5750/SaiehWoodlawn5750/source/SaiehWoodlawn5750.blend,10,10,198494,0,no within-scene byte-identical image duplication
+assets/SearleChemistry/SearleChemistry/source/SearleChemistry.blend,10,10,344971,0,no within-scene byte-identical image duplication
+assets/SmartMuseum/SmartMuseum/source/SmartMuseum.blend,10,10,151666,0,no within-scene byte-identical image duplication
+assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcock.blend,10,10,1273499,0,no within-scene byte-identical image duplication
+assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcockAssembly.blend,10,10,1273499,0,no within-scene byte-identical image duplication
+assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend,10,10,1780795,0,no within-scene byte-identical image duplication
+assets/StuartHall/StuartHall/source/StuartHall.blend,10,10,11693688,0,no within-scene byte-identical image duplication
+assets/SunnyGymnasium/SunnyGymnasium/source/SunnyGymnasium.blend,10,10,1403058,0,no within-scene byte-identical image duplication
+assets/TaftHouse/TaftHouse/source/TaftHouse.blend,10,10,202520,0,no within-scene byte-identical image duplication
+assets/TowerGroup/TowerGroup/source/TowerGroup.blend,25,10,4293315,805983,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/UniversityHighSchoolModern/UniversityHighSchoolModern/source/UniversityHighSchoolModern.blend,10,10,135369,0,no within-scene byte-identical image duplication
+assets/WieboldtHall/WieboldtHall/source/WieboldtHall.blend,10,10,11710572,0,no within-scene byte-identical image duplication
+assets/WilderHouse/WilderHouse/source/WilderHouse.blend,10,10,194288,0,no within-scene byte-identical image duplication
+assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend,10,10,99276,0,no within-scene byte-identical image duplication
+assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend,60,10,13301760,11084800,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend,20,10,925438,462719,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend,10,10,462719,0,no within-scene byte-identical image duplication
+assets/WoodlawnResidential/WoodlawnResidential/source/WoodlawnResidential.blend,10,10,462719,0,no within-scene byte-identical image duplication
+assets/YoungMemorial/YoungMemorial/source/YoungMemorial.blend,10,10,280850,0,no within-scene byte-identical image duplication
+assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend,30,13,480306,319224,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend,45,14,673376,491520,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
+assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend,30,10,514862,363196,retain source; content-bundle already deduplicates external files; image-datablock consolidation needs colorspace/alpha/export-name validation
