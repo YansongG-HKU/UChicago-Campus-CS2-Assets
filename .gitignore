@@ -14,3 +14,11 @@
 !candidates/20261118/**/*.zip
 !candidates/20261118/**/*.zip.part*
 !candidates/20261118/previews/*.jpg
+
+# Local-only generated artifacts; do not hide audit JSON or release dependencies.
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+/.local-work/
+/.local-cache/

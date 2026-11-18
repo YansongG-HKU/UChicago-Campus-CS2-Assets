@@ -1,0 +1,73 @@
+{
+  "measured_candidate_head": "3c368437dd9df0f7a4589ce3e8f452bf7de1e164",
+  "scope": "Reconstructed complete source working tree, not compiled CS2 runtime package. Decimal bytes. 8032 assets plus 6 support files.",
+  "file_count": 8038,
+  "bytes": 3509029574,
+  "by_extension": {
+    ".py": [
+      763,
+      3784809
+    ],
+    ".json": [
+      1630,
+      14969720
+    ],
+    ".csv": [
+      1,
+      40259
+    ],
+    ".md": [
+      386,
+      1139884
+    ],
+    ".fbx": [
+      484,
+      354639216
+    ],
+    ".blend": [
+      101,
+      666129688
+    ],
+    ".png": [
+      4613,
+      2447945451
+    ],
+    ".jpg": [
+      39,
+      18841643
+    ],
+    "": [
+      3,
+      228
+    ],
+    ".svg": [
+      2,
+      4216
+    ],
+    ".txt": [
+      4,
+      8438
+    ],
+    ".sh": [
+      8,
+      5259
+    ],
+    ".log": [
+      2,
+      1323
+    ],
+    ".ttf": [
+      2,
+      1519440
+    ]
+  },
+  "identical_file_duplicate_bytes": 1075627850,
+  "packed_image_reference_count": 1473,
+  "packed_image_payload_bytes": 480505406,
+  "unique_packed_image_count": 326,
+  "unique_packed_image_payload_bytes": 162560592,
+  "all_packed_images_match_external_png_bytes": true,
+  "preview_directory_png_bytes": 1064309645,
+  "texture_or_ProjectFiles_png_bytes": 1209279299,
+  "caution": "Duplicate byte opportunities are not additive; embedded PNG payloads may be compressed within blend. No game runtime size, memory or importer sharing inference."
+}
