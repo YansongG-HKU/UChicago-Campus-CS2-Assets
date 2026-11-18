@@ -20,6 +20,6 @@ for s in A:
   lod.append({'source':s['source'],'family':f['family'],'lod1_ratio':f.get('lod1_ratio'),'lod1_over_half':bool((f.get('lod1_ratio') or 0)>=.5),'lod2_triangles':n,'classification':band,'action':'no blind decimation; compare silhouette and texture at transition distance' if (n or 0)>500 or (f.get('lod1_ratio') or 0)>=.5 else 'retain; static recommendation check does not establish game acceptance'})
 for name,rows in [('texture-sharing-review-101.csv',texture),('lod-followup-136.csv',lod)]:
  with (ROOT/'maintenance'/name).open('w',newline='',encoding='utf-8') as f:
-  w=csv.DictWriter(f,fieldnames=rows[0].keys());w.writeheader();w.writerows(rows)
+  w=csv.DictWriter(f,fieldnames=rows[0].keys(),lineterminator='\n');w.writeheader();w.writerows(rows)
 summary={'scope':'Reuse full 101-scene audit at 3c368437dd9df0f7a4589ce3e8f452bf7de1e164; no additional geometry or texture edits.','scenes':len(texture),'family_records':len(lod),'scenes_with_internal_duplicate_image_bytes':sum(r['duplicate_embedded_payload_bytes']>0 for r in texture),'internal_duplicate_embedded_payload_bytes':sum(r['duplicate_embedded_payload_bytes'] for r in texture),'lod2_classes':dict(collections.Counter(r['classification'] for r in lod)),'lod1_over_half_records':sum(r['lod1_over_half'] for r in lod),'lod2_over_500_unique_family_names':len({r['family'] for r in lod if (r['lod2_triangles'] or 0)>500}),'editor_verified':False}
 (ROOT/'maintenance/followup-classification-summary.json').write_text(json.dumps(summary,indent=2)+'\n');print(json.dumps(summary))
