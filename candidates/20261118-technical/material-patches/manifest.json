@@ -1,0 +1,238 @@
+[
+  {
+    "source": "assets/BlaineJuddBelfield/repair_20261007/BlaineJuddBelfield.blend",
+    "before_sha256": "0cd1d937187116afb19c86b8d93b7006de4c8c6ad982cd0f08ae2a90d574b63e",
+    "after_sha256": "9eb95b44629a150cadc895efa2f2243664a026f796d2b58a39bb0494ddea74ba",
+    "changes": [
+      {
+        "object": "BelfieldHall",
+        "old": "BelfieldHall.001",
+        "new": "BelfieldHall_Mtl"
+      },
+      {
+        "object": "BlaineHall",
+        "old": "BlaineHall.001",
+        "new": "BlaineHall_Mtl"
+      },
+      {
+        "object": "JuddHall",
+        "old": "JuddHall.001",
+        "new": "JuddHall_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "01_BlaineJuddBelfield.zst",
+    "patch_bytes": 1354353,
+    "patch_sha256": "807b566a8f295cd6ef03382bd176f30c9fb489d7a91e193b9d52ce9b992db44b",
+    "result_bytes": 13420753,
+    "already_changed_in_previous_11": true
+  },
+  {
+    "source": "assets/BlakeCobbContactStudy/BlakeCobbContactStudy/source/BlakeCobbContactStudy.blend",
+    "before_sha256": "8c30cc82174d4dea6b8778764d8a8490f34fee5a8cd44ad002cd6b1ea4783732",
+    "after_sha256": "59ac4fd15ec2ff8f15f15fb9cf4471262cac927abc2b5ce8ca0907d70b539b85",
+    "changes": [
+      {
+        "object": "CobbLectureHall",
+        "old": "CobbLectureHall.001",
+        "new": "CobbLectureHall_Mtl"
+      },
+      {
+        "object": "GatesBlakeHall",
+        "old": "GatesBlakeHall.001",
+        "new": "GatesBlakeHall_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "02_BlakeCobbContactStudy.zst",
+    "patch_bytes": 1714011,
+    "patch_sha256": "c107c31baf29320caa64fb78533b00d5147ac73e5a8897ce3dadf31802ac0102",
+    "result_bytes": 26940066,
+    "already_changed_in_previous_11": false
+  },
+  {
+    "source": "assets/BlakeCobbMapProxy/repair_20261007/BlakeCobbMapProxy.blend",
+    "before_sha256": "01968b1d3279e613bc80d791f3e2dd613adcdce02888c5c9e53229ac12948be3",
+    "after_sha256": "c982366503d8a4d81873f78ff3f7d252dd3a82aef9251f466098b682cd6d2ce8",
+    "changes": [
+      {
+        "object": "CobbLectureHall",
+        "old": "CobbLectureHall.001",
+        "new": "CobbLectureHall_Mtl"
+      },
+      {
+        "object": "GatesBlakeHall",
+        "old": "GatesBlakeHall.001",
+        "new": "GatesBlakeHall_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "03_BlakeCobbMapProxy.zst",
+    "patch_bytes": 1438595,
+    "patch_sha256": "425637106254d69984411e788f8712e4a9ccd36fa778159662fd63fc5a0804b0",
+    "result_bytes": 26952093,
+    "already_changed_in_previous_11": false
+  },
+  {
+    "source": "assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+    "before_sha256": "f7e54c1008c3a35c5384ec2bf97413d10f3488ace440d4ebb59e9fdfa73142e0",
+    "after_sha256": "78467e992524518affaff256a9980d02319e62f64bcc5a4df528e3a148d82819",
+    "changes": [
+      {
+        "object": "ClassicsBuilding",
+        "old": "ClassicsBuilding.001",
+        "new": "ClassicsBuilding_Mtl"
+      },
+      {
+        "object": "GatesBlakeHall",
+        "old": "GatesBlakeHall.001",
+        "new": "GatesBlakeHall_Mtl"
+      },
+      {
+        "object": "GoodspeedHall",
+        "old": "GoodspeedHall.001",
+        "new": "GoodspeedHall_Mtl"
+      },
+      {
+        "object": "HarperMemorialLibrary",
+        "old": "HarperMemorialLibrary.001",
+        "new": "HarperMemorialLibrary_Mtl"
+      },
+      {
+        "object": "StuartHall",
+        "old": "StuartHall.001",
+        "new": "StuartHall_Mtl"
+      },
+      {
+        "object": "WieboldtHall",
+        "old": "WieboldtHall.001",
+        "new": "WieboldtHall_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "04_HarperCourtyardAssembly.zst",
+    "patch_bytes": 3643970,
+    "patch_sha256": "1b91785b04e669a9c2133d05371b70924efe8f353513f4bb2b9dc2e4789f9e13",
+    "result_bytes": 143044779,
+    "additional_topology_repair": {
+      "source": "assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+      "object": "GoodspeedHall_LOD1",
+      "reason": "Two oppositely oriented duplicate tessellation triangles caused FBX roundtrip to drop one face",
+      "weld_distance_m": 9.5367431640625e-07,
+      "removed_vertex_index": 5886,
+      "kept_vertex_index": 2591,
+      "triangles_before": 11342,
+      "triangles_after": 11340,
+      "preservation": "Unchanged meshes untouched; surviving corner UVs and normals copied exactly; packed images untouched. Two repeated closing corners removed on affected polygons.",
+      "source_sha256": "78467e992524518affaff256a9980d02319e62f64bcc5a4df528e3a148d82819"
+    },
+    "already_changed_in_previous_11": false
+  },
+  {
+    "source": "assets/SaiehAdditionsContext/SaiehAdditionsContext/source/SaiehAdditionsContext.blend",
+    "before_sha256": "885b4f4c97e7dd57a71154af5a0d953aff00355e775d0be14d93a8be261c9c58",
+    "after_sha256": "b0731d5056330edc58ed4ee9bbe8c2e43bbc3ea5623417922d47a5f7872a3db9",
+    "changes": [
+      {
+        "object": "SaiehHall",
+        "old": "SaiehHall.001",
+        "new": "SaiehHall_Mtl"
+      },
+      {
+        "object": "SaiehNorthPavilion",
+        "old": "SaiehNorthPavilion_Mtl.001",
+        "new": "SaiehNorthPavilion_Mtl"
+      },
+      {
+        "object": "SaiehWoodlawn5740",
+        "old": "SaiehWoodlawn5740_Mtl.001",
+        "new": "SaiehWoodlawn5740_Mtl"
+      },
+      {
+        "object": "SaiehWoodlawn5750",
+        "old": "SaiehWoodlawn5750_Mtl.001",
+        "new": "SaiehWoodlawn5750_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "05_SaiehAdditionsContext.zst",
+    "patch_bytes": 1584421,
+    "patch_sha256": "38cbfc076a0151a2775b00d58b214b25b7d69d234585145bfa38affb5c3506b7",
+    "result_bytes": 17644709,
+    "already_changed_in_previous_11": true
+  },
+  {
+    "source": "assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend",
+    "before_sha256": "d0ef0fda19c9a8c18c8f906595d49b3b0e91556ac42ff06e265fd899cf8ab481",
+    "after_sha256": "a94fb0b130c8b97366014fb847cb67db432ba96a86b10a941bc99725d6ec8a02",
+    "changes": [
+      {
+        "object": "BakerDining",
+        "old": "BakerDining_Mtl.001",
+        "new": "BakerDining_Mtl"
+      },
+      {
+        "object": "CampusNorthResidential",
+        "old": "CampusNorthResidential_Mtl.001",
+        "new": "CampusNorthResidential_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "06_campus_north_baker_Assembly.zst",
+    "patch_bytes": 661259,
+    "patch_sha256": "0849fc2d328e2f8786ca3aa3de6148f1765b6ee642a5a44f887e5127bc869286",
+    "result_bytes": 2785324,
+    "already_changed_in_previous_11": false
+  },
+  {
+    "source": "assets/max_palevsky/max_palevsky/max_palevsky_Assembly.blend",
+    "before_sha256": "f8fe438daf5bae85985c1f44182bdd48eace93965bc60bd89b46bd7b96b5118c",
+    "after_sha256": "2eb61d71e073210bc5f19c26c220fa82b5430479df43f206842ca084c4077cd4",
+    "changes": [
+      {
+        "object": "MaxPalevskyCentral",
+        "old": "MaxPalevskyCentral_Mtl.001",
+        "new": "MaxPalevskyCentral_Mtl"
+      },
+      {
+        "object": "MaxPalevskyEast",
+        "old": "MaxPalevskyEast_Mtl.001",
+        "new": "MaxPalevskyEast_Mtl"
+      },
+      {
+        "object": "MaxPalevskyWest",
+        "old": "MaxPalevskyWest_Mtl.001",
+        "new": "MaxPalevskyWest_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "07_max_palevsky_Assembly.zst",
+    "patch_bytes": 1030908,
+    "patch_sha256": "01d50d45542db3ac5b86b231325a659c84afde36967b386e04cdd1720166a736",
+    "result_bytes": 1554931,
+    "already_changed_in_previous_11": false
+  },
+  {
+    "source": "assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend",
+    "before_sha256": "19144b7d2c3d8ac6380a17b1e73d48a6d9071cf9b84c15f1bc4f9b50432a5709",
+    "after_sha256": "3d0b924ba647da073f4deb0cfcdd5a291193067c42a168a5dceb791094ce71d8",
+    "changes": [
+      {
+        "object": "CochraneWoods",
+        "old": "CochraneWoods_Mtl.001",
+        "new": "CochraneWoods_Mtl"
+      },
+      {
+        "object": "SmartMuseum",
+        "old": "SmartMuseum_Mtl.001",
+        "new": "SmartMuseum_Mtl"
+      }
+    ],
+    "blocked": [],
+    "patch": "08_smart_cochrane_woods_Assembly.zst",
+    "patch_bytes": 154785,
+    "patch_sha256": "cae48ecd52da56e7020fd67ef06f51f6f865c34482491b0663871159dfb532d7",
+    "result_bytes": 257258,
+    "already_changed_in_previous_11": false
+  }
+]

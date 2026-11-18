@@ -1,0 +1,12 @@
+{
+  "source": "assets/HarperCourtyardAssembly/Assembly/HarperCourtyardAssembly.blend",
+  "object": "GoodspeedHall_LOD1",
+  "reason": "Two oppositely oriented duplicate tessellation triangles caused FBX roundtrip to drop one face",
+  "weld_distance_m": 9.5367431640625e-07,
+  "removed_vertex_index": 5886,
+  "kept_vertex_index": 2591,
+  "triangles_before": 11342,
+  "triangles_after": 11340,
+  "preservation": "Unchanged meshes untouched; surviving corner UVs and normals copied exactly; packed images untouched. Two repeated closing corners removed on affected polygons.",
+  "source_sha256": "78467e992524518affaff256a9980d02319e62f64bcc5a4df528e3a148d82819"
+}
