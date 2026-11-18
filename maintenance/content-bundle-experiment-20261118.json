@@ -1,0 +1,23 @@
+{
+  "files": 8038,
+  "unique_objects": 4109,
+  "source_bytes": 3509029574,
+  "archive_bytes": 2364424822,
+  "archive_sha256": "b881d8fc6d74128071750d3291715db445a4cd953b1743a29f800aeec81ed462",
+  "ordinary_zip_bytes": 3388234325,
+  "ordinary_zip_sha256": "79e75ad112293b442809e487b30078739d03905be8712da3f4ab155116bff920",
+  "saved_vs_ordinary_zip_bytes": 1023809503,
+  "saved_vs_ordinary_zip_percent": 30.216608557615032,
+  "compression": "Both ZIP_DEFLATED level 6, identical 8038 input files.",
+  "full_restore_verified_against_original": true,
+  "restored_file_count": 8038,
+  "source_candidate_head": "3c368437dd9df0f7a4589ce3e8f452bf7de1e164",
+  "scope": "Lossless source-delivery experiment, not game package or memory optimization. Neither multi-GB archive uploaded to Git.",
+  "tests": [
+    "small duplicate-content roundtrip",
+    "existing output refused",
+    "path traversal refused before output creation",
+    "full8038 restore file paths and SHA match original"
+  ],
+  "initial_experiment_note": "Initial stored ZIP restore hit tmpfs capacity. Partial experimental output retained outside source. Retried compressed bundle on workspace disk successfully; tool now preflights restore free space."
+}
