@@ -1,4 +1,4 @@
-# UChicago CS2 独栋源候选复现：逐栋 #81–88
+# UChicago CS2 独栋源候选复现：逐栋 #81–90
 
 [第 81–83 项审查记录](../../docs/building-by-building-review-81-83-20261119.md)。这里提交的是可以应用的精确顶点改动，不是只有记录，也不打包重复的完整源、原图库、FBX 或游戏资产。现有恢复链、组合场景、Release 和主分支不做替换。
 
@@ -12,15 +12,17 @@
 | 86 | HaskellHall | 仅 A 案结构：近中扶壁尖帽接石冠、台阶底接模型 Z0；远档原共面避免误报为悬空。36/36/32 个 Z 点，亦可单独共享源纹理。 | 18,140 / 8,616 / 367 |
 | 87 | JonesLaboratory | 近中各 72 个背棱点，只延伸三处南墙雕框，144点搭主墙约5mm，远档不变。 | 24,403 / 6,943 / 327 |
 | 88 | SearleChemistry | 三档四只风筒（2×2）48/32/24个底环点只下拉42mm。独立48组原40mm→短搭接2mm；不封北格栅的真实空隙。 | 41,818 / 13,330 / 226 |
+| 89 | StuartHall | 近中各移12石门柱背点22mm，60点原20mm→搭接2mm；远档及南拱下公开空间不动。 | 97,785 / 21,495 / 346 |
+| 90 | SocialSciencesResearch | 三档各加16三角的北门石冠背衬，保留原入口凹廊，以及所有既有面和贴图。用下方专用脚本。 | 84,128 / 14,660 / 693 |
 
 ## 仅在副本中重放
 
-1. 从仓库现有恢复链取一个单体源，不选 Ryerson_Eckhart_Kent 等组合。当前基准为 2026-11-18 完整候选快照中的这八份独立源（脚本内有原件 SHA-256）；脚本拒绝错版、用户已改动源和已存在的输出。无需插件、网络或在用户保存目录内操作。
+1. 从仓库现有恢复链取一个单体源，不选 Ryerson_Eckhart_Kent 等组合。当前基准为 2026-11-18 完整候选快照中的前九份坐标补丁的独立源（脚本内有原件 SHA-256）；脚本拒绝错版、用户已改动源和已存在的输出。无需插件、网络或在用户保存目录内操作。
 2. 用 Blender 4.3.2 测试过的命令。将路径换成自己的，输出父目录应已存在、目标文件不得存在：
 
     blender -b --factory-startup --disable-autoexec --python-exit-code 1 --python candidates/20261119-building-review/apply_to_copy.py -- EckhartHall /path/to/original/EckhartHall.blend /path/to/review/EckhartHall_review.blend
 
-3. 重放输出是新保存的 Blend，不保证全文件字节等于原审查候选；新生成的八份文件已重新打开，逐顶点、面拓扑、材质索引及 UV 和审查候选一致。输入哈希不符、输出已存在的反例均拒绝写入。脚本只重放坐标，不生成或替换 FBX，也不修改运行时元数据；表中的 FBX 是审查候选包里单独回读的数据。
+3. 重放输出是新保存的 Blend，不保证全文件字节等于原审查候选；坐标补丁新生成的九份文件已重新打开，逐顶点、面拓扑、材质索引及 UV 和审查候选一致。输入哈希不符、输出已存在的反例均拒绝写入。脚本只重放坐标，不生成或替换 FBX，也不修改运行时元数据；表中的 FBX 是审查候选包里单独回读的数据。
 
 ## 阻塞放行的现状差异
 
@@ -39,3 +41,9 @@
     blender -b --factory-startup --disable-autoexec --python-exit-code 1 --python candidates/20261119-building-review/haskell_modern_copper_geometry.py -- /path/to/HaskellHall_A_shared.blend /different/path/HaskellHall_C.blend
 
 [Cook County 2024 正射](https://img.cookcountyil.gov/arcgis/rest/services/CookOrtho2024/ImageServer/info/iteminfo)仍能看出双带和中山墙。C 保留现模型定位，每段14.50米；航片中视觉脊线粗量约19.6–20.3米，分辨率/阴影/投射有误差，不作现地尺寸。没有为修这个屋顶单独拉长楼体，主脊铜饰章、实际氧化色和整体比例留待核对。该候选不替换主分支或发布包。
+
+## Social Science Research Building 北门单件
+
+[北门档案相片](https://photoarchive.lib.uchicago.edu/db.xqy?one=apf2-07464.xml)显示连续石冠，背衬位于抬坡和两端扶壁间，未封下方凹入口，也未作邻楼接口。在锁定独立源中，[石冠候选脚本](ssrb_north_parapet_geometry.py)每档新建16片三角作为短石背衬，数值不是实测厚度；重放后三档坐标、拓扑、材质索引及UV和候选逐项相同。远档由677到693，仍高于本项目部分远景采用的500面参考；另列近地仰角、PBR、碰撞和游戏性能，不能在未看到远档效果时硬减面。
+
+    blender -b --factory-startup --disable-autoexec --python-exit-code 1 --python candidates/20261119-building-review/ssrb_north_parapet_geometry.py -- /path/to/SocialSciencesResearch.blend /different/path/SSRB_review.blend
