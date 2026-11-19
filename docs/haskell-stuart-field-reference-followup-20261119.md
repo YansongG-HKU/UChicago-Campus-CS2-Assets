@@ -1,0 +1,4 @@
+# Haskell 与 Stuart：新取证，不更改模型
+
+- [Cook County 2025 正射](https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2025/ImageServer/info/iteminfo)已实际导出，与[2024 正射](https://img.cookcountyil.gov/arcgis/rest/services/CookOrtho2024/ImageServer/info/iteminfo)用相同范围和500×500网格对看。两年确认双窄脊、红瓦及中央横山墙。2025 可见窄脊核心按共用网格粗读约17.5–19.3米，是否计入端帽和阴影会改变端点；2024先前粗读19.6–20.3米。两年都支持C候选14.5米偏短，不支持声称现场精确20米。2025全屋主要瓦边南北投影粗约52米，与模型整体包围43.36米口径不同；先统一整栋配准，未直接缩放模型。2025请求范围JSON复取未成功，用共用网格交叉核对。未取到局部[2022激光高程栅格](https://clearinghouse.isgs.illinois.edu/data/elevation/lidar/)，未填高程或净空。
+- Stuart：[1911建筑师的说明](https://campub.lib.uchicago.edu/text/?docId=mvol-0001-0016-0000)把通往当时法学院与Haskell博物馆的桥式连接，和通往Divinity/Foster的直接连接分开。[2011校方庭院改造公告](https://news.uchicago.edu/story/harper-quad-undergo-renovation)记步行铺装取代旧车道，不能用早期地坪推当代净空，也不能把施工临时入口当今天唯一入口。屋顶正射不能验证拱下净高，#89 拱下保留。
