@@ -32,4 +32,10 @@
 
 [共享内嵌贴图脚本](haskell_share_packed.py)以已交付的 Haskell A 扶壁台阶原候选的 SHA-256 为门槛，仅可用于该文件；坐标重放得到的 Blend 可能有不同容器字节。19 个内嵌图像块变为 10 个数据唯一块，4K像素和色彩空间不变。实际源文件 17,769,925→6,775,336 字节；12对同镜工作台渲染逐像素不变，独立确认坐标、拓扑、法线、材质节点/UV和图像采样语义一致。既有 FBX、外部纹理及发布包不改，不能宣称游戏显存省62%。
 
-[施工方竣工照片](https://www.jonesandcleary.com/university-of-chicago-haskell-hall/)和 [INSPEC 整修记录](https://iibec.org/wp-content/uploads/2025/07/July-07compressed.pdf#page=49)确认两段次屋脊用铜百叶通风棚、红瓦保留。本轮刻意不提交把蓝色图集下缘接到瓦面的 B 案，那个试验不能作现代屋顶。铜百叶下方泛水与端亭是独立细部，近远分层、现状尺度和游戏验证仍待。
+[施工方竣工照片](https://www.jonesandcleary.com/university-of-chicago-haskell-hall/)和 [INSPEC 整修记录](https://iibec.org/wp-content/uploads/2025/07/July-07compressed.pdf#page=49)确认两段次屋脊用铜百叶通风棚、红瓦保留。本轮刻意不提交把蓝色图集下缘接到瓦面的 B 案，那个试验不能作现代屋顶。铜百叶下方泛水与端亭是独立细部；现状尺度、游戏验证仍待。
+
+现代 C 候选独立[复现脚本](haskell_modern_copper_geometry.py)只接受已交付、确切 SHA-256 的 Haskell A 贴图共享 Blend。它在新 .blend 中以双次脊铜百叶、斜泛水和外端亭替换蓝玻璃带与局部旧框饰；不继承历史 B。三档新候选是 18,332 / 9,512 / 499 三角；原模型其它保留面坐标/UV与图集字节不变，已独立查询 60 组瓦面交点并回读三个候选 FBX。坐标重建脚本不导出 FBX；脚本输出已打开并与 C 候选逐顶点/面顺序/UV 核对。
+
+    blender -b --factory-startup --disable-autoexec --python-exit-code 1 --python candidates/20261119-building-review/haskell_modern_copper_geometry.py -- /path/to/HaskellHall_A_shared.blend /different/path/HaskellHall_C.blend
+
+[Cook County 2024 正射](https://img.cookcountyil.gov/arcgis/rest/services/CookOrtho2024/ImageServer/info/iteminfo)仍能看出双带和中山墙。C 保留现模型定位，每段14.50米；航片中视觉脊线粗量约19.6–20.3米，分辨率/阴影/投射有误差，不作现地尺寸。没有为修这个屋顶单独拉长楼体，主脊铜饰章、实际氧化色和整体比例留待核对。该候选不替换主分支或发布包。
