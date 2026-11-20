@@ -30,7 +30,12 @@ def data(obj):
     vertices = [obj.matrix_world @ v.co for v in mesh.vertices]
     bounds = [(min(v[i] for v in vertices), max(v[i] for v in vertices)) for i in range(3)]
     triangles = [tuple(p.vertices) for p in mesh.loop_triangles]
-    return bounds, len(triangles), BVHTree.FromPolygons(vertices, triangles, all_triangles=True)
+    on_ground = {i for i, v in enumerate(vertices) if abs(v.z) <= .002}
+    ground_edges = {tuple(sorted((tuple(round(x, 5) for x in vertices[a]),
+                                  tuple(round(x, 5) for x in vertices[b]))))
+                    for edge in mesh.edges for a, b in [tuple(edge.vertices)] if a in on_ground and b in on_ground}
+    edge_length = sum((Vector(a) - Vector(b)).length for a, b in sorted(ground_edges))
+    return bounds, len(triangles), BVHTree.FromPolygons(vertices, triangles, all_triangles=True), round(edge_length, 3)
 
 
 def shoot(tree, bounds, x, y):
@@ -44,27 +49,45 @@ def shoot(tree, bounds, x, y):
 def family(name, size):
     meshes = [bpy.data.objects[name + suffix] for suffix in SUFFIXES]
     probes = [data(mesh) for mesh in meshes]
-    common = [(min(bounds[i][0] for bounds, _, _ in probes), max(bounds[i][1] for bounds, _, _ in probes))
+    common = [(min(bounds[i][0] for bounds, *_ in probes), max(bounds[i][1] for bounds, *_ in probes))
               for i in range(2)]
     xs, ys = [[low + (high - low) * (i + .5) / size for i in range(size)] for low, high in common]
     result = {"grid_size": size, "grid_xy_m": common, "tiers": {}}
     footprints = []
-    for suffix, (bounds, triangles, tree) in zip(SUFFIXES, probes):
+    for suffix, (bounds, triangles, tree, edge_length) in zip(SUFFIXES, probes):
         samples = [shoot(tree, bounds, x, y) for y in ys for x in xs]
         footprint = {i for i, (roof, floor) in enumerate(samples) if roof is not None or floor is not None}
         footprints.append(footprint)
         near = footprints[0]
+        if not suffix:
+            near_samples = samples
         visible_ground = sum(floor is not None and abs(floor - bounds[2][0]) <= .02 for _, floor in samples)
         result["tiers"][suffix or "near"] = {
             "bounds_m": [[round(p, 5) for p in axis] for axis in bounds],
             "opaque_triangles": triangles,
             "covered_columns": len(footprint),
             "columns_touching_lowest_datum_within_20mm": visible_ground,
+            "unique_edge_length_with_both_endpoints_at_z0_m": edge_length,
             "lost_columns_from_near": len(near - footprint),
             "added_columns_from_near": len(footprint - near),
+            "lost_columns_near_roof_range_m": [
+                fn(near_samples[i][0] for i in near - footprint if near_samples[i][0] is not None)
+                for fn in (min, max)
+            ] if any(near_samples[i][0] is not None for i in near - footprint) else [],
             "named_columns": {feature: {"xy_m": [x, y], "roof_and_underside_m": shoot(tree, bounds, x, y)}
                               for feature, (x, y) in PALEVSKY_POINTS.get(name, {}).items()},
         }
+        if name == "CobbGate":
+            ymin, ymax = bounds[1]
+            through = {}
+            for z in (1, 2, 3.9, 4.75, 5.2, 5.5):
+                clear = []
+                for x in (-2.5, -2, -1, 0, 1, 2, 2.5):
+                    hit, *_ = tree.ray_cast(Vector((x, ymin - 1, z)), Vector((0, 1, 0)), ymax - ymin + 2)
+                    if hit is None:
+                        clear.append(x)
+                through[str(z)] = clear
+            result["tiers"][suffix or "near"]["cobb_gate_through_passage_clear_x_m_by_z_m"] = through
     return result
 
 

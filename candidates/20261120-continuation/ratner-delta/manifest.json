@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend",
+    "source_sha256": "4e359fcd31123ceb44867256c2f1b0b4cd9d7dc8293b58cbc798183f8763e52b",
+    "candidate": "RatnerAthletics_ground_contact.blend",
+    "candidate_bytes": 961581,
+    "candidate_sha256": "cf0dace64e99cb0757c3432addb8f36c229f7f1f02ee8f8f8b7a69ef3a853a50",
+    "delta": "RatnerAthletics_ground_contact.zst",
+    "delta_bytes": 582413,
+    "delta_sha256": "261343a21d1a1a2e7502e6e8590a4a5950e2273f2554b5623361ac1a328aa9f5"
+  }
+]

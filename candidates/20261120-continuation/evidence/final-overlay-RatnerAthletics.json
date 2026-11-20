@@ -1,0 +1,214 @@
+{
+  "source": "RatnerAthletics_ground_contact.blend",
+  "source_sha256": "cf0dace64e99cb0757c3432addb8f36c229f7f1f02ee8f8f8b7a69ef3a853a50",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "RatnerAthletics",
+      "file_sha256": "bfe5ce221749851673015247847d768f03290693aa6dbc2cdcae9dfa2e24fab1",
+      "bytes": 1474364,
+      "version": 7500,
+      "import_seconds": 0.24509686799956398,
+      "peak_rss_kib": 390924,
+      "texture_reference_hashes": {
+        "textures/0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+        "textures/679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+        "textures/e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0"
+      },
+      "imported_image_sizes": {
+        "RatnerAthletics_BaseColor.png.001": [
+          4096,
+          4096
+        ],
+        "RatnerAthletics_Emissive.png.001": [
+          4096,
+          4096
+        ],
+        "RatnerAthletics_Normal.png.001": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 31806,
+      "reimport_triangles": 31806,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.032220924026112194,
+      "bounds_max_delta_m": 9.449398930883035e-06,
+      "vertex_max_delta_m": 1.0271386599924881e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RatnerAthletics"
+      ],
+      "reimport_materials": [
+        "RatnerAthletics"
+      ],
+      "source_bounds": [
+        [
+          -32.19499969482422,
+          -58.79999923706055,
+          0.0
+        ],
+        [
+          32.19499969482422,
+          58.79999923706055,
+          30.562973022460938
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.19499969482422,
+          -58.79999923706055,
+          -9.449398930883035e-06
+        ],
+        [
+          32.19499969482422,
+          58.80000305175781,
+          30.56298065185547
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "RatnerAthletics_LOD1",
+      "file_sha256": "84421cee6c8574c20f077e151fb579894c1201bf6f4cc19e1ba5ba375e51e65d",
+      "bytes": 169948,
+      "version": 7500,
+      "import_seconds": 0.15703054599998723,
+      "peak_rss_kib": 539120,
+      "texture_reference_hashes": {
+        "textures/0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+        "textures/679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+        "textures/e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0"
+      },
+      "imported_image_sizes": {
+        "RatnerAthletics_BaseColor.png.001": [
+          4096,
+          4096
+        ],
+        "RatnerAthletics_Emissive.png.001": [
+          4096,
+          4096
+        ],
+        "RatnerAthletics_Normal.png.001": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 2742,
+      "reimport_triangles": 2742,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03223634948671313,
+      "bounds_max_delta_m": 9.449398930883035e-06,
+      "vertex_max_delta_m": 1.0271386599924881e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RatnerAthletics_LOD1"
+      ],
+      "reimport_materials": [
+        "RatnerAthletics_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -32.19499969482422,
+          -58.79999923706055,
+          0.0
+        ],
+        [
+          31.80500030517578,
+          58.79999923706055,
+          30.564414978027344
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.19499969482422,
+          -58.79999923706055,
+          -9.449398930883035e-06
+        ],
+        [
+          31.80500030517578,
+          58.80000305175781,
+          30.564422607421875
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "RatnerAthletics_LOD2",
+      "file_sha256": "212260ce453cb4d3ec4e01307ac74b5646fad7dc39fbe5391c5bd803630f4f6d",
+      "bytes": 45340,
+      "version": 7500,
+      "import_seconds": 0.014486525999927835,
+      "peak_rss_kib": 539120,
+      "texture_reference_hashes": {
+        "textures/28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f.png": "28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f",
+        "textures/4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58.png": "4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58",
+        "textures/fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f.png": "fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f"
+      },
+      "imported_image_sizes": {
+        "RatnerAthletics_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "RatnerAthletics_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "RatnerAthletics_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 392,
+      "reimport_triangles": 392,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030799731760727228,
+      "bounds_max_delta_m": 9.449398930883035e-06,
+      "vertex_max_delta_m": 1.0271386599924881e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RatnerAthletics_LOD2"
+      ],
+      "reimport_materials": [
+        "RatnerAthletics_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -31.395000457763672,
+          -58.79999923706055,
+          0.0
+        ],
+        [
+          30.30500030517578,
+          58.79999923706055,
+          30.608051300048828
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -31.395000457763672,
+          -58.79999923706055,
+          -9.449398930883035e-06
+        ],
+        [
+          30.30500030517578,
+          58.80000305175781,
+          30.60805892944336
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

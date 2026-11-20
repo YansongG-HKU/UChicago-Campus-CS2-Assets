@@ -1,0 +1,23 @@
+{
+  "source_sha256": "4e359fcd31123ceb44867256c2f1b0b4cd9d7dc8293b58cbc798183f8763e52b",
+  "candidate_sha256": "cf0dace64e99cb0757c3432addb8f36c229f7f1f02ee8f8f8b7a69ef3a853a50",
+  "old_wall_base_z_m": 0.04149,
+  "new_wall_base_z_m": 0,
+  "tiers": {
+    "near": {
+      "moved_vertices": 328,
+      "triangles": 31806,
+      "new_datum_edge_length_m_including_ground_triangulation": 1802.699
+    },
+    "_LOD1": {
+      "moved_vertices": 201,
+      "triangles": 2742,
+      "new_datum_edge_length_m_including_ground_triangulation": 1535.299
+    },
+    "_LOD2": {
+      "moved_vertices": 56,
+      "triangles": 392,
+      "new_datum_edge_length_m_including_ground_triangulation": 982.459
+    }
+  }
+}

@@ -334,5 +334,58 @@
       }
     ],
     "add_references": []
+  },
+  {
+    "asset": "RatnerAthletics",
+    "baseline_package": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/ProjectFiles/RatnerAthletics",
+    "original_files": {
+      "RatnerAthletics.fbx": "f5dd3b6dfafeec19655bb60d10ff93e5603214cfd9696ef67afab83963fa6ce3",
+      "RatnerAthletics_BaseColor.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+      "RatnerAthletics_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "RatnerAthletics_Emissive.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+      "RatnerAthletics_LOD1.fbx": "edc929e697e29e9ab855b746f1a0b5bd113cbec937c78276ca963892809760e2",
+      "RatnerAthletics_LOD2.fbx": "ba3acc846a34781c7587e97189c881ba2154ce00813cd4804aa4e3667db24f77",
+      "RatnerAthletics_LOD2_BaseColor.png": "fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f",
+      "RatnerAthletics_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "RatnerAthletics_LOD2_Emissive.png": "4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58",
+      "RatnerAthletics_LOD2_MaskMap.png": "2691d5cbc7005e10e4f6b054214b7b5108a475f8f21b0fd7600d935ec22491d8",
+      "RatnerAthletics_LOD2_Normal.png": "28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f",
+      "RatnerAthletics_MaskMap.png": "d0f5755e2c43a19254b80c4c91875db79be110f5fa3dbcdef03eee5f5cc7ee98",
+      "RatnerAthletics_Normal.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0",
+      "settings.json": "7082d4e36e6b35d3ec2a2cab323bb8190a02e539e7d3b43a8857bcb9bca5b67f",
+      "textures/0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+      "textures/28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f.png": "28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f",
+      "textures/4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58.png": "4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58",
+      "textures/679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+      "textures/e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0",
+      "textures/fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f.png": "fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f"
+    },
+    "replace": [
+      {
+        "name": "RatnerAthletics.fbx",
+        "patch": "RatnerAthletics.zst",
+        "before_sha256": "f5dd3b6dfafeec19655bb60d10ff93e5603214cfd9696ef67afab83963fa6ce3",
+        "patch_sha256": "507821e4de115dfc19fbbaf827aeecc5bba351a0cb803e4a333a66e50a5d67f3",
+        "after_sha256": "bfe5ce221749851673015247847d768f03290693aa6dbc2cdcae9dfa2e24fab1",
+        "bytes": 1474364
+      },
+      {
+        "name": "RatnerAthletics_LOD1.fbx",
+        "patch": "RatnerAthletics_LOD1.zst",
+        "before_sha256": "edc929e697e29e9ab855b746f1a0b5bd113cbec937c78276ca963892809760e2",
+        "patch_sha256": "febc485c06b9de43aea367c730b633b75c23c68e75aed3b8bb0b450c3974751d",
+        "after_sha256": "84421cee6c8574c20f077e151fb579894c1201bf6f4cc19e1ba5ba375e51e65d",
+        "bytes": 169948
+      },
+      {
+        "name": "RatnerAthletics_LOD2.fbx",
+        "patch": "RatnerAthletics_LOD2.zst",
+        "before_sha256": "ba3acc846a34781c7587e97189c881ba2154ce00813cd4804aa4e3667db24f77",
+        "patch_sha256": "8a30a062a74b383c0e826f4f26789962e9ea6e9e6f85cee0231cdbe48ef9860d",
+        "after_sha256": "212260ce453cb4d3ec4e01307ac74b5646fad7dc39fbe5391c5bd803630f4f6d",
+        "bytes": 45340
+      }
+    ],
+    "add_references": []
   }
 ]
