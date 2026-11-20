@@ -1,0 +1,558 @@
+{
+  "source_sha256": "32629cb0e64fe8fb73e747a9107a200aa2c1df6022c119aca0b5b7b5b0bb8195",
+  "candidate_sha256": "d4f234ddb56a4e747658ba47acf54bd644436412fa78cc5d433358dfa2d61018",
+  "tiers": {
+    "near": {
+      "groups": {
+        "northwest_court_bay_1_arch": {
+          "flipped_faces": 13,
+          "face_indices": [
+            25869,
+            55691,
+            55692,
+            55693,
+            55694,
+            55695,
+            55696,
+            55697,
+            55698,
+            55699,
+            55700,
+            55701,
+            55702
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.281903678551316
+        },
+        "northwest_court_bay_1_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            25972,
+            55805
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.9375007152557373
+        },
+        "northwest_court_bay_2_arch": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26027,
+            55860,
+            55861,
+            55862,
+            55863,
+            55864,
+            55865,
+            55866,
+            55867,
+            55868,
+            55869,
+            55870,
+            55871
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.281913995742798
+        },
+        "northwest_court_bay_2_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            26130,
+            55974
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_3_arch": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26185,
+            56029,
+            56030,
+            56031,
+            56032,
+            56033,
+            56034,
+            56035,
+            56036,
+            56037,
+            56038,
+            56039,
+            56040
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.281913995742798
+        },
+        "northwest_court_bay_3_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            26288,
+            56143
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_4_arch": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26343,
+            56198,
+            56199,
+            56200,
+            56201,
+            56202,
+            56203,
+            56204,
+            56205,
+            56206,
+            56207,
+            56208,
+            56209
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.281913995742798
+        },
+        "northwest_court_bay_4_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            26446,
+            56312
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_5_arch": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26501,
+            56367,
+            56368,
+            56369,
+            56370,
+            56371,
+            56372,
+            56373,
+            56374,
+            56375,
+            56376,
+            56377,
+            56378
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.28191504534334
+        },
+        "northwest_court_bay_5_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            26604,
+            56481
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.9375007152557373
+        },
+        "cloister_bay_1": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26673,
+            56550,
+            56551,
+            56552,
+            56553,
+            56554,
+            56555,
+            56556,
+            56557,
+            56558,
+            56559,
+            56560,
+            56561
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.555193299427629
+        },
+        "cloister_bay_2": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26770,
+            56658,
+            56659,
+            56660,
+            56661,
+            56662,
+            56663,
+            56664,
+            56665,
+            56666,
+            56667,
+            56668,
+            56669
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.555193081498146
+        },
+        "cloister_bay_3": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26867,
+            56766,
+            56767,
+            56768,
+            56769,
+            56770,
+            56771,
+            56772,
+            56773,
+            56774,
+            56775,
+            56776,
+            56777
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.555193081498146
+        },
+        "cloister_bay_4": {
+          "flipped_faces": 13,
+          "face_indices": [
+            26964,
+            56874,
+            56875,
+            56876,
+            56877,
+            56878,
+            56879,
+            56880,
+            56881,
+            56882,
+            56883,
+            56884,
+            56885
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.555193081498146
+        },
+        "cloister_bay_5": {
+          "flipped_faces": 13,
+          "face_indices": [
+            27061,
+            56982,
+            56983,
+            56984,
+            56985,
+            56986,
+            56987,
+            56988,
+            56989,
+            56990,
+            56991,
+            56992,
+            56993
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.55519363284111
+        },
+        "south_dormer_1": {
+          "flipped_faces": 2,
+          "face_indices": [
+            28636,
+            58572
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 2.4140005111694336
+        },
+        "south_dormer_2": {
+          "flipped_faces": 2,
+          "face_indices": [
+            28707,
+            58641
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 2.4140005111694336
+        }
+      },
+      "existing_custom_normals_preserved": false,
+      "unmodified_corner_normal_max_component_delta": null
+    },
+    "mid": {
+      "groups": {
+        "northwest_court_bay_1_arch": {
+          "flipped_faces": 11,
+          "face_indices": [
+            8669,
+            19846,
+            19847,
+            19848,
+            19849,
+            19850,
+            19851,
+            19852,
+            19853,
+            19854,
+            19855
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.270584426820278
+        },
+        "northwest_court_bay_1_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            8724,
+            19910
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.9375007152557373
+        },
+        "northwest_court_bay_2_arch": {
+          "flipped_faces": 11,
+          "face_indices": [
+            8755,
+            19941,
+            19942,
+            19943,
+            19944,
+            19945,
+            19946,
+            19947,
+            19948,
+            19949,
+            19950
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.270592346787453
+        },
+        "northwest_court_bay_2_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            8810,
+            20005
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_3_arch": {
+          "flipped_faces": 11,
+          "face_indices": [
+            8841,
+            20036,
+            20037,
+            20038,
+            20039,
+            20040,
+            20041,
+            20042,
+            20043,
+            20044,
+            20045
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.270592346787453
+        },
+        "northwest_court_bay_3_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            8896,
+            20100
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_4_arch": {
+          "flipped_faces": 11,
+          "face_indices": [
+            8927,
+            20131,
+            20132,
+            20133,
+            20134,
+            20135,
+            20136,
+            20137,
+            20138,
+            20139,
+            20140
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.270592346787453
+        },
+        "northwest_court_bay_4_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            8982,
+            20195
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.937497138977051
+        },
+        "northwest_court_bay_5_arch": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9013,
+            20226,
+            20227,
+            20228,
+            20229,
+            20230,
+            20231,
+            20232,
+            20233,
+            20234,
+            20235
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 16.270592369139194
+        },
+        "northwest_court_bay_5_upper": {
+          "flipped_faces": 2,
+          "face_indices": [
+            9068,
+            20290
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 3.9375007152557373
+        },
+        "cloister_bay_1": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9113,
+            20335,
+            20336,
+            20337,
+            20338,
+            20339,
+            20340,
+            20341,
+            20342,
+            20343,
+            20344
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.541872495785356
+        },
+        "cloister_bay_2": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9192,
+            20423,
+            20424,
+            20425,
+            20426,
+            20427,
+            20428,
+            20429,
+            20430,
+            20431,
+            20432
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.541872207075357
+        },
+        "cloister_bay_3": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9271,
+            20511,
+            20512,
+            20513,
+            20514,
+            20515,
+            20516,
+            20517,
+            20518,
+            20519,
+            20520
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.541872207075357
+        },
+        "cloister_bay_4": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9350,
+            20599,
+            20600,
+            20601,
+            20602,
+            20603,
+            20604,
+            20605,
+            20606,
+            20607,
+            20608
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.541872207075357
+        },
+        "cloister_bay_5": {
+          "flipped_faces": 11,
+          "face_indices": [
+            9429,
+            20687,
+            20688,
+            20689,
+            20690,
+            20691,
+            20692,
+            20693,
+            20694,
+            20695,
+            20696
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 12.541872691363096
+        },
+        "south_dormer_1": {
+          "flipped_faces": 2,
+          "face_indices": [
+            10374,
+            21671
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 2.4140005111694336
+        },
+        "south_dormer_2": {
+          "flipped_faces": 2,
+          "face_indices": [
+            10421,
+            21716
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 2.4140005111694336
+        }
+      },
+      "existing_custom_normals_preserved": false,
+      "unmodified_corner_normal_max_component_delta": null
+    }
+  }
+}

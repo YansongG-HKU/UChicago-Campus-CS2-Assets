@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+    "candidate": "Saieh_court.blend",
+    "candidate_bytes": 9511245,
+    "candidate_sha256": "d4f234ddb56a4e747658ba47acf54bd644436412fa78cc5d433358dfa2d61018",
+    "delta": "Saieh_court.zst",
+    "delta_bytes": 7938720,
+    "delta_sha256": "f8705a109de2ad42b39f1911fc9c9bc7f4b4eb134980d5acd93c2b0b4cc2c83a"
+  }
+]

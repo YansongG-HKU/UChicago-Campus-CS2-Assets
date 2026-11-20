@@ -81,9 +81,13 @@ parser.add_argument("before", type=Path)
 parser.add_argument("after", type=Path)
 parser.add_argument("output", type=Path)
 parser.add_argument("--size", type=int, default=192)
+parser.add_argument("--focus", type=float, nargs=8,
+                    metavar=("X", "Y", "Z", "DX", "DY", "DZ", "WIDTH", "DEPTH"))
 args = parser.parse_args(sys.argv[sys.argv.index("--") + 1:])
 args.output.mkdir()
 before, after = read(args.before, args.family), read(args.after, args.family)
+focus, focus_direction, width, depth = ((args.focus[:3], args.focus[3:6], *args.focus[6:])
+                                        if args.focus else FOCUS[args.family])
 result = {}
 for tier, (verts, tree) in before.items():
     bounds = [(min(vertex[i] for vertex in verts), max(vertex[i] for vertex in verts)) for i in range(3)]
@@ -97,9 +101,8 @@ for tier, (verts, tree) in before.items():
         if i in (0, 1):
             save_image(a, args.output / f"{tier}-overview{i}-before.ppm")
             save_image(b, args.output / f"{tier}-overview{i}-after.ppm")
-    focus, direction, width, depth = FOCUS[args.family]
-    a = raster(tree, Vector(focus), direction, width, depth, args.size)
-    b = raster(after[tier][1], Vector(focus), direction, width, depth, args.size)
+    a = raster(tree, Vector(focus), focus_direction, width, depth, args.size)
+    b = raster(after[tier][1], Vector(focus), focus_direction, width, depth, args.size)
     rows["focus"] = measures(a, b)
     save_image(a, args.output / f"{tier}-focus-before.ppm")
     save_image(b, args.output / f"{tier}-focus-after.ppm")

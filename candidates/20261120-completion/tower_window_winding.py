@@ -113,15 +113,22 @@ def fix(mesh, specs):
             "unmodified_corner_normal_max_component_delta": max_normal_delta}
 
 
-asset, source_name, destination, proof = sys.argv[sys.argv.index("--") + 1:]
-source, output, report = [Path(value).resolve() for value in (source_name, destination, proof)]
-assert sha256(source.read_bytes()).hexdigest() == HASHES[asset] and not output.exists()
-bpy.ops.wm.open_mainfile(filepath=str(source), load_ui=False)
-results = {}
-for suffix in ("", "_LOD1", "_LOD2"):
-    obj = bpy.data.objects[asset + suffix]
-    assert obj.matrix_world.is_identity
-    results[suffix or "near"] = fix(obj.data, pane_groups(asset, suffix))
-bpy.ops.wm.save_as_mainfile(filepath=str(output), compress=True)
-report.write_text(json.dumps({"source_sha256": HASHES[asset], "candidate_sha256": sha256(output.read_bytes()).hexdigest(),
-                              "tiers": results}, indent=2) + "\n")
+def main():
+    asset, source_name, destination, proof = sys.argv[sys.argv.index("--") + 1:]
+    source, output, report = [Path(value).resolve() for value in (source_name, destination, proof)]
+    assert sha256(source.read_bytes()).hexdigest() == HASHES[asset] and not output.exists()
+    bpy.ops.wm.open_mainfile(filepath=str(source), load_ui=False)
+    results = {}
+    for suffix in ("", "_LOD1", "_LOD2"):
+        obj = bpy.data.objects[asset + suffix]
+        assert obj.matrix_world.is_identity
+        results[suffix or "near"] = fix(obj.data, pane_groups(asset, suffix))
+    bpy.ops.wm.save_as_mainfile(filepath=str(output), compress=True)
+    report.write_text(json.dumps({
+        "source_sha256": HASHES[asset], "candidate_sha256": sha256(output.read_bytes()).hexdigest(),
+        "tiers": results,
+    }, indent=2) + "\n")
+
+
+if __name__ == "__main__":
+    main()
