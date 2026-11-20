@@ -1,0 +1,32 @@
+[
+  {
+    "source": "assets/BakerDining/BakerDining/source/BakerDining.blend",
+    "source_sha256": "c4b265b12ac02659fec970085d66ffcc05bbcdef99e696d5de5c6edf3a873cba",
+    "candidate": "BakerDining_roof_replayed.blend",
+    "candidate_bytes": 295055,
+    "candidate_sha256": "1d75e54cf592ff1e366fbf0e87e45d7e71ec8768697ca86f2ab937b23ef34c71",
+    "delta": "BakerDining_roof_replayed.zst",
+    "delta_bytes": 191128,
+    "delta_sha256": "c7d7fc947adef1f6c44b34163f3664b8db70250b092f4530adfd450ec3407b66"
+  },
+  {
+    "source": "assets/campus_north_baker/campus_north_baker/campus_north_baker_Assembly.blend",
+    "source_sha256": "a94fb0b130c8b97366014fb847cb67db432ba96a86b10a941bc99725d6ec8a02",
+    "candidate": "CampusNorthBaker_seam.blend",
+    "candidate_bytes": 2823994,
+    "candidate_sha256": "9ee8604ed54bf7d3229625754e734d1f74a76f9be251974ea3ff8ec5413c86a6",
+    "delta": "CampusNorthBaker_seam.zst",
+    "delta_bytes": 527726,
+    "delta_sha256": "d39b0530e12d9d81e88433cb42c2f9eba218f04a42de42177dbcf6a5660f2a1c"
+  },
+  {
+    "source": "assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend",
+    "source_sha256": "f893fd65aa691bb2f14533e9bc25ade615e1fcf43069cda79d18128fda865687",
+    "candidate": "BillingsHospital_far_steps.blend",
+    "candidate_bytes": 6414089,
+    "candidate_sha256": "436032c4e472c86c4b3abe4c5b94dd64d68b96dadc18bf6df9feddfe8f017944",
+    "delta": "BillingsHospital_far_steps.zst",
+    "delta_bytes": 2223796,
+    "delta_sha256": "e348a21c1595888d1270111bc27ece8b40f606b475398fedf6c44370d87649e5"
+  }
+]

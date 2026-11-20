@@ -1,0 +1,44 @@
+{
+  "BakerDining": {
+    "position_uv_triangles_removed": 1725,
+    "position_uv_triangles_added": 2551,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "BakerDining_LOD1": {
+    "position_uv_triangles_removed": 521,
+    "position_uv_triangles_added": 775,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "BakerDining_LOD2": {
+    "position_uv_triangles_removed": 221,
+    "position_uv_triangles_added": 371,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "CampusNorthResidential": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "CampusNorthResidential_LOD1": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "CampusNorthResidential_LOD2": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  }
+}

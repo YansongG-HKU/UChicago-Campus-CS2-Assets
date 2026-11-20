@@ -14,6 +14,7 @@
 !candidates/20261118/**/*.zip
 !candidates/20261118/**/*.zip.part*
 !candidates/20261118/previews/*.jpg
+!candidates/20261120-cloud/previews/*.jpg
 
 # Local-only generated artifacts; do not hide audit JSON or release dependencies.
 __pycache__/

@@ -1,0 +1,2218 @@
+{
+  "near": {
+    "seam": [
+      [
+        0.1,
+        0.05,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        0.5,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        1.8,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        3.5,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        4.75,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.7,
+        {
+          "BakerDining": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.81,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        6.1,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        7,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        8,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.05,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.5,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        1.8,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        3.5,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        4.75,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.7,
+        {
+          "BakerDining": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.81,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        6.1,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        7,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        8,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.05,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.5,
+        {
+          "BakerDining": [
+            -0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        1.8,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        3.5,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        4.75,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.7,
+        {
+          "BakerDining": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.81,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        6.1,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        7,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        8,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.05,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.12595,
+            -0.02,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.5,
+        {
+          "BakerDining": [
+            -0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.17953,
+            -0.02,
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        1.8,
+        {
+          "BakerDining": [
+            -0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.33428,
+            -0.02,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        3.5,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        4.75,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.7,
+        {
+          "BakerDining": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.81,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        6.1,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        7,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        8,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.05,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.5,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        1.8,
+        {
+          "BakerDining": [
+            0.0,
+            0.11,
+            0.13
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        3.5,
+        {
+          "BakerDining": [
+            -0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        4.75,
+        {
+          "BakerDining": [
+            0.0
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.7,
+        {
+          "BakerDining": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.81,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        6.1,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        7,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        8,
+        {
+          "BakerDining": [],
+          "CampusNorthResidential": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ]
+    ],
+    "paving": [
+      [
+        [
+          -11.751,
+          6.571
+        ],
+        [
+          [
+            "BakerDining",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                -22.3838,
+                22.3838,
+                5.8
+              ],
+              [
+                -33.5756,
+                -0.3572,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          2.829,
+          24.571
+        ],
+        [
+          [
+            "BakerDining",
+            5.8000030517578125,
+            [
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ],
+              [
+                18.0975,
+                -1.905,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          -0.771,
+          11.611
+        ],
+        [
+          [
+            "BakerDining",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                11.43,
+                -8.4534,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          24.069,
+          23.491
+        ],
+        [
+          [
+            "BakerDining",
+            5.8000030517578125,
+            [
+              [
+                31.4325,
+                12.0253,
+                5.8
+              ],
+              [
+                36.7903,
+                20.4788,
+                5.8
+              ],
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential",
+            null,
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  "_LOD1": {
+    "seam": [
+      [
+        0.1,
+        0.05,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        0.5,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        1.8,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        3.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        4.75,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.7,
+        {
+          "BakerDining_LOD1": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.81,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        6.1,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        7,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        8,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.05,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.5,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        1.8,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        3.5,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        4.75,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.7,
+        {
+          "BakerDining_LOD1": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.81,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        6.1,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        7,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        8,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.05,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        1.8,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        3.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        4.75,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.7,
+        {
+          "BakerDining_LOD1": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.81,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        6.1,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        7,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        8,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.05,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.12595,
+            -0.02,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.17953,
+            -0.02,
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        1.8,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.33428,
+            -0.02,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        3.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        4.75,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.7,
+        {
+          "BakerDining_LOD1": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.81,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        6.1,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        7,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        8,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.05,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.5,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        1.8,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        3.5,
+        {
+          "BakerDining_LOD1": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        4.75,
+        {
+          "BakerDining_LOD1": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.7,
+        {
+          "BakerDining_LOD1": [
+            -0.0,
+            0.17999
+          ],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.81,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        6.1,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        7,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        8,
+        {
+          "BakerDining_LOD1": [],
+          "CampusNorthResidential_LOD1": [
+            -0.055,
+            -0.0
+          ]
+        }
+      ]
+    ],
+    "paving": [
+      [
+        [
+          -11.751,
+          6.571
+        ],
+        [
+          [
+            "BakerDining_LOD1",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                -22.3838,
+                22.3838,
+                5.8
+              ],
+              [
+                -33.5756,
+                -0.3572,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD1",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          2.829,
+          24.571
+        ],
+        [
+          [
+            "BakerDining_LOD1",
+            5.8000030517578125,
+            [
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ],
+              [
+                18.0975,
+                -1.905,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD1",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          -0.771,
+          11.611
+        ],
+        [
+          [
+            "BakerDining_LOD1",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                11.43,
+                -8.4534,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD1",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          24.069,
+          23.491
+        ],
+        [
+          [
+            "BakerDining_LOD1",
+            5.8000030517578125,
+            [
+              [
+                31.4325,
+                12.0253,
+                5.8
+              ],
+              [
+                36.7903,
+                20.4788,
+                5.8
+              ],
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD1",
+            null,
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  "_LOD2": {
+    "seam": [
+      [
+        0.1,
+        0.05,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        0.5,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        1.8,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        3.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        4.75,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.7,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        5.81,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        6.1,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        7,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.1,
+        8,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.05,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        0.5,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        1.8,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        3.5,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        4.75,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.7,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        5.81,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        6.1,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        7,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.3,
+        8,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.05,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        0.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        1.8,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        3.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        4.75,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.7,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        5.81,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        6.1,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        7,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.5,
+        8,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.05,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        0.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        1.8,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        3.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        4.75,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.7,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        5.81,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        6.1,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        7,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.7,
+        8,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.05,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        0.5,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        1.8,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        3.5,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        4.75,
+        {
+          "BakerDining_LOD2": [
+            0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.7,
+        {
+          "BakerDining_LOD2": [
+            -0.0
+          ],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        5.81,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        6.1,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        7,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ],
+      [
+        0.9,
+        8,
+        {
+          "BakerDining_LOD2": [],
+          "CampusNorthResidential_LOD2": [
+            0.0
+          ]
+        }
+      ]
+    ],
+    "paving": [
+      [
+        [
+          -11.751,
+          6.571
+        ],
+        [
+          [
+            "BakerDining_LOD2",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                -22.3838,
+                22.3838,
+                5.8
+              ],
+              [
+                -33.5756,
+                -0.3572,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD2",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          2.829,
+          24.571
+        ],
+        [
+          [
+            "BakerDining_LOD2",
+            5.8000030517578125,
+            [
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ],
+              [
+                18.0975,
+                -1.905,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD2",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          -0.771,
+          11.611
+        ],
+        [
+          [
+            "BakerDining_LOD2",
+            5.8000030517578125,
+            [
+              [
+                4.6434,
+                -15.0019,
+                5.8
+              ],
+              [
+                11.43,
+                -8.4534,
+                5.8
+              ],
+              [
+                -4.5244,
+                26.67,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD2",
+            null,
+            null
+          ]
+        ]
+      ],
+      [
+        [
+          24.069,
+          23.491
+        ],
+        [
+          [
+            "BakerDining_LOD2",
+            5.8000030517578125,
+            [
+              [
+                31.4325,
+                12.0253,
+                5.8
+              ],
+              [
+                36.7903,
+                20.4788,
+                5.8
+              ],
+              [
+                16.9069,
+                29.4084,
+                5.8
+              ]
+            ]
+          ],
+          [
+            "CampusNorthResidential_LOD2",
+            null,
+            null
+          ]
+        ]
+      ]
+    ]
+  }
+}

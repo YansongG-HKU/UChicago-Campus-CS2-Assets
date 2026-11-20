@@ -1,0 +1,226 @@
+{
+  "source": "BillingsHospital.blend",
+  "source_sha256": "f893fd65aa691bb2f14533e9bc25ade615e1fcf43069cda79d18128fda865687",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "BillingsHospital",
+      "file_sha256": "eabd2b1a08f5755bb3335f36546f869049845d739b2b0186770449b67c76ba47",
+      "bytes": 6542828,
+      "version": 7500,
+      "import_seconds": 0.5723550379999551,
+      "peak_rss_kib": 591456,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "BillingsHospital_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 195963,
+      "reimport_triangles": 195963,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.031086887008236516,
+      "bounds_max_delta_m": 7.820192877261434e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BillingsHospital_Mtl"
+      ],
+      "reimport_materials": [
+        "BillingsHospital_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -30.459999084472656,
+          -48.32749938964844,
+          0.0
+        ],
+        [
+          30.459999084472656,
+          48.32749938964844,
+          42.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -30.459999084472656,
+          -48.32749557495117,
+          -7.820192877261434e-06
+        ],
+        [
+          30.459999084472656,
+          48.3275032043457,
+          42.000003814697266
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BillingsHospital_LOD1",
+      "file_sha256": "a26dca5d88ba45181a770ecc16a58384a9cd0046f4d4d0777f74193170d9e150",
+      "bytes": 1273276,
+      "version": 7500,
+      "import_seconds": 0.16126769899994997,
+      "peak_rss_kib": 591456,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "BillingsHospital_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BillingsHospital_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 40049,
+      "reimport_triangles": 40049,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030630211585562915,
+      "bounds_max_delta_m": 7.820192877261434e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BillingsHospital_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "BillingsHospital_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -30.454999923706055,
+          -48.25,
+          0.0
+        ],
+        [
+          30.454999923706055,
+          48.25,
+          42.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -30.454999923706055,
+          -48.249996185302734,
+          -7.820192877261434e-06
+        ],
+        [
+          30.454999923706055,
+          48.250003814697266,
+          42.000003814697266
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BillingsHospital_LOD2",
+      "file_sha256": "03351f006fef9a7c8dc62891db20930781b18a190b4a11bab8189bc98dcabd77",
+      "bytes": 34892,
+      "version": 7500,
+      "import_seconds": 0.02646711200009122,
+      "peak_rss_kib": 591456,
+      "texture_reference_hashes": {
+        "textures/3ecc4e6a995963ab168793934e99480fce838599b883274ceee736d820eb0526.png": "3ecc4e6a995963ab168793934e99480fce838599b883274ceee736d820eb0526",
+        "textures/87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203.png": "87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203",
+        "textures/ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5.png": "ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5"
+      },
+      "imported_image_sizes": {
+        "BillingsHospital_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "BillingsHospital_LOD2_BaseColor.png.001": [
+          1024,
+          1024
+        ],
+        "BillingsHospital_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "BillingsHospital_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 252,
+      "reimport_triangles": 252,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.010954532221479915,
+      "bounds_max_delta_m": 7.820192877261434e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BillingsHospital_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "BillingsHospital_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -30.0,
+          -48.04999923706055,
+          0.0
+        ],
+        [
+          30.0,
+          48.04999923706055,
+          42.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -30.0,
+          -48.04999542236328,
+          -7.820192877261434e-06
+        ],
+        [
+          30.0,
+          48.05000305175781,
+          42.000003814697266
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}
