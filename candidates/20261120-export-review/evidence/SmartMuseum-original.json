@@ -1,0 +1,226 @@
+{
+  "source": "SmartMuseum.blend",
+  "source_sha256": "13e60463c1470d00bf5e0fc9cef836b7ad6c86c000d6365aa00eef395829c186",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "SmartMuseum",
+      "file_sha256": "ec59eecf85976a539b40a69094f3ee9e861d17dbfb2f6fffdb8a6bc95e362830",
+      "bytes": 88540,
+      "version": 7500,
+      "import_seconds": 0.22577256599993234,
+      "peak_rss_kib": 292184,
+      "texture_reference_hashes": {
+        "textures/01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "textures/5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Emissive.png": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 2086,
+      "reimport_triangles": 2086,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014991042321585627,
+      "bounds_max_delta_m": 2.6099894512299215e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.100000381469727,
+          -16.09000015258789,
+          0.0
+        ],
+        [
+          21.100000381469727,
+          16.14000129699707,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.100000381469727,
+          -16.089998245239258,
+          -2.6099894512299215e-06
+        ],
+        [
+          21.100000381469727,
+          16.140003204345703,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SmartMuseum_LOD1",
+      "file_sha256": "ab1fb6a67dbcff1690efc53f2905e6a6c5d33ab1d35872af4f93e660d5f51de5",
+      "bytes": 37660,
+      "version": 7500,
+      "import_seconds": 0.11383955900009823,
+      "peak_rss_kib": 325084,
+      "texture_reference_hashes": {
+        "textures/01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "textures/5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Emissive.png": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 446,
+      "reimport_triangles": 446,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.6067309590871446e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.100000381469727,
+          -16.09000015258789,
+          0.0
+        ],
+        [
+          21.100000381469727,
+          16.100000381469727,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.100000381469727,
+          -16.089998245239258,
+          -2.6067309590871446e-06
+        ],
+        [
+          21.100000381469727,
+          16.10000228881836,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SmartMuseum_LOD2",
+      "file_sha256": "92cf8aa8f9c53774a55406ed756fc650739547057b78329bd14a2be523e32378",
+      "bytes": 30556,
+      "version": 7500,
+      "import_seconds": 0.014349749999837513,
+      "peak_rss_kib": 327472,
+      "texture_reference_hashes": {
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298.png": "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298",
+        "textures/e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea.png": "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 134,
+      "reimport_triangles": 134,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.6067309590871446e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.040000915527344,
+          -16.0,
+          0.0
+        ],
+        [
+          21.040000915527344,
+          16.100000381469727,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.040000915527344,
+          -16.0,
+          -2.6067309590871446e-06
+        ],
+        [
+          21.040000915527344,
+          16.10000228881836,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

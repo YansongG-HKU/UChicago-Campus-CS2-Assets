@@ -1,0 +1,22 @@
+[
+  {
+    "source": "assets/smart_cochrane_woods/smart_cochrane_woods/smart_cochrane_woods_Assembly.blend",
+    "source_sha256": "3d0b924ba647da073f4deb0cfcdd5a291193067c42a168a5dceb791094ce71d8",
+    "candidate": "SmartCochrane_garden_seams.blend",
+    "candidate_bytes": 258420,
+    "candidate_sha256": "3110373f3e176379ef995cc64a0c0f755e3647ea89ec685c20a655662e637940",
+    "delta": "SmartCochrane_garden_seams.zst",
+    "delta_bytes": 155779,
+    "delta_sha256": "2c4b76066ce25ff96d2aab1a0f3c8c35fc73315b11fbcdfcf1fa49bc1bf24a5b"
+  },
+  {
+    "source": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter_LOD2.fbx",
+    "source_sha256": "408c07113b0eb1ba5770f8d6d51f477f920df82ebd92dbdb694c6663e393b13e",
+    "candidate": "BoothHarperCenter_LOD2.fbx",
+    "candidate_bytes": 92300,
+    "candidate_sha256": "8c41ea39afa7254f1d0601225f4ec4265fadfcec0b3d422689baa6c16f8818d9",
+    "delta": "BoothHarperCenter_LOD2.zst",
+    "delta_bytes": 61816,
+    "delta_sha256": "d66ac7cedb7aa85febe1fc379101fd674339b8e26b16615fda856cfc51b3a0f8"
+  }
+]

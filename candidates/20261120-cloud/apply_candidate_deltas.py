@@ -1,4 +1,4 @@
-"""Recover exact candidate .blend files in a separate directory."""
+"""Recover exact candidate binary files in a separate directory."""
 import argparse
 import hashlib
 import json

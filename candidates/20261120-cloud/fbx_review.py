@@ -149,7 +149,8 @@ if args.export:
         for alias, target_name in mappings.items():
             if not (package / target_name).exists():
                 raise ValueError(f'Shared map target is missing: {target_name}')
-            if (args.textures / alias).read_bytes() != (package / target_name).read_bytes():
+            alias_path = args.textures / alias
+            if alias_path.exists() and alias_path.read_bytes() != (package / target_name).read_bytes():
                 raise ValueError(f'Shared map bytes differ: {alias}')
         shutil.copyfile(settings, package / 'settings.json')
     for obj in bpy.context.view_layer.objects:

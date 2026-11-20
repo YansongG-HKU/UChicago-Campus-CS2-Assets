@@ -1,0 +1,322 @@
+{
+  "source": "BoothHarperCenter.blend",
+  "source_sha256": "29c39350bfedd4c1d9e280bfd92a9d5d24b881eb6bbfdd2f5a68bca351f2769d",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "BoothHarperCenter",
+      "file_sha256": "78816ea648d75e4a00e1a8b6ac1b9e5e5ad7d24ed80629cd12097aea5cfa93be",
+      "bytes": 1064668,
+      "version": 7500,
+      "import_seconds": 0.49959654799999953,
+      "peak_rss_kib": 331768,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815.png": "f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815"
+      },
+      "imported_image_sizes": {
+        "BoothHarperCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 28104,
+      "reimport_triangles": 28104,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03335317184065677,
+      "bounds_max_delta_m": 1.013027758745011e-05,
+      "vertex_max_delta_m": 1.013027758745011e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BoothHarperCenter_Mtl"
+      ],
+      "reimport_materials": [
+        "BoothHarperCenter_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -50.7400016784668,
+          -62.17919921875,
+          0.0
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.39188003540039
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -50.7400016784668,
+          -62.17919921875,
+          -1.013027758745011e-05
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.39188003540039
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BoothHarperCenter_Gls",
+      "file_sha256": "104da6da792f9b498410fdac66c3f398ea35c964b376bb266701e63a42c93f88",
+      "bytes": 285228,
+      "version": 7500,
+      "import_seconds": 0.021003904000053808,
+      "peak_rss_kib": 374812,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 4528,
+      "reimport_triangles": 4528,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030900731470394627,
+      "bounds_max_delta_m": 4.76837158203125e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -14.630399703979492,
+          1.8287999629974365,
+          9.449999809265137
+        ],
+        [
+          14.630399703979492,
+          31.089599609375,
+          25.29840087890625
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -14.630399703979492,
+          1.8288015127182007,
+          9.449995040893555
+        ],
+        [
+          14.630399703979492,
+          31.089603424072266,
+          25.29840087890625
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BoothHarperCenter_LOD1",
+      "file_sha256": "0a97f87aa633140fdf938f419d410e2f6458657f757ccdb2f479a729f9a54bce",
+      "bytes": 443788,
+      "version": 7500,
+      "import_seconds": 0.1978039240000271,
+      "peak_rss_kib": 374812,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815.png": "f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815"
+      },
+      "imported_image_sizes": {
+        "BoothHarperCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BoothHarperCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 12644,
+      "reimport_triangles": 12644,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03171291874253843,
+      "bounds_max_delta_m": 1.013027758745011e-05,
+      "vertex_max_delta_m": 1.013027758745011e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BoothHarperCenter_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "BoothHarperCenter_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -50.7274055480957,
+          -62.17919921875,
+          0.0
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.39252471923828
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -50.7274055480957,
+          -62.17919921875,
+          -1.013027758745011e-05
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.39252471923828
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BoothHarperCenter_LOD1_Gls",
+      "file_sha256": "a9a8a42b15d9fa3448b5ecf67802c1b84d039c095140185480ad325488843e17",
+      "bytes": 84492,
+      "version": 7500,
+      "import_seconds": 0.004919488000041383,
+      "peak_rss_kib": 374812,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 1264,
+      "reimport_triangles": 1264,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029897310081181072,
+      "bounds_max_delta_m": 4.76837158203125e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -14.630399703979492,
+          1.8287999629974365,
+          9.449999809265137
+        ],
+        [
+          14.630399703979492,
+          31.089599609375,
+          25.29840087890625
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -14.630399703979492,
+          1.8288015127182007,
+          9.449995040893555
+        ],
+        [
+          14.630399703979492,
+          31.089603424072266,
+          25.29840087890625
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BoothHarperCenter_LOD2",
+      "file_sha256": "408c07113b0eb1ba5770f8d6d51f477f920df82ebd92dbdb694c6663e393b13e",
+      "bytes": 91868,
+      "version": 7500,
+      "import_seconds": 0.015960546999849612,
+      "peak_rss_kib": 374812,
+      "texture_reference_hashes": {
+        "textures/392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3.png": "392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3",
+        "textures/4a85f0dab42e684677fd7986cd58643ba3a8b33487f92ad83bff96154c63bc52.png": "4a85f0dab42e684677fd7986cd58643ba3a8b33487f92ad83bff96154c63bc52",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974"
+      },
+      "imported_image_sizes": {
+        "BoothHarperCenter_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "BoothHarperCenter_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "BoothHarperCenter_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "BoothHarperCenter_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 1986,
+      "reimport_triangles": 2208,
+      "oriented_triangles_match": false,
+      "corner_uv_max_delta": null,
+      "corner_normal_max_delta_degrees": null,
+      "bounds_max_delta_m": 1.013027758745011e-05,
+      "vertex_max_delta_m": 10.518909454345703,
+      "local_vertex_max_delta_m": 10.518911361694336,
+      "missing_source_positions": 9,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BoothHarperCenter_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "BoothHarperCenter_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -50.720001220703125,
+          -62.17919921875,
+          0.0
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.29840087890625
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -50.720001220703125,
+          -62.17919921875,
+          -1.013027758745011e-05
+        ],
+        [
+          45.720001220703125,
+          62.17919921875,
+          25.29840660095215
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

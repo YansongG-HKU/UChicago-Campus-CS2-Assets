@@ -60,4 +60,6 @@ for name in sorted(original):
         assert (removed, added) == ((0, 28) if name == 'BillingsHospital_LOD2' else (0, 0))
     elif mode.name == 'assembly' and name.startswith('CampusNorthResidential'):
         assert (removed, added) == (0, 0)
+    elif mode.name == 'cwac' and name.startswith('SmartMuseum'):
+        assert (removed, added) == (0, 0)
 output.write_text(json.dumps(rows, indent=2) + '\n')

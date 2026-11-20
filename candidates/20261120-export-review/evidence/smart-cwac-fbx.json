@@ -1,0 +1,445 @@
+{
+  "source": "SmartCochrane_garden_seams.blend",
+  "source_sha256": "3110373f3e176379ef995cc64a0c0f755e3647ea89ec685c20a655662e637940",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "SmartMuseum",
+      "file_sha256": "9bc8274a7c804938266eaf46ef81e9b101e9ff74396f3965711315008035d0ae",
+      "bytes": 83692,
+      "version": 7400,
+      "import_seconds": 0.33363821099987945,
+      "peak_rss_kib": 315776,
+      "texture_reference_hashes": {
+        "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Emissive.png.001": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Normal.png.001": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 2086,
+      "reimport_triangles": 2086,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014991042321585627,
+      "bounds_max_delta_m": 2.609989223856246e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.100000381469727,
+          -16.09000015258789,
+          0.0
+        ],
+        [
+          21.100000381469727,
+          16.14000129699707,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.100000381469727,
+          -16.089998245239258,
+          -2.609989223856246e-06
+        ],
+        [
+          21.100000381469727,
+          16.140003204345703,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SmartMuseum_LOD1",
+      "file_sha256": "5a1c818de7903aec569899dba130cacca45660637218036e0c83a8628e7b6781",
+      "bytes": 32812,
+      "version": 7400,
+      "import_seconds": 0.10240258200019525,
+      "peak_rss_kib": 348552,
+      "texture_reference_hashes": {
+        "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Emissive.png.002": [
+          2048,
+          2048
+        ],
+        "SmartMuseum_Normal.png.002": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 446,
+      "reimport_triangles": 446,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.606730731713469e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.100000381469727,
+          -16.09000015258789,
+          0.0
+        ],
+        [
+          21.100000381469727,
+          16.100000381469727,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.100000381469727,
+          -16.089998245239258,
+          -2.606730731713469e-06
+        ],
+        [
+          21.100000381469727,
+          16.10000228881836,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SmartMuseum_LOD2",
+      "file_sha256": "d9d81f658a0cdddb7408c906b589281fadc18876594c6731a3bc9a7978425319",
+      "bytes": 25692,
+      "version": 7400,
+      "import_seconds": 0.011468964999949094,
+      "peak_rss_kib": 348552,
+      "texture_reference_hashes": {
+        "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298.png": "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298",
+        "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea.png": "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea"
+      },
+      "imported_image_sizes": {
+        "SmartMuseum_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "SmartMuseum_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 134,
+      "reimport_triangles": 134,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.606730731713469e-06,
+      "vertex_max_delta_m": 3.43852161677205e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SmartMuseum_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "SmartMuseum_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.040000915527344,
+          -16.0,
+          0.0
+        ],
+        [
+          21.040000915527344,
+          16.100000381469727,
+          11.199999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.040000915527344,
+          -16.0,
+          -2.606730731713469e-06
+        ],
+        [
+          21.040000915527344,
+          16.10000228881836,
+          11.199999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CochraneWoods",
+      "file_sha256": "58c411b0c6e16ca7a3adbead95a8f0920973e3b13a26797a51852341e84f17ce",
+      "bytes": 83020,
+      "version": 7400,
+      "import_seconds": 0.10427782400006436,
+      "peak_rss_kib": 348552,
+      "texture_reference_hashes": {
+        "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Emissive.png.001": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Normal.png.001": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 1984,
+      "reimport_triangles": 1984,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014991042321585627,
+      "bounds_max_delta_m": 3.3431322208343772e-06,
+      "vertex_max_delta_m": 4.76837158203125e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.150001525878906,
+          16.0,
+          0.0
+        ],
+        [
+          21.150001525878906,
+          57.09000015258789,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.150001525878906,
+          16.0,
+          -3.3431322208343772e-06
+        ],
+        [
+          21.150001525878906,
+          57.09000015258789,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CochraneWoods_LOD1",
+      "file_sha256": "f0c73c0241d46afe7b323295cbc44d96a694200cb908120cc4f9f22a49096bb1",
+      "bytes": 36748,
+      "version": 7400,
+      "import_seconds": 0.09981952599991928,
+      "peak_rss_kib": 348552,
+      "texture_reference_hashes": {
+        "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Emissive.png.002": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Normal.png.002": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 506,
+      "reimport_triangles": 506,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 5.598568198963992e-06,
+      "bounds_max_delta_m": 3.3398737286916003e-06,
+      "vertex_max_delta_m": 4.76837158203125e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.150001525878906,
+          16.0,
+          0.0
+        ],
+        [
+          21.150001525878906,
+          57.09000015258789,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.150001525878906,
+          16.0,
+          -3.3398737286916003e-06
+        ],
+        [
+          21.150001525878906,
+          57.09000015258789,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CochraneWoods_LOD2",
+      "file_sha256": "4e2f206ef7a0aac8f420a3f6af9cf820a881cff5e00bd1356223032c5468d994",
+      "bytes": 28220,
+      "version": 7400,
+      "import_seconds": 0.011071745999970517,
+      "peak_rss_kib": 348552,
+      "texture_reference_hashes": {
+        "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298.png": "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298",
+        "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea.png": "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 202,
+      "reimport_triangles": 202,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 3.3398737286916003e-06,
+      "vertex_max_delta_m": 3.814697265625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.149999618530273,
+          16.0,
+          0.0
+        ],
+        [
+          21.149999618530273,
+          57.040000915527344,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.149999618530273,
+          16.0,
+          -3.3398737286916003e-06
+        ],
+        [
+          21.149999618530273,
+          57.040000915527344,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

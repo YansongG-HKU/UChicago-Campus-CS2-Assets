@@ -1,0 +1,226 @@
+{
+  "source": "CochraneWoods.blend",
+  "source_sha256": "59a6030830dfbe2e564d78978251b095e6fe72393fe87faf39e00e28d614f4cc",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "CochraneWoods",
+      "file_sha256": "f1e9bf4b58568aec605da48c9f25a70ee2575a0ddaba9e0caddcfb48a8c896dc",
+      "bytes": 87132,
+      "version": 7500,
+      "import_seconds": 0.6800421519999418,
+      "peak_rss_kib": 300960,
+      "texture_reference_hashes": {
+        "textures/01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "textures/5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 1982,
+      "reimport_triangles": 1982,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014991042321585627,
+      "bounds_max_delta_m": 3.3431324482080527e-06,
+      "vertex_max_delta_m": 4.2649612623790745e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.150001525878906,
+          -20.5,
+          0.0
+        ],
+        [
+          21.150001525878906,
+          20.59000015258789,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.150001525878906,
+          -20.5,
+          -3.3431324482080527e-06
+        ],
+        [
+          21.150001525878906,
+          20.590002059936523,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CochraneWoods_LOD1",
+      "file_sha256": "7232ef8726fa1df6cb1ede702b3bd5c6229bee92f9947b9d72c36991cb9dd0af",
+      "bytes": 40988,
+      "version": 7500,
+      "import_seconds": 0.12483994600006554,
+      "peak_rss_kib": 333860,
+      "texture_reference_hashes": {
+        "textures/01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338",
+        "textures/5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b.png": "5503788d2bb1ed69096c2a1184404b28ab4b02333dd3b3419869c4b8b766a07b",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CochraneWoods_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 504,
+      "reimport_triangles": 504,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 5.598568198963992e-06,
+      "bounds_max_delta_m": 3.3398739560652757e-06,
+      "vertex_max_delta_m": 4.2649612623790745e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.150001525878906,
+          -20.5,
+          0.0
+        ],
+        [
+          21.150001525878906,
+          20.59000015258789,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.150001525878906,
+          -20.5,
+          -3.3398739560652757e-06
+        ],
+        [
+          21.150001525878906,
+          20.590002059936523,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CochraneWoods_LOD2",
+      "file_sha256": "6dd7cabf2f1592b2d79830e5a591e30f5c230a890d1adf6e5f2e8b529546e7ec",
+      "bytes": 32332,
+      "version": 7500,
+      "import_seconds": 0.013356121000015264,
+      "peak_rss_kib": 333908,
+      "texture_reference_hashes": {
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298.png": "b84a15a3426091ec48ff25207cd43e5fde081f0a9f8856ccbb41b6065153e298",
+        "textures/e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea.png": "e6b5c5805f6af15faa4fe9b286a717be6f8412bf6433e43ed28587ec0f51c1ea"
+      },
+      "imported_image_sizes": {
+        "CochraneWoods_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "CochraneWoods_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 200,
+      "reimport_triangles": 200,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 3.3398739560652757e-06,
+      "vertex_max_delta_m": 3.84438408218557e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CochraneWoods_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "CochraneWoods_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.149999618530273,
+          -20.5,
+          0.0
+        ],
+        [
+          21.149999618530273,
+          20.540000915527344,
+          9.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.149999618530273,
+          -20.5,
+          -3.3398739560652757e-06
+        ],
+        [
+          21.149999618530273,
+          20.540000915527344,
+          8.999998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}
