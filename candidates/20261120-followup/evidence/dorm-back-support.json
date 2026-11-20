@@ -1,0 +1,226 @@
+{
+  "source": "CampusNorthResidential_back_support.blend",
+  "source_sha256": "5cfee6d9f052ff852785bef96f523f68ac92a6685e5ccfe2ed2d2e8b6cf3a257",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "CampusNorthResidential",
+      "file_sha256": "668a8ccb4d2d2daa136348fc35848a3019e89716197304a5312b81e4fce82dac",
+      "bytes": 2909356,
+      "version": 7500,
+      "import_seconds": 0.25609019700004865,
+      "peak_rss_kib": 452896,
+      "texture_reference_hashes": {
+        "CampusNorthResidential_BaseColor.png": "ddf5224dd2dd36b5d1c364f9595e5851672576084d86dce47fee8828a60b4b00",
+        "CampusNorthResidential_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "CampusNorthResidential_Normal.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338"
+      },
+      "imported_image_sizes": {
+        "CampusNorthResidential_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 75560,
+      "reimport_triangles": 75560,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030616777963036575,
+      "bounds_max_delta_m": 9.080077688849997e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CampusNorthResidential_Mtl"
+      ],
+      "reimport_materials": [
+        "CampusNorthResidential_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -53.97618103027344,
+          -56.536739349365234,
+          0.0
+        ],
+        [
+          54.14827346801758,
+          56.24891662597656,
+          48.20000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -53.97618103027344,
+          -56.536739349365234,
+          -9.080077688849997e-06
+        ],
+        [
+          54.14827346801758,
+          56.248924255371094,
+          48.19999313354492
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CampusNorthResidential_LOD1",
+      "file_sha256": "49e2e9d6373bf0e78a8d5568d6cdf187dc1965053fa36b84d249c360f2ebdcf4",
+      "bytes": 901724,
+      "version": 7500,
+      "import_seconds": 0.14641114500000185,
+      "peak_rss_kib": 463356,
+      "texture_reference_hashes": {
+        "CampusNorthResidential_BaseColor.png": "ddf5224dd2dd36b5d1c364f9595e5851672576084d86dce47fee8828a60b4b00",
+        "CampusNorthResidential_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "CampusNorthResidential_Normal.png": "01c80f0c2cc03481be11f53fb1c449147540bd3614f6661b00bdcd35c0447338"
+      },
+      "imported_image_sizes": {
+        "CampusNorthResidential_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CampusNorthResidential_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 18216,
+      "reimport_triangles": 18216,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03018085106781297,
+      "bounds_max_delta_m": 9.080077688849997e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CampusNorthResidential_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "CampusNorthResidential_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -53.97618103027344,
+          -56.536739349365234,
+          0.0
+        ],
+        [
+          54.14827346801758,
+          56.24891662597656,
+          47.220001220703125
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -53.97618103027344,
+          -56.536739349365234,
+          -9.080077688849997e-06
+        ],
+        [
+          54.14827346801758,
+          56.248924255371094,
+          47.21999740600586
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CampusNorthResidential_LOD2",
+      "file_sha256": "63179ba87322b6ee39562bb75c1f7a84090a493e27d7832f83bf14bd42c8655f",
+      "bytes": 38396,
+      "version": 7500,
+      "import_seconds": 0.010141824999891469,
+      "peak_rss_kib": 463356,
+      "texture_reference_hashes": {
+        "CampusNorthResidential_LOD2_BaseColor.png": "314195fd5f6713f179818f6449099586bf931a5d5a72ebe665365a5bd1176695",
+        "CampusNorthResidential_LOD2_Emissive.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "CampusNorthResidential_LOD2_Normal.png": "4cf99bd6b504685b8d63fe9ae075edb95f037de104128b365416fce722d33f6e"
+      },
+      "imported_image_sizes": {
+        "CampusNorthResidential_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "CampusNorthResidential_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "CampusNorthResidential_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "CampusNorthResidential_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 234,
+      "reimport_triangles": 234,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029289463709834106,
+      "bounds_max_delta_m": 9.0393477876205e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CampusNorthResidential_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "CampusNorthResidential_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -53.10187530517578,
+          -55.483123779296875,
+          0.0
+        ],
+        [
+          53.10187530517578,
+          55.483123779296875,
+          47.099998474121094
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -53.10187530517578,
+          -55.483123779296875,
+          -9.0393477876205e-06
+        ],
+        [
+          53.10187530517578,
+          55.483131408691406,
+          47.09999465942383
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

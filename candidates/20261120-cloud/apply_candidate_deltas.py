@@ -24,12 +24,13 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("baseline", type=Path)
     parser.add_argument("destination", type=Path)
+    parser.add_argument("--patch-dir", type=Path)
     args = parser.parse_args()
     baseline = args.baseline.resolve(strict=True)
     output = args.destination.resolve()
     if output.exists() or output.is_relative_to(baseline) or baseline.is_relative_to(output):
         parser.error("Choose a new directory outside the baseline")
-    patch_dir = Path(__file__).resolve().parent / "patches"
+    patch_dir = (args.patch_dir or Path(__file__).parent / "patches").resolve(strict=True)
     manifest = json.loads((patch_dir / "manifest.json").read_text())
     recovered = {}
     for row in manifest:

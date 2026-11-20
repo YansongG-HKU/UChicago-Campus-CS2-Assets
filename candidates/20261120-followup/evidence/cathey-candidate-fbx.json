@@ -1,0 +1,529 @@
+{
+  "source": "CatheyBurton_joint.blend",
+  "source_sha256": "e5ea6cffdbfbaf5cafa7c59c1e0db27abac4b97ee2a7b4210523317fcf238bd2",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "CatheyDining",
+      "file_sha256": "e33086c7d6047bf3574466561958b88079c84550f4f8c5da98dce603992cc822",
+      "bytes": 273276,
+      "version": 7400,
+      "import_seconds": 0.12892963500007681,
+      "peak_rss_kib": 509908,
+      "texture_reference_hashes": {
+        "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682.png": "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619.png": "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 4846,
+      "reimport_triangles": 4846,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030280165905334437,
+      "bounds_max_delta_m": 2.280889475514414e-06,
+      "vertex_max_delta_m": 4.672031082009198e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          0.0
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          -2.280889475514414e-06
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_Gls",
+      "file_sha256": "69053e33a0656b9903c8b031420189e44c708a87ef6327279eb8b4480e34b8b3",
+      "bytes": 43276,
+      "version": 7400,
+      "import_seconds": 0.0035333779999291437,
+      "peak_rss_kib": 519660,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 420,
+      "reimport_triangles": 420,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030360362162222675,
+      "bounds_max_delta_m": 1.6987323760986328e-06,
+      "vertex_max_delta_m": 4.3702848415705375e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -18.700000762939453,
+          -57.29999923706055,
+          0.3499999940395355
+        ],
+        [
+          31.299999237060547,
+          -33.29999923706055,
+          9.425000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -18.700000762939453,
+          -57.29999923706055,
+          0.3500016927719116
+        ],
+        [
+          31.299999237060547,
+          -33.29999923706055,
+          9.42500114440918
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD1",
+      "file_sha256": "6e811ea8f21cf2d55120b14bd4cdb3cc9cb6d99df342fac7fdb7a984b09c4836",
+      "bytes": 88316,
+      "version": 7400,
+      "import_seconds": 0.09951667099994665,
+      "peak_rss_kib": 519660,
+      "texture_reference_hashes": {
+        "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682.png": "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682",
+        "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619.png": "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 1312,
+      "reimport_triangles": 1312,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02861430922493239,
+      "bounds_max_delta_m": 2.280889475514414e-06,
+      "vertex_max_delta_m": 4.383677605801495e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          0.0
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          -2.280889475514414e-06
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD1_Gls",
+      "file_sha256": "59c14cf485e193179c28c93609441c443265eeb11cb53c5b26220f7fdc34ec4f",
+      "bytes": 29868,
+      "version": 7400,
+      "import_seconds": 0.0028688160000456264,
+      "peak_rss_kib": 519660,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 228,
+      "reimport_triangles": 228,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029289841692492873,
+      "bounds_max_delta_m": 1.6987323760986328e-06,
+      "vertex_max_delta_m": 4.3702848415705375e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -18.700000762939453,
+          -57.29999923706055,
+          0.3499999940395355
+        ],
+        [
+          31.299999237060547,
+          -33.29999923706055,
+          9.425000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -18.700000762939453,
+          -57.29999923706055,
+          0.3500016927719116
+        ],
+        [
+          31.299999237060547,
+          -33.29999923706055,
+          9.42500114440918
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD2",
+      "file_sha256": "1c17afb3fb72ee954f69e7ef3a7954e52383da1d48dc939fddf4aba186b0db4b",
+      "bytes": 40908,
+      "version": 7400,
+      "import_seconds": 0.009889863999887893,
+      "peak_rss_kib": 519660,
+      "texture_reference_hashes": {
+        "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "71f21f68317429c1f53fdab2ef85af10314fd40b4552fe782fcd575d21b12f2f.png": "71f21f68317429c1f53fdab2ef85af10314fd40b4552fe782fcd575d21b12f2f",
+        "dc921fa0147fec1e9c0552c7aba38b7defc52150e371a21649399beef6e8fc62.png": "dc921fa0147fec1e9c0552c7aba38b7defc52150e371a21649399beef6e8fc62"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 352,
+      "reimport_triangles": 352,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.025918349536476433,
+      "bounds_max_delta_m": 2.280889475514414e-06,
+      "vertex_max_delta_m": 4.3702848415705375e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          0.0
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.200000762939453,
+          -59.29999923706055,
+          -2.280889475514414e-06
+        ],
+        [
+          33.79999923706055,
+          -29.149999618530273,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BurtonJudsonCourts",
+      "file_sha256": "afab182c8fd3a8063e3b1902b98ec7918482983c3c72691db3df2430dacd9f86",
+      "bytes": 6872268,
+      "version": 7400,
+      "import_seconds": 0.34843189899993376,
+      "peak_rss_kib": 605628,
+      "texture_reference_hashes": {
+        "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+        "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+        "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 161305,
+      "reimport_triangles": 161305,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030511581112547786,
+      "bounds_max_delta_m": 5.9492273796202255e-06,
+      "vertex_max_delta_m": 8.092194548225962e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts"
+      ],
+      "source_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -7.1525572131747595e-09
+        ],
+        [
+          48.77000045776367,
+          36.90999984741211,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -5.9563799368334e-06
+        ],
+        [
+          48.77000045776367,
+          36.910003662109375,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BurtonJudsonCourts_LOD1",
+      "file_sha256": "9594e35c4c98efdd836715eea2c559d3ff5d6564cc8e85f13263e5da2c13ccbc",
+      "bytes": 1714316,
+      "version": 7400,
+      "import_seconds": 0.102509069000007,
+      "peak_rss_kib": 605628,
+      "texture_reference_hashes": {
+        "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+        "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+        "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 42255,
+      "reimport_triangles": 42255,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030936369022854317,
+      "bounds_max_delta_m": 5.9492273796202255e-06,
+      "vertex_max_delta_m": 8.092194548225962e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts_LOD1"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -7.1525572131747595e-09
+        ],
+        [
+          48.77000045776367,
+          36.90999984741211,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -5.9563799368334e-06
+        ],
+        [
+          48.77000045776367,
+          36.910003662109375,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BurtonJudsonCourts_LOD2",
+      "file_sha256": "e570af32558236df80a210a883eb7b8a98b0c139192f3075ea6c1ba7053baaa1",
+      "bytes": 80236,
+      "version": 7400,
+      "import_seconds": 0.010913989000073343,
+      "peak_rss_kib": 605628,
+      "texture_reference_hashes": {
+        "9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827.png": "9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827",
+        "c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d.png": "c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d",
+        "e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33.png": "e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "BurtonJudsonCourts_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "BurtonJudsonCourts_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 1742,
+      "reimport_triangles": 1742,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029663482801892228,
+      "bounds_max_delta_m": 5.865143975825049e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts_LOD2"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -48.380001068115234,
+          -36.0,
+          0.0
+        ],
+        [
+          48.380001068115234,
+          36.380001068115234,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -48.380001068115234,
+          -36.0,
+          -5.865143975825049e-06
+        ],
+        [
+          48.380001068115234,
+          36.3800048828125,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}
