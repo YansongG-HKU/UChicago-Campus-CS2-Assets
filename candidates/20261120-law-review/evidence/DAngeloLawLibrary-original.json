@@ -1,0 +1,226 @@
+{
+  "source": "DAngeloLawLibrary.blend",
+  "source_sha256": "3ad47d9e86214b484e48147cea8cf684d5741e039d0b4c3b057ffe4d8c992d46",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "DAngeloLawLibrary",
+      "file_sha256": "cbfce1742b37e394192cae89fe556fe45da7699c59e2de8285c29ff3c5e05735",
+      "bytes": 500156,
+      "version": 7500,
+      "import_seconds": 0.6729305070000464,
+      "peak_rss_kib": 313328,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f7756081355ba0c4da4d66b7fb77866311979eeed290aa3965697285ff1ca1fa.png": "f7756081355ba0c4da4d66b7fb77866311979eeed290aa3965697285ff1ca1fa"
+      },
+      "imported_image_sizes": {
+        "DAngeloLawLibrary_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_Emissive.png": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 11634,
+      "reimport_triangles": 11634,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.028612677294801343,
+      "bounds_max_delta_m": 3.691782694659196e-06,
+      "vertex_max_delta_m": 5.394796517066425e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "DAngeloLawLibrary_Mtl"
+      ],
+      "reimport_materials": [
+        "DAngeloLawLibrary_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.690000534057617,
+          -21.625,
+          0.0
+        ],
+        [
+          21.690000534057617,
+          22.65999984741211,
+          21.469999313354492
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.690000534057617,
+          -21.625,
+          -3.691782694659196e-06
+        ],
+        [
+          21.690000534057617,
+          22.65999984741211,
+          21.470001220703125
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "DAngeloLawLibrary_LOD1",
+      "file_sha256": "e145ef577159b442771720691a1900a0847ca8abd4385976e120d4ab4a0919f7",
+      "bytes": 120300,
+      "version": 7500,
+      "import_seconds": 0.11368753500005369,
+      "peak_rss_kib": 348276,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f7756081355ba0c4da4d66b7fb77866311979eeed290aa3965697285ff1ca1fa.png": "f7756081355ba0c4da4d66b7fb77866311979eeed290aa3965697285ff1ca1fa"
+      },
+      "imported_image_sizes": {
+        "DAngeloLawLibrary_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_Emissive.png": [
+          2048,
+          2048
+        ],
+        "DAngeloLawLibrary_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 3114,
+      "reimport_triangles": 3114,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.028612677294801343,
+      "bounds_max_delta_m": 3.691782694659196e-06,
+      "vertex_max_delta_m": 5.394796517066425e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "DAngeloLawLibrary_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "DAngeloLawLibrary_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.690000534057617,
+          -21.625,
+          0.0
+        ],
+        [
+          21.690000534057617,
+          22.65999984741211,
+          21.469999313354492
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.690000534057617,
+          -21.625,
+          -3.691782694659196e-06
+        ],
+        [
+          21.690000534057617,
+          22.65999984741211,
+          21.470001220703125
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "DAngeloLawLibrary_LOD2",
+      "file_sha256": "b5b8c40cd24a9236ae3e3e141baa5dc12e74aa235c0b1c2f9189ce53f69a845b",
+      "bytes": 47180,
+      "version": 7500,
+      "import_seconds": 0.011891405999904237,
+      "peak_rss_kib": 348800,
+      "texture_reference_hashes": {
+        "textures/344b4d585b611216760cdf4d41470c697fd5818f12ea7676ad8973bd5ab452f4.png": "344b4d585b611216760cdf4d41470c697fd5818f12ea7676ad8973bd5ab452f4",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/f77031235209cb05487843d740144c6af98325b1a14b4e0d6026cd606bd4e92b.png": "f77031235209cb05487843d740144c6af98325b1a14b4e0d6026cd606bd4e92b"
+      },
+      "imported_image_sizes": {
+        "DAngeloLawLibrary_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "DAngeloLawLibrary_LOD2_BaseColor.png.002": [
+          512,
+          512
+        ],
+        "DAngeloLawLibrary_LOD2_Emissive.png.001": [
+          512,
+          512
+        ],
+        "DAngeloLawLibrary_LOD2_Normal.png.001": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 490,
+      "reimport_triangles": 490,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.024897263784061915,
+      "bounds_max_delta_m": 3.814697265625e-06,
+      "vertex_max_delta_m": 5.394796517066425e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "DAngeloLawLibrary_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "DAngeloLawLibrary_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -21.450000762939453,
+          -21.5,
+          0.0
+        ],
+        [
+          21.450000762939453,
+          22.65999984741211,
+          21.299999237060547
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -21.450000762939453,
+          -21.5,
+          -3.691782694659196e-06
+        ],
+        [
+          21.450000762939453,
+          22.65999984741211,
+          21.300003051757812
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

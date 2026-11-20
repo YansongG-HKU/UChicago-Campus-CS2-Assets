@@ -10,7 +10,7 @@ from mathutils import Vector
 from mathutils.bvhtree import BVHTree
 
 parser = argparse.ArgumentParser()
-parser.add_argument('asset', choices=['cathey','woodlawn'])
+parser.add_argument('asset', choices=['cathey','woodlawn','law'])
 parser.add_argument('source', type=Path)
 parser.add_argument('contract', type=Path)
 parser.add_argument('output', type=Path)
@@ -32,10 +32,18 @@ if args.asset == 'cathey':
     segments = [{'anchor_common_m':[6.3,-29.3,2.4], 'tangent_xyz':[1,0,0],
                  'outward_normal_xyz':[0,1,0], 'width_m':10, 'height_m':4.8}]
     names = ('CatheyDining','BurtonJudsonCourts')
-else:
+elif args.asset == 'woodlawn':
     segments = contract['joint_segments']
     shift = Vector((0,0,0))
     names = ('WoodlawnDining','WoodlawnResidential')
+else:
+    segments = [
+        {'anchor_common_m': j['assembly_anchor_m'], 'tangent_xyz': j['tangent'],
+         'width_m': j['width_m'], 'height_m': j['height_m'],
+         'outward_normal_xyz': j['outward_normals'][0]} for j in contract['joints']
+    ]
+    shift = Vector((0,0,0))
+    names = ('LawClassroomAdministration','DAngeloLawLibrary')
 
 
 def build_tree(obj, extra_translation):
@@ -89,6 +97,10 @@ for suffix in suffixes:
                                 'hits':{name:hits(tree,point,direction) for name,tree in zip(names,trees)}})
     measures[suffix or 'near'] = samples
     visible = set(obj.name for obj in objs)
+    if args.asset == 'law':
+        water = bpy.data.objects[names[0]+suffix+'_Wat']
+        water.color = (.35,.54,.65,1)
+        visible.add(water.name)
     for obj in bpy.data.objects:
         if obj.type == 'MESH':
             obj.hide_render = obj.name not in visible
@@ -96,9 +108,12 @@ for suffix in suffixes:
         objs[0].location += shift
         target = Vector((6,-48,12))
         camera.data.ortho_scale = 97
-    else:
+    elif args.asset == 'woodlawn':
         target = Vector((4,-8,15))
         camera.data.ortho_scale = 138
+    else:
+        target = Vector((6,21,8))
+        camera.data.ortho_scale = 145
     objs[0].color = (.66,.73,.57,1)
     objs[1].color = (.69,.64,.57,1)
     camera.location = target + Vector((-.4,-1,.7)).normalized()*250

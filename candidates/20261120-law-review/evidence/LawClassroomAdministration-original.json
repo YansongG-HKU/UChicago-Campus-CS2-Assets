@@ -1,0 +1,370 @@
+{
+  "source": "LawClassroomAdministration.blend",
+  "source_sha256": "d491022099b0f8e5316fb80dd0e78d41bd8e43c0e6f2376cab59b9916c5ce972",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "LawClassroomAdministration",
+      "file_sha256": "4d6929d160e3eaa8641d55fc99db17eb27122421355cd41b663bbf288358837c",
+      "bytes": 202924,
+      "version": 7500,
+      "import_seconds": 0.6560273210000105,
+      "peak_rss_kib": 309664,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815.png": "f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815"
+      },
+      "imported_image_sizes": {
+        "LawClassroomAdministration_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_Emissive.png": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 5990,
+      "reimport_triangles": 5990,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029646806793492988,
+      "bounds_max_delta_m": 5.987335043755593e-06,
+      "vertex_max_delta_m": 6.198883056640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LawClassroomAdministration_Mtl"
+      ],
+      "reimport_materials": [
+        "LawClassroomAdministration_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -59.32500076293945,
+          -36.82500076293945,
+          0.0
+        ],
+        [
+          59.826194763183594,
+          37.326194763183594,
+          8.099679946899414
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -59.32500076293945,
+          -36.82500076293945,
+          -5.987335043755593e-06
+        ],
+        [
+          59.826194763183594,
+          37.326194763183594,
+          8.099676132202148
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LawClassroomAdministration_LOD1",
+      "file_sha256": "3052bfd5d70456c8b3e84f042a5381b88662d924e49f322c2ce8c96078b59394",
+      "bytes": 106796,
+      "version": 7500,
+      "import_seconds": 0.1942415329999676,
+      "peak_rss_kib": 336896,
+      "texture_reference_hashes": {
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa",
+        "textures/f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815.png": "f6f8932392c3ac7d6e9d85b15ed6a7a33cedaa41eeb3647e497f67f450de3815"
+      },
+      "imported_image_sizes": {
+        "LawClassroomAdministration_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_Emissive.png": [
+          2048,
+          2048
+        ],
+        "LawClassroomAdministration_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 2510,
+      "reimport_triangles": 2510,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029646806793492988,
+      "bounds_max_delta_m": 5.987335043755593e-06,
+      "vertex_max_delta_m": 6.198883056640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LawClassroomAdministration_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "LawClassroomAdministration_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -59.32500076293945,
+          -36.82500076293945,
+          0.0
+        ],
+        [
+          59.826194763183594,
+          37.326194763183594,
+          8.099679946899414
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -59.32500076293945,
+          -36.82500076293945,
+          -5.987335043755593e-06
+        ],
+        [
+          59.826194763183594,
+          37.326194763183594,
+          8.099676132202148
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LawClassroomAdministration_LOD1_Wat",
+      "file_sha256": "3ffbf3fe5f21524db15940d0d6cf372945a7b4d2fbfaa270ce1f95873714a833",
+      "bytes": 15916,
+      "version": 7500,
+      "import_seconds": 0.002763090000144075,
+      "peak_rss_kib": 337824,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 2,
+      "reimport_triangles": 2,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 4.038214683532715e-06,
+      "vertex_max_delta_m": 4.038214683532715e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.1599999964237213
+        ],
+        [
+          8.25,
+          24.75,
+          0.1599999964237213
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.15999595820903778
+        ],
+        [
+          8.25,
+          24.75,
+          0.1600005328655243
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LawClassroomAdministration_LOD2",
+      "file_sha256": "13a00de5a3f3d05022d6d17d6e62e33687d2aeeb3e493815e8efe3d638671f0b",
+      "bytes": 41276,
+      "version": 7500,
+      "import_seconds": 0.013542980000011084,
+      "peak_rss_kib": 337824,
+      "texture_reference_hashes": {
+        "textures/392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3.png": "392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3",
+        "textures/4a85f0dab42e684677fd7986cd58643ba3a8b33487f92ad83bff96154c63bc52.png": "4a85f0dab42e684677fd7986cd58643ba3a8b33487f92ad83bff96154c63bc52",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974"
+      },
+      "imported_image_sizes": {
+        "LawClassroomAdministration_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "LawClassroomAdministration_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "LawClassroomAdministration_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "LawClassroomAdministration_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 338,
+      "reimport_triangles": 338,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.028892544568385227,
+      "bounds_max_delta_m": 5.987335043755593e-06,
+      "vertex_max_delta_m": 6.198883056640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LawClassroomAdministration_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "LawClassroomAdministration_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -59.275001525878906,
+          -36.775001525878906,
+          0.0
+        ],
+        [
+          59.79999923706055,
+          37.29999923706055,
+          8.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -59.275001525878906,
+          -36.775001525878906,
+          -5.987335043755593e-06
+        ],
+        [
+          59.79999923706055,
+          37.29999923706055,
+          7.999996185302734
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LawClassroomAdministration_LOD2_Wat",
+      "file_sha256": "5982ae2f413d30e5066800c4de84c2339ceed96504dc6db1e4e6af257e56e11c",
+      "bytes": 15916,
+      "version": 7500,
+      "import_seconds": 0.0025781909998841,
+      "peak_rss_kib": 337824,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 2,
+      "reimport_triangles": 2,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 4.038214683532715e-06,
+      "vertex_max_delta_m": 4.038214683532715e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.1599999964237213
+        ],
+        [
+          8.25,
+          24.75,
+          0.1599999964237213
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.15999595820903778
+        ],
+        [
+          8.25,
+          24.75,
+          0.1600005328655243
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LawClassroomAdministration_Wat",
+      "file_sha256": "3bce78a91c4a2232c1c8f0a25b4a59b8f254df4e24aa75fe8408385e14eda338",
+      "bytes": 15900,
+      "version": 7500,
+      "import_seconds": 0.0036428979999527655,
+      "peak_rss_kib": 337824,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 2,
+      "reimport_triangles": 2,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 4.038214683532715e-06,
+      "vertex_max_delta_m": 4.038214683532715e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.1599999964237213
+        ],
+        [
+          8.25,
+          24.75,
+          0.1599999964237213
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.75,
+          -3.25,
+          0.15999595820903778
+        ],
+        [
+          8.25,
+          24.75,
+          0.1600005328655243
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

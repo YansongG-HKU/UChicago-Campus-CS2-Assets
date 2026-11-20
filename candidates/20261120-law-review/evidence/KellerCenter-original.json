@@ -1,0 +1,334 @@
+{
+  "source": "KellerCenter.blend",
+  "source_sha256": "61c8bfd0da2f66852f5ced765646d4163366d833b4726892c56af58d323254eb",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "KellerCenter",
+      "file_sha256": "5715fc72852822a2bbea9f1f0a45796a6017585e04366643645f6651f2e9821c",
+      "bytes": 868668,
+      "version": 7500,
+      "import_seconds": 0.793687342000112,
+      "peak_rss_kib": 359104,
+      "texture_reference_hashes": {
+        "textures/0128cfd617c671bf3ee4cd10ff4a705144e390327eaca6b18808c52c863bca19.png": "0128cfd617c671bf3ee4cd10ff4a705144e390327eaca6b18808c52c863bca19",
+        "textures/227512ed7c42cf4b1499dc1365f54bf5bb47390f3e153e4a63e7cf7d597b21fb.png": "227512ed7c42cf4b1499dc1365f54bf5bb47390f3e153e4a63e7cf7d597b21fb",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "KellerCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "KellerCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "KellerCenter_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "KellerCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "KellerCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 30200,
+      "reimport_triangles": 30200,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02793373339851917,
+      "bounds_max_delta_m": 3.43762644661183e-06,
+      "vertex_max_delta_m": 4.2649612623790745e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "KellerCenter_Mtl"
+      ],
+      "reimport_materials": [
+        "KellerCenter_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -47.82500076293945,
+          -21.5,
+          0.0
+        ],
+        [
+          40.70000076293945,
+          21.5,
+          17.5
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -47.82500076293945,
+          -21.499998092651367,
+          -3.43762644661183e-06
+        ],
+        [
+          40.70000076293945,
+          21.500001907348633,
+          17.499998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "KellerCenter_Gls",
+      "file_sha256": "751b66d6303509fcf1afe7be58c04775c7456e9fecd62e4c16e314b2c32f44bc",
+      "bytes": 20940,
+      "version": 7500,
+      "import_seconds": 0.0033066779999444407,
+      "peak_rss_kib": 395456,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 132,
+      "reimport_triangles": 132,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.384185791015625e-06,
+      "vertex_max_delta_m": 2.5678466499812203e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -27.0,
+          -6.045000076293945,
+          13.729999542236328
+        ],
+        [
+          27.0,
+          6.0,
+          15.069999694824219
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -27.0,
+          -6.044997692108154,
+          13.729998588562012
+        ],
+        [
+          27.0,
+          6.000002384185791,
+          15.070000648498535
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "KellerCenter_LOD1",
+      "file_sha256": "5f49d52d1bddaa9a4f084f300bcf07ad8ee78e278859ad80c55c18cca93631e9",
+      "bytes": 396460,
+      "version": 7500,
+      "import_seconds": 0.16689506499983509,
+      "peak_rss_kib": 395456,
+      "texture_reference_hashes": {
+        "textures/0128cfd617c671bf3ee4cd10ff4a705144e390327eaca6b18808c52c863bca19.png": "0128cfd617c671bf3ee4cd10ff4a705144e390327eaca6b18808c52c863bca19",
+        "textures/227512ed7c42cf4b1499dc1365f54bf5bb47390f3e153e4a63e7cf7d597b21fb.png": "227512ed7c42cf4b1499dc1365f54bf5bb47390f3e153e4a63e7cf7d597b21fb",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0"
+      },
+      "imported_image_sizes": {
+        "KellerCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "KellerCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "KellerCenter_BaseColor.png.002": [
+          2048,
+          2048
+        ],
+        "KellerCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "KellerCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 14372,
+      "reimport_triangles": 14372,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.01948876435231457,
+      "bounds_max_delta_m": 3.43762644661183e-06,
+      "vertex_max_delta_m": 4.2649612623790745e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "KellerCenter_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "KellerCenter_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -47.805973052978516,
+          -21.5,
+          0.0
+        ],
+        [
+          40.70000076293945,
+          21.5,
+          17.5
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -47.805973052978516,
+          -21.499998092651367,
+          -3.43762644661183e-06
+        ],
+        [
+          40.70000076293945,
+          21.500001907348633,
+          17.499998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "KellerCenter_LOD1_Gls",
+      "file_sha256": "f5a6a3900b02ed000d30820ff5624422eb23f97760cfc035845728de24dcffdc",
+      "bytes": 20940,
+      "version": 7500,
+      "import_seconds": 0.00378821300000709,
+      "peak_rss_kib": 395456,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 132,
+      "reimport_triangles": 132,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 2.384185791015625e-06,
+      "vertex_max_delta_m": 2.5678466499812203e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -27.0,
+          -6.045000076293945,
+          13.729999542236328
+        ],
+        [
+          27.0,
+          6.0,
+          15.069999694824219
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -27.0,
+          -6.044997692108154,
+          13.729998588562012
+        ],
+        [
+          27.0,
+          6.000002384185791,
+          15.070000648498535
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "KellerCenter_LOD2",
+      "file_sha256": "0c9e615dd69e2fe3ad706d737a9e3fe2364f6cfcc977d3b845fee858993b7da2",
+      "bytes": 38012,
+      "version": 7500,
+      "import_seconds": 0.017222136000100363,
+      "peak_rss_kib": 395456,
+      "texture_reference_hashes": {
+        "textures/32d13b38e58e6f02f91a5322b0d343ff000f77ae43bb5634d5bab8b06b7c1558.png": "32d13b38e58e6f02f91a5322b0d343ff000f77ae43bb5634d5bab8b06b7c1558",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/71d432413a10aab25e5dee0aa377a1ca29dddef8eb2e30584135268d218c9d96.png": "71d432413a10aab25e5dee0aa377a1ca29dddef8eb2e30584135268d218c9d96"
+      },
+      "imported_image_sizes": {
+        "KellerCenter_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "KellerCenter_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "KellerCenter_LOD2_BaseColor.png.002": [
+          512,
+          512
+        ],
+        "KellerCenter_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "KellerCenter_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 356,
+      "reimport_triangles": 356,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.01737011417936919,
+      "bounds_max_delta_m": 3.43762644661183e-06,
+      "vertex_max_delta_m": 4.2649612623790745e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "KellerCenter_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "KellerCenter_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -47.79999923706055,
+          -21.5,
+          0.0
+        ],
+        [
+          40.70000076293945,
+          21.5,
+          17.5
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -47.79999923706055,
+          -21.499998092651367,
+          -3.43762644661183e-06
+        ],
+        [
+          40.70000076293945,
+          21.500001907348633,
+          17.499998092651367
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}
