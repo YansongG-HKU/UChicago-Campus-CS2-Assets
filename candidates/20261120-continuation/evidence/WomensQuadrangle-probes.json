@@ -1,0 +1,2097 @@
+{
+  "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+  "levels": {
+    "near": {
+      "standing_envelopes": {
+        "BeecherHall": {
+          "min": [
+            -3.8299999237060547,
+            32.900001525878906,
+            0.0
+          ],
+          "max": [
+            11.729999542236328,
+            50.87999725341797,
+            25.229999542236328
+          ],
+          "triangles": 17577
+        },
+        "FosterHall": {
+          "min": [
+            -16.029998779296875,
+            -50.894996643066406,
+            0.0
+          ],
+          "max": [
+            16.011720657348633,
+            -32.208282470703125,
+            30.850000381469727
+          ],
+          "triangles": 40853
+        },
+        "GreenHall": {
+          "min": [
+            -4.720000267028809,
+            -7.30000114440918,
+            0.0
+          ],
+          "max": [
+            12.780000686645508,
+            32.900001525878906,
+            29.229999542236328
+          ],
+          "triangles": 35056
+        },
+        "KellyHall": {
+          "min": [
+            -2.2800002098083496,
+            -32.900001525878906,
+            0.0
+          ],
+          "max": [
+            12.780000686645508,
+            -7.30000114440918,
+            25.229999542236328
+          ],
+          "triangles": 19563
+        }
+      },
+      "internal_joint_samples": {
+        "FosterHall_to_KellyHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  1e-05,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ]
+        ],
+        "KellyHall_to_GreenHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ]
+        ],
+        "GreenHall_to_BeecherHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ]
+        ]
+      }
+    },
+    "_LOD1": {
+      "standing_envelopes": {
+        "BeecherHall": {
+          "min": [
+            -3.809999465942383,
+            32.900001525878906,
+            0.0
+          ],
+          "max": [
+            11.710000038146973,
+            50.855003356933594,
+            24.84000015258789
+          ],
+          "triangles": 6122
+        },
+        "FosterHall": {
+          "min": [
+            -16.0049991607666,
+            -50.816001892089844,
+            0.0
+          ],
+          "max": [
+            15.965999603271484,
+            -32.346397399902344,
+            30.850000381469727
+          ],
+          "triangles": 13107
+        },
+        "GreenHall": {
+          "min": [
+            -4.720000267028809,
+            -7.30000114440918,
+            0.0
+          ],
+          "max": [
+            12.760000228881836,
+            32.900001525878906,
+            28.84000015258789
+          ],
+          "triangles": 11598
+        },
+        "KellyHall": {
+          "min": [
+            -2.260000228881836,
+            -32.900001525878906,
+            0.0
+          ],
+          "max": [
+            12.760000228881836,
+            -7.30000114440918,
+            24.84000015258789
+          ],
+          "triangles": 6708
+        }
+      },
+      "internal_joint_samples": {
+        "FosterHall_to_KellyHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  1e-05,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  -0.7,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ]
+        ],
+        "KellyHall_to_GreenHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ]
+        ],
+        "GreenHall_to_BeecherHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ]
+        ]
+      }
+    },
+    "_LOD2": {
+      "standing_envelopes": {
+        "BeecherHall": {
+          "min": [
+            -2.700000286102295,
+            32.900001525878906,
+            0.0
+          ],
+          "max": [
+            10.600000381469727,
+            50.63500213623047,
+            24.700000762939453
+          ],
+          "triangles": 454
+        },
+        "FosterHall": {
+          "min": [
+            -15.78499984741211,
+            -50.816001892089844,
+            0.0
+          ],
+          "max": [
+            15.965999603271484,
+            -32.346397399902344,
+            30.0
+          ],
+          "triangles": 443
+        },
+        "GreenHall": {
+          "min": [
+            -2.5500001907348633,
+            -7.30000114440918,
+            0.0
+          ],
+          "max": [
+            11.649999618530273,
+            32.900001525878906,
+            28.700000762939453
+          ],
+          "triangles": 376
+        },
+        "KellyHall": {
+          "min": [
+            -2.0,
+            -32.900001525878906,
+            0.0
+          ],
+          "max": [
+            12.5,
+            -7.30000114440918,
+            24.700000762939453
+          ],
+          "triangles": 1036
+        }
+      },
+      "internal_joint_samples": {
+        "FosterHall_to_KellyHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "FosterHall": [
+                [
+                  0.0,
+                  1.0
+                ]
+              ],
+              "KellyHall": []
+            }
+          ]
+        ],
+        "KellyHall_to_GreenHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "KellyHall": [],
+              "GreenHall": []
+            }
+          ]
+        ],
+        "GreenHall_to_BeecherHall": [
+          [
+            -0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            -0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.4,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            0.1,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            2,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            5,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ],
+          [
+            0.8,
+            15,
+            {
+              "GreenHall": [],
+              "BeecherHall": []
+            }
+          ]
+        ]
+      }
+    }
+  }
+}

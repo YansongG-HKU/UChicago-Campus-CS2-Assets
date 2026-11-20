@@ -131,6 +131,7 @@ parser.add_argument('result', type=Path)
 parser.add_argument('objects', nargs='+')
 modes = parser.add_mutually_exclusive_group(required=True)
 modes.add_argument('--packaged', type=Path)
+modes.add_argument('--packaged-map', type=Path)
 modes.add_argument('--export', type=Path)
 parser.add_argument('--textures', type=Path)
 parser.add_argument('--converter', type=Path)
@@ -140,12 +141,24 @@ bpy.ops.wm.open_mainfile(filepath=str(source), load_ui=False)
 objects = [bpy.data.objects[name] for name in args.objects]
 snapshots = {obj.name: snapshot(obj) for obj in objects}
 package = args.packaged or args.export
+packaged_paths = json.loads(args.packaged_map.read_text()) if args.packaged_map else None
 if args.export:
     package.mkdir(parents=True)
     stage_images(objects, package, args.textures)
     if args.textures and (args.textures / 'settings.json').is_file():
         settings = args.textures / 'settings.json'
         mappings = json.loads(settings.read_text())['sharedAssets']
+        packed_hashes = {digest(path.read_bytes()) for path in package.glob('*.png')}
+        required_names = set(mappings.values())
+        required_names.update(name.replace('_LOD1_', '_LOD2_') for name in mappings
+                              if (args.textures / name.replace('_LOD1_', '_LOD2_')).is_file())
+        for target_name in required_names:
+            staged = package / target_name
+            source_map = args.textures / target_name
+            # Several logically distinct masks can contain the same pixels. Keep
+            # declared shader filenames as well as the deduplicated FBX links.
+            if not staged.exists() and source_map.is_file() and digest(source_map.read_bytes()) in packed_hashes:
+                shutil.copyfile(source_map, staged)
         for alias, target_name in mappings.items():
             if not (package / target_name).exists():
                 raise ValueError(f'Shared map target is missing: {target_name}')
@@ -179,7 +192,7 @@ if args.export:
 
 records = []
 for name, before in snapshots.items():
-    path = (package / (name + '.fbx')).resolve()
+    path = (Path(packaged_paths[name]) if packaged_paths else package / (name + '.fbx')).resolve()
     version, references = filenames(path)
     bpy.ops.wm.read_factory_settings(use_empty=True)
     start = time.monotonic()

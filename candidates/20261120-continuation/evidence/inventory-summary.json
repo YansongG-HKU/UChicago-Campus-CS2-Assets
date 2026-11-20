@@ -1,0 +1,673 @@
+{
+  "AlumniHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "AnatomyBuilding": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BakerDining": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BartlettHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BeecherHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BelfieldHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BillingsHospital": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BlaineHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BondChapel": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BondSwiftCloister": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 1388,
+        "delta_m": 0.5264010429382324,
+        "mesh": "BondSwiftCloister_LOD2",
+        "source": 1318,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BoothHarperCenter": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 2208,
+        "delta_m": 10.518909454345703,
+        "mesh": "BoothHarperCenter_LOD2",
+        "source": 1986,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "BurtonJudsonCourts": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 1778,
+        "delta_m": 6.8770432335441e-06,
+        "mesh": "BurtonJudsonCourts_LOD2",
+        "source": 1742,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CampusNorthResidential": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CatheyDining": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ChapinOldBuilding": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ChicagoLyingIn": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ClassicsBuilding": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CobbGate": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CobbLectureHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CochraneWoods": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "CulverHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "DAngeloLawLibrary": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "DavidRubensteinForum": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "EckhartHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "EdwardHLeviHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ErmanBiologyCenter": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "FosterHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "GatesBlakeHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "GoodspeedHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "GordonParksArtsHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "GreenHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "HarperMemorialLibrary": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "HaskellHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "HenryCrownFieldHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "HenryHindsLaboratory": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "HutchinsonCommons": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ISAC": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "IdaNoyesHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "InternationalHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "JohnCrerarLibrary": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "JonesLaboratory": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "JuddHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "KellerCenter": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "KellyHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "KentChemicalLaboratory": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "KovlerGymnasium": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "LawClassroomAdministration": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 6,
+    "state": "readback",
+    "unmapped": []
+  },
+  "LillieHouse": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 1433,
+        "delta_m": 2.5678466499812203e-06,
+        "mesh": "LillieHouse_LOD2",
+        "source": 1418,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "LoganArts": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MandelHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MansuetoLibrary": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MaxPalevskyCentral": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MaxPalevskyEast": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MaxPalevskyWest": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MidwayStudios": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "MitchellTower": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "NeubauerCollegium": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "PresidentsHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "QuadrangleClub": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RGGEast": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RGGWest": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RatnerAthletics": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RegensteinLibrary": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ReynoldsClubhouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RobieHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RockefellerChapel": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 47418,
+        "delta_m": 6.405252456665039,
+        "mesh": "RockefellerChapel_LOD1",
+        "source": 46469,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RosenwaldWalker": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "RyersonLaboratory": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SaiehHall": {
+    "geometry_or_uv_differences": [
+      {
+        "delivered": 59596,
+        "delta_m": 2.9300262928009033,
+        "mesh": "SaiehHall",
+        "source": 59577,
+        "uv_delta": null
+      },
+      {
+        "delivered": 22273,
+        "delta_m": 2.9300262928009033,
+        "mesh": "SaiehHall_LOD1",
+        "source": 22269,
+        "uv_delta": null
+      }
+    ],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SaiehNorthPavilion": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SaiehWoodlawn5740": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SaiehWoodlawn5750": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SearleChemistry": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SmartMuseum": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SnellHitchcock": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SocialSciencesResearch": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "StuartHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SunnyGymnasium": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "SwiftHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "TaftHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "UniversityHighSchoolModern": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "WieboldtHall": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "WilderHouse": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "WilliamEckhardtResearchCenter": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 5,
+    "state": "readback",
+    "unmapped": []
+  },
+  "WoodlawnDining": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "WoodlawnResidential": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "YoungMemorial": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  },
+  "ZoologyBuilding": {
+    "geometry_or_uv_differences": [],
+    "invalid_or_missing_relative_references": [],
+    "readback_meshes": 3,
+    "state": "readback",
+    "unmapped": []
+  }
+}

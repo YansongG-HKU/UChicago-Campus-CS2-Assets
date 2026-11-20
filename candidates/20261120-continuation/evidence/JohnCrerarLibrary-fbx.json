@@ -1,0 +1,322 @@
+{
+  "source": "JohnCrerarLibrary.blend",
+  "source_sha256": "f0ae305dee9d1ef40e1cc16c3fd3bbde346f3232db1b70c54992fe07a1998928",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "JohnCrerarLibrary",
+      "file_sha256": "b94abc373d77727c43855ba84ea476af5ba9b8a15b26db869f3fb9a508c0f5d9",
+      "bytes": 492028,
+      "version": 7500,
+      "import_seconds": 0.19881893000001583,
+      "peak_rss_kib": 327892,
+      "texture_reference_hashes": {
+        "textures/0ebe0217517b16db4fb1ba4d464f46a6893bd73783f42f1bcce924e1ffa38ed8.png": "0ebe0217517b16db4fb1ba4d464f46a6893bd73783f42f1bcce924e1ffa38ed8",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa"
+      },
+      "imported_image_sizes": {
+        "JohnCrerarLibrary_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_Emissive.png": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 18430,
+      "reimport_triangles": 18430,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029457137288519314,
+      "bounds_max_delta_m": 6.753518846380757e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "JohnCrerarLibrary_Mtl"
+      ],
+      "reimport_materials": [
+        "JohnCrerarLibrary_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -22.365400314331055,
+          -44.92060089111328,
+          0.0
+        ],
+        [
+          22.014799118041992,
+          44.92060089111328,
+          18.953645706176758
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -22.365400314331055,
+          -44.92060089111328,
+          -6.753518846380757e-06
+        ],
+        [
+          22.014799118041992,
+          44.92060470581055,
+          18.953649520874023
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "JohnCrerarLibrary_Gls",
+      "file_sha256": "65f16bb8e8290af85b036db8250e7f6fa4c843f6dc8b078ff6f9a3585fe9c423",
+      "bytes": 53916,
+      "version": 7500,
+      "import_seconds": 0.004827298999771301,
+      "peak_rss_kib": 361932,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 1080,
+      "reimport_triangles": 1080,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0299753592053172,
+      "bounds_max_delta_m": 6.616115570068359e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -22.147899627685547,
+          -44.70309829711914,
+          0.6499997973442078
+        ],
+        [
+          18.795101165771484,
+          44.70309829711914,
+          18.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -22.147899627685547,
+          -44.70309829711914,
+          0.6499931812286377
+        ],
+        [
+          18.795101165771484,
+          44.703102111816406,
+          18.90000343322754
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "JohnCrerarLibrary_LOD1",
+      "file_sha256": "6ed441b8b64425cd55cebbf7a1989d1dfdf085ca58a76fb720fe6d81dd75ff6f",
+      "bytes": 223148,
+      "version": 7500,
+      "import_seconds": 0.10896277399979226,
+      "peak_rss_kib": 361932,
+      "texture_reference_hashes": {
+        "textures/0ebe0217517b16db4fb1ba4d464f46a6893bd73783f42f1bcce924e1ffa38ed8.png": "0ebe0217517b16db4fb1ba4d464f46a6893bd73783f42f1bcce924e1ffa38ed8",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa.png": "ac927d769551aa9cb349e275e321bfc3d07f81aa2ef0ea4f36fde27b745609aa"
+      },
+      "imported_image_sizes": {
+        "JohnCrerarLibrary_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_Emissive.png": [
+          2048,
+          2048
+        ],
+        "JohnCrerarLibrary_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 8134,
+      "reimport_triangles": 8134,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.01927855536946601,
+      "bounds_max_delta_m": 6.753518846380757e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "JohnCrerarLibrary_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "JohnCrerarLibrary_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -22.365400314331055,
+          -44.92060089111328,
+          0.0
+        ],
+        [
+          22.014799118041992,
+          44.92060089111328,
+          18.953645706176758
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -22.365400314331055,
+          -44.92060089111328,
+          -6.753518846380757e-06
+        ],
+        [
+          22.014799118041992,
+          44.92060470581055,
+          18.953649520874023
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "JohnCrerarLibrary_LOD1_Gls",
+      "file_sha256": "71886255d4bf527bd9a330aee369599a5df7235c86b31f365959aba9ba152e52",
+      "bytes": 53932,
+      "version": 7500,
+      "import_seconds": 0.0046008479998818075,
+      "peak_rss_kib": 361932,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 1080,
+      "reimport_triangles": 1080,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0299753592053172,
+      "bounds_max_delta_m": 6.616115570068359e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -22.147899627685547,
+          -44.70309829711914,
+          0.6499997973442078
+        ],
+        [
+          18.795101165771484,
+          44.70309829711914,
+          18.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -22.147899627685547,
+          -44.70309829711914,
+          0.6499931812286377
+        ],
+        [
+          18.795101165771484,
+          44.703102111816406,
+          18.90000343322754
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "JohnCrerarLibrary_LOD2",
+      "file_sha256": "05e939ec7fb8300c7732575161733dd17cae4f9de949a9ad0af0d0d56473e782",
+      "bytes": 35500,
+      "version": 7500,
+      "import_seconds": 0.012515161000010266,
+      "peak_rss_kib": 361932,
+      "texture_reference_hashes": {
+        "textures/392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3.png": "392e10d33d6e9ff4f29588489949ffd448157d53fe3c0ee78c531d8ef05443f3",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/903ff1ce5da8cc5c5de4f23d0050217ce3a25acb641ef58d160ac8fa77155d0b.png": "903ff1ce5da8cc5c5de4f23d0050217ce3a25acb641ef58d160ac8fa77155d0b"
+      },
+      "imported_image_sizes": {
+        "JohnCrerarLibrary_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "JohnCrerarLibrary_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "JohnCrerarLibrary_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "JohnCrerarLibrary_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 282,
+      "reimport_triangles": 282,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0299753592053172,
+      "bounds_max_delta_m": 6.753518846380757e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "JohnCrerarLibrary_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "JohnCrerarLibrary_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -22.260398864746094,
+          -44.81559753417969,
+          0.0
+        ],
+        [
+          20.5447998046875,
+          44.81559753417969,
+          18.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -22.260398864746094,
+          -44.81559753417969,
+          -6.753518846380757e-06
+        ],
+        [
+          20.5447998046875,
+          44.81560134887695,
+          18.90000343322754
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

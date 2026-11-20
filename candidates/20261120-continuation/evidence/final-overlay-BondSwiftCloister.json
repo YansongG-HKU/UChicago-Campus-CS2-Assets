@@ -1,0 +1,214 @@
+{
+  "source": "BondSwiftCloister.blend",
+  "source_sha256": "73cadeb2a168c831be12aa3ab2478bb24a9937142c61a08ac343d4e03dfad14a",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "BondSwiftCloister",
+      "file_sha256": "ef6c1b397ef73488a311a1033ec9f9de28730ec35d8b868b36d84504d956f4a8",
+      "bytes": 1529372,
+      "version": 7500,
+      "import_seconds": 0.6127254200000607,
+      "peak_rss_kib": 391320,
+      "texture_reference_hashes": {
+        "textures/7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2.png": "7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2",
+        "textures/990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78.png": "990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78",
+        "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+      },
+      "imported_image_sizes": {
+        "BondSwiftCloister_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "BondSwiftCloister_Emissive.png": [
+          4096,
+          4096
+        ],
+        "BondSwiftCloister_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 21992,
+      "reimport_triangles": 21992,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03334016267929926,
+      "bounds_max_delta_m": 1.430511474609375e-06,
+      "vertex_max_delta_m": 1.719260808386025e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BondSwiftCloister"
+      ],
+      "reimport_materials": [
+        "BondSwiftCloister"
+      ],
+      "source_bounds": [
+        [
+          -23.604999542236328,
+          -8.764999389648438,
+          0.0
+        ],
+        [
+          -13.78499984741211,
+          7.054999828338623,
+          6.778035640716553
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -23.604999542236328,
+          -8.764999389648438,
+          -1.1363717931089923e-06
+        ],
+        [
+          -13.78499984741211,
+          7.0550007820129395,
+          6.778037071228027
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BondSwiftCloister_LOD1",
+      "file_sha256": "ce46ffe3643aaa9c911762412e51087e30c78c108ade1baa344fca75c067f59a",
+      "bytes": 589580,
+      "version": 7500,
+      "import_seconds": 0.16950069199992868,
+      "peak_rss_kib": 529824,
+      "texture_reference_hashes": {
+        "textures/7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2.png": "7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2",
+        "textures/990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78.png": "990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78",
+        "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+      },
+      "imported_image_sizes": {
+        "BondSwiftCloister_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "BondSwiftCloister_Emissive.png": [
+          4096,
+          4096
+        ],
+        "BondSwiftCloister_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 9380,
+      "reimport_triangles": 9380,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.033060905417547186,
+      "bounds_max_delta_m": 1.430511474609375e-06,
+      "vertex_max_delta_m": 1.719260808386025e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BondSwiftCloister_LOD1"
+      ],
+      "reimport_materials": [
+        "BondSwiftCloister_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -23.604999542236328,
+          -8.694999694824219,
+          0.0
+        ],
+        [
+          -13.78499984741211,
+          6.985000133514404,
+          6.5920000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -23.604999542236328,
+          -8.694998741149902,
+          -1.1363717931089923e-06
+        ],
+        [
+          -13.78499984741211,
+          6.985001087188721,
+          6.592001438140869
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BondSwiftCloister_LOD2",
+      "file_sha256": "d842fcc44ef1599c25a68f56a99142ecbbb17146afe44ec9bef7abc442378d8c",
+      "bytes": 73180,
+      "version": 7500,
+      "import_seconds": 0.022183752999808348,
+      "peak_rss_kib": 529824,
+      "texture_reference_hashes": {
+        "BondSwiftCloister_LOD2_BaseColor.png": "240db633a81e2bff5265eb4608867daf662e1c6d0b8299d0a6919f20aaba2d51",
+        "BondSwiftCloister_LOD2_Emissive.png": "f5782b40a6f0ef34cfe31904e76247613bec1539d4dea56ab0682e6b67c614a1",
+        "BondSwiftCloister_LOD2_Normal.png": "3d6122710d8cd626cfefe3ed63aa9b656f417271416cd1117af03de75803f391"
+      },
+      "imported_image_sizes": {
+        "BondChapel_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "BondChapel_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "BondChapel_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 1318,
+      "reimport_triangles": 1318,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.021286039755618862,
+      "bounds_max_delta_m": 1.430511474609375e-06,
+      "vertex_max_delta_m": 1.719260808386025e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BondSwiftCloister_LOD2"
+      ],
+      "reimport_materials": [
+        "BondSwiftCloister_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -23.604999542236328,
+          -8.694999694824219,
+          0.0
+        ],
+        [
+          -13.78499984741211,
+          6.985000133514404,
+          6.5920000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -23.604999542236328,
+          -8.694998741149902,
+          -1.1363716794221546e-06
+        ],
+        [
+          -13.78499984741211,
+          6.985001087188721,
+          6.592001438140869
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "source": "RockefellerChapel.blend",
+  "source_sha256": "f1360c040f6cc703d704dfb127d082f276d638bdbfa20b14c8a8a64a70362b89",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "RockefellerChapel",
+      "file_sha256": "75e8162c3b447be3446224b28228f5ef4fb9a8ff6afd114856734eb28e56295e",
+      "bytes": 4685564,
+      "version": 7500,
+      "import_seconds": 0.4723164050001287,
+      "peak_rss_kib": 457780,
+      "texture_reference_hashes": {
+        "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+        "textures/4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8.png": "4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8",
+        "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+      },
+      "imported_image_sizes": {
+        "RockefellerChapel_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Emissive.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 79600,
+      "reimport_triangles": 79600,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.031029057299661832,
+      "bounds_max_delta_m": 5.2420346037251875e-06,
+      "vertex_max_delta_m": 1.1162471309944522e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RockefellerChapel"
+      ],
+      "reimport_materials": [
+        "RockefellerChapel"
+      ],
+      "source_bounds": [
+        [
+          -15.544800758361816,
+          -40.38600158691406,
+          0.0
+        ],
+        [
+          15.544800758361816,
+          40.38600158691406,
+          63.09360122680664
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -15.544800758361816,
+          -40.38600158691406,
+          5.2420346037251875e-06
+        ],
+        [
+          15.544800758361816,
+          40.38600540161133,
+          63.093597412109375
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "RockefellerChapel_LOD1",
+      "file_sha256": "f691d7c1d0e1a7c0b189c95d150246e35acf2384e684486c5b0daba8b4341014",
+      "bytes": 2640268,
+      "version": 7500,
+      "import_seconds": 0.3076121970002532,
+      "peak_rss_kib": 571228,
+      "texture_reference_hashes": {
+        "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+        "textures/4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8.png": "4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8",
+        "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+      },
+      "imported_image_sizes": {
+        "RockefellerChapel_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Emissive.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 46469,
+      "reimport_triangles": 46469,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.031098336124155215,
+      "bounds_max_delta_m": 5.242034148977837e-06,
+      "vertex_max_delta_m": 1.1162471309944522e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RockefellerChapel_LOD1"
+      ],
+      "reimport_materials": [
+        "RockefellerChapel_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -15.544800758361816,
+          -40.38600158691406,
+          0.0
+        ],
+        [
+          15.544800758361816,
+          40.38600158691406,
+          63.09360122680664
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -15.544800758361816,
+          -40.38600158691406,
+          5.242034148977837e-06
+        ],
+        [
+          15.544800758361816,
+          40.38600540161133,
+          63.093597412109375
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "RockefellerChapel_LOD2",
+      "file_sha256": "6bb9d6fd5b0571dca47b68dc0876cc43efaf97bd43168a9b568c0858ab737c3f",
+      "bytes": 43948,
+      "version": 7500,
+      "import_seconds": 0.1798868890000449,
+      "peak_rss_kib": 580432,
+      "texture_reference_hashes": {
+        "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+        "textures/4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8.png": "4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8",
+        "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+      },
+      "imported_image_sizes": {
+        "RockefellerChapel_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Emissive.png": [
+          4096,
+          4096
+        ],
+        "RockefellerChapel_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 364,
+      "reimport_triangles": 364,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029711770714249807,
+      "bounds_max_delta_m": 7.62939453125e-06,
+      "vertex_max_delta_m": 1.1162471309944522e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "RockefellerChapel_LOD2"
+      ],
+      "reimport_materials": [
+        "RockefellerChapel_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -14.703530311584473,
+          -39.59642028808594,
+          0.0
+        ],
+        [
+          13.923017501831055,
+          39.96122360229492,
+          63.09360122680664
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -14.703530311584473,
+          -39.596412658691406,
+          -6.498298262158642e-06
+        ],
+        [
+          13.923017501831055,
+          39.96122741699219,
+          63.093597412109375
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}
