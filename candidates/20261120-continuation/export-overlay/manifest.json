@@ -281,5 +281,58 @@
       }
     ],
     "add_references": []
+  },
+  {
+    "asset": "WoodlawnDining",
+    "baseline_package": "assets/WoodlawnDining/WoodlawnDining/exports/ProjectFiles/WoodlawnDining",
+    "original_files": {
+      "WoodlawnDining.fbx": "6236d34a220331743a2475e01d1301cc34f654116588c15c3695a7cc89e582bb",
+      "WoodlawnDining_BaseColor.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70",
+      "WoodlawnDining_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "WoodlawnDining_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+      "WoodlawnDining_LOD1.fbx": "03be73c67667fc16c8f56f3fcc188eb53bc06ff1bb7d0ec954042a333ccd77e2",
+      "WoodlawnDining_LOD2.fbx": "6a078b6439b42cb1a44caaefd7e69fd8ee9460516d909fdcaf5d02c9115b655e",
+      "WoodlawnDining_LOD2_BaseColor.png": "5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8",
+      "WoodlawnDining_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "WoodlawnDining_LOD2_Emissive.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+      "WoodlawnDining_LOD2_MaskMap.png": "3aa85af5585d594a47625c68c424bfc22c354364d770ad8a295f73fdb3c26c53",
+      "WoodlawnDining_LOD2_Normal.png": "593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042",
+      "WoodlawnDining_MaskMap.png": "56afd76d7f00f5b4311dfbf6d049f7c577f668d65ae8f24e39e56c683f2faf74",
+      "WoodlawnDining_Normal.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+      "settings.json": "06e74f40ef89ca98f716b62aba9c37b16e710bc7390fea32f8d927dac93d6d9a",
+      "textures/38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+      "textures/5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8.png": "5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8",
+      "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+      "textures/593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042.png": "593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042",
+      "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+      "textures/e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70"
+    },
+    "replace": [
+      {
+        "name": "WoodlawnDining.fbx",
+        "patch": "WoodlawnDining.zst",
+        "before_sha256": "6236d34a220331743a2475e01d1301cc34f654116588c15c3695a7cc89e582bb",
+        "patch_sha256": "91dcc00cde3ce18bcab3c6cd4f0e3a2fd165ac7ad581a970fdd7fc585bd9a3d9",
+        "after_sha256": "93770f0adc6f456808170e4f842dd596f3cefe90ccd67efa477a691f351c2a34",
+        "bytes": 176492
+      },
+      {
+        "name": "WoodlawnDining_LOD1.fbx",
+        "patch": "WoodlawnDining_LOD1.zst",
+        "before_sha256": "03be73c67667fc16c8f56f3fcc188eb53bc06ff1bb7d0ec954042a333ccd77e2",
+        "patch_sha256": "8add91e5e3df964ee156b32c1e5339596da692e8bd33d74ed75038bf7a051843",
+        "after_sha256": "3c43dd368bf7d292a36518000c95440b1d8ad15b4eddd4b0421eaf3ba89fe241",
+        "bytes": 90796
+      },
+      {
+        "name": "WoodlawnDining_LOD2.fbx",
+        "patch": "WoodlawnDining_LOD2.zst",
+        "before_sha256": "6a078b6439b42cb1a44caaefd7e69fd8ee9460516d909fdcaf5d02c9115b655e",
+        "patch_sha256": "4e78494407f0dedf0d3bb2f71687b9300392007fa16caa16c0a031e14a14fad0",
+        "after_sha256": "10ea7b41e836fcc65976235f9099d476861eb304e14e98b691e4cd05b673d88a",
+        "bytes": 30780
+      }
+    ],
+    "add_references": []
   }
 ]

@@ -1,0 +1,494 @@
+{
+  "BondSwiftCloister": {
+    "source_sha256": "78c4bebb078536808b903557f86f5754588dc0ae484df5a51822905f610fb00d",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -23.604999542236328,
+        -13.78499984741211
+      ],
+      [
+        -8.764999389648438,
+        7.054999828338623
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.765,
+            7.055
+          ],
+          [
+            0.0,
+            6.77804
+          ]
+        ],
+        "opaque_triangles": 21992,
+        "covered_columns": 1425,
+        "columns_touching_lowest_datum_within_20mm": 1283,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.695,
+            6.985
+          ],
+          [
+            0.0,
+            6.592
+          ]
+        ],
+        "opaque_triangles": 9380,
+        "covered_columns": 1413,
+        "columns_touching_lowest_datum_within_20mm": 1283,
+        "lost_columns_from_near": 12,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.695,
+            6.985
+          ],
+          [
+            0.0,
+            6.592
+          ]
+        ],
+        "opaque_triangles": 1388,
+        "covered_columns": 1413,
+        "columns_touching_lowest_datum_within_20mm": 1269,
+        "lost_columns_from_near": 12,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BoothHarperCenter": {
+    "source_sha256": "a03419e0e704460fdbf0fc8d840b376fa8cc2091c4b5aae464c5acecd3b63f1b",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -50.7400016784668,
+        45.720001220703125
+      ],
+      [
+        -62.17919921875,
+        62.17919921875
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -50.74,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.39188
+          ]
+        ],
+        "opaque_triangles": 28104,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -50.72741,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.39252
+          ]
+        ],
+        "opaque_triangles": 12644,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -50.72,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.2984
+          ]
+        ],
+        "opaque_triangles": 2208,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BurtonJudsonCourts": {
+    "source_sha256": "a94bd245650c6be82da270d6b62bdbff8061b2cbb75e6b66d0ce06094308821d",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -49.01000213623047,
+        48.77000045776367
+      ],
+      [
+        -36.404998779296875,
+        36.90999984741211
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -49.01,
+            48.77
+          ],
+          [
+            -36.405,
+            36.91
+          ],
+          [
+            -0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 161305,
+        "covered_columns": 921,
+        "columns_touching_lowest_datum_within_20mm": 840,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -49.01,
+            48.77
+          ],
+          [
+            -36.405,
+            36.91
+          ],
+          [
+            -0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 42255,
+        "covered_columns": 921,
+        "columns_touching_lowest_datum_within_20mm": 840,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -48.38,
+            48.38
+          ],
+          [
+            -36.0,
+            36.38
+          ],
+          [
+            0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 1778,
+        "covered_columns": 873,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 48,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "LillieHouse": {
+    "source_sha256": "00dcab657699785219ffc14125416ccbbc756876aad1621272813b22413597d4",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.359999656677246,
+        11.649999618530273
+      ],
+      [
+        -9.404999732971191,
+        11.649999618530273
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.36,
+            11.65
+          ],
+          [
+            -9.405,
+            11.65
+          ],
+          [
+            0.0,
+            15.134
+          ]
+        ],
+        "opaque_triangles": 25244,
+        "covered_columns": 1269,
+        "columns_touching_lowest_datum_within_20mm": 1184,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.36,
+            10.36
+          ],
+          [
+            -9.4,
+            11.65
+          ],
+          [
+            0.0,
+            15.134
+          ]
+        ],
+        "opaque_triangles": 11644,
+        "covered_columns": 1255,
+        "columns_touching_lowest_datum_within_20mm": 1176,
+        "lost_columns_from_near": 18,
+        "added_columns_from_near": 4,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -10.3,
+            10.3
+          ],
+          [
+            -9.215,
+            11.65
+          ],
+          [
+            0.0,
+            14.95
+          ]
+        ],
+        "opaque_triangles": 1433,
+        "covered_columns": 1221,
+        "columns_touching_lowest_datum_within_20mm": 1176,
+        "lost_columns_from_near": 48,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RockefellerChapel": {
+    "source_sha256": "212f4b06543cc130a983bf9b791475cc744e3f1ae15c614dc71b30e612b02dde",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -15.544800758361816,
+        15.544800758361816
+      ],
+      [
+        -40.38600158691406,
+        40.38600158691406
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -15.5448,
+            15.5448
+          ],
+          [
+            -40.386,
+            40.386
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 79600,
+        "covered_columns": 1133,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -15.5448,
+            15.5448
+          ],
+          [
+            -40.386,
+            40.386
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 47418,
+        "covered_columns": 1133,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -14.70353,
+            13.92302
+          ],
+          [
+            -39.59642,
+            39.96122
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 364,
+        "covered_columns": 1054,
+        "columns_touching_lowest_datum_within_20mm": 232,
+        "lost_columns_from_near": 79,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SaiehHall": {
+    "source_sha256": "a8afec068e73229eeca3c939223ce5b8b00264eaf0a576abeb198cde5ab36cf6",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -47.209999084472656,
+        47.209999084472656
+      ],
+      [
+        -16.865001678466797,
+        16.865001678466797
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -47.21,
+            47.21
+          ],
+          [
+            -16.865,
+            16.865
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 59596,
+        "covered_columns": 1184,
+        "columns_touching_lowest_datum_within_20mm": 1149,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -47.01,
+            47.1125
+          ],
+          [
+            -16.865,
+            16.7675
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 22273,
+        "covered_columns": 1184,
+        "columns_touching_lowest_datum_within_20mm": 1149,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -46.59,
+            47.06
+          ],
+          [
+            -16.55,
+            16.715
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 718,
+        "covered_columns": 1114,
+        "columns_touching_lowest_datum_within_20mm": 1096,
+        "lost_columns_from_near": 70,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  }
+}

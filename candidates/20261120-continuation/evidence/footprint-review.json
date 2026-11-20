@@ -1,0 +1,7587 @@
+{
+  "AlumniHouse": {
+    "source_sha256": "189399d49ffab0be5de07b0f8ae3b4e1dd8ce422d19a5cc60eb4fdf1be70fa50",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -11.879999160766602,
+        11.880000114440918
+      ],
+      [
+        -14.800000190734863,
+        13.369999885559082
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -11.88,
+            11.88
+          ],
+          [
+            -14.8,
+            13.37
+          ],
+          [
+            0.0,
+            14.78
+          ]
+        ],
+        "opaque_triangles": 29811,
+        "covered_columns": 1215,
+        "columns_touching_lowest_datum_within_20mm": 1084,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -11.875,
+            11.875
+          ],
+          [
+            -14.71,
+            13.37
+          ],
+          [
+            0.0,
+            14.78
+          ]
+        ],
+        "opaque_triangles": 8375,
+        "covered_columns": 1211,
+        "columns_touching_lowest_datum_within_20mm": 1084,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -11.6,
+            11.75
+          ],
+          [
+            -13.75,
+            13.18
+          ],
+          [
+            0.0,
+            14.7
+          ]
+        ],
+        "opaque_triangles": 178,
+        "covered_columns": 1175,
+        "columns_touching_lowest_datum_within_20mm": 1074,
+        "lost_columns_from_near": 40,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "AnatomyBuilding": {
+    "source_sha256": "bcbd2ca187bdb9f9b41217155e4459af4f429075b7f9e29425425b655a46ca09",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -45.678001403808594,
+        -8.362000465393066
+      ],
+      [
+        12.092399597167969,
+        29.23240089416504
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -45.678,
+            -8.362
+          ],
+          [
+            12.0924,
+            29.2324
+          ],
+          [
+            0.0,
+            26.45
+          ]
+        ],
+        "opaque_triangles": 47970,
+        "covered_columns": 1619,
+        "columns_touching_lowest_datum_within_20mm": 1537,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -45.638,
+            -8.362
+          ],
+          [
+            12.0924,
+            29.2324
+          ],
+          [
+            0.0,
+            26.45
+          ]
+        ],
+        "opaque_triangles": 15474,
+        "covered_columns": 1619,
+        "columns_touching_lowest_datum_within_20mm": 1537,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -45.638,
+            -8.362
+          ],
+          [
+            12.0924,
+            29.2324
+          ],
+          [
+            0.0,
+            25.85
+          ]
+        ],
+        "opaque_triangles": 312,
+        "covered_columns": 1619,
+        "columns_touching_lowest_datum_within_20mm": 1537,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BakerDining": {
+    "source_sha256": "c4b265b12ac02659fec970085d66ffcc05bbcdef99e696d5de5c6edf3a873cba",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -39.758750915527344,
+        39.74863815307617
+      ],
+      [
+        -29.638437271118164,
+        29.638437271118164
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -39.75875,
+            39.74864
+          ],
+          [
+            -29.63844,
+            29.63844
+          ],
+          [
+            0.0,
+            6.8
+          ]
+        ],
+        "opaque_triangles": 3858,
+        "covered_columns": 1092,
+        "columns_touching_lowest_datum_within_20mm": 1079,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -39.75875,
+            39.74864
+          ],
+          [
+            -29.63844,
+            29.63844
+          ],
+          [
+            0.0,
+            6.8
+          ]
+        ],
+        "opaque_triangles": 650,
+        "covered_columns": 1092,
+        "columns_touching_lowest_datum_within_20mm": 1079,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -39.52875,
+            39.5494
+          ],
+          [
+            -29.50844,
+            29.40844
+          ],
+          [
+            0.0,
+            5.8
+          ]
+        ],
+        "opaque_triangles": 230,
+        "covered_columns": 1079,
+        "columns_touching_lowest_datum_within_20mm": 1079,
+        "lost_columns_from_near": 13,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BartlettHall": {
+    "source_sha256": "62ef0f7ee072ab7cf9ffcc4adc3a37dba14b4f5360216066ea5f875643eefdaf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -15.96500015258789,
+        15.96500015258789
+      ],
+      [
+        -32.33000183105469,
+        32.37999725341797
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -15.965,
+            15.965
+          ],
+          [
+            -32.33,
+            32.38
+          ],
+          [
+            0.0,
+            23.2
+          ]
+        ],
+        "opaque_triangles": 56854,
+        "covered_columns": 1363,
+        "columns_touching_lowest_datum_within_20mm": 1301,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -15.965,
+            15.965
+          ],
+          [
+            -32.33,
+            32.38
+          ],
+          [
+            0.0,
+            23.2
+          ]
+        ],
+        "opaque_triangles": 17846,
+        "covered_columns": 1363,
+        "columns_touching_lowest_datum_within_20mm": 1301,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -15.65,
+            15.65
+          ],
+          [
+            -32.33,
+            32.07
+          ],
+          [
+            0.0,
+            23.15
+          ]
+        ],
+        "opaque_triangles": 474,
+        "covered_columns": 1289,
+        "columns_touching_lowest_datum_within_20mm": 1285,
+        "lost_columns_from_near": 74,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BeecherHall": {
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -3.8299999237060547,
+        11.729999542236328
+      ],
+      [
+        32.900001525878906,
+        50.87999725341797
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -3.83,
+            11.73
+          ],
+          [
+            32.9,
+            50.88
+          ],
+          [
+            0.0,
+            25.23
+          ]
+        ],
+        "opaque_triangles": 17577,
+        "covered_columns": 1523,
+        "columns_touching_lowest_datum_within_20mm": 1400,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -3.81,
+            11.71
+          ],
+          [
+            32.9,
+            50.855
+          ],
+          [
+            0.0,
+            24.84
+          ]
+        ],
+        "opaque_triangles": 6122,
+        "covered_columns": 1523,
+        "columns_touching_lowest_datum_within_20mm": 1400,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -2.7,
+            10.6
+          ],
+          [
+            32.9,
+            50.635
+          ],
+          [
+            0.0,
+            24.7
+          ]
+        ],
+        "opaque_triangles": 454,
+        "covered_columns": 1400,
+        "columns_touching_lowest_datum_within_20mm": 1400,
+        "lost_columns_from_near": 123,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BelfieldHall": {
+    "source_sha256": "08a1398f590dc78a6e4ca8c9746f0dc7fff3777c091cf02b061291e0c4621ca8",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -40.935001373291016,
+        40.935001373291016
+      ],
+      [
+        -10.99000072479248,
+        10.99000072479248
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -40.935,
+            40.935
+          ],
+          [
+            -10.99,
+            10.99
+          ],
+          [
+            0.0,
+            23.95
+          ]
+        ],
+        "opaque_triangles": 26132,
+        "covered_columns": 488,
+        "columns_touching_lowest_datum_within_20mm": 18,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -40.865,
+            40.865
+          ],
+          [
+            -10.935,
+            10.935
+          ],
+          [
+            0.0,
+            23.95
+          ]
+        ],
+        "opaque_triangles": 7188,
+        "covered_columns": 488,
+        "columns_touching_lowest_datum_within_20mm": 18,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -40.635,
+            40.635
+          ],
+          [
+            -10.665,
+            10.665
+          ],
+          [
+            0.0,
+            22.7
+          ]
+        ],
+        "opaque_triangles": 320,
+        "covered_columns": 476,
+        "columns_touching_lowest_datum_within_20mm": 468,
+        "lost_columns_from_near": 12,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BillingsHospital": {
+    "source_sha256": "f893fd65aa691bb2f14533e9bc25ade615e1fcf43069cda79d18128fda865687",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -30.459999084472656,
+        30.459999084472656
+      ],
+      [
+        -48.32749938964844,
+        48.32749938964844
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -30.46,
+            30.46
+          ],
+          [
+            -48.3275,
+            48.3275
+          ],
+          [
+            0.0,
+            42.0
+          ]
+        ],
+        "opaque_triangles": 195963,
+        "covered_columns": 1072,
+        "columns_touching_lowest_datum_within_20mm": 1072,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -30.455,
+            30.455
+          ],
+          [
+            -48.25,
+            48.25
+          ],
+          [
+            0.0,
+            42.0
+          ]
+        ],
+        "opaque_triangles": 40049,
+        "covered_columns": 1072,
+        "columns_touching_lowest_datum_within_20mm": 1072,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -30.0,
+            30.0
+          ],
+          [
+            -48.05,
+            48.05
+          ],
+          [
+            0.0,
+            42.0
+          ]
+        ],
+        "opaque_triangles": 252,
+        "covered_columns": 1072,
+        "columns_touching_lowest_datum_within_20mm": 1072,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BlaineHall": {
+    "source_sha256": "33f110a4ae66ef15d524cf253d57f9521d1c11c2634962d6c4d084768d2bdd5f",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -40.834999084472656,
+        40.834999084472656
+      ],
+      [
+        -22.485000610351562,
+        19.799999237060547
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -40.835,
+            40.835
+          ],
+          [
+            -22.485,
+            19.8
+          ],
+          [
+            0.0,
+            27.75
+          ]
+        ],
+        "opaque_triangles": 63921,
+        "covered_columns": 812,
+        "columns_touching_lowest_datum_within_20mm": 15,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -40.765,
+            40.765
+          ],
+          [
+            -22.485,
+            19.73
+          ],
+          [
+            0.0,
+            27.75
+          ]
+        ],
+        "opaque_triangles": 22973,
+        "covered_columns": 808,
+        "columns_touching_lowest_datum_within_20mm": 15,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -40.535,
+            40.535
+          ],
+          [
+            -19.575,
+            19.475
+          ],
+          [
+            0.0,
+            26.5
+          ]
+        ],
+        "opaque_triangles": 504,
+        "covered_columns": 695,
+        "columns_touching_lowest_datum_within_20mm": 683,
+        "lost_columns_from_near": 117,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BondChapel": {
+    "source_sha256": "127873b5b554c8a44c8f2b3a8154a4c63360979e838eaf13b0ccf6873059d2ff",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -22.845001220703125,
+        8.605000495910645
+      ],
+      [
+        -21.05500030517578,
+        -7.255000114440918
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -22.845,
+            8.605
+          ],
+          [
+            -21.055,
+            -7.255
+          ],
+          [
+            0.0,
+            18.77123
+          ]
+        ],
+        "opaque_triangles": 51299,
+        "covered_columns": 1507,
+        "columns_touching_lowest_datum_within_20mm": 1499,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -22.845,
+            8.605
+          ],
+          [
+            -21.055,
+            -7.255
+          ],
+          [
+            0.0,
+            18.71
+          ]
+        ],
+        "opaque_triangles": 17069,
+        "covered_columns": 1503,
+        "columns_touching_lowest_datum_within_20mm": 1499,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -22.685,
+            6.695
+          ],
+          [
+            -21.055,
+            -7.655
+          ],
+          [
+            0.0,
+            18.6
+          ]
+        ],
+        "opaque_triangles": 390,
+        "covered_columns": 1370,
+        "columns_touching_lowest_datum_within_20mm": 1343,
+        "lost_columns_from_near": 137,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BondSwiftCloister": {
+    "source_sha256": "73cadeb2a168c831be12aa3ab2478bb24a9937142c61a08ac343d4e03dfad14a",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -23.604999542236328,
+        -13.78499984741211
+      ],
+      [
+        -8.764999389648438,
+        7.054999828338623
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.765,
+            7.055
+          ],
+          [
+            0.0,
+            6.77804
+          ]
+        ],
+        "opaque_triangles": 21992,
+        "covered_columns": 1425,
+        "columns_touching_lowest_datum_within_20mm": 1283,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.695,
+            6.985
+          ],
+          [
+            0.0,
+            6.592
+          ]
+        ],
+        "opaque_triangles": 9380,
+        "covered_columns": 1413,
+        "columns_touching_lowest_datum_within_20mm": 1283,
+        "lost_columns_from_near": 12,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -23.605,
+            -13.785
+          ],
+          [
+            -8.695,
+            6.985
+          ],
+          [
+            0.0,
+            6.592
+          ]
+        ],
+        "opaque_triangles": 1318,
+        "covered_columns": 1413,
+        "columns_touching_lowest_datum_within_20mm": 1269,
+        "lost_columns_from_near": 12,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BoothHarperCenter": {
+    "source_sha256": "29c39350bfedd4c1d9e280bfd92a9d5d24b881eb6bbfdd2f5a68bca351f2769d",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -50.7400016784668,
+        45.720001220703125
+      ],
+      [
+        -62.17919921875,
+        62.17919921875
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -50.74,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.39188
+          ]
+        ],
+        "opaque_triangles": 28104,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -50.72741,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.39252
+          ]
+        ],
+        "opaque_triangles": 12644,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -50.72,
+            45.72
+          ],
+          [
+            -62.1792,
+            62.1792
+          ],
+          [
+            0.0,
+            25.2984
+          ]
+        ],
+        "opaque_triangles": 1986,
+        "covered_columns": 1220,
+        "columns_touching_lowest_datum_within_20mm": 1169,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "BurtonJudsonCourts": {
+    "source_sha256": "24ca75b6b870c6f520a4308116c0ef5f3bfe6d8d40f4135a58c9edddb70230bb",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -49.01000213623047,
+        48.77000045776367
+      ],
+      [
+        -36.404998779296875,
+        36.90999984741211
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -49.01,
+            48.77
+          ],
+          [
+            -36.405,
+            36.91
+          ],
+          [
+            -0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 161305,
+        "covered_columns": 921,
+        "columns_touching_lowest_datum_within_20mm": 840,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -49.01,
+            48.77
+          ],
+          [
+            -36.405,
+            36.91
+          ],
+          [
+            -0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 42255,
+        "covered_columns": 921,
+        "columns_touching_lowest_datum_within_20mm": 840,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -48.38,
+            48.38
+          ],
+          [
+            -36.0,
+            36.38
+          ],
+          [
+            0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 1742,
+        "covered_columns": 873,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 48,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "CampusNorthResidential": {
+    "source_sha256": "5452d61c34fdfa5ee877e7c69267e973496318009d5834de1a685e987b08dce0",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -53.97618103027344,
+        54.14827346801758
+      ],
+      [
+        -56.536739349365234,
+        56.24891662597656
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -53.97618,
+            54.14827
+          ],
+          [
+            -56.53674,
+            56.24892
+          ],
+          [
+            0.0,
+            48.2
+          ]
+        ],
+        "opaque_triangles": 75560,
+        "covered_columns": 650,
+        "columns_touching_lowest_datum_within_20mm": 605,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -53.97618,
+            54.14827
+          ],
+          [
+            -56.53674,
+            56.24892
+          ],
+          [
+            0.0,
+            47.22
+          ]
+        ],
+        "opaque_triangles": 18216,
+        "covered_columns": 637,
+        "columns_touching_lowest_datum_within_20mm": 605,
+        "lost_columns_from_near": 13,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -53.10188,
+            53.10188
+          ],
+          [
+            -55.48312,
+            55.48312
+          ],
+          [
+            0.0,
+            47.1
+          ]
+        ],
+        "opaque_triangles": 234,
+        "covered_columns": 612,
+        "columns_touching_lowest_datum_within_20mm": 600,
+        "lost_columns_from_near": 38,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "CatheyDining": {
+    "source_sha256": "ad6007625b8f320b1531bff4cafde5eb425bd50e80470b00ef7952f14f216675",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -27.5,
+        27.5
+      ],
+      [
+        -16.0,
+        14.149999618530273
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -27.5,
+            27.5
+          ],
+          [
+            -16.0,
+            14.15
+          ],
+          [
+            0.0,
+            10.08434
+          ]
+        ],
+        "opaque_triangles": 4858,
+        "covered_columns": 1288,
+        "columns_touching_lowest_datum_within_20mm": 921,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -27.5,
+            27.5
+          ],
+          [
+            -16.0,
+            14.15
+          ],
+          [
+            0.0,
+            10.08434
+          ]
+        ],
+        "opaque_triangles": 1314,
+        "covered_columns": 1288,
+        "columns_touching_lowest_datum_within_20mm": 921,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -27.5,
+            27.5
+          ],
+          [
+            -16.0,
+            14.15
+          ],
+          [
+            0.0,
+            10.08434
+          ]
+        ],
+        "opaque_triangles": 354,
+        "covered_columns": 1287,
+        "columns_touching_lowest_datum_within_20mm": 921,
+        "lost_columns_from_near": 1,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "ChapinOldBuilding": {
+    "source_sha256": "b37250032c6ee6bd92c90f5a7d640c5c2664d6e279ce6af80248535c5e7f9c20",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -23.510000228881836,
+        23.510000228881836
+      ],
+      [
+        -24.809999465942383,
+        26.0
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -23.51,
+            23.51
+          ],
+          [
+            -24.81,
+            26.0
+          ],
+          [
+            0.0,
+            21.85
+          ]
+        ],
+        "opaque_triangles": 40843,
+        "covered_columns": 971,
+        "columns_touching_lowest_datum_within_20mm": 971,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -23.475,
+            23.475
+          ],
+          [
+            -24.775,
+            26.0
+          ],
+          [
+            0.0,
+            21.85
+          ]
+        ],
+        "opaque_triangles": 18179,
+        "covered_columns": 971,
+        "columns_touching_lowest_datum_within_20mm": 971,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -23.215,
+            23.215
+          ],
+          [
+            -24.515,
+            24.6
+          ],
+          [
+            0.0,
+            21.7
+          ]
+        ],
+        "opaque_triangles": 142,
+        "covered_columns": 968,
+        "columns_touching_lowest_datum_within_20mm": 968,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "ChicagoLyingIn": {
+    "source_sha256": "ea5872614e57fc5750ec05c4eb42c938a03c70f92b1c5fb2a2d61992ae1ebe55",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -33.040000915527344,
+        32.32500076293945
+      ],
+      [
+        -26.982070922851562,
+        26.32499885559082
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -33.04,
+            32.325
+          ],
+          [
+            -26.98207,
+            26.325
+          ],
+          [
+            0.0,
+            40.6
+          ]
+        ],
+        "opaque_triangles": 85151,
+        "covered_columns": 1186,
+        "columns_touching_lowest_datum_within_20mm": 1101,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -32.975,
+            32.25
+          ],
+          [
+            -26.98207,
+            26.16
+          ],
+          [
+            0.0,
+            40.6
+          ]
+        ],
+        "opaque_triangles": 24963,
+        "covered_columns": 1138,
+        "columns_touching_lowest_datum_within_20mm": 1101,
+        "lost_columns_from_near": 48,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -32.9,
+            32.05
+          ],
+          [
+            -26.3,
+            26.0
+          ],
+          [
+            0.0,
+            40.6
+          ]
+        ],
+        "opaque_triangles": 398,
+        "covered_columns": 1110,
+        "columns_touching_lowest_datum_within_20mm": 1101,
+        "lost_columns_from_near": 76,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "ClassicsBuilding": {
+    "source_sha256": "bdd76cfcfa80762281b3fff3f6dbe0482ec3a5caae84d30eb1213a0ed81901e6",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -22.22249984741211,
+        21.077499389648438
+      ],
+      [
+        -14.360000610351562,
+        14.360000610351562
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -22.2225,
+            21.0775
+          ],
+          [
+            -14.36,
+            14.36
+          ],
+          [
+            0.0,
+            27.75
+          ]
+        ],
+        "opaque_triangles": 87317,
+        "covered_columns": 1324,
+        "columns_touching_lowest_datum_within_20mm": 1261,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -22.2225,
+            21.0175
+          ],
+          [
+            -14.12,
+            14.12
+          ],
+          [
+            0.0,
+            27.75
+          ]
+        ],
+        "opaque_triangles": 20669,
+        "covered_columns": 1324,
+        "columns_touching_lowest_datum_within_20mm": 1261,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -21.9625,
+            20.7775
+          ],
+          [
+            -13.88,
+            13.88
+          ],
+          [
+            0.0,
+            27.1
+          ]
+        ],
+        "opaque_triangles": 336,
+        "covered_columns": 1273,
+        "columns_touching_lowest_datum_within_20mm": 1261,
+        "lost_columns_from_near": 52,
+        "added_columns_from_near": 1,
+        "named_columns": {}
+      }
+    }
+  },
+  "CobbGate": {
+    "source_sha256": "0494ad560687b251bc05b124462c568533df20652435ac39d77eb99ac27bb3ae",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -9.079999923706055,
+        9.079999923706055
+      ],
+      [
+        -2.4744999408721924,
+        2.4744999408721924
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -9.08,
+            9.08
+          ],
+          [
+            -2.4745,
+            2.4745
+          ],
+          [
+            0.0,
+            11.1785
+          ]
+        ],
+        "opaque_triangles": 32902,
+        "covered_columns": 1427,
+        "columns_touching_lowest_datum_within_20mm": 966,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -9.08,
+            9.08
+          ],
+          [
+            -2.47,
+            2.47
+          ],
+          [
+            0.0,
+            11.1785
+          ]
+        ],
+        "opaque_triangles": 5238,
+        "covered_columns": 1423,
+        "columns_touching_lowest_datum_within_20mm": 966,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -9.08,
+            9.08
+          ],
+          [
+            -2.23,
+            2.23
+          ],
+          [
+            0.0,
+            10.92
+          ]
+        ],
+        "opaque_triangles": 262,
+        "covered_columns": 1341,
+        "columns_touching_lowest_datum_within_20mm": 906,
+        "lost_columns_from_near": 86,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "CobbLectureHall": {
+    "source_sha256": "8bff64056f6e9bf19b4f8ef8947d3362ed16983a1526c089e7b2694b0d502787",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -16.32349967956543,
+        17.760000228881836
+      ],
+      [
+        -30.875,
+        30.875
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -16.3235,
+            17.76
+          ],
+          [
+            -30.875,
+            30.875
+          ],
+          [
+            0.0,
+            31.75
+          ]
+        ],
+        "opaque_triangles": 57211,
+        "covered_columns": 1558,
+        "columns_touching_lowest_datum_within_20mm": 1318,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -16.3235,
+            17.76
+          ],
+          [
+            -30.875,
+            30.875
+          ],
+          [
+            0.0,
+            31.75
+          ]
+        ],
+        "opaque_triangles": 24267,
+        "covered_columns": 1558,
+        "columns_touching_lowest_datum_within_20mm": 1318,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -16.0443,
+            16.0443
+          ],
+          [
+            -30.53,
+            30.53
+          ],
+          [
+            0.0,
+            31.0
+          ]
+        ],
+        "opaque_triangles": 474,
+        "covered_columns": 1525,
+        "columns_touching_lowest_datum_within_20mm": 1332,
+        "lost_columns_from_near": 33,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "CochraneWoods": {
+    "source_sha256": "59a6030830dfbe2e564d78978251b095e6fe72393fe87faf39e00e28d614f4cc",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.150001525878906,
+        21.150001525878906
+      ],
+      [
+        -20.5,
+        20.59000015258789
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.15,
+            21.15
+          ],
+          [
+            -20.5,
+            20.59
+          ],
+          [
+            0.0,
+            9.0
+          ]
+        ],
+        "opaque_triangles": 1982,
+        "covered_columns": 914,
+        "columns_touching_lowest_datum_within_20mm": 863,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -21.15,
+            21.15
+          ],
+          [
+            -20.5,
+            20.59
+          ],
+          [
+            0.0,
+            9.0
+          ]
+        ],
+        "opaque_triangles": 504,
+        "covered_columns": 914,
+        "columns_touching_lowest_datum_within_20mm": 863,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -21.15,
+            21.15
+          ],
+          [
+            -20.5,
+            20.54
+          ],
+          [
+            0.0,
+            9.0
+          ]
+        ],
+        "opaque_triangles": 200,
+        "covered_columns": 914,
+        "columns_touching_lowest_datum_within_20mm": 863,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "CulverHall": {
+    "source_sha256": "41349e953524cae36e81c5230cac79238e5286c0ff205f14ff5bbf5967506403",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -37.829803466796875,
+        -18.685197830200195
+      ],
+      [
+        -29.27239990234375,
+        2.5971999168395996
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -37.8298,
+            -18.6852
+          ],
+          [
+            -29.2724,
+            2.5972
+          ],
+          [
+            -0.0,
+            27.4
+          ]
+        ],
+        "opaque_triangles": 50477,
+        "covered_columns": 1501,
+        "columns_touching_lowest_datum_within_20mm": 1346,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -37.8298,
+            -18.7002
+          ],
+          [
+            -29.2574,
+            2.5822
+          ],
+          [
+            -0.0,
+            27.4
+          ]
+        ],
+        "opaque_triangles": 14197,
+        "covered_columns": 1501,
+        "columns_touching_lowest_datum_within_20mm": 1346,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -35.4398,
+            -18.7002
+          ],
+          [
+            -29.2574,
+            2.5822
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 300,
+        "covered_columns": 1476,
+        "columns_touching_lowest_datum_within_20mm": 1331,
+        "lost_columns_from_near": 25,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "DAngeloLawLibrary": {
+    "source_sha256": "3ad47d9e86214b484e48147cea8cf684d5741e039d0b4c3b057ffe4d8c992d46",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.690000534057617,
+        21.690000534057617
+      ],
+      [
+        -21.625,
+        22.65999984741211
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.69,
+            21.69
+          ],
+          [
+            -21.625,
+            22.66
+          ],
+          [
+            0.0,
+            21.47
+          ]
+        ],
+        "opaque_triangles": 11634,
+        "covered_columns": 1631,
+        "columns_touching_lowest_datum_within_20mm": 1421,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -21.69,
+            21.69
+          ],
+          [
+            -21.625,
+            22.66
+          ],
+          [
+            0.0,
+            21.47
+          ]
+        ],
+        "opaque_triangles": 3114,
+        "covered_columns": 1627,
+        "columns_touching_lowest_datum_within_20mm": 1421,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -21.45,
+            21.45
+          ],
+          [
+            -21.5,
+            22.66
+          ],
+          [
+            0.0,
+            21.3
+          ]
+        ],
+        "opaque_triangles": 490,
+        "covered_columns": 1627,
+        "columns_touching_lowest_datum_within_20mm": 1385,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "DavidRubensteinForum": {
+    "source_sha256": "fbc3732263055e579260b23bfb705b2b8ff18825ef93bb017042e03db587aff6",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -27.059999465942383,
+        29.149999618530273
+      ],
+      [
+        -25.03499984741211,
+        27.03499984741211
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -27.0525,
+            29.15
+          ],
+          [
+            -25.0325,
+            27.0325
+          ],
+          [
+            0.0,
+            52.9
+          ]
+        ],
+        "opaque_triangles": 14508,
+        "covered_columns": 1284,
+        "columns_touching_lowest_datum_within_20mm": 977,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -27.06,
+            29.15
+          ],
+          [
+            -25.035,
+            27.035
+          ],
+          [
+            0.0,
+            52.9
+          ]
+        ],
+        "opaque_triangles": 3156,
+        "covered_columns": 1284,
+        "columns_touching_lowest_datum_within_20mm": 977,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -27.0,
+            29.15
+          ],
+          [
+            -25.0,
+            27.0
+          ],
+          [
+            0.0,
+            52.0
+          ]
+        ],
+        "opaque_triangles": 280,
+        "covered_columns": 1284,
+        "columns_touching_lowest_datum_within_20mm": 977,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "EckhartHall": {
+    "source_sha256": "f4b8bcaf298d2880a9bdbf6ea742f74174529faa5d972890e2902fc862593f9f",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -24.850000381469727,
+        25.079999923706055
+      ],
+      [
+        -21.350000381469727,
+        20.0
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -24.85,
+            25.08
+          ],
+          [
+            -21.35,
+            20.0
+          ],
+          [
+            0.0,
+            25.45
+          ]
+        ],
+        "opaque_triangles": 77348,
+        "covered_columns": 1050,
+        "columns_touching_lowest_datum_within_20mm": 143,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -24.85,
+            25.08
+          ],
+          [
+            -21.35,
+            20.0
+          ],
+          [
+            0.0,
+            25.45
+          ]
+        ],
+        "opaque_triangles": 19056,
+        "covered_columns": 1049,
+        "columns_touching_lowest_datum_within_20mm": 143,
+        "lost_columns_from_near": 1,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -24.85,
+            24.874
+          ],
+          [
+            -19.774,
+            19.774
+          ],
+          [
+            0.0,
+            24.85
+          ]
+        ],
+        "opaque_triangles": 413,
+        "covered_columns": 953,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 97,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "EdwardHLeviHall": {
+    "source_sha256": "2d367e1c5ef31fdb0cf52bb7e6473a889e144260ded5c013f341f59bdd9c9b72",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.75,
+        10.75
+      ],
+      [
+        -33.400001525878906,
+        33.400001525878906
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.75,
+            10.75
+          ],
+          [
+            -33.4,
+            33.4
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 24808,
+        "covered_columns": 1323,
+        "columns_touching_lowest_datum_within_20mm": 1228,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.75,
+            10.75
+          ],
+          [
+            -33.4,
+            33.4
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 4840,
+        "covered_columns": 1323,
+        "columns_touching_lowest_datum_within_20mm": 1228,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -10.75,
+            10.75
+          ],
+          [
+            -33.4,
+            33.4
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 496,
+        "covered_columns": 1321,
+        "columns_touching_lowest_datum_within_20mm": 1178,
+        "lost_columns_from_near": 2,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "ErmanBiologyCenter": {
+    "source_sha256": "c9bc554b8a703956083431ed289a105f9b3d89f2ca4d759ba5da5eeea256e655",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        18.60999870300293,
+        37.90500259399414
+      ],
+      [
+        -29.22760009765625,
+        2.5524001121520996
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            18.61,
+            37.905
+          ],
+          [
+            -29.2276,
+            2.5524
+          ],
+          [
+            -0.0,
+            24.6
+          ]
+        ],
+        "opaque_triangles": 50353,
+        "covered_columns": 1501,
+        "columns_touching_lowest_datum_within_20mm": 1346,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            18.625,
+            37.905
+          ],
+          [
+            -29.2126,
+            2.5374
+          ],
+          [
+            -0.0,
+            24.6
+          ]
+        ],
+        "opaque_triangles": 14157,
+        "covered_columns": 1501,
+        "columns_touching_lowest_datum_within_20mm": 1346,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            18.625,
+            35.515
+          ],
+          [
+            -29.2126,
+            2.5374
+          ],
+          [
+            0.0,
+            24.55
+          ]
+        ],
+        "opaque_triangles": 320,
+        "covered_columns": 1476,
+        "columns_touching_lowest_datum_within_20mm": 1331,
+        "lost_columns_from_near": 25,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "FosterHall": {
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -16.029998779296875,
+        16.011720657348633
+      ],
+      [
+        -50.894996643066406,
+        -32.208282470703125
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -16.03,
+            16.01172
+          ],
+          [
+            -50.895,
+            -32.20828
+          ],
+          [
+            0.0,
+            30.85
+          ]
+        ],
+        "opaque_triangles": 40853,
+        "covered_columns": 1363,
+        "columns_touching_lowest_datum_within_20mm": 1272,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -16.005,
+            15.966
+          ],
+          [
+            -50.816,
+            -32.3464
+          ],
+          [
+            0.0,
+            30.85
+          ]
+        ],
+        "opaque_triangles": 13107,
+        "covered_columns": 1355,
+        "columns_touching_lowest_datum_within_20mm": 1272,
+        "lost_columns_from_near": 8,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -15.785,
+            15.966
+          ],
+          [
+            -50.816,
+            -32.3464
+          ],
+          [
+            0.0,
+            30.0
+          ]
+        ],
+        "opaque_triangles": 443,
+        "covered_columns": 1296,
+        "columns_touching_lowest_datum_within_20mm": 1273,
+        "lost_columns_from_near": 67,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "GatesBlakeHall": {
+    "source_sha256": "23aefafed694e15484af6af6444ffa2e1b43e69efa8246195ebfd1ed842c0b45",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -7.627500057220459,
+        8.002500534057617
+      ],
+      [
+        -28.950000762939453,
+        28.94999885559082
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -7.6275,
+            8.0025
+          ],
+          [
+            -28.95,
+            28.95
+          ],
+          [
+            0.0,
+            29.95
+          ]
+        ],
+        "opaque_triangles": 57755,
+        "covered_columns": 1485,
+        "columns_touching_lowest_datum_within_20mm": 1394,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -7.6225,
+            7.9975
+          ],
+          [
+            -28.82,
+            28.695
+          ],
+          [
+            0.0,
+            29.95
+          ]
+        ],
+        "opaque_triangles": 25601,
+        "covered_columns": 1485,
+        "columns_touching_lowest_datum_within_20mm": 1394,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -6.7175,
+            7.8025
+          ],
+          [
+            -28.6,
+            28.6
+          ],
+          [
+            0.0,
+            29.4
+          ]
+        ],
+        "opaque_triangles": 461,
+        "covered_columns": 1434,
+        "columns_touching_lowest_datum_within_20mm": 1394,
+        "lost_columns_from_near": 51,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "GoodspeedHall": {
+    "source_sha256": "1b41b79e72862f112cebaef117cba695ba8b426803c00e71edfacad561a9773d",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -7.627500057220459,
+        6.877500057220459
+      ],
+      [
+        -13.0,
+        13.0
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -7.6275,
+            6.8775
+          ],
+          [
+            -13.0,
+            13.0
+          ],
+          [
+            0.0,
+            23.735
+          ]
+        ],
+        "opaque_triangles": 25439,
+        "covered_columns": 1607,
+        "columns_touching_lowest_datum_within_20mm": 1443,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -7.6225,
+            6.8775
+          ],
+          [
+            -12.87,
+            12.87
+          ],
+          [
+            0.0,
+            23.73
+          ]
+        ],
+        "opaque_triangles": 11327,
+        "covered_columns": 1603,
+        "columns_touching_lowest_datum_within_20mm": 1443,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -6.7175,
+            6.6925
+          ],
+          [
+            -12.65,
+            12.65
+          ],
+          [
+            0.0,
+            23.6
+          ]
+        ],
+        "opaque_triangles": 240,
+        "covered_columns": 1443,
+        "columns_touching_lowest_datum_within_20mm": 1443,
+        "lost_columns_from_near": 164,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "GordonParksArtsHall": {
+    "source_sha256": "36803b3005a126779ac280e820a9a466979b2c5b7961d6a4245f002a142ccb27",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -39.099998474121094,
+        39.099998474121094
+      ],
+      [
+        -24.440000534057617,
+        24.2549991607666
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -39.1,
+            39.1
+          ],
+          [
+            -24.44,
+            24.255
+          ],
+          [
+            0.0,
+            18.39
+          ]
+        ],
+        "opaque_triangles": 9326,
+        "covered_columns": 1158,
+        "columns_touching_lowest_datum_within_20mm": 1111,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -39.1,
+            39.1
+          ],
+          [
+            -24.44,
+            24.175
+          ],
+          [
+            0.0,
+            18.39
+          ]
+        ],
+        "opaque_triangles": 3866,
+        "covered_columns": 1157,
+        "columns_touching_lowest_datum_within_20mm": 1110,
+        "lost_columns_from_near": 1,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -39.1,
+            39.1
+          ],
+          [
+            -24.14,
+            24.175
+          ],
+          [
+            0.0,
+            18.0
+          ]
+        ],
+        "opaque_triangles": 442,
+        "covered_columns": 1154,
+        "columns_touching_lowest_datum_within_20mm": 1107,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "GreenHall": {
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -4.720000267028809,
+        12.780000686645508
+      ],
+      [
+        -7.30000114440918,
+        32.900001525878906
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -4.72,
+            12.78
+          ],
+          [
+            -7.3,
+            32.9
+          ],
+          [
+            0.0,
+            29.23
+          ]
+        ],
+        "opaque_triangles": 35056,
+        "covered_columns": 1427,
+        "columns_touching_lowest_datum_within_20mm": 1342,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -4.72,
+            12.76
+          ],
+          [
+            -7.3,
+            32.9
+          ],
+          [
+            0.0,
+            28.84
+          ]
+        ],
+        "opaque_triangles": 11598,
+        "covered_columns": 1425,
+        "columns_touching_lowest_datum_within_20mm": 1342,
+        "lost_columns_from_near": 2,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -2.55,
+            11.65
+          ],
+          [
+            -7.3,
+            32.9
+          ],
+          [
+            0.0,
+            28.7
+          ]
+        ],
+        "opaque_triangles": 376,
+        "covered_columns": 1312,
+        "columns_touching_lowest_datum_within_20mm": 1312,
+        "lost_columns_from_near": 115,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "HarperMemorialLibrary": {
+    "source_sha256": "bb03527fb16b5e1e6dae9281108209f860bcbf3de6ab761c3fa0672c6976ece6",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -40.54880142211914,
+        40.54880142211914
+      ],
+      [
+        -13.622401237487793,
+        13.622401237487793
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -40.5488,
+            40.5488
+          ],
+          [
+            -13.6224,
+            13.6224
+          ],
+          [
+            0.0,
+            41.148
+          ]
+        ],
+        "opaque_triangles": 133016,
+        "covered_columns": 1441,
+        "columns_touching_lowest_datum_within_20mm": 1,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -40.5488,
+            40.5488
+          ],
+          [
+            -13.6224,
+            13.6224
+          ],
+          [
+            0.0,
+            41.148
+          ]
+        ],
+        "opaque_triangles": 46718,
+        "covered_columns": 1438,
+        "columns_touching_lowest_datum_within_20mm": 1,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -40.1,
+            40.1
+          ],
+          [
+            -12.52,
+            12.52
+          ],
+          [
+            0.0,
+            41.148
+          ]
+        ],
+        "opaque_triangles": 432,
+        "covered_columns": 1333,
+        "columns_touching_lowest_datum_within_20mm": 1333,
+        "lost_columns_from_near": 108,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "HaskellHall": {
+    "source_sha256": "ff95e3970778c629ae7417c9d3f538d33288216f06024edf746bbfc2a54ce846",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -11.744999885559082,
+        11.744999885559082
+      ],
+      [
+        -21.68000030517578,
+        21.68000030517578
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -11.745,
+            11.745
+          ],
+          [
+            -21.68,
+            21.68
+          ],
+          [
+            0.0,
+            25.2
+          ]
+        ],
+        "opaque_triangles": 18140,
+        "covered_columns": 1545,
+        "columns_touching_lowest_datum_within_20mm": 1466,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -11.745,
+            11.745
+          ],
+          [
+            -21.68,
+            21.68
+          ],
+          [
+            0.0,
+            24.42722
+          ]
+        ],
+        "opaque_triangles": 8616,
+        "covered_columns": 1545,
+        "columns_touching_lowest_datum_within_20mm": 1466,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -11.265,
+            10.31
+          ],
+          [
+            -21.52,
+            21.52
+          ],
+          [
+            0.0,
+            25.2
+          ]
+        ],
+        "opaque_triangles": 367,
+        "covered_columns": 1465,
+        "columns_touching_lowest_datum_within_20mm": 1395,
+        "lost_columns_from_near": 84,
+        "added_columns_from_near": 4,
+        "named_columns": {}
+      }
+    }
+  },
+  "HenryCrownFieldHouse": {
+    "source_sha256": "40b1e4fa5431f7b6b8ae5d6773bc1112a23511111bbdf000cf541cf32c6d146b",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -57.084999084472656,
+        57.084999084472656
+      ],
+      [
+        -25.450000762939453,
+        25.450000762939453
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -57.085,
+            57.085
+          ],
+          [
+            -25.45,
+            25.45
+          ],
+          [
+            0.0,
+            23.16
+          ]
+        ],
+        "opaque_triangles": 126042,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -57.085,
+            57.085
+          ],
+          [
+            -25.42,
+            25.42
+          ],
+          [
+            0.0,
+            23.16
+          ]
+        ],
+        "opaque_triangles": 59538,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -56.105,
+            56.105
+          ],
+          [
+            -25.295,
+            25.295
+          ],
+          [
+            0.0,
+            23.0
+          ]
+        ],
+        "opaque_triangles": 118,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "HenryHindsLaboratory": {
+    "source_sha256": "2635421fdfb3f78ec2a07263f5b909cdd76237a6113361ee9fa7e9a131464dae",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -16.0,
+        19.977500915527344
+      ],
+      [
+        -27.790000915527344,
+        27.790000915527344
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -16.0,
+            19.9775
+          ],
+          [
+            -27.79,
+            27.79
+          ],
+          [
+            0.0,
+            35.0
+          ]
+        ],
+        "opaque_triangles": 33442,
+        "covered_columns": 1526,
+        "columns_touching_lowest_datum_within_20mm": 1491,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -16.0,
+            19.9775
+          ],
+          [
+            -27.72,
+            27.72
+          ],
+          [
+            0.0,
+            35.0
+          ]
+        ],
+        "opaque_triangles": 10354,
+        "covered_columns": 1526,
+        "columns_touching_lowest_datum_within_20mm": 1491,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -16.0,
+            19.9
+          ],
+          [
+            -27.0,
+            27.0
+          ],
+          [
+            0.0,
+            35.0
+          ]
+        ],
+        "opaque_triangles": 382,
+        "covered_columns": 1503,
+        "columns_touching_lowest_datum_within_20mm": 1491,
+        "lost_columns_from_near": 23,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "HutchinsonCommons": {
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -24.772499084472656,
+        13.187499046325684
+      ],
+      [
+        21.934999465942383,
+        40.064998626708984
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -24.7725,
+            13.1875
+          ],
+          [
+            21.935,
+            40.065
+          ],
+          [
+            0.0,
+            21.45
+          ]
+        ],
+        "opaque_triangles": 28598,
+        "covered_columns": 1471,
+        "columns_touching_lowest_datum_within_20mm": 168,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -24.7725,
+            13.1875
+          ],
+          [
+            21.935,
+            40.065
+          ],
+          [
+            0.0,
+            21.45
+          ]
+        ],
+        "opaque_triangles": 10938,
+        "covered_columns": 1471,
+        "columns_touching_lowest_datum_within_20mm": 168,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -24.7725,
+            13.1875
+          ],
+          [
+            22.52,
+            39.48
+          ],
+          [
+            0.0,
+            21.45
+          ]
+        ],
+        "opaque_triangles": 330,
+        "covered_columns": 1451,
+        "columns_touching_lowest_datum_within_20mm": 1443,
+        "lost_columns_from_near": 98,
+        "added_columns_from_near": 78,
+        "named_columns": {}
+      }
+    }
+  },
+  "ISAC": {
+    "source_sha256": "e29051cf1c81be211038019b62743de96a50f09f91e0b4ff1929642b18b43b5f",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -33.125,
+        31.18000030517578
+      ],
+      [
+        -32.09000015258789,
+        33.61000061035156
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -33.125,
+            31.18
+          ],
+          [
+            -32.09,
+            33.61
+          ],
+          [
+            0.0,
+            23.16
+          ]
+        ],
+        "opaque_triangles": 19458,
+        "covered_columns": 1114,
+        "columns_touching_lowest_datum_within_20mm": 1079,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -33.055,
+            31.18
+          ],
+          [
+            -32.09,
+            33.61
+          ],
+          [
+            0.0,
+            23.16
+          ]
+        ],
+        "opaque_triangles": 6910,
+        "covered_columns": 1114,
+        "columns_touching_lowest_datum_within_20mm": 1079,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -32.8,
+            31.1
+          ],
+          [
+            -31.7,
+            31.6
+          ],
+          [
+            0.0,
+            23.0
+          ]
+        ],
+        "opaque_triangles": 280,
+        "covered_columns": 1111,
+        "columns_touching_lowest_datum_within_20mm": 1076,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "IdaNoyesHall": {
+    "source_sha256": "32fa5427def2c83e325d9f6a08ba08579b9152f91919ca0f8591c0b077931ad7",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -37.14500045776367,
+        37.14500045776367
+      ],
+      [
+        -29.950000762939453,
+        27.19999885559082
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -37.145,
+            37.145
+          ],
+          [
+            -29.95,
+            27.2
+          ],
+          [
+            -0.0,
+            24.43
+          ]
+        ],
+        "opaque_triangles": 63040,
+        "covered_columns": 1181,
+        "columns_touching_lowest_datum_within_20mm": 1060,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -37.145,
+            37.145
+          ],
+          [
+            -29.95,
+            27.2
+          ],
+          [
+            -0.0,
+            24.43
+          ]
+        ],
+        "opaque_triangles": 18322,
+        "covered_columns": 1181,
+        "columns_touching_lowest_datum_within_20mm": 1060,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -37.03,
+            37.03
+          ],
+          [
+            -27.95,
+            27.1
+          ],
+          [
+            0.0,
+            24.3
+          ]
+        ],
+        "opaque_triangles": 854,
+        "covered_columns": 1170,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 11,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "InternationalHouse": {
+    "source_sha256": "e04083a960e7e4b6a32a585e113bd988b4ecd97de42b3a9c753d7157fd2d67e5",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -32.349998474121094,
+        32.349998474121094
+      ],
+      [
+        -22.565000534057617,
+        22.565000534057617
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -32.35,
+            32.35
+          ],
+          [
+            -22.565,
+            22.565
+          ],
+          [
+            0.0,
+            43.4
+          ]
+        ],
+        "opaque_triangles": 193605,
+        "covered_columns": 1245,
+        "columns_touching_lowest_datum_within_20mm": 6,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -32.35,
+            32.35
+          ],
+          [
+            -22.565,
+            22.565
+          ],
+          [
+            0.0,
+            43.4
+          ]
+        ],
+        "opaque_triangles": 57113,
+        "covered_columns": 1242,
+        "columns_touching_lowest_datum_within_20mm": 6,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -32.16,
+            32.16
+          ],
+          [
+            -21.66,
+            21.65
+          ],
+          [
+            0.0,
+            43.4
+          ]
+        ],
+        "opaque_triangles": 436,
+        "covered_columns": 1239,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 6,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "JohnCrerarLibrary": {
+    "source_sha256": "f0ae305dee9d1ef40e1cc16c3fd3bbde346f3232db1b70c54992fe07a1998928",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -22.365400314331055,
+        22.014799118041992
+      ],
+      [
+        -44.92060089111328,
+        44.92060089111328
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -22.3654,
+            22.0148
+          ],
+          [
+            -44.9206,
+            44.9206
+          ],
+          [
+            0.0,
+            18.95365
+          ]
+        ],
+        "opaque_triangles": 18430,
+        "covered_columns": 1578,
+        "columns_touching_lowest_datum_within_20mm": 1229,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -22.3654,
+            22.0148
+          ],
+          [
+            -44.9206,
+            44.9206
+          ],
+          [
+            0.0,
+            18.95365
+          ]
+        ],
+        "opaque_triangles": 8134,
+        "covered_columns": 1578,
+        "columns_touching_lowest_datum_within_20mm": 1229,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -22.2604,
+            20.5448
+          ],
+          [
+            -44.8156,
+            44.8156
+          ],
+          [
+            0.0,
+            18.9
+          ]
+        ],
+        "opaque_triangles": 282,
+        "covered_columns": 1572,
+        "columns_touching_lowest_datum_within_20mm": 1223,
+        "lost_columns_from_near": 6,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "JonesLaboratory": {
+    "source_sha256": "7728f177786c07612794a1616881b916639f6cc48e0fb4ca19bcad1e9241369c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -20.114999771118164,
+        18.825000762939453
+      ],
+      [
+        -16.875,
+        16.325000762939453
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -20.115,
+            18.825
+          ],
+          [
+            -16.875,
+            16.325
+          ],
+          [
+            0.0,
+            25.14
+          ]
+        ],
+        "opaque_triangles": 24403,
+        "covered_columns": 1183,
+        "columns_touching_lowest_datum_within_20mm": 1129,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -20.045,
+            18.755
+          ],
+          [
+            -16.805,
+            16.255
+          ],
+          [
+            0.0,
+            25.14
+          ]
+        ],
+        "opaque_triangles": 6943,
+        "covered_columns": 1183,
+        "columns_touching_lowest_datum_within_20mm": 1129,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -19.8,
+            18.6
+          ],
+          [
+            -16.1,
+            16.1
+          ],
+          [
+            0.0,
+            25.0
+          ]
+        ],
+        "opaque_triangles": 327,
+        "covered_columns": 1148,
+        "columns_touching_lowest_datum_within_20mm": 1102,
+        "lost_columns_from_near": 35,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "JuddHall": {
+    "source_sha256": "c6081d9e1e46fce7d1622b968e57b84218eee420bfa3fc2a3b491796fa93da16",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -16.040000915527344,
+        14.680001258850098
+      ],
+      [
+        -28.815000534057617,
+        28.815000534057617
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -16.04,
+            14.68
+          ],
+          [
+            -28.815,
+            28.815
+          ],
+          [
+            0.0,
+            25.25
+          ]
+        ],
+        "opaque_triangles": 29365,
+        "covered_columns": 1061,
+        "columns_touching_lowest_datum_within_20mm": 993,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -15.95,
+            14.625
+          ],
+          [
+            -28.805,
+            28.805
+          ],
+          [
+            0.0,
+            25.25
+          ]
+        ],
+        "opaque_triangles": 8801,
+        "covered_columns": 1061,
+        "columns_touching_lowest_datum_within_20mm": 993,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -15.88,
+            14.4
+          ],
+          [
+            -28.625,
+            28.625
+          ],
+          [
+            0.0,
+            24.0
+          ]
+        ],
+        "opaque_triangles": 472,
+        "covered_columns": 1038,
+        "columns_touching_lowest_datum_within_20mm": 993,
+        "lost_columns_from_near": 23,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "KellerCenter": {
+    "source_sha256": "61c8bfd0da2f66852f5ced765646d4163366d833b4726892c56af58d323254eb",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -47.82500076293945,
+        40.70000076293945
+      ],
+      [
+        -21.5,
+        21.5
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -47.825,
+            40.7
+          ],
+          [
+            -21.5,
+            21.5
+          ],
+          [
+            0.0,
+            17.5
+          ]
+        ],
+        "opaque_triangles": 30200,
+        "covered_columns": 1591,
+        "columns_touching_lowest_datum_within_20mm": 1591,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -47.80597,
+            40.7
+          ],
+          [
+            -21.5,
+            21.5
+          ],
+          [
+            0.0,
+            17.5
+          ]
+        ],
+        "opaque_triangles": 14372,
+        "covered_columns": 1591,
+        "columns_touching_lowest_datum_within_20mm": 1591,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -47.8,
+            40.7
+          ],
+          [
+            -21.5,
+            21.5
+          ],
+          [
+            0.0,
+            17.5
+          ]
+        ],
+        "opaque_triangles": 356,
+        "covered_columns": 1591,
+        "columns_touching_lowest_datum_within_20mm": 1591,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "KellyHall": {
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -2.2800002098083496,
+        12.780000686645508
+      ],
+      [
+        -32.900001525878906,
+        -7.30000114440918
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -2.28,
+            12.78
+          ],
+          [
+            -32.9,
+            -7.3
+          ],
+          [
+            0.0,
+            25.23
+          ]
+        ],
+        "opaque_triangles": 19563,
+        "covered_columns": 1497,
+        "columns_touching_lowest_datum_within_20mm": 1435,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -2.26,
+            12.76
+          ],
+          [
+            -32.9,
+            -7.3
+          ],
+          [
+            0.0,
+            24.84
+          ]
+        ],
+        "opaque_triangles": 6708,
+        "covered_columns": 1497,
+        "columns_touching_lowest_datum_within_20mm": 1435,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -2.0,
+            12.5
+          ],
+          [
+            -32.9,
+            -7.3
+          ],
+          [
+            0.0,
+            24.7
+          ]
+        ],
+        "opaque_triangles": 1036,
+        "covered_columns": 1463,
+        "columns_touching_lowest_datum_within_20mm": 1435,
+        "lost_columns_from_near": 34,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "KentChemicalLaboratory": {
+    "source_sha256": "bb448522c4809f294e5d063559fe5bfee7c4fd36c7536e3bd2a1bf0bd191efb4",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -27.66200065612793,
+        27.66200065612793
+      ],
+      [
+        -19.723499298095703,
+        19.805299758911133
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -27.662,
+            27.662
+          ],
+          [
+            -19.7235,
+            19.8053
+          ],
+          [
+            0.0,
+            29.6
+          ]
+        ],
+        "opaque_triangles": 98408,
+        "covered_columns": 1079,
+        "columns_touching_lowest_datum_within_20mm": 190,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -27.662,
+            27.662
+          ],
+          [
+            -19.7235,
+            19.8053
+          ],
+          [
+            0.0,
+            29.6
+          ]
+        ],
+        "opaque_triangles": 22664,
+        "covered_columns": 1079,
+        "columns_touching_lowest_datum_within_20mm": 190,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -27.456,
+            27.456
+          ],
+          [
+            -19.5175,
+            19.5175
+          ],
+          [
+            0.0,
+            28.4
+          ]
+        ],
+        "opaque_triangles": 477,
+        "covered_columns": 1056,
+        "columns_touching_lowest_datum_within_20mm": 15,
+        "lost_columns_from_near": 23,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "KovlerGymnasium": {
+    "source_sha256": "4a0ae34447b876bf5279abf55b6b1b000ab72efc449a8b6def853397b4e0aef8",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -13.135000228881836,
+        13.135000228881836
+      ],
+      [
+        -20.229999542236328,
+        20.149999618530273
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -13.135,
+            13.135
+          ],
+          [
+            -20.23,
+            20.15
+          ],
+          [
+            0.0,
+            16.25
+          ]
+        ],
+        "opaque_triangles": 13250,
+        "covered_columns": 1621,
+        "columns_touching_lowest_datum_within_20mm": 1621,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -13.135,
+            13.135
+          ],
+          [
+            -20.23,
+            20.15
+          ],
+          [
+            0.0,
+            15.34
+          ]
+        ],
+        "opaque_triangles": 5806,
+        "covered_columns": 1621,
+        "columns_touching_lowest_datum_within_20mm": 1621,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -13.085,
+            13.085
+          ],
+          [
+            -20.15,
+            20.15
+          ],
+          [
+            0.0,
+            15.34
+          ]
+        ],
+        "opaque_triangles": 154,
+        "covered_columns": 1621,
+        "columns_touching_lowest_datum_within_20mm": 1621,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "LawClassroomAdministration": {
+    "source_sha256": "d491022099b0f8e5316fb80dd0e78d41bd8e43c0e6f2376cab59b9916c5ce972",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -59.32500076293945,
+        59.826194763183594
+      ],
+      [
+        -36.82500076293945,
+        37.326194763183594
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -59.325,
+            59.82619
+          ],
+          [
+            -36.825,
+            37.32619
+          ],
+          [
+            0.0,
+            8.09968
+          ]
+        ],
+        "opaque_triangles": 5990,
+        "covered_columns": 823,
+        "columns_touching_lowest_datum_within_20mm": 818,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -59.325,
+            59.82619
+          ],
+          [
+            -36.825,
+            37.32619
+          ],
+          [
+            0.0,
+            8.09968
+          ]
+        ],
+        "opaque_triangles": 2510,
+        "covered_columns": 823,
+        "columns_touching_lowest_datum_within_20mm": 818,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -59.275,
+            59.8
+          ],
+          [
+            -36.775,
+            37.3
+          ],
+          [
+            0.0,
+            8.0
+          ]
+        ],
+        "opaque_triangles": 338,
+        "covered_columns": 823,
+        "columns_touching_lowest_datum_within_20mm": 818,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "LillieHouse": {
+    "source_sha256": "a824d6c72610027a7a51ea6236a8a58181c32c9ebefd5af953f056c9e61b04de",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.359999656677246,
+        11.649999618530273
+      ],
+      [
+        -9.404999732971191,
+        11.649999618530273
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.36,
+            11.65
+          ],
+          [
+            -9.405,
+            11.65
+          ],
+          [
+            0.0,
+            15.134
+          ]
+        ],
+        "opaque_triangles": 25244,
+        "covered_columns": 1269,
+        "columns_touching_lowest_datum_within_20mm": 1184,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.36,
+            10.36
+          ],
+          [
+            -9.4,
+            11.65
+          ],
+          [
+            0.0,
+            15.134
+          ]
+        ],
+        "opaque_triangles": 11644,
+        "covered_columns": 1255,
+        "columns_touching_lowest_datum_within_20mm": 1176,
+        "lost_columns_from_near": 18,
+        "added_columns_from_near": 4,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -10.3,
+            10.3
+          ],
+          [
+            -9.215,
+            11.65
+          ],
+          [
+            0.0,
+            14.95
+          ]
+        ],
+        "opaque_triangles": 1418,
+        "covered_columns": 1221,
+        "columns_touching_lowest_datum_within_20mm": 1176,
+        "lost_columns_from_near": 48,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "LoganArts": {
+    "source_sha256": "fd09365576c2b5876a35b14d3e30d9ab3d73f194500644df7cc27e01ffcfc449",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -37.04499816894531,
+        37.07499694824219
+      ],
+      [
+        -45.915000915527344,
+        45.915000915527344
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -37.025,
+            37.025
+          ],
+          [
+            -45.915,
+            45.915
+          ],
+          [
+            0.0,
+            51.816
+          ]
+        ],
+        "opaque_triangles": 9278,
+        "covered_columns": 1267,
+        "columns_touching_lowest_datum_within_20mm": 1243,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -36.975,
+            37.025
+          ],
+          [
+            -45.735,
+            45.265
+          ],
+          [
+            0.0,
+            51.816
+          ]
+        ],
+        "opaque_triangles": 1734,
+        "covered_columns": 1253,
+        "columns_touching_lowest_datum_within_20mm": 1227,
+        "lost_columns_from_near": 14,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -37.045,
+            37.075
+          ],
+          [
+            -45.785,
+            45.315
+          ],
+          [
+            0.0,
+            51.816
+          ]
+        ],
+        "opaque_triangles": 534,
+        "covered_columns": 1240,
+        "columns_touching_lowest_datum_within_20mm": 1227,
+        "lost_columns_from_near": 27,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "MandelHall": {
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        2.6424994468688965,
+        24.772499084472656
+      ],
+      [
+        -41.064998626708984,
+        -2.934999942779541
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            2.6425,
+            24.7725
+          ],
+          [
+            -41.065,
+            -2.935
+          ],
+          [
+            0.0,
+            23.4
+          ]
+        ],
+        "opaque_triangles": 27724,
+        "covered_columns": 1539,
+        "columns_touching_lowest_datum_within_20mm": 164,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            2.6425,
+            24.7725
+          ],
+          [
+            -41.065,
+            -2.935
+          ],
+          [
+            0.0,
+            22.44855
+          ]
+        ],
+        "opaque_triangles": 10928,
+        "covered_columns": 1539,
+        "columns_touching_lowest_datum_within_20mm": 164,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            3.1075,
+            24.3075
+          ],
+          [
+            -40.6,
+            -3.4
+          ],
+          [
+            0.0,
+            22.0
+          ]
+        ],
+        "opaque_triangles": 268,
+        "covered_columns": 1447,
+        "columns_touching_lowest_datum_within_20mm": 1443,
+        "lost_columns_from_near": 92,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "MansuetoLibrary": {
+    "source_sha256": "2ae2c8ffe3adf4b1c8cd1a8edf0e8cb44ffd4cf9f2fbc86e2ac275aced61661c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -37.72600173950195,
+        37.72600173950195
+      ],
+      [
+        -28.157751083374023,
+        28.157751083374023
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -37.726,
+            37.726
+          ],
+          [
+            -28.15775,
+            28.15775
+          ],
+          [
+            0.0,
+            10.7605
+          ]
+        ],
+        "opaque_triangles": 76380,
+        "covered_columns": 949,
+        "columns_touching_lowest_datum_within_20mm": 870,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -37.726,
+            37.726
+          ],
+          [
+            -28.15775,
+            28.06525
+          ],
+          [
+            0.0,
+            10.68
+          ]
+        ],
+        "opaque_triangles": 6020,
+        "covered_columns": 949,
+        "columns_touching_lowest_datum_within_20mm": 870,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -37.726,
+            37.726
+          ],
+          [
+            -28.15775,
+            27.98025
+          ],
+          [
+            0.0,
+            10.668
+          ]
+        ],
+        "opaque_triangles": 458,
+        "covered_columns": 945,
+        "columns_touching_lowest_datum_within_20mm": 45,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "MaxPalevskyCentral": {
+    "source_sha256": "78257aba5d96dbcf574db5af035b5a0876c98e9e794f3ebe32cd52d9f26f81ff",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -50.2599983215332,
+        50.2599983215332
+      ],
+      [
+        -13.140000343322754,
+        13.0
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -50.26,
+            50.26
+          ],
+          [
+            -13.14,
+            13.0
+          ],
+          [
+            0.0,
+            15.8
+          ]
+        ],
+        "opaque_triangles": 16554,
+        "covered_columns": 1245,
+        "columns_touching_lowest_datum_within_20mm": 1241,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "central_bar": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              13.1,
+              0.0
+            ]
+          },
+          "south_projection": {
+            "xy_m": [
+              0,
+              -11
+            ],
+            "roof_and_underside_m": [
+              7.6,
+              0.0
+            ]
+          },
+          "north_west_stair": {
+            "xy_m": [
+              -28,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "north_east_stair": {
+            "xy_m": [
+              29,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "setback": {
+            "xy_m": [
+              0,
+              11
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -50.12,
+            50.12
+          ],
+          [
+            -13.1,
+            13.0
+          ],
+          [
+            0.0,
+            15.8
+          ]
+        ],
+        "opaque_triangles": 2840,
+        "covered_columns": 1245,
+        "columns_touching_lowest_datum_within_20mm": 1241,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "central_bar": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              13.1,
+              0.0
+            ]
+          },
+          "south_projection": {
+            "xy_m": [
+              0,
+              -11
+            ],
+            "roof_and_underside_m": [
+              7.6,
+              0.0
+            ]
+          },
+          "north_west_stair": {
+            "xy_m": [
+              -28,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "north_east_stair": {
+            "xy_m": [
+              29,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "setback": {
+            "xy_m": [
+              0,
+              11
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -50.06,
+            50.06
+          ],
+          [
+            -13.1,
+            13.0
+          ],
+          [
+            0.0,
+            15.8
+          ]
+        ],
+        "opaque_triangles": 344,
+        "covered_columns": 1245,
+        "columns_touching_lowest_datum_within_20mm": 1241,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "central_bar": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              13.1,
+              0.0
+            ]
+          },
+          "south_projection": {
+            "xy_m": [
+              0,
+              -11
+            ],
+            "roof_and_underside_m": [
+              7.6,
+              0.0
+            ]
+          },
+          "north_west_stair": {
+            "xy_m": [
+              -28,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "north_east_stair": {
+            "xy_m": [
+              29,
+              10
+            ],
+            "roof_and_underside_m": [
+              15.8,
+              0.0
+            ]
+          },
+          "setback": {
+            "xy_m": [
+              0,
+              11
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      }
+    }
+  },
+  "MaxPalevskyEast": {
+    "source_sha256": "ac86530653af158deed206648b399a08b88988ef8328b96176089754850944fa",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -26.384998321533203,
+        26.260000228881836
+      ],
+      [
+        -33.2599983215332,
+        33.2599983215332
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -26.385,
+            26.26
+          ],
+          [
+            -33.26,
+            33.26
+          ],
+          [
+            0.0,
+            16.2
+          ]
+        ],
+        "opaque_triangles": 22716,
+        "covered_columns": 1004,
+        "columns_touching_lowest_datum_within_20mm": 1004,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "east_wing": {
+            "xy_m": [
+              18,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.91214,
+              0.0
+            ]
+          },
+          "south_wing": {
+            "xy_m": [
+              -10,
+              -26
+            ],
+            "roof_and_underside_m": [
+              13.20125,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              -10,
+              26
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -26.385,
+            26.12
+          ],
+          [
+            -33.12,
+            33.12
+          ],
+          [
+            0.0,
+            16.2
+          ]
+        ],
+        "opaque_triangles": 3744,
+        "covered_columns": 1004,
+        "columns_touching_lowest_datum_within_20mm": 1004,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "east_wing": {
+            "xy_m": [
+              18,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.91214,
+              0.0
+            ]
+          },
+          "south_wing": {
+            "xy_m": [
+              -10,
+              -26
+            ],
+            "roof_and_underside_m": [
+              13.20125,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              -10,
+              26
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -26.25,
+            26.06
+          ],
+          [
+            -33.06,
+            33.06
+          ],
+          [
+            0.0,
+            16.2
+          ]
+        ],
+        "opaque_triangles": 464,
+        "covered_columns": 1004,
+        "columns_touching_lowest_datum_within_20mm": 1004,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "east_wing": {
+            "xy_m": [
+              18,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.91214,
+              0.0
+            ]
+          },
+          "south_wing": {
+            "xy_m": [
+              -10,
+              -26
+            ],
+            "roof_and_underside_m": [
+              13.20125,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              -10,
+              26
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              0
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      }
+    }
+  },
+  "MaxPalevskyWest": {
+    "source_sha256": "42e148c0206445a1baf8151fe2c0ad772427d7a1e555bfe6c984aa64309c462d",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -19.260000228881836,
+        19.260000228881836
+      ],
+      [
+        -27.260000228881836,
+        27.260000228881836
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -19.26,
+            19.26
+          ],
+          [
+            -27.26,
+            27.26
+          ],
+          [
+            0.0,
+            19.0
+          ]
+        ],
+        "opaque_triangles": 16310,
+        "covered_columns": 1211,
+        "columns_touching_lowest_datum_within_20mm": 1209,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "west_wing": {
+            "xy_m": [
+              -13,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              5,
+              20
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              5
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -19.12,
+            19.12
+          ],
+          [
+            -27.12,
+            27.12
+          ],
+          [
+            0.0,
+            19.0
+          ]
+        ],
+        "opaque_triangles": 2836,
+        "covered_columns": 1211,
+        "columns_touching_lowest_datum_within_20mm": 1209,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "west_wing": {
+            "xy_m": [
+              -13,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              5,
+              20
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              5
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -19.06,
+            19.06
+          ],
+          [
+            -27.06,
+            27.06
+          ],
+          [
+            0.0,
+            19.0
+          ]
+        ],
+        "opaque_triangles": 336,
+        "covered_columns": 1211,
+        "columns_touching_lowest_datum_within_20mm": 1209,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {
+          "west_wing": {
+            "xy_m": [
+              -13,
+              0
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "north_wing": {
+            "xy_m": [
+              5,
+              20
+            ],
+            "roof_and_underside_m": [
+              12.99875,
+              0.0
+            ]
+          },
+          "open_court": {
+            "xy_m": [
+              0,
+              5
+            ],
+            "roof_and_underside_m": [
+              null,
+              null
+            ]
+          }
+        }
+      }
+    }
+  },
+  "MidwayStudios": {
+    "source_sha256": "fb0abe16b1deedb7928d580e244d4138998b267f10c033b6f4102f540b2f1c5c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -16.779998779296875,
+        15.779998779296875
+      ],
+      [
+        -22.329999923706055,
+        2.2800002098083496
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -16.78,
+            15.78
+          ],
+          [
+            -22.33,
+            2.28
+          ],
+          [
+            0.0,
+            13.06
+          ]
+        ],
+        "opaque_triangles": 6430,
+        "covered_columns": 1525,
+        "columns_touching_lowest_datum_within_20mm": 1479,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -16.68,
+            15.68
+          ],
+          [
+            -22.33,
+            2.18
+          ],
+          [
+            0.0,
+            13.06
+          ]
+        ],
+        "opaque_triangles": 2794,
+        "covered_columns": 1525,
+        "columns_touching_lowest_datum_within_20mm": 1479,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -16.625,
+            15.625
+          ],
+          [
+            -22.18,
+            2.02
+          ],
+          [
+            0.0,
+            12.9
+          ]
+        ],
+        "opaque_triangles": 360,
+        "covered_columns": 1520,
+        "columns_touching_lowest_datum_within_20mm": 1479,
+        "lost_columns_from_near": 5,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "MitchellTower": {
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        11.642499923706055,
+        23.772499084472656
+      ],
+      [
+        28.934999465942383,
+        41.064998626708984
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            11.6425,
+            23.7725
+          ],
+          [
+            28.935,
+            41.065
+          ],
+          [
+            0.0,
+            38.78
+          ]
+        ],
+        "opaque_triangles": 27129,
+        "covered_columns": 1333,
+        "columns_touching_lowest_datum_within_20mm": 359,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            11.6425,
+            23.7725
+          ],
+          [
+            28.935,
+            41.065
+          ],
+          [
+            0.0,
+            38.78
+          ]
+        ],
+        "opaque_triangles": 8919,
+        "covered_columns": 1333,
+        "columns_touching_lowest_datum_within_20mm": 359,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            11.7075,
+            23.7075
+          ],
+          [
+            29.0,
+            41.0
+          ],
+          [
+            0.0,
+            38.78
+          ]
+        ],
+        "opaque_triangles": 1597,
+        "covered_columns": 1333,
+        "columns_touching_lowest_datum_within_20mm": 1233,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "NeubauerCollegium": {
+    "source_sha256": "f298e78ad613518b3a87affb9e7b1ed2214378fe4d82133c64f9bd808520ae91",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -9.850000381469727,
+        8.649999618530273
+      ],
+      [
+        -18.530000686645508,
+        18.354999542236328
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -9.85,
+            8.65
+          ],
+          [
+            -18.53,
+            18.355
+          ],
+          [
+            -0.04,
+            18.86
+          ]
+        ],
+        "opaque_triangles": 18780,
+        "covered_columns": 1331,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -9.85,
+            8.63
+          ],
+          [
+            -18.53,
+            18.355
+          ],
+          [
+            -0.02,
+            18.86
+          ]
+        ],
+        "opaque_triangles": 9256,
+        "covered_columns": 1331,
+        "columns_touching_lowest_datum_within_20mm": 12,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -8.55,
+            8.55
+          ],
+          [
+            -18.38,
+            18.345
+          ],
+          [
+            0.0,
+            18.7
+          ]
+        ],
+        "opaque_triangles": 158,
+        "covered_columns": 1301,
+        "columns_touching_lowest_datum_within_20mm": 1254,
+        "lost_columns_from_near": 30,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "PresidentsHouse": {
+    "source_sha256": "b877f2ae58789ee6a6963288be6b6e95a70fee9d093d4173ee24903cb9ce4f8a",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -9.0,
+        7.904999256134033
+      ],
+      [
+        -17.200000762939453,
+        15.805000305175781
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -9.0,
+            7.905
+          ],
+          [
+            -17.2,
+            15.805
+          ],
+          [
+            0.0,
+            22.31
+          ]
+        ],
+        "opaque_triangles": 5792,
+        "covered_columns": 1274,
+        "columns_touching_lowest_datum_within_20mm": 1148,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -9.0,
+            7.8
+          ],
+          [
+            -17.2,
+            15.78
+          ],
+          [
+            0.0,
+            22.31
+          ]
+        ],
+        "opaque_triangles": 2196,
+        "covered_columns": 1261,
+        "columns_touching_lowest_datum_within_20mm": 1148,
+        "lost_columns_from_near": 13,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -8.155,
+            7.6
+          ],
+          [
+            -15.85,
+            15.65
+          ],
+          [
+            0.0,
+            22.31
+          ]
+        ],
+        "opaque_triangles": 214,
+        "covered_columns": 1174,
+        "columns_touching_lowest_datum_within_20mm": 1124,
+        "lost_columns_from_near": 100,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "QuadrangleClub": {
+    "source_sha256": "3ef15fdedb3057c7220ad3c41447916cd445243d439c6af096ab950c33f3c153",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -22.8799991607666,
+        21.290000915527344
+      ],
+      [
+        -14.390000343322754,
+        16.34000015258789
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -22.88,
+            21.29
+          ],
+          [
+            -14.39,
+            16.34
+          ],
+          [
+            0.0,
+            16.6
+          ]
+        ],
+        "opaque_triangles": 26258,
+        "covered_columns": 1221,
+        "columns_touching_lowest_datum_within_20mm": 14,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -22.875,
+            21.29
+          ],
+          [
+            -14.39,
+            16.34
+          ],
+          [
+            0.0,
+            16.6
+          ]
+        ],
+        "opaque_triangles": 8706,
+        "covered_columns": 1221,
+        "columns_touching_lowest_datum_within_20mm": 14,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -22.51,
+            21.15
+          ],
+          [
+            -14.15,
+            15.2
+          ],
+          [
+            0.0,
+            16.6
+          ]
+        ],
+        "opaque_triangles": 316,
+        "covered_columns": 1185,
+        "columns_touching_lowest_datum_within_20mm": 4,
+        "lost_columns_from_near": 36,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RGGEast": {
+    "source_sha256": "af951b967c741d650e6ea3e9c66db661fdf7a72ed9fc5c238038769f93e505d4",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -26.5,
+        27.029998779296875
+      ],
+      [
+        -35.35499954223633,
+        37.375
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -26.5,
+            27.03
+          ],
+          [
+            -35.355,
+            37.375
+          ],
+          [
+            0.0,
+            32.3
+          ]
+        ],
+        "opaque_triangles": 55070,
+        "covered_columns": 1137,
+        "columns_touching_lowest_datum_within_20mm": 1075,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -26.36,
+            27.03
+          ],
+          [
+            -35.355,
+            37.375
+          ],
+          [
+            0.0,
+            32.3
+          ]
+        ],
+        "opaque_triangles": 18056,
+        "covered_columns": 1116,
+        "columns_touching_lowest_datum_within_20mm": 1075,
+        "lost_columns_from_near": 21,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -26.3,
+            26.9
+          ],
+          [
+            -35.225,
+            36.125
+          ],
+          [
+            0.0,
+            32.3
+          ]
+        ],
+        "opaque_triangles": 434,
+        "covered_columns": 1104,
+        "columns_touching_lowest_datum_within_20mm": 1075,
+        "lost_columns_from_near": 33,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RGGWest": {
+    "source_sha256": "ccc54c56659df7c7043bb89d8a8f4857ad984a5a9725048e22740f810f2dcb5c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -22.950000762939453,
+        22.0
+      ],
+      [
+        -35.25,
+        37.1875
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -22.95,
+            22.0
+          ],
+          [
+            -35.25,
+            37.1875
+          ],
+          [
+            0.0,
+            28.9
+          ]
+        ],
+        "opaque_triangles": 30128,
+        "covered_columns": 967,
+        "columns_touching_lowest_datum_within_20mm": 907,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -22.95,
+            21.86
+          ],
+          [
+            -35.11,
+            37.1875
+          ],
+          [
+            0.0,
+            28.9
+          ]
+        ],
+        "opaque_triangles": 10026,
+        "covered_columns": 967,
+        "columns_touching_lowest_datum_within_20mm": 907,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -22.4,
+            21.8
+          ],
+          [
+            -35.05,
+            36.125
+          ],
+          [
+            0.0,
+            28.9
+          ]
+        ],
+        "opaque_triangles": 302,
+        "covered_columns": 956,
+        "columns_touching_lowest_datum_within_20mm": 907,
+        "lost_columns_from_near": 11,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RatnerAthletics": {
+    "source_sha256": "4e359fcd31123ceb44867256c2f1b0b4cd9d7dc8293b58cbc798183f8763e52b",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -32.19499969482422,
+        32.19499969482422
+      ],
+      [
+        -58.79999923706055,
+        58.79999923706055
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -32.195,
+            32.195
+          ],
+          [
+            -58.8,
+            58.8
+          ],
+          [
+            0.0,
+            30.56297
+          ]
+        ],
+        "opaque_triangles": 31806,
+        "covered_columns": 1523,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -32.195,
+            31.805
+          ],
+          [
+            -58.8,
+            58.8
+          ],
+          [
+            0.0,
+            30.56441
+          ]
+        ],
+        "opaque_triangles": 2742,
+        "covered_columns": 1520,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -31.395,
+            30.305
+          ],
+          [
+            -58.8,
+            58.8
+          ],
+          [
+            0.0,
+            30.60805
+          ]
+        ],
+        "opaque_triangles": 392,
+        "covered_columns": 1506,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 17,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RegensteinLibrary": {
+    "source_sha256": "240f0d2bb073c1c95218b71d298a6993d5a64f7d7a527c6c91cbadb9bc96ba0a",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -52.43760299682617,
+        52.43760299682617
+      ],
+      [
+        -62.72460174560547,
+        62.72460174560547
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -52.4376,
+            52.4376
+          ],
+          [
+            -62.7246,
+            62.7246
+          ],
+          [
+            0.0,
+            30.88
+          ]
+        ],
+        "opaque_triangles": 51834,
+        "covered_columns": 1243,
+        "columns_touching_lowest_datum_within_20mm": 1231,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -52.4356,
+            52.4356
+          ],
+          [
+            -62.7226,
+            62.7226
+          ],
+          [
+            0.0,
+            30.2
+          ]
+        ],
+        "opaque_triangles": 20848,
+        "covered_columns": 1243,
+        "columns_touching_lowest_datum_within_20mm": 1231,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -51.9756,
+            51.9756
+          ],
+          [
+            -62.2626,
+            62.2626
+          ],
+          [
+            0.0,
+            30.2
+          ]
+        ],
+        "opaque_triangles": 778,
+        "covered_columns": 1233,
+        "columns_touching_lowest_datum_within_20mm": 1222,
+        "lost_columns_from_near": 13,
+        "added_columns_from_near": 3,
+        "named_columns": {}
+      }
+    }
+  },
+  "ReynoldsClubhouse": {
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        8.412500381469727,
+        24.217498779296875
+      ],
+      [
+        -4.329999923706055,
+        30.329999923706055
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            8.4125,
+            24.2175
+          ],
+          [
+            -4.33,
+            30.33
+          ],
+          [
+            0.0,
+            17.55
+          ]
+        ],
+        "opaque_triangles": 12002,
+        "covered_columns": 1400,
+        "columns_touching_lowest_datum_within_20mm": 238,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            8.4125,
+            24.2175
+          ],
+          [
+            -4.33,
+            30.33
+          ],
+          [
+            0.0,
+            16.825
+          ]
+        ],
+        "opaque_triangles": 4850,
+        "covered_columns": 1400,
+        "columns_touching_lowest_datum_within_20mm": 238,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            8.5575,
+            23.9875
+          ],
+          [
+            -4.33,
+            30.33
+          ],
+          [
+            0.0,
+            16.7
+          ]
+        ],
+        "opaque_triangles": 631,
+        "covered_columns": 1368,
+        "columns_touching_lowest_datum_within_20mm": 1327,
+        "lost_columns_from_near": 32,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RobieHouse": {
+    "source_sha256": "c72155fbafc55c4442f3c9f45d6682d772e733bd150d3f71671505ac65f03a9a",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -23.583900451660156,
+        23.583900451660156
+      ],
+      [
+        -9.144000053405762,
+        9.144000053405762
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -23.5839,
+            23.5839
+          ],
+          [
+            -9.144,
+            9.144
+          ],
+          [
+            0.0,
+            11.8375
+          ]
+        ],
+        "opaque_triangles": 15972,
+        "covered_columns": 1127,
+        "columns_touching_lowest_datum_within_20mm": 813,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -23.5839,
+            23.5839
+          ],
+          [
+            -9.144,
+            9.144
+          ],
+          [
+            0.0,
+            11.81
+          ]
+        ],
+        "opaque_triangles": 4188,
+        "covered_columns": 1121,
+        "columns_touching_lowest_datum_within_20mm": 813,
+        "lost_columns_from_near": 6,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -23.5839,
+            23.5839
+          ],
+          [
+            -9.144,
+            9.144
+          ],
+          [
+            0.0,
+            11.6
+          ]
+        ],
+        "opaque_triangles": 296,
+        "covered_columns": 1120,
+        "columns_touching_lowest_datum_within_20mm": 801,
+        "lost_columns_from_near": 7,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RockefellerChapel": {
+    "source_sha256": "f1360c040f6cc703d704dfb127d082f276d638bdbfa20b14c8a8a64a70362b89",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -15.544800758361816,
+        15.544800758361816
+      ],
+      [
+        -40.38600158691406,
+        40.38600158691406
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -15.5448,
+            15.5448
+          ],
+          [
+            -40.386,
+            40.386
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 79600,
+        "covered_columns": 1133,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -15.5448,
+            15.5448
+          ],
+          [
+            -40.386,
+            40.386
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 46469,
+        "covered_columns": 1133,
+        "columns_touching_lowest_datum_within_20mm": 0,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -14.70353,
+            13.92302
+          ],
+          [
+            -39.59642,
+            39.96122
+          ],
+          [
+            0.0,
+            63.0936
+          ]
+        ],
+        "opaque_triangles": 364,
+        "covered_columns": 1054,
+        "columns_touching_lowest_datum_within_20mm": 232,
+        "lost_columns_from_near": 79,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RosenwaldWalker": {
+    "source_sha256": "6463556fe97264c486a5363340bc87971f0bbffd2863c0f0c4a9540d84241a29",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -31.60999870300293,
+        31.610000610351562
+      ],
+      [
+        -18.46000099182129,
+        19.24466896057129
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -31.61,
+            31.61
+          ],
+          [
+            -18.46,
+            19.24467
+          ],
+          [
+            0.0,
+            31.6
+          ]
+        ],
+        "opaque_triangles": 101352,
+        "covered_columns": 1208,
+        "columns_touching_lowest_datum_within_20mm": 1170,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -31.505,
+            31.505
+          ],
+          [
+            -18.355,
+            19.025
+          ],
+          [
+            0.0,
+            31.6
+          ]
+        ],
+        "opaque_triangles": 20878,
+        "covered_columns": 1192,
+        "columns_touching_lowest_datum_within_20mm": 1170,
+        "lost_columns_from_near": 16,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -31.15,
+            31.45
+          ],
+          [
+            -18.25,
+            17.3
+          ],
+          [
+            0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 354,
+        "covered_columns": 1177,
+        "columns_touching_lowest_datum_within_20mm": 1163,
+        "lost_columns_from_near": 31,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "RyersonLaboratory": {
+    "source_sha256": "e0a56891376e490df4678c21cf1261e55814cd43353e73dba9690da6299ee5fb",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -27.229999542236328,
+        27.229999542236328
+      ],
+      [
+        -23.784000396728516,
+        21.784000396728516
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -27.23,
+            27.23
+          ],
+          [
+            -23.784,
+            21.784
+          ],
+          [
+            0.0,
+            28.925
+          ]
+        ],
+        "opaque_triangles": 92662,
+        "covered_columns": 1085,
+        "columns_touching_lowest_datum_within_20mm": 74,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -27.23,
+            27.23
+          ],
+          [
+            -23.784,
+            21.784
+          ],
+          [
+            0.0,
+            28.925
+          ]
+        ],
+        "opaque_triangles": 20426,
+        "covered_columns": 1081,
+        "columns_touching_lowest_datum_within_20mm": 74,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -27.024,
+            27.024
+          ],
+          [
+            -21.834,
+            21.578
+          ],
+          [
+            0.0,
+            28.2
+          ]
+        ],
+        "opaque_triangles": 480,
+        "covered_columns": 990,
+        "columns_touching_lowest_datum_within_20mm": 4,
+        "lost_columns_from_near": 95,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SaiehHall": {
+    "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -47.209999084472656,
+        47.209999084472656
+      ],
+      [
+        -16.865001678466797,
+        16.865001678466797
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -47.21,
+            47.21
+          ],
+          [
+            -16.865,
+            16.865
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 59577,
+        "covered_columns": 1184,
+        "columns_touching_lowest_datum_within_20mm": 1149,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -47.01,
+            47.1125
+          ],
+          [
+            -16.865,
+            16.7675
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 22269,
+        "covered_columns": 1184,
+        "columns_touching_lowest_datum_within_20mm": 1149,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -46.59,
+            47.06
+          ],
+          [
+            -16.55,
+            16.715
+          ],
+          [
+            0.0,
+            57.325
+          ]
+        ],
+        "opaque_triangles": 718,
+        "covered_columns": 1114,
+        "columns_touching_lowest_datum_within_20mm": 1096,
+        "lost_columns_from_near": 70,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SaiehNorthPavilion": {
+    "source_sha256": "18af22d0e959032a471664a713e6392a66a966ae3f0cc2632271ad035d9e8fea",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -17.49068260192871,
+        19.545000076293945
+      ],
+      [
+        -23.549999237060547,
+        23.69999885559082
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -17.49068,
+            19.545
+          ],
+          [
+            -23.55,
+            23.7
+          ],
+          [
+            0.0,
+            15.0
+          ]
+        ],
+        "opaque_triangles": 10838,
+        "covered_columns": 958,
+        "columns_touching_lowest_datum_within_20mm": 909,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -17.49068,
+            19.545
+          ],
+          [
+            -23.55,
+            23.7
+          ],
+          [
+            0.0,
+            15.0
+          ]
+        ],
+        "opaque_triangles": 4918,
+        "covered_columns": 958,
+        "columns_touching_lowest_datum_within_20mm": 909,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -17.40392,
+            17.375
+          ],
+          [
+            -23.505,
+            23.44
+          ],
+          [
+            0.0,
+            14.8
+          ]
+        ],
+        "opaque_triangles": 386,
+        "covered_columns": 944,
+        "columns_touching_lowest_datum_within_20mm": 906,
+        "lost_columns_from_near": 14,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SaiehWoodlawn5740": {
+    "source_sha256": "e47f20d588e1875319aa167c4fe69a113f3507e01cd24c5376b0a3ca39e5e176",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.119999885559082,
+        10.119999885559082
+      ],
+      [
+        -5.019999980926514,
+        5.700000286102295
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.12,
+            10.12
+          ],
+          [
+            -5.02,
+            5.7
+          ],
+          [
+            0.0,
+            13.67
+          ]
+        ],
+        "opaque_triangles": 13479,
+        "covered_columns": 1408,
+        "columns_touching_lowest_datum_within_20mm": 1203,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.12,
+            10.12
+          ],
+          [
+            -5.02,
+            5.695
+          ],
+          [
+            0.0,
+            13.67
+          ]
+        ],
+        "opaque_triangles": 5443,
+        "covered_columns": 1408,
+        "columns_touching_lowest_datum_within_20mm": 1203,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -10.1,
+            10.1
+          ],
+          [
+            -5.0,
+            5.63
+          ],
+          [
+            0.0,
+            13.67
+          ]
+        ],
+        "opaque_triangles": 224,
+        "covered_columns": 1408,
+        "columns_touching_lowest_datum_within_20mm": 1203,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SaiehWoodlawn5750": {
+    "source_sha256": "d76fd25f46ec4c5bd5a255119f911a9113d1dbec6c42f28f362ef7a23250412c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.315000534057617,
+        12.074999809265137
+      ],
+      [
+        -6.494999885559082,
+        6.215000152587891
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.315,
+            12.075
+          ],
+          [
+            -6.495,
+            6.215
+          ],
+          [
+            0.0,
+            17.235
+          ]
+        ],
+        "opaque_triangles": 8995,
+        "covered_columns": 1509,
+        "columns_touching_lowest_datum_within_20mm": 1400,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.315,
+            11.95
+          ],
+          [
+            -6.495,
+            6.215
+          ],
+          [
+            0.0,
+            17.235
+          ]
+        ],
+        "opaque_triangles": 4143,
+        "covered_columns": 1509,
+        "columns_touching_lowest_datum_within_20mm": 1400,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -10.0,
+            10.15
+          ],
+          [
+            -6.05,
+            6.05
+          ],
+          [
+            0.0,
+            17.235
+          ]
+        ],
+        "opaque_triangles": 247,
+        "covered_columns": 1374,
+        "columns_touching_lowest_datum_within_20mm": 1368,
+        "lost_columns_from_near": 135,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SearleChemistry": {
+    "source_sha256": "99a5da5927c0329f568488371315f4983d071c4ab4d7c4d4b73c1b65b9a9439c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.0,
+        19.154998779296875
+      ],
+      [
+        -36.154998779296875,
+        36.154998779296875
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.0,
+            19.155
+          ],
+          [
+            -36.155,
+            36.155
+          ],
+          [
+            0.0,
+            26.82
+          ]
+        ],
+        "opaque_triangles": 41818,
+        "covered_columns": 957,
+        "columns_touching_lowest_datum_within_20mm": 916,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -20.9,
+            19.09
+          ],
+          [
+            -36.09,
+            36.09
+          ],
+          [
+            0.0,
+            26.8
+          ]
+        ],
+        "opaque_triangles": 13330,
+        "covered_columns": 955,
+        "columns_touching_lowest_datum_within_20mm": 913,
+        "lost_columns_from_near": 2,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -19.0,
+            19.0
+          ],
+          [
+            -36.0,
+            36.0
+          ],
+          [
+            0.0,
+            26.8
+          ]
+        ],
+        "opaque_triangles": 226,
+        "covered_columns": 913,
+        "columns_touching_lowest_datum_within_20mm": 913,
+        "lost_columns_from_near": 44,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SmartMuseum": {
+    "source_sha256": "13e60463c1470d00bf5e0fc9cef836b7ad6c86c000d6365aa00eef395829c186",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.100000381469727,
+        21.100000381469727
+      ],
+      [
+        -16.09000015258789,
+        16.14000129699707
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.1,
+            21.1
+          ],
+          [
+            -16.09,
+            16.14
+          ],
+          [
+            0.0,
+            11.2
+          ]
+        ],
+        "opaque_triangles": 2086,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -21.1,
+            21.1
+          ],
+          [
+            -16.09,
+            16.1
+          ],
+          [
+            0.0,
+            11.2
+          ]
+        ],
+        "opaque_triangles": 446,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -21.04,
+            21.04
+          ],
+          [
+            -16.0,
+            16.1
+          ],
+          [
+            0.0,
+            11.2
+          ]
+        ],
+        "opaque_triangles": 134,
+        "covered_columns": 1681,
+        "columns_touching_lowest_datum_within_20mm": 1681,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SnellHitchcock": {
+    "source_sha256": "a500affb566fd1e89b077a2993e47ac9d1d9d4f0c67a84bbcee7d212615b2cbf",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -31.07900619506836,
+        31.18000030517578
+      ],
+      [
+        -21.549997329711914,
+        21.52897834777832
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -31.07901,
+            31.18
+          ],
+          [
+            -21.55,
+            21.52898
+          ],
+          [
+            0.0,
+            25.05
+          ]
+        ],
+        "opaque_triangles": 72059,
+        "covered_columns": 869,
+        "columns_touching_lowest_datum_within_20mm": 826,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -31.015,
+            31.11
+          ],
+          [
+            -21.48,
+            21.40189
+          ],
+          [
+            0.0,
+            24.79
+          ]
+        ],
+        "opaque_triangles": 32069,
+        "covered_columns": 866,
+        "columns_touching_lowest_datum_within_20mm": 826,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -30.865,
+            31.025
+          ],
+          [
+            -21.235,
+            21.235
+          ],
+          [
+            0.0,
+            24.3
+          ]
+        ],
+        "opaque_triangles": 470,
+        "covered_columns": 838,
+        "columns_touching_lowest_datum_within_20mm": 824,
+        "lost_columns_from_near": 31,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SocialSciencesResearch": {
+    "source_sha256": "c41335f183c8de0ddde72a688c448be1807fcc88d9255dfeaa2ceb38cac58a5e",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -25.239999771118164,
+        25.46000099182129
+      ],
+      [
+        -15.785004615783691,
+        13.935004234313965
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -25.24,
+            25.46
+          ],
+          [
+            -15.785,
+            13.935
+          ],
+          [
+            0.0,
+            31.0
+          ]
+        ],
+        "opaque_triangles": 84112,
+        "covered_columns": 1131,
+        "columns_touching_lowest_datum_within_20mm": 1087,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -25.24,
+            25.355
+          ],
+          [
+            -15.63017,
+            13.78017
+          ],
+          [
+            0.0,
+            31.0
+          ]
+        ],
+        "opaque_triangles": 14644,
+        "covered_columns": 1127,
+        "columns_touching_lowest_datum_within_20mm": 1087,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -25.2,
+            25.2
+          ],
+          [
+            -15.375,
+            13.525
+          ],
+          [
+            0.0,
+            30.9
+          ]
+        ],
+        "opaque_triangles": 677,
+        "covered_columns": 1111,
+        "columns_touching_lowest_datum_within_20mm": 1087,
+        "lost_columns_from_near": 20,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "StuartHall": {
+    "source_sha256": "90b25085bb91148f174ae458e73cb6c4189821b525b965d8b65233d19e892984",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -12.545000076293945,
+        12.819999694824219
+      ],
+      [
+        -30.51500129699707,
+        30.78999900817871
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -12.545,
+            12.82
+          ],
+          [
+            -30.515,
+            30.79
+          ],
+          [
+            0.0,
+            31.92
+          ]
+        ],
+        "opaque_triangles": 97785,
+        "covered_columns": 1388,
+        "columns_touching_lowest_datum_within_20mm": 1291,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -12.545,
+            12.82
+          ],
+          [
+            -30.515,
+            30.79
+          ],
+          [
+            0.0,
+            31.92
+          ]
+        ],
+        "opaque_triangles": 21495,
+        "covered_columns": 1388,
+        "columns_touching_lowest_datum_within_20mm": 1291,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -12.545,
+            12.685
+          ],
+          [
+            -30.515,
+            30.655
+          ],
+          [
+            0.0,
+            31.18
+          ]
+        ],
+        "opaque_triangles": 346,
+        "covered_columns": 1298,
+        "columns_touching_lowest_datum_within_20mm": 1263,
+        "lost_columns_from_near": 90,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SunnyGymnasium": {
+    "source_sha256": "e1f47bff4f5a5c016638fafedd1ce89cf5faa1cfa0b06fb35d70cb68c2dd0551",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -13.050000190734863,
+        12.15999984741211
+      ],
+      [
+        -24.880001068115234,
+        24.825000762939453
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -13.05,
+            12.16
+          ],
+          [
+            -24.88,
+            24.825
+          ],
+          [
+            0.0,
+            23.3
+          ]
+        ],
+        "opaque_triangles": 35975,
+        "covered_columns": 1426,
+        "columns_touching_lowest_datum_within_20mm": 1363,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -13.05,
+            12.16
+          ],
+          [
+            -24.85,
+            24.755
+          ],
+          [
+            0.0,
+            23.3
+          ]
+        ],
+        "opaque_triangles": 7007,
+        "covered_columns": 1410,
+        "columns_touching_lowest_datum_within_20mm": 1363,
+        "lost_columns_from_near": 16,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -11.5,
+            11.5
+          ],
+          [
+            -24.5,
+            24.5
+          ],
+          [
+            0.0,
+            23.3
+          ]
+        ],
+        "opaque_triangles": 334,
+        "covered_columns": 1354,
+        "columns_touching_lowest_datum_within_20mm": 1354,
+        "lost_columns_from_near": 72,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "SwiftHall": {
+    "source_sha256": "fb3741e7638d2894f081d53e0ca2bf12ed8b8ed8b8ddb821c2e37032c9cd3929",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.244998931884766,
+        23.604999542236328
+      ],
+      [
+        -16.614999771118164,
+        21.0049991607666
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.245,
+            23.605
+          ],
+          [
+            -16.615,
+            21.005
+          ],
+          [
+            0.0,
+            25.37523
+          ]
+        ],
+        "opaque_triangles": 97339,
+        "covered_columns": 920,
+        "columns_touching_lowest_datum_within_20mm": 143,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -21.245,
+            23.605
+          ],
+          [
+            -16.58,
+            21.005
+          ],
+          [
+            0.0,
+            25.17
+          ]
+        ],
+        "opaque_triangles": 45525,
+        "covered_columns": 920,
+        "columns_touching_lowest_datum_within_20mm": 143,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -20.507,
+            22.58
+          ],
+          [
+            -16.307,
+            20.205
+          ],
+          [
+            0.0,
+            24.8
+          ]
+        ],
+        "opaque_triangles": 1322,
+        "covered_columns": 883,
+        "columns_touching_lowest_datum_within_20mm": 839,
+        "lost_columns_from_near": 37,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "TaftHouse": {
+    "source_sha256": "26a2fc2af7ef9b752c7b50625b3bd70ea4710f8427636a9fad750084f8c5d848",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -2.2348742485046387,
+        17.234874725341797
+      ],
+      [
+        -2.2100000381469727,
+        23.920000076293945
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -2.23487,
+            17.23487
+          ],
+          [
+            -2.21,
+            23.92
+          ],
+          [
+            0.0,
+            11.575
+          ]
+        ],
+        "opaque_triangles": 15900,
+        "covered_columns": 1381,
+        "columns_touching_lowest_datum_within_20mm": 1066,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -2.23487,
+            17.23487
+          ],
+          [
+            -2.21,
+            23.92
+          ],
+          [
+            0.0,
+            11.575
+          ]
+        ],
+        "opaque_triangles": 4996,
+        "covered_columns": 1381,
+        "columns_touching_lowest_datum_within_20mm": 1066,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -1.61,
+            16.61
+          ],
+          [
+            -2.21,
+            23.6
+          ],
+          [
+            0.0,
+            11.575
+          ]
+        ],
+        "opaque_triangles": 540,
+        "covered_columns": 1372,
+        "columns_touching_lowest_datum_within_20mm": 1080,
+        "lost_columns_from_near": 9,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "UniversityHighSchoolModern": {
+    "source_sha256": "1d680d06c55f33093c768dc6cb3ece8c37f41b0f6365a5f4bf0fe03961928b75",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -31.0,
+        31.1200008392334
+      ],
+      [
+        -12.25,
+        12.25
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -31.0,
+            31.12
+          ],
+          [
+            -12.25,
+            12.25
+          ],
+          [
+            0.0,
+            15.875
+          ]
+        ],
+        "opaque_triangles": 10358,
+        "covered_columns": 1465,
+        "columns_touching_lowest_datum_within_20mm": 1403,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -31.0,
+            31.1125
+          ],
+          [
+            -12.25,
+            12.25
+          ],
+          [
+            0.0,
+            15.19
+          ]
+        ],
+        "opaque_triangles": 3378,
+        "covered_columns": 1465,
+        "columns_touching_lowest_datum_within_20mm": 1403,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -31.0,
+            31.1
+          ],
+          [
+            -12.25,
+            12.25
+          ],
+          [
+            0.0,
+            15.19
+          ]
+        ],
+        "opaque_triangles": 330,
+        "covered_columns": 1465,
+        "columns_touching_lowest_datum_within_20mm": 1403,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "WieboldtHall": {
+    "source_sha256": "4112e25e07faa7910d7f988c33d367a458554db6efec52414318ff621b3015fb",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -21.8700008392334,
+        21.93000030517578
+      ],
+      [
+        -13.579999923706055,
+        13.790000915527344
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -21.87,
+            21.93
+          ],
+          [
+            -13.58,
+            13.79
+          ],
+          [
+            0.0,
+            29.15
+          ]
+        ],
+        "opaque_triangles": 65188,
+        "covered_columns": 1295,
+        "columns_touching_lowest_datum_within_20mm": 180,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -21.87,
+            21.87
+          ],
+          [
+            -13.58,
+            13.58
+          ],
+          [
+            0.0,
+            29.15
+          ]
+        ],
+        "opaque_triangles": 16504,
+        "covered_columns": 1295,
+        "columns_touching_lowest_datum_within_20mm": 180,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -21.63,
+            21.63
+          ],
+          [
+            -12.67,
+            13.47
+          ],
+          [
+            0.0,
+            28.5
+          ]
+        ],
+        "opaque_triangles": 660,
+        "covered_columns": 1219,
+        "columns_touching_lowest_datum_within_20mm": 1058,
+        "lost_columns_from_near": 76,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "WilderHouse": {
+    "source_sha256": "7a4e1026e511de80f14cdc8fef3e2b41e588dc42567f8fa3547d82e5e233ffe3",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -10.484999656677246,
+        9.640000343322754
+      ],
+      [
+        -6.989999771118164,
+        6.880000114440918
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -10.485,
+            9.64
+          ],
+          [
+            -6.99,
+            6.88
+          ],
+          [
+            0.0,
+            13.135
+          ]
+        ],
+        "opaque_triangles": 14850,
+        "covered_columns": 1410,
+        "columns_touching_lowest_datum_within_20mm": 1254,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -10.485,
+            9.64
+          ],
+          [
+            -6.99,
+            6.86
+          ],
+          [
+            0.0,
+            13.135
+          ]
+        ],
+        "opaque_triangles": 4250,
+        "covered_columns": 1410,
+        "columns_touching_lowest_datum_within_20mm": 1254,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -9.4,
+            9.48
+          ],
+          [
+            -6.83,
+            6.8
+          ],
+          [
+            0.0,
+            13.0
+          ]
+        ],
+        "opaque_triangles": 212,
+        "covered_columns": 1385,
+        "columns_touching_lowest_datum_within_20mm": 1245,
+        "lost_columns_from_near": 25,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "WilliamEckhardtResearchCenter": {
+    "source_sha256": "51938b86693fe4a9a336213fc6589629efb6e95f6a50ba91b11f7b55ec10e20c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -17.950000762939453,
+        17.950000762939453
+      ],
+      [
+        -49.095001220703125,
+        47.095001220703125
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -17.95,
+            17.95
+          ],
+          [
+            -49.095,
+            47.095
+          ],
+          [
+            0.0,
+            38.95
+          ]
+        ],
+        "opaque_triangles": 41936,
+        "covered_columns": 1588,
+        "columns_touching_lowest_datum_within_20mm": 1429,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -17.95,
+            17.95
+          ],
+          [
+            -49.0875,
+            47.0875
+          ],
+          [
+            0.0,
+            38.9
+          ]
+        ],
+        "opaque_triangles": 15070,
+        "covered_columns": 1588,
+        "columns_touching_lowest_datum_within_20mm": 1429,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -17.63,
+            17.6
+          ],
+          [
+            -49.0,
+            47.0
+          ],
+          [
+            0.0,
+            38.9
+          ]
+        ],
+        "opaque_triangles": 370,
+        "covered_columns": 1582,
+        "columns_touching_lowest_datum_within_20mm": 1429,
+        "lost_columns_from_near": 19,
+        "added_columns_from_near": 13,
+        "named_columns": {}
+      }
+    }
+  },
+  "WoodlawnDining": {
+    "source_sha256": "dde66c841fd9abf82d4679496b6c360b32152c8c2a82ec0cd7a4f969e65cbea8",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -26.829984664916992,
+        26.905803680419922
+      ],
+      [
+        -41.7400016784668,
+        41.71302032470703
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -26.82998,
+            26.9058
+          ],
+          [
+            -41.74,
+            41.71302
+          ],
+          [
+            0.0,
+            5.3225
+          ]
+        ],
+        "opaque_triangles": 4470,
+        "covered_columns": 1431,
+        "columns_touching_lowest_datum_within_20mm": 1304,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -26.82998,
+            26.83
+          ],
+          [
+            -41.68,
+            41.67762
+          ],
+          [
+            0.0,
+            5.3225
+          ]
+        ],
+        "opaque_triangles": 1638,
+        "covered_columns": 1431,
+        "columns_touching_lowest_datum_within_20mm": 1304,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -26.73,
+            26.73
+          ],
+          [
+            -41.58,
+            41.58
+          ],
+          [
+            0.0,
+            4.65
+          ]
+        ],
+        "opaque_triangles": 66,
+        "covered_columns": 1428,
+        "columns_touching_lowest_datum_within_20mm": 1304,
+        "lost_columns_from_near": 3,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "WoodlawnResidential": {
+    "source_sha256": "8605812af9de25be448fb08a4b0364bd882c751e86418a576b4ba4eb065c2f6c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -46.42000198364258,
+        55.73899841308594
+      ],
+      [
+        -30.71900177001953,
+        48.89899826049805
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -46.42,
+            55.739
+          ],
+          [
+            -30.719,
+            48.899
+          ],
+          [
+            0.0,
+            51.95
+          ]
+        ],
+        "opaque_triangles": 52246,
+        "covered_columns": 1000,
+        "columns_touching_lowest_datum_within_20mm": 591,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -46.36,
+            55.715
+          ],
+          [
+            -30.695,
+            48.875
+          ],
+          [
+            0.0,
+            51.95
+          ]
+        ],
+        "opaque_triangles": 9366,
+        "covered_columns": 999,
+        "columns_touching_lowest_datum_within_20mm": 591,
+        "lost_columns_from_near": 1,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -46.355,
+            55.715
+          ],
+          [
+            -30.695,
+            48.875
+          ],
+          [
+            0.0,
+            51.95
+          ]
+        ],
+        "opaque_triangles": 494,
+        "covered_columns": 994,
+        "columns_touching_lowest_datum_within_20mm": 591,
+        "lost_columns_from_near": 6,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "YoungMemorial": {
+    "source_sha256": "1de5bfe88ba65d7786329395c32153f212ce1b11541e0c1d0078f110dd29a66c",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        -18.364999771118164,
+        20.760000228881836
+      ],
+      [
+        -9.479999542236328,
+        11.460000038146973
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            -18.365,
+            20.76
+          ],
+          [
+            -9.48,
+            11.46
+          ],
+          [
+            0.0,
+            21.36
+          ]
+        ],
+        "opaque_triangles": 28538,
+        "covered_columns": 1263,
+        "columns_touching_lowest_datum_within_20mm": 1158,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            -18.365,
+            20.76
+          ],
+          [
+            -9.475,
+            11.46
+          ],
+          [
+            0.0,
+            21.36
+          ]
+        ],
+        "opaque_triangles": 12554,
+        "covered_columns": 1263,
+        "columns_touching_lowest_datum_within_20mm": 1158,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            -18.3,
+            20.76
+          ],
+          [
+            -9.225,
+            11.46
+          ],
+          [
+            0.0,
+            21.2
+          ]
+        ],
+        "opaque_triangles": 452,
+        "covered_columns": 1261,
+        "columns_touching_lowest_datum_within_20mm": 1158,
+        "lost_columns_from_near": 2,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  },
+  "ZoologyBuilding": {
+    "source_sha256": "bcc8239870cf0159d59360cc2e42184172565aa17b1974dc3d22c9c7c553c703",
+    "grid_size": 41,
+    "grid_xy_m": [
+      [
+        7.672000408172607,
+        46.3280029296875
+      ],
+      [
+        12.652399063110352,
+        28.672401428222656
+      ]
+    ],
+    "tiers": {
+      "near": {
+        "bounds_m": [
+          [
+            7.672,
+            46.328
+          ],
+          [
+            12.6524,
+            28.6724
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 48610,
+        "covered_columns": 1641,
+        "columns_touching_lowest_datum_within_20mm": 1521,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD1": {
+        "bounds_m": [
+          [
+            7.722,
+            46.278
+          ],
+          [
+            12.6674,
+            28.6574
+          ],
+          [
+            0.0,
+            27.3
+          ]
+        ],
+        "opaque_triangles": 15330,
+        "covered_columns": 1641,
+        "columns_touching_lowest_datum_within_20mm": 1521,
+        "lost_columns_from_near": 0,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      },
+      "_LOD2": {
+        "bounds_m": [
+          [
+            7.982,
+            46.018
+          ],
+          [
+            12.6674,
+            28.6574
+          ],
+          [
+            0.0,
+            26.65
+          ]
+        ],
+        "opaque_triangles": 306,
+        "covered_columns": 1637,
+        "columns_touching_lowest_datum_within_20mm": 1521,
+        "lost_columns_from_near": 4,
+        "added_columns_from_near": 0,
+        "named_columns": {}
+      }
+    }
+  }
+}

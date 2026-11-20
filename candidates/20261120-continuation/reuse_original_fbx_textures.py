@@ -17,9 +17,12 @@ if version != 7500:
 
 remap = {}
 for packed in source.parent.glob("*.png"):
-    canonical = package/"textures"/packed.name
-    if canonical.is_file() and hashlib.sha256(canonical.read_bytes()).digest()==hashlib.sha256(packed.read_bytes()).digest():
-        remap[packed.name] = canonical.relative_to(package).as_posix().encode()
+    digest = hashlib.sha256(packed.read_bytes()).hexdigest()
+    for name in (packed.name, f"{digest}.png"):
+        canonical = package / "textures" / name
+        if canonical.is_file() and hashlib.sha256(canonical.read_bytes()).hexdigest() == digest:
+            remap[packed.name] = canonical.relative_to(package).as_posix().encode()
+            break
 changes = set()
 path_nodes = {b"RelativeFilename",b"Filename",b"FileName"}
 
