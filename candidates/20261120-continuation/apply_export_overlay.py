@@ -23,12 +23,13 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("baseline", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument("--patch-dir", type=Path, default=Path(__file__).resolve().parent / "export-overlay")
     args = parser.parse_args()
     baseline = args.baseline.resolve(strict=True)
     output = args.output.resolve()
     if output.exists() or output.is_relative_to(baseline) or baseline.is_relative_to(output):
         parser.error("Choose a new output outside the baseline")
-    changes = Path(__file__).resolve().parent/"export-overlay"
+    changes = args.patch_dir.resolve(strict=True)
     packages = json.loads((changes/"manifest.json").read_text())
     pending = []
     for entry in packages:

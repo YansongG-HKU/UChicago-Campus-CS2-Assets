@@ -19,6 +19,7 @@
 !candidates/20261120-export-review/previews/*.jpg
 !candidates/20261120-law-review/previews/*.jpg
 !candidates/20261120-continuation/previews/*.jpg
+!candidates/20261120-completion/previews/*.jpg
 
 # Local-only generated artifacts; do not hide audit JSON or release dependencies.
 __pycache__/

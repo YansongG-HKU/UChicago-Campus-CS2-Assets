@@ -1,0 +1,226 @@
+{
+  "source": "Harper_windows.blend",
+  "source_sha256": "06934d07b62e3b96195bd1df22688bf04b0f3484fe40fa4a3edf382ed849fe48",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "HarperMemorialLibrary",
+      "file_sha256": "9af515fb1ec2eaca5c95609ae9a0c205e081610149c1a74aa5c1fcdee0a38b12",
+      "bytes": 6648108,
+      "version": 7500,
+      "import_seconds": 0.9845813920001092,
+      "peak_rss_kib": 597916,
+      "texture_reference_hashes": {
+        "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+        "textures/9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f.png": "9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f",
+        "textures/d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12.png": "d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12"
+      },
+      "imported_image_sizes": {
+        "HarperMemorialLibrary_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_BaseColor.png.001": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_Emissive.png": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 133016,
+      "reimport_triangles": 133016,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030720656219888696,
+      "bounds_max_delta_m": 2.057688107015565e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HarperMemorialLibrary"
+      ],
+      "reimport_materials": [
+        "HarperMemorialLibrary"
+      ],
+      "source_bounds": [
+        [
+          -40.54880142211914,
+          -13.622400283813477,
+          0.0
+        ],
+        [
+          40.54880142211914,
+          13.622400283813477,
+          41.14799880981445
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -40.54880142211914,
+          -13.622398376464844,
+          -2.057688107015565e-06
+        ],
+        [
+          40.54880142211914,
+          13.62240219116211,
+          41.14799880981445
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HarperMemorialLibrary_LOD1",
+      "file_sha256": "bdd98c62c1071dde19ecf622ea9ac52bb64338a2270c0652e3ca8772c39e5aa7",
+      "bytes": 3779100,
+      "version": 7500,
+      "import_seconds": 0.38638294499924086,
+      "peak_rss_kib": 720524,
+      "texture_reference_hashes": {
+        "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+        "textures/9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f.png": "9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f",
+        "textures/d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12.png": "d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12"
+      },
+      "imported_image_sizes": {
+        "HarperMemorialLibrary_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_BaseColor.png.001": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_Emissive.png": [
+          4096,
+          4096
+        ],
+        "HarperMemorialLibrary_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 46718,
+      "reimport_triangles": 46718,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03328226358441046,
+      "bounds_max_delta_m": 2.057688107015565e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HarperMemorialLibrary_LOD1"
+      ],
+      "reimport_materials": [
+        "HarperMemorialLibrary_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -40.54880142211914,
+          -13.622401237487793,
+          0.0
+        ],
+        [
+          40.54880142211914,
+          13.622401237487793,
+          41.14799880981445
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -40.54880142211914,
+          -13.62239933013916,
+          -2.057688107015565e-06
+        ],
+        [
+          40.54880142211914,
+          13.622403144836426,
+          41.14799880981445
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HarperMemorialLibrary_LOD2",
+      "file_sha256": "98bd28d7f287471c4202f27da2d1c6ef9a866f9ed70eacd359f09a69f6d4929a",
+      "bytes": 41644,
+      "version": 7500,
+      "import_seconds": 0.03286748499976966,
+      "peak_rss_kib": 720524,
+      "texture_reference_hashes": {
+        "textures/0177c93d76ed2a5e06e88af013457f716027561debe7bfff8bbac8a1f3a46dba.png": "0177c93d76ed2a5e06e88af013457f716027561debe7bfff8bbac8a1f3a46dba",
+        "textures/c1ebb86a7ccc3b5fb7fd1e7597bef2048983db689f936753616cf36142ff16da.png": "c1ebb86a7ccc3b5fb7fd1e7597bef2048983db689f936753616cf36142ff16da",
+        "textures/d5cdb983fafea847f22a4cc02ba3dbb993882006e3eb8e0f9a6b6da24f06e628.png": "d5cdb983fafea847f22a4cc02ba3dbb993882006e3eb8e0f9a6b6da24f06e628"
+      },
+      "imported_image_sizes": {
+        "HarperMemorialLibrary_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "HarperMemorialLibrary_LOD2_BaseColor.png.001": [
+          1024,
+          1024
+        ],
+        "HarperMemorialLibrary_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "HarperMemorialLibrary_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 432,
+      "reimport_triangles": 432,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.018429810427808637,
+      "bounds_max_delta_m": 6.67572021484375e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HarperMemorialLibrary_LOD2"
+      ],
+      "reimport_materials": [
+        "HarperMemorialLibrary_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -40.099998474121094,
+          -12.520000457763672,
+          0.0
+        ],
+        [
+          40.099998474121094,
+          12.520000457763672,
+          41.14799880981445
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -40.099998474121094,
+          -12.519993782043457,
+          -2.0111581306991866e-06
+        ],
+        [
+          40.099998474121094,
+          12.520007133483887,
+          41.14799880981445
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

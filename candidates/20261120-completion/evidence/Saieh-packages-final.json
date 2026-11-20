@@ -1,0 +1,214 @@
+{
+  "source": "Saieh_windows.blend",
+  "source_sha256": "32629cb0e64fe8fb73e747a9107a200aa2c1df6022c119aca0b5b7b5b0bb8195",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "SaiehHall",
+      "file_sha256": "8aca64d7743951ceb6ca863ea1505867c6bea3c2fd65bddaca2ba8ad4f7ff66b",
+      "bytes": 3039276,
+      "version": 7500,
+      "import_seconds": 0.7983377989994551,
+      "peak_rss_kib": 451452,
+      "texture_reference_hashes": {
+        "textures/5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+        "textures/da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+        "textures/ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335"
+      },
+      "imported_image_sizes": {
+        "SaiehHall_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "SaiehHall_Emissive.png": [
+          4096,
+          4096
+        ],
+        "SaiehHall_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 59577,
+      "reimport_triangles": 59577,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.033580205548305896,
+      "bounds_max_delta_m": 2.690634801183478e-06,
+      "vertex_max_delta_m": 9.5367431640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SaiehHall"
+      ],
+      "reimport_materials": [
+        "SaiehHall"
+      ],
+      "source_bounds": [
+        [
+          -47.209999084472656,
+          -16.865001678466797,
+          0.0
+        ],
+        [
+          47.209999084472656,
+          16.865001678466797,
+          57.32500076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -47.209999084472656,
+          -16.865001678466797,
+          -2.690634801183478e-06
+        ],
+        [
+          47.209999084472656,
+          16.86500358581543,
+          57.32500076293945
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SaiehHall_LOD1",
+      "file_sha256": "85fb03ad279482d5324a21ade41a60d5df5afa07bdfe2f750fc9cc881b890c51",
+      "bytes": 1021900,
+      "version": 7500,
+      "import_seconds": 0.17268318199967325,
+      "peak_rss_kib": 589856,
+      "texture_reference_hashes": {
+        "textures/5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+        "textures/da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+        "textures/ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335"
+      },
+      "imported_image_sizes": {
+        "SaiehHall_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "SaiehHall_Emissive.png": [
+          4096,
+          4096
+        ],
+        "SaiehHall_Normal.png": [
+          4096,
+          4096
+        ]
+      },
+      "source_triangles": 22269,
+      "reimport_triangles": 22269,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03188517498374483,
+      "bounds_max_delta_m": 2.690634801183478e-06,
+      "vertex_max_delta_m": 9.5367431640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SaiehHall_LOD1"
+      ],
+      "reimport_materials": [
+        "SaiehHall_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -47.01000213623047,
+          -16.865001678466797,
+          0.0
+        ],
+        [
+          47.11250305175781,
+          16.767501831054688,
+          57.32500076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -47.01000213623047,
+          -16.865001678466797,
+          -2.690634801183478e-06
+        ],
+        [
+          47.11250305175781,
+          16.76750373840332,
+          57.32500076293945
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "SaiehHall_LOD2",
+      "file_sha256": "7a416d405b6b1e609d093731b6383ea9302a0b1138e9661dbea53cb2ff6a0c18",
+      "bytes": 60908,
+      "version": 7500,
+      "import_seconds": 0.01514337800017529,
+      "peak_rss_kib": 589856,
+      "texture_reference_hashes": {
+        "textures/9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+        "textures/ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+        "textures/c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b"
+      },
+      "imported_image_sizes": {
+        "SaiehHall_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "SaiehHall_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "SaiehHall_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 718,
+      "reimport_triangles": 718,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029448159046093967,
+      "bounds_max_delta_m": 3.814697265625e-06,
+      "vertex_max_delta_m": 9.5367431640625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "SaiehHall_LOD2"
+      ],
+      "reimport_materials": [
+        "SaiehHall_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -46.590003967285156,
+          -16.549999237060547,
+          0.0
+        ],
+        [
+          47.05999755859375,
+          16.71500015258789,
+          57.32500076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -46.590003967285156,
+          -16.549997329711914,
+          -2.690634801183478e-06
+        ],
+        [
+          47.05999755859375,
+          16.715003967285156,
+          57.32500076293945
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

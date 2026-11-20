@@ -1,6 +1,6 @@
 # 芝加哥大学校园建筑资产 · 20261013 严格离线复核版
 
-> PR #2 最新候选记录：[88 个芝大资产三档技术检查、285 份原交付 FBX 回导和本轮修复](candidates/20261120-continuation/README.md)。逐栋建筑核对与游戏验收另有进度记录。
+> PR #2 最新候选记录：[芝大最后 26 个资产专项检查、Tower／Harper／Saieh 修复和待验事项](candidates/20261120-completion/README.md)。之前的 [88 个芝大资产三档技术检查与 285 份原交付 FBX 回导](candidates/20261120-continuation/README.md) 按原快照保留。
 
 > 最新技术复验候选：[完整 101 源场景复验与 8 场景安全修复](candidates/20261118-technical/README.md)。含真实二进制修复差量、完整源树恢复工具及 425 网格回导记录；仍未完成 FBX2018 / CS2 编辑器与游戏验收。
 
