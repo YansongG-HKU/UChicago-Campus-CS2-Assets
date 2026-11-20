@@ -1,0 +1,903 @@
+{
+  "AlumniHouse": {
+    "source": "assets/AlumniHouse/AlumniHouse/source/AlumniHouse.blend",
+    "source_sha256": "189399d49ffab0be5de07b0f8ae3b4e1dd8ce422d19a5cc60eb4fdf1be70fa50",
+    "fbx": {
+      "AlumniHouse": "assets/AlumniHouse/AlumniHouse/exports/ProjectFiles/AlumniHouse/AlumniHouse.fbx",
+      "AlumniHouse_LOD1": "assets/AlumniHouse/AlumniHouse/exports/ProjectFiles/AlumniHouse/AlumniHouse_LOD1.fbx",
+      "AlumniHouse_LOD2": "assets/AlumniHouse/AlumniHouse/exports/ProjectFiles/AlumniHouse/AlumniHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "AnatomyBuilding": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/AnatomyBuilding.blend",
+    "source_sha256": "bcbd2ca187bdb9f9b41217155e4459af4f429075b7f9e29425425b655a46ca09",
+    "fbx": {
+      "AnatomyBuilding": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/AnatomyBuilding/AnatomyBuilding.fbx",
+      "AnatomyBuilding_LOD1": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/AnatomyBuilding/AnatomyBuilding_LOD1.fbx",
+      "AnatomyBuilding_LOD2": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/AnatomyBuilding/AnatomyBuilding_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BakerDining": {
+    "source": "assets/BakerDining/BakerDining/source/BakerDining.blend",
+    "source_sha256": "c4b265b12ac02659fec970085d66ffcc05bbcdef99e696d5de5c6edf3a873cba",
+    "fbx": {
+      "BakerDining": "assets/BakerDining/BakerDining/exports/ProjectFiles/BakerDining/BakerDining.fbx",
+      "BakerDining_LOD1": "assets/BakerDining/BakerDining/exports/ProjectFiles/BakerDining/BakerDining_LOD1.fbx",
+      "BakerDining_LOD2": "assets/BakerDining/BakerDining/exports/ProjectFiles/BakerDining/BakerDining_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BartlettHall": {
+    "source": "assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/source/BartlettHall.blend",
+    "source_sha256": "62ef0f7ee072ab7cf9ffcc4adc3a37dba14b4f5360216066ea5f875643eefdaf",
+    "fbx": {
+      "BartlettHall": "assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/ProjectFiles/BartlettHall/BartlettHall.fbx",
+      "BartlettHall_LOD1": "assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/ProjectFiles/BartlettHall/BartlettHall_LOD1.fbx",
+      "BartlettHall_LOD2": "assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/ProjectFiles/BartlettHall/BartlettHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BeecherHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "fbx": {
+      "BeecherHall": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/BeecherHall/BeecherHall.fbx",
+      "BeecherHall_LOD1": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/BeecherHall/BeecherHall_LOD1.fbx",
+      "BeecherHall_LOD2": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/BeecherHall/BeecherHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BelfieldHall": {
+    "source": "assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend",
+    "source_sha256": "08a1398f590dc78a6e4ca8c9746f0dc7fff3777c091cf02b061291e0c4621ca8",
+    "fbx": {
+      "BelfieldHall": "assets/BelfieldHall/BelfieldHall/exports/ProjectFiles/BelfieldHall/BelfieldHall.fbx",
+      "BelfieldHall_LOD1": "assets/BelfieldHall/BelfieldHall/exports/ProjectFiles/BelfieldHall/BelfieldHall_LOD1.fbx",
+      "BelfieldHall_LOD2": "assets/BelfieldHall/BelfieldHall/exports/ProjectFiles/BelfieldHall/BelfieldHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BillingsHospital": {
+    "source": "assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend",
+    "source_sha256": "f893fd65aa691bb2f14533e9bc25ade615e1fcf43069cda79d18128fda865687",
+    "fbx": {
+      "BillingsHospital": "assets/BillingsHospital/BillingsHospital/exports/ProjectFiles/BillingsHospital/BillingsHospital.fbx",
+      "BillingsHospital_LOD1": "assets/BillingsHospital/BillingsHospital/exports/ProjectFiles/BillingsHospital/BillingsHospital_LOD1.fbx",
+      "BillingsHospital_LOD2": "assets/BillingsHospital/BillingsHospital/exports/ProjectFiles/BillingsHospital/BillingsHospital_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BlaineHall": {
+    "source": "assets/BlaineHall/BlaineHall/source/BlaineHall.blend",
+    "source_sha256": "33f110a4ae66ef15d524cf253d57f9521d1c11c2634962d6c4d084768d2bdd5f",
+    "fbx": {
+      "BlaineHall": "assets/BlaineHall/BlaineHall/exports/ProjectFiles/BlaineHall/BlaineHall.fbx",
+      "BlaineHall_LOD1": "assets/BlaineHall/BlaineHall/exports/ProjectFiles/BlaineHall/BlaineHall_LOD1.fbx",
+      "BlaineHall_LOD2": "assets/BlaineHall/BlaineHall/exports/ProjectFiles/BlaineHall/BlaineHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BondChapel": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondChapel.blend",
+    "source_sha256": "127873b5b554c8a44c8f2b3a8154a4c63360979e838eaf13b0ccf6873059d2ff",
+    "fbx": {
+      "BondChapel": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondChapel/BondChapel.fbx",
+      "BondChapel_LOD1": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondChapel/BondChapel_LOD1.fbx",
+      "BondChapel_LOD2": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondChapel/BondChapel_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BondSwiftCloister": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+    "source_sha256": "73cadeb2a168c831be12aa3ab2478bb24a9937142c61a08ac343d4e03dfad14a",
+    "fbx": {
+      "BondSwiftCloister": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondSwiftCloister/BondSwiftCloister.fbx",
+      "BondSwiftCloister_LOD1": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondSwiftCloister/BondSwiftCloister_LOD1.fbx",
+      "BondSwiftCloister_LOD2": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondSwiftCloister/BondSwiftCloister_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BoothHarperCenter": {
+    "source": "assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+    "source_sha256": "29c39350bfedd4c1d9e280bfd92a9d5d24b881eb6bbfdd2f5a68bca351f2769d",
+    "fbx": {
+      "BoothHarperCenter": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter.fbx",
+      "BoothHarperCenter_Gls": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter_Gls.fbx",
+      "BoothHarperCenter_LOD1": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter_LOD1.fbx",
+      "BoothHarperCenter_LOD1_Gls": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter_LOD1_Gls.fbx",
+      "BoothHarperCenter_LOD2": "assets/BoothHarperCenter/BoothHarperCenter/exports/ProjectFiles/BoothHarperCenter/BoothHarperCenter_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "BurtonJudsonCourts": {
+    "source": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+    "source_sha256": "24ca75b6b870c6f520a4308116c0ef5f3bfe6d8d40f4135a58c9edddb70230bb",
+    "fbx": {
+      "BurtonJudsonCourts": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/ProjectFiles/BurtonJudsonCourts/BurtonJudsonCourts.fbx",
+      "BurtonJudsonCourts_LOD1": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/ProjectFiles/BurtonJudsonCourts/BurtonJudsonCourts_LOD1.fbx",
+      "BurtonJudsonCourts_LOD2": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/ProjectFiles/BurtonJudsonCourts/BurtonJudsonCourts_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CampusNorthResidential": {
+    "source": "assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend",
+    "source_sha256": "5452d61c34fdfa5ee877e7c69267e973496318009d5834de1a685e987b08dce0",
+    "fbx": {
+      "CampusNorthResidential": "assets/CampusNorthResidential/CampusNorthResidential/exports/ProjectFiles/CampusNorthResidential/CampusNorthResidential.fbx",
+      "CampusNorthResidential_LOD1": "assets/CampusNorthResidential/CampusNorthResidential/exports/ProjectFiles/CampusNorthResidential/CampusNorthResidential_LOD1.fbx",
+      "CampusNorthResidential_LOD2": "assets/CampusNorthResidential/CampusNorthResidential/exports/ProjectFiles/CampusNorthResidential/CampusNorthResidential_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CatheyDining": {
+    "source": "assets/CatheyDining/CatheyDining/source/CatheyDining.blend",
+    "source_sha256": "ad6007625b8f320b1531bff4cafde5eb425bd50e80470b00ef7952f14f216675",
+    "fbx": {
+      "CatheyDining": "assets/CatheyDining/CatheyDining/exports/ProjectFiles/CatheyDining/CatheyDining.fbx",
+      "CatheyDining_Gls": "assets/CatheyDining/CatheyDining/exports/ProjectFiles/CatheyDining/CatheyDining_Gls.fbx",
+      "CatheyDining_LOD1": "assets/CatheyDining/CatheyDining/exports/ProjectFiles/CatheyDining/CatheyDining_LOD1.fbx",
+      "CatheyDining_LOD1_Gls": "assets/CatheyDining/CatheyDining/exports/ProjectFiles/CatheyDining/CatheyDining_LOD1_Gls.fbx",
+      "CatheyDining_LOD2": "assets/CatheyDining/CatheyDining/exports/ProjectFiles/CatheyDining/CatheyDining_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ChapinOldBuilding": {
+    "source": "assets/ChapinOldBuilding/ChapinOldBuilding/source/ChapinOldBuilding.blend",
+    "source_sha256": "b37250032c6ee6bd92c90f5a7d640c5c2664d6e279ce6af80248535c5e7f9c20",
+    "fbx": {
+      "ChapinOldBuilding": "assets/ChapinOldBuilding/ChapinOldBuilding/exports/ProjectFiles/ChapinOldBuilding/ChapinOldBuilding.fbx",
+      "ChapinOldBuilding_LOD1": "assets/ChapinOldBuilding/ChapinOldBuilding/exports/ProjectFiles/ChapinOldBuilding/ChapinOldBuilding_LOD1.fbx",
+      "ChapinOldBuilding_LOD2": "assets/ChapinOldBuilding/ChapinOldBuilding/exports/ProjectFiles/ChapinOldBuilding/ChapinOldBuilding_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ChicagoLyingIn": {
+    "source": "assets/ChicagoLyingIn/ChicagoLyingIn/source/ChicagoLyingIn.blend",
+    "source_sha256": "ea5872614e57fc5750ec05c4eb42c938a03c70f92b1c5fb2a2d61992ae1ebe55",
+    "fbx": {
+      "ChicagoLyingIn": "assets/ChicagoLyingIn/ChicagoLyingIn/exports/ProjectFiles/ChicagoLyingIn/ChicagoLyingIn.fbx",
+      "ChicagoLyingIn_LOD1": "assets/ChicagoLyingIn/ChicagoLyingIn/exports/ProjectFiles/ChicagoLyingIn/ChicagoLyingIn_LOD1.fbx",
+      "ChicagoLyingIn_LOD2": "assets/ChicagoLyingIn/ChicagoLyingIn/exports/ProjectFiles/ChicagoLyingIn/ChicagoLyingIn_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ClassicsBuilding": {
+    "source": "assets/ClassicsBuilding/ClassicsBuilding/source/ClassicsBuilding.blend",
+    "source_sha256": "bdd76cfcfa80762281b3fff3f6dbe0482ec3a5caae84d30eb1213a0ed81901e6",
+    "fbx": {
+      "ClassicsBuilding": "assets/ClassicsBuilding/ClassicsBuilding/exports/ProjectFiles/ClassicsBuilding/ClassicsBuilding.fbx",
+      "ClassicsBuilding_LOD1": "assets/ClassicsBuilding/ClassicsBuilding/exports/ProjectFiles/ClassicsBuilding/ClassicsBuilding_LOD1.fbx",
+      "ClassicsBuilding_LOD2": "assets/ClassicsBuilding/ClassicsBuilding/exports/ProjectFiles/ClassicsBuilding/ClassicsBuilding_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CobbGate": {
+    "source": "assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+    "source_sha256": "0494ad560687b251bc05b124462c568533df20652435ac39d77eb99ac27bb3ae",
+    "fbx": {
+      "CobbGate": "assets/CobbGate/CobbGate_CS2_v0.2/ProjectFiles/CobbGate/CobbGate.fbx",
+      "CobbGate_LOD1": "assets/CobbGate/CobbGate_CS2_v0.2/ProjectFiles/CobbGate/CobbGate_LOD1.fbx",
+      "CobbGate_LOD2": "assets/CobbGate/CobbGate_CS2_v0.2/ProjectFiles/CobbGate/CobbGate_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CobbLectureHall": {
+    "source": "assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/source/CobbLectureHall.blend",
+    "source_sha256": "8bff64056f6e9bf19b4f8ef8947d3362ed16983a1526c089e7b2694b0d502787",
+    "fbx": {
+      "CobbLectureHall": "assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/ProjectFiles/CobbLectureHall/CobbLectureHall.fbx",
+      "CobbLectureHall_LOD1": "assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/ProjectFiles/CobbLectureHall/CobbLectureHall_LOD1.fbx",
+      "CobbLectureHall_LOD2": "assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/ProjectFiles/CobbLectureHall/CobbLectureHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CochraneWoods": {
+    "source": "assets/CochraneWoods/CochraneWoods/source/CochraneWoods.blend",
+    "source_sha256": "59a6030830dfbe2e564d78978251b095e6fe72393fe87faf39e00e28d614f4cc",
+    "fbx": {
+      "CochraneWoods": "assets/CochraneWoods/CochraneWoods/exports/ProjectFiles/CochraneWoods/CochraneWoods.fbx",
+      "CochraneWoods_LOD1": "assets/CochraneWoods/CochraneWoods/exports/ProjectFiles/CochraneWoods/CochraneWoods_LOD1.fbx",
+      "CochraneWoods_LOD2": "assets/CochraneWoods/CochraneWoods/exports/ProjectFiles/CochraneWoods/CochraneWoods_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "CulverHall": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/CulverHall.blend",
+    "source_sha256": "41349e953524cae36e81c5230cac79238e5286c0ff205f14ff5bbf5967506403",
+    "fbx": {
+      "CulverHall": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/CulverHall/CulverHall.fbx",
+      "CulverHall_LOD1": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/CulverHall/CulverHall_LOD1.fbx",
+      "CulverHall_LOD2": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/CulverHall/CulverHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "DAngeloLawLibrary": {
+    "source": "assets/DAngeloLawLibrary/DAngeloLawLibrary/source/DAngeloLawLibrary.blend",
+    "source_sha256": "3ad47d9e86214b484e48147cea8cf684d5741e039d0b4c3b057ffe4d8c992d46",
+    "fbx": {
+      "DAngeloLawLibrary": "assets/DAngeloLawLibrary/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary.fbx",
+      "DAngeloLawLibrary_LOD1": "assets/DAngeloLawLibrary/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD1.fbx",
+      "DAngeloLawLibrary_LOD2": "assets/DAngeloLawLibrary/DAngeloLawLibrary/exports/ProjectFiles/DAngeloLawLibrary/DAngeloLawLibrary_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "DavidRubensteinForum": {
+    "source": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/source/DavidRubensteinForum.blend",
+    "source_sha256": "fbc3732263055e579260b23bfb705b2b8ff18825ef93bb017042e03db587aff6",
+    "fbx": {
+      "DavidRubensteinForum": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/exports/ProjectFiles/DavidRubensteinForum/DavidRubensteinForum.fbx",
+      "DavidRubensteinForum_Gls": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/exports/ProjectFiles/DavidRubensteinForum/DavidRubensteinForum_Gls.fbx",
+      "DavidRubensteinForum_LOD1": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/exports/ProjectFiles/DavidRubensteinForum/DavidRubensteinForum_LOD1.fbx",
+      "DavidRubensteinForum_LOD1_Gls": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/exports/ProjectFiles/DavidRubensteinForum/DavidRubensteinForum_LOD1_Gls.fbx",
+      "DavidRubensteinForum_LOD2": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/exports/ProjectFiles/DavidRubensteinForum/DavidRubensteinForum_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "EckhartHall": {
+    "source": "assets/EckhartHall/EckhartHall/source/EckhartHall.blend",
+    "source_sha256": "f4b8bcaf298d2880a9bdbf6ea742f74174529faa5d972890e2902fc862593f9f",
+    "fbx": {
+      "EckhartHall": "assets/EckhartHall/EckhartHall/exports/ProjectFiles/EckhartHall/EckhartHall.fbx",
+      "EckhartHall_LOD1": "assets/EckhartHall/EckhartHall/exports/ProjectFiles/EckhartHall/EckhartHall_LOD1.fbx",
+      "EckhartHall_LOD2": "assets/EckhartHall/EckhartHall/exports/ProjectFiles/EckhartHall/EckhartHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "EdwardHLeviHall": {
+    "source": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/source/EdwardHLeviHall.blend",
+    "source_sha256": "2d367e1c5ef31fdb0cf52bb7e6473a889e144260ded5c013f341f59bdd9c9b72",
+    "fbx": {
+      "EdwardHLeviHall": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/exports/ProjectFiles/EdwardHLeviHall/EdwardHLeviHall.fbx",
+      "EdwardHLeviHall_Gls": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/exports/ProjectFiles/EdwardHLeviHall/EdwardHLeviHall_Gls.fbx",
+      "EdwardHLeviHall_LOD1": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/exports/ProjectFiles/EdwardHLeviHall/EdwardHLeviHall_LOD1.fbx",
+      "EdwardHLeviHall_LOD1_Gls": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/exports/ProjectFiles/EdwardHLeviHall/EdwardHLeviHall_LOD1_Gls.fbx",
+      "EdwardHLeviHall_LOD2": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/exports/ProjectFiles/EdwardHLeviHall/EdwardHLeviHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ErmanBiologyCenter": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend",
+    "source_sha256": "c9bc554b8a703956083431ed289a105f9b3d89f2ca4d759ba5da5eeea256e655",
+    "fbx": {
+      "ErmanBiologyCenter": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ErmanBiologyCenter/ErmanBiologyCenter.fbx",
+      "ErmanBiologyCenter_LOD1": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ErmanBiologyCenter/ErmanBiologyCenter_LOD1.fbx",
+      "ErmanBiologyCenter_LOD2": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ErmanBiologyCenter/ErmanBiologyCenter_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "FosterHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "fbx": {
+      "FosterHall": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/FosterHall/FosterHall.fbx",
+      "FosterHall_LOD1": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/FosterHall/FosterHall_LOD1.fbx",
+      "FosterHall_LOD2": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/FosterHall/FosterHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "GatesBlakeHall": {
+    "source": "assets/GatesBlakeHall/GatesBlakeHall/source/GatesBlakeHall.blend",
+    "source_sha256": "23aefafed694e15484af6af6444ffa2e1b43e69efa8246195ebfd1ed842c0b45",
+    "fbx": {
+      "GatesBlakeHall": "assets/GatesBlakeHall/GatesBlakeHall/exports/ProjectFiles/GatesBlakeHall/GatesBlakeHall.fbx",
+      "GatesBlakeHall_LOD1": "assets/GatesBlakeHall/GatesBlakeHall/exports/ProjectFiles/GatesBlakeHall/GatesBlakeHall_LOD1.fbx",
+      "GatesBlakeHall_LOD2": "assets/GatesBlakeHall/GatesBlakeHall/exports/ProjectFiles/GatesBlakeHall/GatesBlakeHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "GoodspeedHall": {
+    "source": "assets/GoodspeedHall/GoodspeedHall/source/GoodspeedHall.blend",
+    "source_sha256": "1b41b79e72862f112cebaef117cba695ba8b426803c00e71edfacad561a9773d",
+    "fbx": {
+      "GoodspeedHall": "assets/GoodspeedHall/GoodspeedHall/exports/ProjectFiles/GoodspeedHall/GoodspeedHall.fbx",
+      "GoodspeedHall_LOD1": "assets/GoodspeedHall/GoodspeedHall/exports/ProjectFiles/GoodspeedHall/GoodspeedHall_LOD1.fbx",
+      "GoodspeedHall_LOD2": "assets/GoodspeedHall/GoodspeedHall/exports/ProjectFiles/GoodspeedHall/GoodspeedHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "GordonParksArtsHall": {
+    "source": "assets/GordonParksArtsHall/GordonParksArtsHall/source/GordonParksArtsHall.blend",
+    "source_sha256": "36803b3005a126779ac280e820a9a466979b2c5b7961d6a4245f002a142ccb27",
+    "fbx": {
+      "GordonParksArtsHall": "assets/GordonParksArtsHall/GordonParksArtsHall/exports/ProjectFiles/GordonParksArtsHall/GordonParksArtsHall.fbx",
+      "GordonParksArtsHall_LOD1": "assets/GordonParksArtsHall/GordonParksArtsHall/exports/ProjectFiles/GordonParksArtsHall/GordonParksArtsHall_LOD1.fbx",
+      "GordonParksArtsHall_LOD2": "assets/GordonParksArtsHall/GordonParksArtsHall/exports/ProjectFiles/GordonParksArtsHall/GordonParksArtsHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "GreenHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "fbx": {
+      "GreenHall": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/GreenHall/GreenHall.fbx",
+      "GreenHall_LOD1": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/GreenHall/GreenHall_LOD1.fbx",
+      "GreenHall_LOD2": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/GreenHall/GreenHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "HarperMemorialLibrary": {
+    "source": "assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+    "source_sha256": "bb03527fb16b5e1e6dae9281108209f860bcbf3de6ab761c3fa0672c6976ece6",
+    "fbx": {
+      "HarperMemorialLibrary": "assets/HarperMemorialLibrary/harper_memorial_library/exports/ProjectFiles/HarperMemorialLibrary/HarperMemorialLibrary.fbx",
+      "HarperMemorialLibrary_LOD1": "assets/HarperMemorialLibrary/harper_memorial_library/exports/ProjectFiles/HarperMemorialLibrary/HarperMemorialLibrary_LOD1.fbx",
+      "HarperMemorialLibrary_LOD2": "assets/HarperMemorialLibrary/harper_memorial_library/exports/ProjectFiles/HarperMemorialLibrary/HarperMemorialLibrary_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "HaskellHall": {
+    "source": "assets/HaskellHall/haskell_hall/source/HaskellHall.blend",
+    "source_sha256": "ff95e3970778c629ae7417c9d3f538d33288216f06024edf746bbfc2a54ce846",
+    "fbx": {
+      "HaskellHall": "assets/HaskellHall/haskell_hall/exports/ProjectFiles/HaskellHall/HaskellHall.fbx",
+      "HaskellHall_LOD1": "assets/HaskellHall/haskell_hall/exports/ProjectFiles/HaskellHall/HaskellHall_LOD1.fbx",
+      "HaskellHall_LOD2": "assets/HaskellHall/haskell_hall/exports/ProjectFiles/HaskellHall/HaskellHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "HenryCrownFieldHouse": {
+    "source": "assets/HenryCrownFieldHouse/HenryCrownFieldHouse/source/HenryCrownFieldHouse.blend",
+    "source_sha256": "40b1e4fa5431f7b6b8ae5d6773bc1112a23511111bbdf000cf541cf32c6d146b",
+    "fbx": {
+      "HenryCrownFieldHouse": "assets/HenryCrownFieldHouse/HenryCrownFieldHouse/exports/ProjectFiles/HenryCrownFieldHouse/HenryCrownFieldHouse.fbx",
+      "HenryCrownFieldHouse_LOD1": "assets/HenryCrownFieldHouse/HenryCrownFieldHouse/exports/ProjectFiles/HenryCrownFieldHouse/HenryCrownFieldHouse_LOD1.fbx",
+      "HenryCrownFieldHouse_LOD2": "assets/HenryCrownFieldHouse/HenryCrownFieldHouse/exports/ProjectFiles/HenryCrownFieldHouse/HenryCrownFieldHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "HenryHindsLaboratory": {
+    "source": "assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend",
+    "source_sha256": "2635421fdfb3f78ec2a07263f5b909cdd76237a6113361ee9fa7e9a131464dae",
+    "fbx": {
+      "HenryHindsLaboratory": "assets/HenryHindsLaboratory/HenryHindsLaboratory/exports/ProjectFiles/HenryHindsLaboratory/HenryHindsLaboratory.fbx",
+      "HenryHindsLaboratory_Gls": "assets/HenryHindsLaboratory/HenryHindsLaboratory/exports/ProjectFiles/HenryHindsLaboratory/HenryHindsLaboratory_Gls.fbx",
+      "HenryHindsLaboratory_LOD1": "assets/HenryHindsLaboratory/HenryHindsLaboratory/exports/ProjectFiles/HenryHindsLaboratory/HenryHindsLaboratory_LOD1.fbx",
+      "HenryHindsLaboratory_LOD1_Gls": "assets/HenryHindsLaboratory/HenryHindsLaboratory/exports/ProjectFiles/HenryHindsLaboratory/HenryHindsLaboratory_LOD1_Gls.fbx",
+      "HenryHindsLaboratory_LOD2": "assets/HenryHindsLaboratory/HenryHindsLaboratory/exports/ProjectFiles/HenryHindsLaboratory/HenryHindsLaboratory_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "HutchinsonCommons": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "fbx": {
+      "HutchinsonCommons": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/HutchinsonCommons/HutchinsonCommons.fbx",
+      "HutchinsonCommons_LOD1": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/HutchinsonCommons/HutchinsonCommons_LOD1.fbx",
+      "HutchinsonCommons_LOD2": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/HutchinsonCommons/HutchinsonCommons_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ISAC": {
+    "source": "assets/ISAC/ISAC/source/ISAC.blend",
+    "source_sha256": "e29051cf1c81be211038019b62743de96a50f09f91e0b4ff1929642b18b43b5f",
+    "fbx": {
+      "ISAC": "assets/ISAC/ISAC/exports/ProjectFiles/ISAC/ISAC.fbx",
+      "ISAC_LOD1": "assets/ISAC/ISAC/exports/ProjectFiles/ISAC/ISAC_LOD1.fbx",
+      "ISAC_LOD2": "assets/ISAC/ISAC/exports/ProjectFiles/ISAC/ISAC_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "IdaNoyesHall": {
+    "source": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend",
+    "source_sha256": "32fa5427def2c83e325d9f6a08ba08579b9152f91919ca0f8591c0b077931ad7",
+    "fbx": {
+      "IdaNoyesHall": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/ProjectFiles/IdaNoyesHall/IdaNoyesHall.fbx",
+      "IdaNoyesHall_LOD1": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/ProjectFiles/IdaNoyesHall/IdaNoyesHall_LOD1.fbx",
+      "IdaNoyesHall_LOD2": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/ProjectFiles/IdaNoyesHall/IdaNoyesHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "InternationalHouse": {
+    "source": "assets/InternationalHouse/InternationalHouse/source/InternationalHouse.blend",
+    "source_sha256": "e04083a960e7e4b6a32a585e113bd988b4ecd97de42b3a9c753d7157fd2d67e5",
+    "fbx": {
+      "InternationalHouse": "assets/InternationalHouse/InternationalHouse/exports/ProjectFiles/InternationalHouse/InternationalHouse.fbx",
+      "InternationalHouse_LOD1": "assets/InternationalHouse/InternationalHouse/exports/ProjectFiles/InternationalHouse/InternationalHouse_LOD1.fbx",
+      "InternationalHouse_LOD2": "assets/InternationalHouse/InternationalHouse/exports/ProjectFiles/InternationalHouse/InternationalHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "JohnCrerarLibrary": {
+    "source": "assets/JohnCrerarLibrary/JohnCrerarLibrary/source/JohnCrerarLibrary.blend",
+    "source_sha256": "f0ae305dee9d1ef40e1cc16c3fd3bbde346f3232db1b70c54992fe07a1998928",
+    "fbx": {
+      "JohnCrerarLibrary": "assets/JohnCrerarLibrary/JohnCrerarLibrary/exports/ProjectFiles/JohnCrerarLibrary/JohnCrerarLibrary.fbx",
+      "JohnCrerarLibrary_Gls": "assets/JohnCrerarLibrary/JohnCrerarLibrary/exports/ProjectFiles/JohnCrerarLibrary/JohnCrerarLibrary_Gls.fbx",
+      "JohnCrerarLibrary_LOD1": "assets/JohnCrerarLibrary/JohnCrerarLibrary/exports/ProjectFiles/JohnCrerarLibrary/JohnCrerarLibrary_LOD1.fbx",
+      "JohnCrerarLibrary_LOD1_Gls": "assets/JohnCrerarLibrary/JohnCrerarLibrary/exports/ProjectFiles/JohnCrerarLibrary/JohnCrerarLibrary_LOD1_Gls.fbx",
+      "JohnCrerarLibrary_LOD2": "assets/JohnCrerarLibrary/JohnCrerarLibrary/exports/ProjectFiles/JohnCrerarLibrary/JohnCrerarLibrary_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "JonesLaboratory": {
+    "source": "assets/JonesLaboratory/JonesLaboratory/source/JonesLaboratory.blend",
+    "source_sha256": "7728f177786c07612794a1616881b916639f6cc48e0fb4ca19bcad1e9241369c",
+    "fbx": {
+      "JonesLaboratory": "assets/JonesLaboratory/JonesLaboratory/exports/ProjectFiles/JonesLaboratory/JonesLaboratory.fbx",
+      "JonesLaboratory_LOD1": "assets/JonesLaboratory/JonesLaboratory/exports/ProjectFiles/JonesLaboratory/JonesLaboratory_LOD1.fbx",
+      "JonesLaboratory_LOD2": "assets/JonesLaboratory/JonesLaboratory/exports/ProjectFiles/JonesLaboratory/JonesLaboratory_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "JuddHall": {
+    "source": "assets/JuddHall/JuddHall/source/JuddHall.blend",
+    "source_sha256": "c6081d9e1e46fce7d1622b968e57b84218eee420bfa3fc2a3b491796fa93da16",
+    "fbx": {
+      "JuddHall": "assets/JuddHall/JuddHall/exports/ProjectFiles/JuddHall/JuddHall.fbx",
+      "JuddHall_LOD1": "assets/JuddHall/JuddHall/exports/ProjectFiles/JuddHall/JuddHall_LOD1.fbx",
+      "JuddHall_LOD2": "assets/JuddHall/JuddHall/exports/ProjectFiles/JuddHall/JuddHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "KellerCenter": {
+    "source": "assets/KellerCenter/KellerCenter/source/KellerCenter.blend",
+    "source_sha256": "61c8bfd0da2f66852f5ced765646d4163366d833b4726892c56af58d323254eb",
+    "fbx": {
+      "KellerCenter": "assets/KellerCenter/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter.fbx",
+      "KellerCenter_Gls": "assets/KellerCenter/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_Gls.fbx",
+      "KellerCenter_LOD1": "assets/KellerCenter/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1.fbx",
+      "KellerCenter_LOD1_Gls": "assets/KellerCenter/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD1_Gls.fbx",
+      "KellerCenter_LOD2": "assets/KellerCenter/KellerCenter/exports/ProjectFiles/KellerCenter/KellerCenter_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "KellyHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "source_sha256": "b4443c18cb1804114e4db603859bb6d75a1174bdf8f1df566eb2bae3cca04611",
+    "fbx": {
+      "KellyHall": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/KellyHall/KellyHall.fbx",
+      "KellyHall_LOD1": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/KellyHall/KellyHall_LOD1.fbx",
+      "KellyHall_LOD2": "assets/WomensQuadrangle/WomensQuadrangle/exports/ProjectFiles/KellyHall/KellyHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "KentChemicalLaboratory": {
+    "source": "assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend",
+    "source_sha256": "bb448522c4809f294e5d063559fe5bfee7c4fd36c7536e3bd2a1bf0bd191efb4",
+    "fbx": {
+      "KentChemicalLaboratory": "assets/KentChemicalLaboratory/KentChemicalLaboratory/exports/ProjectFiles/KentChemicalLaboratory/KentChemicalLaboratory.fbx",
+      "KentChemicalLaboratory_LOD1": "assets/KentChemicalLaboratory/KentChemicalLaboratory/exports/ProjectFiles/KentChemicalLaboratory/KentChemicalLaboratory_LOD1.fbx",
+      "KentChemicalLaboratory_LOD2": "assets/KentChemicalLaboratory/KentChemicalLaboratory/exports/ProjectFiles/KentChemicalLaboratory/KentChemicalLaboratory_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "KovlerGymnasium": {
+    "source": "assets/KovlerGymnasium/KovlerGymnasium/source/KovlerGymnasium.blend",
+    "source_sha256": "4a0ae34447b876bf5279abf55b6b1b000ab72efc449a8b6def853397b4e0aef8",
+    "fbx": {
+      "KovlerGymnasium": "assets/KovlerGymnasium/KovlerGymnasium/exports/ProjectFiles/KovlerGymnasium/KovlerGymnasium.fbx",
+      "KovlerGymnasium_LOD1": "assets/KovlerGymnasium/KovlerGymnasium/exports/ProjectFiles/KovlerGymnasium/KovlerGymnasium_LOD1.fbx",
+      "KovlerGymnasium_LOD2": "assets/KovlerGymnasium/KovlerGymnasium/exports/ProjectFiles/KovlerGymnasium/KovlerGymnasium_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "LawClassroomAdministration": {
+    "source": "assets/LawClassroomAdministration/LawClassroomAdministration/source/LawClassroomAdministration.blend",
+    "source_sha256": "d491022099b0f8e5316fb80dd0e78d41bd8e43c0e6f2376cab59b9916c5ce972",
+    "fbx": {
+      "LawClassroomAdministration": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration.fbx",
+      "LawClassroomAdministration_LOD1": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration_LOD1.fbx",
+      "LawClassroomAdministration_LOD1_Wat": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration_LOD1_Wat.fbx",
+      "LawClassroomAdministration_LOD2": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration_LOD2.fbx",
+      "LawClassroomAdministration_LOD2_Wat": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration_LOD2_Wat.fbx",
+      "LawClassroomAdministration_Wat": "assets/LawClassroomAdministration/LawClassroomAdministration/exports/ProjectFiles/LawClassroomAdministration/LawClassroomAdministration_Wat.fbx"
+    },
+    "unmapped": []
+  },
+  "LillieHouse": {
+    "source": "assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+    "source_sha256": "a824d6c72610027a7a51ea6236a8a58181c32c9ebefd5af953f056c9e61b04de",
+    "fbx": {
+      "LillieHouse": "assets/LillieHouse/LillieHouse/exports/ProjectFiles/LillieHouse/LillieHouse.fbx",
+      "LillieHouse_LOD1": "assets/LillieHouse/LillieHouse/exports/ProjectFiles/LillieHouse/LillieHouse_LOD1.fbx",
+      "LillieHouse_LOD2": "assets/LillieHouse/LillieHouse/exports/ProjectFiles/LillieHouse/LillieHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "LoganArts": {
+    "source": "assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend",
+    "source_sha256": "fd09365576c2b5876a35b14d3e30d9ab3d73f194500644df7cc27e01ffcfc449",
+    "fbx": {
+      "LoganArts": "assets/LoganArts/LoganArts_CS2_v0.2/ProjectFiles/LoganArts/LoganArts.fbx",
+      "LoganArts_LOD1": "assets/LoganArts/LoganArts_CS2_v0.2/ProjectFiles/LoganArts/LoganArts_LOD1.fbx",
+      "LoganArts_LOD2": "assets/LoganArts/LoganArts_CS2_v0.2/ProjectFiles/LoganArts/LoganArts_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MandelHall": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "fbx": {
+      "MandelHall": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MandelHall/MandelHall.fbx",
+      "MandelHall_LOD1": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MandelHall/MandelHall_LOD1.fbx",
+      "MandelHall_LOD2": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MandelHall/MandelHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MansuetoLibrary": {
+    "source": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/source/MansuetoLibrary.blend",
+    "source_sha256": "2ae2c8ffe3adf4b1c8cd1a8edf0e8cb44ffd4cf9f2fbc86e2ac275aced61661c",
+    "fbx": {
+      "MansuetoLibrary": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/ProjectFiles/MansuetoLibrary/MansuetoLibrary.fbx",
+      "MansuetoLibrary_Gls": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/ProjectFiles/MansuetoLibrary/MansuetoLibrary_Gls.fbx",
+      "MansuetoLibrary_LOD1": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/ProjectFiles/MansuetoLibrary/MansuetoLibrary_LOD1.fbx",
+      "MansuetoLibrary_LOD1_Gls": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/ProjectFiles/MansuetoLibrary/MansuetoLibrary_LOD1_Gls.fbx",
+      "MansuetoLibrary_LOD2": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/ProjectFiles/MansuetoLibrary/MansuetoLibrary_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MaxPalevskyCentral": {
+    "source": "assets/MaxPalevskyCentral/MaxPalevskyCentral/source/MaxPalevskyCentral.blend",
+    "source_sha256": "78257aba5d96dbcf574db5af035b5a0876c98e9e794f3ebe32cd52d9f26f81ff",
+    "fbx": {
+      "MaxPalevskyCentral": "assets/MaxPalevskyCentral/MaxPalevskyCentral/exports/ProjectFiles/MaxPalevskyCentral/MaxPalevskyCentral.fbx",
+      "MaxPalevskyCentral_LOD1": "assets/MaxPalevskyCentral/MaxPalevskyCentral/exports/ProjectFiles/MaxPalevskyCentral/MaxPalevskyCentral_LOD1.fbx",
+      "MaxPalevskyCentral_LOD2": "assets/MaxPalevskyCentral/MaxPalevskyCentral/exports/ProjectFiles/MaxPalevskyCentral/MaxPalevskyCentral_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MaxPalevskyEast": {
+    "source": "assets/MaxPalevskyEast/MaxPalevskyEast/source/MaxPalevskyEast.blend",
+    "source_sha256": "ac86530653af158deed206648b399a08b88988ef8328b96176089754850944fa",
+    "fbx": {
+      "MaxPalevskyEast": "assets/MaxPalevskyEast/MaxPalevskyEast/exports/ProjectFiles/MaxPalevskyEast/MaxPalevskyEast.fbx",
+      "MaxPalevskyEast_LOD1": "assets/MaxPalevskyEast/MaxPalevskyEast/exports/ProjectFiles/MaxPalevskyEast/MaxPalevskyEast_LOD1.fbx",
+      "MaxPalevskyEast_LOD2": "assets/MaxPalevskyEast/MaxPalevskyEast/exports/ProjectFiles/MaxPalevskyEast/MaxPalevskyEast_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MaxPalevskyWest": {
+    "source": "assets/MaxPalevskyWest/MaxPalevskyWest/source/MaxPalevskyWest.blend",
+    "source_sha256": "42e148c0206445a1baf8151fe2c0ad772427d7a1e555bfe6c984aa64309c462d",
+    "fbx": {
+      "MaxPalevskyWest": "assets/MaxPalevskyWest/MaxPalevskyWest/exports/ProjectFiles/MaxPalevskyWest/MaxPalevskyWest.fbx",
+      "MaxPalevskyWest_LOD1": "assets/MaxPalevskyWest/MaxPalevskyWest/exports/ProjectFiles/MaxPalevskyWest/MaxPalevskyWest_LOD1.fbx",
+      "MaxPalevskyWest_LOD2": "assets/MaxPalevskyWest/MaxPalevskyWest/exports/ProjectFiles/MaxPalevskyWest/MaxPalevskyWest_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MidwayStudios": {
+    "source": "assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend",
+    "source_sha256": "fb0abe16b1deedb7928d580e244d4138998b267f10c033b6f4102f540b2f1c5c",
+    "fbx": {
+      "MidwayStudios": "assets/MidwayStudios/MidwayStudios/exports/ProjectFiles/MidwayStudios/MidwayStudios.fbx",
+      "MidwayStudios_LOD1": "assets/MidwayStudios/MidwayStudios/exports/ProjectFiles/MidwayStudios/MidwayStudios_LOD1.fbx",
+      "MidwayStudios_LOD2": "assets/MidwayStudios/MidwayStudios/exports/ProjectFiles/MidwayStudios/MidwayStudios_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "MitchellTower": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "fbx": {
+      "MitchellTower": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MitchellTower/MitchellTower.fbx",
+      "MitchellTower_LOD1": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MitchellTower/MitchellTower_LOD1.fbx",
+      "MitchellTower_LOD2": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/MitchellTower/MitchellTower_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "NeubauerCollegium": {
+    "source": "assets/NeubauerCollegium/NeubauerCollegium/source/NeubauerCollegium.blend",
+    "source_sha256": "f298e78ad613518b3a87affb9e7b1ed2214378fe4d82133c64f9bd808520ae91",
+    "fbx": {
+      "NeubauerCollegium": "assets/NeubauerCollegium/NeubauerCollegium/exports/ProjectFiles/NeubauerCollegium/NeubauerCollegium.fbx",
+      "NeubauerCollegium_LOD1": "assets/NeubauerCollegium/NeubauerCollegium/exports/ProjectFiles/NeubauerCollegium/NeubauerCollegium_LOD1.fbx",
+      "NeubauerCollegium_LOD2": "assets/NeubauerCollegium/NeubauerCollegium/exports/ProjectFiles/NeubauerCollegium/NeubauerCollegium_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "PresidentsHouse": {
+    "source": "assets/PresidentsHouse/PresidentsHouse/source/PresidentsHouse.blend",
+    "source_sha256": "b877f2ae58789ee6a6963288be6b6e95a70fee9d093d4173ee24903cb9ce4f8a",
+    "fbx": {
+      "PresidentsHouse": "assets/PresidentsHouse/PresidentsHouse/exports/ProjectFiles/PresidentsHouse/PresidentsHouse.fbx",
+      "PresidentsHouse_LOD1": "assets/PresidentsHouse/PresidentsHouse/exports/ProjectFiles/PresidentsHouse/PresidentsHouse_LOD1.fbx",
+      "PresidentsHouse_LOD2": "assets/PresidentsHouse/PresidentsHouse/exports/ProjectFiles/PresidentsHouse/PresidentsHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "QuadrangleClub": {
+    "source": "assets/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend",
+    "source_sha256": "3ef15fdedb3057c7220ad3c41447916cd445243d439c6af096ab950c33f3c153",
+    "fbx": {
+      "QuadrangleClub": "assets/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub.fbx",
+      "QuadrangleClub_LOD1": "assets/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD1.fbx",
+      "QuadrangleClub_LOD2": "assets/QuadrangleClub/QuadrangleClub/exports/ProjectFiles/QuadrangleClub/QuadrangleClub_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RGGEast": {
+    "source": "assets/RGGEast/RGGEast/source/RGGEast.blend",
+    "source_sha256": "af951b967c741d650e6ea3e9c66db661fdf7a72ed9fc5c238038769f93e505d4",
+    "fbx": {
+      "RGGEast": "assets/RGGEast/RGGEast/exports/ProjectFiles/RGGEast/RGGEast.fbx",
+      "RGGEast_LOD1": "assets/RGGEast/RGGEast/exports/ProjectFiles/RGGEast/RGGEast_LOD1.fbx",
+      "RGGEast_LOD2": "assets/RGGEast/RGGEast/exports/ProjectFiles/RGGEast/RGGEast_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RGGWest": {
+    "source": "assets/RGGWest/RGGWest/source/RGGWest.blend",
+    "source_sha256": "ccc54c56659df7c7043bb89d8a8f4857ad984a5a9725048e22740f810f2dcb5c",
+    "fbx": {
+      "RGGWest": "assets/RGGWest/RGGWest/exports/ProjectFiles/RGGWest/RGGWest.fbx",
+      "RGGWest_LOD1": "assets/RGGWest/RGGWest/exports/ProjectFiles/RGGWest/RGGWest_LOD1.fbx",
+      "RGGWest_LOD2": "assets/RGGWest/RGGWest/exports/ProjectFiles/RGGWest/RGGWest_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RatnerAthletics": {
+    "source": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend",
+    "source_sha256": "4e359fcd31123ceb44867256c2f1b0b4cd9d7dc8293b58cbc798183f8763e52b",
+    "fbx": {
+      "RatnerAthletics": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/ProjectFiles/RatnerAthletics/RatnerAthletics.fbx",
+      "RatnerAthletics_LOD1": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/ProjectFiles/RatnerAthletics/RatnerAthletics_LOD1.fbx",
+      "RatnerAthletics_LOD2": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/ProjectFiles/RatnerAthletics/RatnerAthletics_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RegensteinLibrary": {
+    "source": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+    "source_sha256": "240f0d2bb073c1c95218b71d298a6993d5a64f7d7a527c6c91cbadb9bc96ba0a",
+    "fbx": {
+      "RegensteinLibrary": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/ProjectFiles/RegensteinLibrary/RegensteinLibrary.fbx",
+      "RegensteinLibrary_LOD1": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/ProjectFiles/RegensteinLibrary/RegensteinLibrary_LOD1.fbx",
+      "RegensteinLibrary_LOD2": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/ProjectFiles/RegensteinLibrary/RegensteinLibrary_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ReynoldsClubhouse": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "fbx": {
+      "ReynoldsClubhouse": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/ReynoldsClubhouse/ReynoldsClubhouse.fbx",
+      "ReynoldsClubhouse_LOD1": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/ReynoldsClubhouse/ReynoldsClubhouse_LOD1.fbx",
+      "ReynoldsClubhouse_LOD2": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/ReynoldsClubhouse/ReynoldsClubhouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RobieHouse": {
+    "source": "assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend",
+    "source_sha256": "c72155fbafc55c4442f3c9f45d6682d772e733bd150d3f71671505ac65f03a9a",
+    "fbx": {
+      "RobieHouse": "assets/RobieHouse/RobieHouse_CS2_v0.2/ProjectFiles/RobieHouse/RobieHouse.fbx",
+      "RobieHouse_LOD1": "assets/RobieHouse/RobieHouse_CS2_v0.2/ProjectFiles/RobieHouse/RobieHouse_LOD1.fbx",
+      "RobieHouse_LOD2": "assets/RobieHouse/RobieHouse_CS2_v0.2/ProjectFiles/RobieHouse/RobieHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RockefellerChapel": {
+    "source": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+    "source_sha256": "f1360c040f6cc703d704dfb127d082f276d638bdbfa20b14c8a8a64a70362b89",
+    "fbx": {
+      "RockefellerChapel": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/exports/ProjectFiles/RockefellerChapel/RockefellerChapel.fbx",
+      "RockefellerChapel_LOD1": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/exports/ProjectFiles/RockefellerChapel/RockefellerChapel_LOD1.fbx",
+      "RockefellerChapel_LOD2": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/exports/ProjectFiles/RockefellerChapel/RockefellerChapel_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RosenwaldWalker": {
+    "source": "assets/RosenwaldWalker/RosenwaldWalker/source/RosenwaldWalker.blend",
+    "source_sha256": "6463556fe97264c486a5363340bc87971f0bbffd2863c0f0c4a9540d84241a29",
+    "fbx": {
+      "RosenwaldWalker": "assets/RosenwaldWalker/RosenwaldWalker/exports/ProjectFiles/RosenwaldWalker/RosenwaldWalker.fbx",
+      "RosenwaldWalker_LOD1": "assets/RosenwaldWalker/RosenwaldWalker/exports/ProjectFiles/RosenwaldWalker/RosenwaldWalker_LOD1.fbx",
+      "RosenwaldWalker_LOD2": "assets/RosenwaldWalker/RosenwaldWalker/exports/ProjectFiles/RosenwaldWalker/RosenwaldWalker_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "RyersonLaboratory": {
+    "source": "assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend",
+    "source_sha256": "e0a56891376e490df4678c21cf1261e55814cd43353e73dba9690da6299ee5fb",
+    "fbx": {
+      "RyersonLaboratory": "assets/RyersonLaboratory/RyersonLaboratory/exports/ProjectFiles/RyersonLaboratory/RyersonLaboratory.fbx",
+      "RyersonLaboratory_LOD1": "assets/RyersonLaboratory/RyersonLaboratory/exports/ProjectFiles/RyersonLaboratory/RyersonLaboratory_LOD1.fbx",
+      "RyersonLaboratory_LOD2": "assets/RyersonLaboratory/RyersonLaboratory/exports/ProjectFiles/RyersonLaboratory/RyersonLaboratory_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SaiehHall": {
+    "source": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+    "fbx": {
+      "SaiehHall": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall.fbx",
+      "SaiehHall_LOD1": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall_LOD1.fbx",
+      "SaiehHall_LOD2": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall/SaiehHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SaiehNorthPavilion": {
+    "source": "assets/SaiehNorthPavilion/SaiehNorthPavilion/source/SaiehNorthPavilion.blend",
+    "source_sha256": "18af22d0e959032a471664a713e6392a66a966ae3f0cc2632271ad035d9e8fea",
+    "fbx": {
+      "SaiehNorthPavilion": "assets/SaiehNorthPavilion/SaiehNorthPavilion/exports/ProjectFiles/SaiehNorthPavilion/SaiehNorthPavilion.fbx",
+      "SaiehNorthPavilion_LOD1": "assets/SaiehNorthPavilion/SaiehNorthPavilion/exports/ProjectFiles/SaiehNorthPavilion/SaiehNorthPavilion_LOD1.fbx",
+      "SaiehNorthPavilion_LOD2": "assets/SaiehNorthPavilion/SaiehNorthPavilion/exports/ProjectFiles/SaiehNorthPavilion/SaiehNorthPavilion_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SaiehWoodlawn5740": {
+    "source": "assets/SaiehWoodlawn5740/SaiehWoodlawn5740/source/SaiehWoodlawn5740.blend",
+    "source_sha256": "e47f20d588e1875319aa167c4fe69a113f3507e01cd24c5376b0a3ca39e5e176",
+    "fbx": {
+      "SaiehWoodlawn5740": "assets/SaiehWoodlawn5740/SaiehWoodlawn5740/exports/ProjectFiles/SaiehWoodlawn5740/SaiehWoodlawn5740.fbx",
+      "SaiehWoodlawn5740_LOD1": "assets/SaiehWoodlawn5740/SaiehWoodlawn5740/exports/ProjectFiles/SaiehWoodlawn5740/SaiehWoodlawn5740_LOD1.fbx",
+      "SaiehWoodlawn5740_LOD2": "assets/SaiehWoodlawn5740/SaiehWoodlawn5740/exports/ProjectFiles/SaiehWoodlawn5740/SaiehWoodlawn5740_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SaiehWoodlawn5750": {
+    "source": "assets/SaiehWoodlawn5750/SaiehWoodlawn5750/source/SaiehWoodlawn5750.blend",
+    "source_sha256": "d76fd25f46ec4c5bd5a255119f911a9113d1dbec6c42f28f362ef7a23250412c",
+    "fbx": {
+      "SaiehWoodlawn5750": "assets/SaiehWoodlawn5750/SaiehWoodlawn5750/exports/ProjectFiles/SaiehWoodlawn5750/SaiehWoodlawn5750.fbx",
+      "SaiehWoodlawn5750_LOD1": "assets/SaiehWoodlawn5750/SaiehWoodlawn5750/exports/ProjectFiles/SaiehWoodlawn5750/SaiehWoodlawn5750_LOD1.fbx",
+      "SaiehWoodlawn5750_LOD2": "assets/SaiehWoodlawn5750/SaiehWoodlawn5750/exports/ProjectFiles/SaiehWoodlawn5750/SaiehWoodlawn5750_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SearleChemistry": {
+    "source": "assets/SearleChemistry/SearleChemistry/source/SearleChemistry.blend",
+    "source_sha256": "99a5da5927c0329f568488371315f4983d071c4ab4d7c4d4b73c1b65b9a9439c",
+    "fbx": {
+      "SearleChemistry": "assets/SearleChemistry/SearleChemistry/exports/ProjectFiles/SearleChemistry/SearleChemistry.fbx",
+      "SearleChemistry_LOD1": "assets/SearleChemistry/SearleChemistry/exports/ProjectFiles/SearleChemistry/SearleChemistry_LOD1.fbx",
+      "SearleChemistry_LOD2": "assets/SearleChemistry/SearleChemistry/exports/ProjectFiles/SearleChemistry/SearleChemistry_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SmartMuseum": {
+    "source": "assets/SmartMuseum/SmartMuseum/source/SmartMuseum.blend",
+    "source_sha256": "13e60463c1470d00bf5e0fc9cef836b7ad6c86c000d6365aa00eef395829c186",
+    "fbx": {
+      "SmartMuseum": "assets/SmartMuseum/SmartMuseum/exports/ProjectFiles/SmartMuseum/SmartMuseum.fbx",
+      "SmartMuseum_LOD1": "assets/SmartMuseum/SmartMuseum/exports/ProjectFiles/SmartMuseum/SmartMuseum_LOD1.fbx",
+      "SmartMuseum_LOD2": "assets/SmartMuseum/SmartMuseum/exports/ProjectFiles/SmartMuseum/SmartMuseum_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SnellHitchcock": {
+    "source": "assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcock.blend",
+    "source_sha256": "a500affb566fd1e89b077a2993e47ac9d1d9d4f0c67a84bbcee7d212615b2cbf",
+    "fbx": {
+      "SnellHitchcock": "assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/ProjectFiles/SnellHitchcock/SnellHitchcock.fbx",
+      "SnellHitchcock_LOD1": "assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/ProjectFiles/SnellHitchcock/SnellHitchcock_LOD1.fbx",
+      "SnellHitchcock_LOD2": "assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/ProjectFiles/SnellHitchcock/SnellHitchcock_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SocialSciencesResearch": {
+    "source": "assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend",
+    "source_sha256": "c41335f183c8de0ddde72a688c448be1807fcc88d9255dfeaa2ceb38cac58a5e",
+    "fbx": {
+      "SocialSciencesResearch": "assets/SocialSciencesResearch/SocialSciencesResearch/exports/ProjectFiles/SocialSciencesResearch/SocialSciencesResearch.fbx",
+      "SocialSciencesResearch_LOD1": "assets/SocialSciencesResearch/SocialSciencesResearch/exports/ProjectFiles/SocialSciencesResearch/SocialSciencesResearch_LOD1.fbx",
+      "SocialSciencesResearch_LOD2": "assets/SocialSciencesResearch/SocialSciencesResearch/exports/ProjectFiles/SocialSciencesResearch/SocialSciencesResearch_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "StuartHall": {
+    "source": "assets/StuartHall/StuartHall/source/StuartHall.blend",
+    "source_sha256": "90b25085bb91148f174ae458e73cb6c4189821b525b965d8b65233d19e892984",
+    "fbx": {
+      "StuartHall": "assets/StuartHall/StuartHall/exports/ProjectFiles/StuartHall/StuartHall.fbx",
+      "StuartHall_LOD1": "assets/StuartHall/StuartHall/exports/ProjectFiles/StuartHall/StuartHall_LOD1.fbx",
+      "StuartHall_LOD2": "assets/StuartHall/StuartHall/exports/ProjectFiles/StuartHall/StuartHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SunnyGymnasium": {
+    "source": "assets/SunnyGymnasium/SunnyGymnasium/source/SunnyGymnasium.blend",
+    "source_sha256": "e1f47bff4f5a5c016638fafedd1ce89cf5faa1cfa0b06fb35d70cb68c2dd0551",
+    "fbx": {
+      "SunnyGymnasium": "assets/SunnyGymnasium/SunnyGymnasium/exports/ProjectFiles/SunnyGymnasium/SunnyGymnasium.fbx",
+      "SunnyGymnasium_LOD1": "assets/SunnyGymnasium/SunnyGymnasium/exports/ProjectFiles/SunnyGymnasium/SunnyGymnasium_LOD1.fbx",
+      "SunnyGymnasium_LOD2": "assets/SunnyGymnasium/SunnyGymnasium/exports/ProjectFiles/SunnyGymnasium/SunnyGymnasium_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "SwiftHall": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend",
+    "source_sha256": "fb3741e7638d2894f081d53e0ca2bf12ed8b8ed8b8ddb821c2e37032c9cd3929",
+    "fbx": {
+      "SwiftHall": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/SwiftHall/SwiftHall.fbx",
+      "SwiftHall_LOD1": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/SwiftHall/SwiftHall_LOD1.fbx",
+      "SwiftHall_LOD2": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/SwiftHall/SwiftHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "TaftHouse": {
+    "source": "assets/TaftHouse/TaftHouse/source/TaftHouse.blend",
+    "source_sha256": "26a2fc2af7ef9b752c7b50625b3bd70ea4710f8427636a9fad750084f8c5d848",
+    "fbx": {
+      "TaftHouse": "assets/TaftHouse/TaftHouse/exports/ProjectFiles/TaftHouse/TaftHouse.fbx",
+      "TaftHouse_LOD1": "assets/TaftHouse/TaftHouse/exports/ProjectFiles/TaftHouse/TaftHouse_LOD1.fbx",
+      "TaftHouse_LOD2": "assets/TaftHouse/TaftHouse/exports/ProjectFiles/TaftHouse/TaftHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "UniversityHighSchoolModern": {
+    "source": "assets/UniversityHighSchoolModern/UniversityHighSchoolModern/source/UniversityHighSchoolModern.blend",
+    "source_sha256": "1d680d06c55f33093c768dc6cb3ece8c37f41b0f6365a5f4bf0fe03961928b75",
+    "fbx": {
+      "UniversityHighSchoolModern": "assets/UniversityHighSchoolModern/UniversityHighSchoolModern/exports/ProjectFiles/UniversityHighSchoolModern/UniversityHighSchoolModern.fbx",
+      "UniversityHighSchoolModern_LOD1": "assets/UniversityHighSchoolModern/UniversityHighSchoolModern/exports/ProjectFiles/UniversityHighSchoolModern/UniversityHighSchoolModern_LOD1.fbx",
+      "UniversityHighSchoolModern_LOD2": "assets/UniversityHighSchoolModern/UniversityHighSchoolModern/exports/ProjectFiles/UniversityHighSchoolModern/UniversityHighSchoolModern_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "WieboldtHall": {
+    "source": "assets/WieboldtHall/WieboldtHall/source/WieboldtHall.blend",
+    "source_sha256": "4112e25e07faa7910d7f988c33d367a458554db6efec52414318ff621b3015fb",
+    "fbx": {
+      "WieboldtHall": "assets/WieboldtHall/WieboldtHall/exports/ProjectFiles/WieboldtHall/WieboldtHall.fbx",
+      "WieboldtHall_LOD1": "assets/WieboldtHall/WieboldtHall/exports/ProjectFiles/WieboldtHall/WieboldtHall_LOD1.fbx",
+      "WieboldtHall_LOD2": "assets/WieboldtHall/WieboldtHall/exports/ProjectFiles/WieboldtHall/WieboldtHall_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "WilderHouse": {
+    "source": "assets/WilderHouse/WilderHouse/source/WilderHouse.blend",
+    "source_sha256": "7a4e1026e511de80f14cdc8fef3e2b41e588dc42567f8fa3547d82e5e233ffe3",
+    "fbx": {
+      "WilderHouse": "assets/WilderHouse/WilderHouse/exports/ProjectFiles/WilderHouse/WilderHouse.fbx",
+      "WilderHouse_LOD1": "assets/WilderHouse/WilderHouse/exports/ProjectFiles/WilderHouse/WilderHouse_LOD1.fbx",
+      "WilderHouse_LOD2": "assets/WilderHouse/WilderHouse/exports/ProjectFiles/WilderHouse/WilderHouse_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "WilliamEckhardtResearchCenter": {
+    "source": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend",
+    "source_sha256": "51938b86693fe4a9a336213fc6589629efb6e95f6a50ba91b11f7b55ec10e20c",
+    "fbx": {
+      "WilliamEckhardtResearchCenter": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/exports/ProjectFiles/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter.fbx",
+      "WilliamEckhardtResearchCenter_Gls": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/exports/ProjectFiles/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_Gls.fbx",
+      "WilliamEckhardtResearchCenter_LOD1": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/exports/ProjectFiles/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_LOD1.fbx",
+      "WilliamEckhardtResearchCenter_LOD1_Gls": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/exports/ProjectFiles/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_LOD1_Gls.fbx",
+      "WilliamEckhardtResearchCenter_LOD2": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/exports/ProjectFiles/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "WoodlawnDining": {
+    "source": "assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend",
+    "source_sha256": "dde66c841fd9abf82d4679496b6c360b32152c8c2a82ec0cd7a4f969e65cbea8",
+    "fbx": {
+      "WoodlawnDining": "assets/WoodlawnDining/WoodlawnDining/exports/ProjectFiles/WoodlawnDining/WoodlawnDining.fbx",
+      "WoodlawnDining_LOD1": "assets/WoodlawnDining/WoodlawnDining/exports/ProjectFiles/WoodlawnDining/WoodlawnDining_LOD1.fbx",
+      "WoodlawnDining_LOD2": "assets/WoodlawnDining/WoodlawnDining/exports/ProjectFiles/WoodlawnDining/WoodlawnDining_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "WoodlawnResidential": {
+    "source": "assets/WoodlawnResidential/WoodlawnResidential/source/WoodlawnResidential.blend",
+    "source_sha256": "8605812af9de25be448fb08a4b0364bd882c751e86418a576b4ba4eb065c2f6c",
+    "fbx": {
+      "WoodlawnResidential": "assets/WoodlawnResidential/WoodlawnResidential/exports/ProjectFiles/WoodlawnResidential/WoodlawnResidential.fbx",
+      "WoodlawnResidential_LOD1": "assets/WoodlawnResidential/WoodlawnResidential/exports/ProjectFiles/WoodlawnResidential/WoodlawnResidential_LOD1.fbx",
+      "WoodlawnResidential_LOD2": "assets/WoodlawnResidential/WoodlawnResidential/exports/ProjectFiles/WoodlawnResidential/WoodlawnResidential_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "YoungMemorial": {
+    "source": "assets/YoungMemorial/YoungMemorial/source/YoungMemorial.blend",
+    "source_sha256": "1de5bfe88ba65d7786329395c32153f212ce1b11541e0c1d0078f110dd29a66c",
+    "fbx": {
+      "YoungMemorial": "assets/YoungMemorial/YoungMemorial/exports/ProjectFiles/YoungMemorial/YoungMemorial.fbx",
+      "YoungMemorial_LOD1": "assets/YoungMemorial/YoungMemorial/exports/ProjectFiles/YoungMemorial/YoungMemorial_LOD1.fbx",
+      "YoungMemorial_LOD2": "assets/YoungMemorial/YoungMemorial/exports/ProjectFiles/YoungMemorial/YoungMemorial_LOD2.fbx"
+    },
+    "unmapped": []
+  },
+  "ZoologyBuilding": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/ZoologyBuilding.blend",
+    "source_sha256": "bcc8239870cf0159d59360cc2e42184172565aa17b1974dc3d22c9c7c553c703",
+    "fbx": {
+      "ZoologyBuilding": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ZoologyBuilding/ZoologyBuilding.fbx",
+      "ZoologyBuilding_LOD1": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ZoologyBuilding/ZoologyBuilding_LOD1.fbx",
+      "ZoologyBuilding_LOD2": "assets/HullCourt_v0.1/HullCourt/exports/ProjectFiles/ZoologyBuilding/ZoologyBuilding_LOD2.fbx"
+    },
+    "unmapped": []
+  }
+}

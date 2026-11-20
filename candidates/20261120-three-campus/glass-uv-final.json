@@ -1,0 +1,506 @@
+{
+  "Chicago/BoothHarperCenter/BoothHarperCenter_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 4528,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/BoothHarperCenter/BoothHarperCenter_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 1264,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/CatheyDining/CatheyDining_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 420,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/CatheyDining/CatheyDining_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 228,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/DavidRubensteinForum/DavidRubensteinForum_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 264,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/DavidRubensteinForum/DavidRubensteinForum_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 264,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/EdwardHLeviHall/EdwardHLeviHall_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 36,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/EdwardHLeviHall/EdwardHLeviHall_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 36,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/HenryHindsLaboratory/HenryHindsLaboratory_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 1848,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/HenryHindsLaboratory/HenryHindsLaboratory_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 1848,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/JohnCrerarLibrary/JohnCrerarLibrary_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 1080,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/JohnCrerarLibrary/JohnCrerarLibrary_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 1080,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/KellerCenter/KellerCenter_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 132,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/KellerCenter/KellerCenter_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 132,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/MansuetoLibrary/MansuetoLibrary_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 9192,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/MansuetoLibrary/MansuetoLibrary_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 3264,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 4130,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Chicago/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 4130,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/AveryHall/NA_AveryHall_6x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/AveryHall/NA_AveryHall_6x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/ButlerLibrary/NA_ButlerLibrary_11x7_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 56,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/ButlerLibrary/NA_ButlerLibrary_11x7_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 56,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/DodgeHall/NA_DodgeHall_9x5_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 276,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/DodgeHall/NA_DodgeHall_9x5_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 276,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/EarlHall/NA_EarlHall_3x5_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/EarlHall/NA_EarlHall_3x5_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/FayerweatherHall/NA_FayerweatherHall_6x5_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/FayerweatherHall/NA_FayerweatherHall_6x5_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/FurnaldHall/NA_FurnaldHall_8x5_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/FurnaldHall/NA_FurnaldHall_8x5_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/HamiltonHall/NA_HamiltonHall_8x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/HamiltonHall/NA_HamiltonHall_8x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/HavemeyerHall/NA_HavemeyerHall_8x8_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/HavemeyerHall/NA_HavemeyerHall_8x8_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/JohnJayHall/NA_JohnJayHall_8x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/JohnJayHall/NA_JohnJayHall_8x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/KentHall/NA_KentHall_8x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/KentHall/NA_KentHall_8x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/LewisohnHall/NA_LewisohnHall_6x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/LewisohnHall/NA_LewisohnHall_6x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 16,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 16,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/MathematicsHall/NA_MathematicsHall_7x5_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/MathematicsHall/NA_MathematicsHall_7x5_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/PhilosophyHall/NA_PhilosophyHall_6x4_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/PhilosophyHall/NA_PhilosophyHall_6x4_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/PupinHall/NA_PupinHall_8x3_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/PupinHall/NA_PupinHall_8x3_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/SchermerhornHall/NA_SchermerhornHall_8x6_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/SchermerhornHall/NA_SchermerhornHall_8x6_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/StPaulsChapel/NA_StPaulsChapel_4x6_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 12,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/StPaulsChapel/NA_StPaulsChapel_4x6_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 12,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/UrisHall/NA_UrisHall_6x9_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 72,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Columbia/UrisHall/NA_UrisHall_6x9_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 72,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Penn/CollegeHall/NA_CollegeHall_11x7_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ],
+  "Penn/CollegeHall/NA_CollegeHall_11x7_LOD1_Gls.fbx": [
+    {
+      "name": "UVMap",
+      "triangles": 112,
+      "zero_area_uv_count": 0,
+      "overlapping_pairs": 0,
+      "example_pairs": []
+    }
+  ]
+}
