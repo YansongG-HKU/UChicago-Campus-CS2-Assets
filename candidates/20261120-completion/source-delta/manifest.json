@@ -1,0 +1,32 @@
+[
+  {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "candidate": "TowerGroup_contact_review.blend",
+    "candidate_bytes": 6506252,
+    "candidate_sha256": "06f75668c992665e3b274eafd435be8101a780d2109891c6ebe4455a9ee1c095",
+    "delta": "TowerGroup_contact_review.zst",
+    "delta_bytes": 4563457,
+    "delta_sha256": "01303e6cadeb9c82bf8b1c0599c6e85354c06e7ba99982054fdfd0b9f897345b"
+  },
+  {
+    "source": "assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+    "source_sha256": "bb03527fb16b5e1e6dae9281108209f860bcbf3de6ab761c3fa0672c6976ece6",
+    "candidate": "Harper_windows.blend",
+    "candidate_bytes": 16675243,
+    "candidate_sha256": "06934d07b62e3b96195bd1df22688bf04b0f3484fe40fa4a3edf382ed849fe48",
+    "delta": "Harper_windows.zst",
+    "delta_bytes": 16671302,
+    "delta_sha256": "6fb51b91228d1ff6ea7045e645b7141c336f5c649afe2aaf6358ba33028ec1df"
+  },
+  {
+    "source": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+    "candidate": "Saieh_windows.blend",
+    "candidate_bytes": 9511650,
+    "candidate_sha256": "32629cb0e64fe8fb73e747a9107a200aa2c1df6022c119aca0b5b7b5b0bb8195",
+    "delta": "Saieh_windows.zst",
+    "delta_bytes": 7676999,
+    "delta_sha256": "34274c35d566ff651ea17cf62049a323d65bf416233bb0ef205fb485e930b591"
+  }
+]

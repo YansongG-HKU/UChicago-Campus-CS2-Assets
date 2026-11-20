@@ -1,0 +1,351 @@
+{
+  "source_sha256": "dde66c841fd9abf82d4679496b6c360b32152c8c2a82ec0cd7a4f969e65cbea8",
+  "levels": {
+    "near": {
+      "vertices_moved": 8,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ]
+    },
+    "_LOD1": {
+      "vertices_moved": 7,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ]
+    },
+    "_LOD2": {
+      "vertices_moved": 6,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        }
+      ]
+    }
+  },
+  "candidate_sha256": "23d1b584ec7b7805d0e20bf2fb1baf979a845c12119c361fb869252983a87f1c"
+}

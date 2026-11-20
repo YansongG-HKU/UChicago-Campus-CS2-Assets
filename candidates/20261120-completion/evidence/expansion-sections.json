@@ -1,0 +1,898 @@
+{
+  "KentChemicalLaboratory": {
+    "source": "assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend",
+    "source_sha256": "bb448522c4809f294e5d063559fe5bfee7c4fd36c7536e3bd2a1bf0bd191efb4",
+    "tiers": {
+      "near": {
+        "landmarks": {
+          "original_south_main": {
+            "xy_m": [
+              0,
+              -7.25
+            ],
+            "roof": [
+              [
+                0.0,
+                -7.25,
+                23.6453
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                -7.25,
+                23.35569
+              ],
+              0.73679
+            ]
+          },
+          "neck_center": {
+            "xy_m": [
+              0,
+              1.42
+            ],
+            "roof": [
+              [
+                0.0,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                1.42,
+                0.0
+              ],
+              1.0
+            ]
+          },
+          "west_near_neck_boundary": {
+            "xy_m": [
+              -4.5,
+              1.42
+            ],
+            "roof": [
+              [
+                -4.5,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                -4.5,
+                1.42,
+                0.4453
+              ],
+              0.70711
+            ]
+          },
+          "east_near_neck_boundary": {
+            "xy_m": [
+              4.5,
+              1.42
+            ],
+            "roof": [
+              [
+                4.5,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                4.5,
+                1.42,
+                0.4453
+              ],
+              0.70711
+            ]
+          },
+          "lecture_hall_center": {
+            "xy_m": [
+              0,
+              10.25
+            ],
+            "roof": [
+              [
+                0.0,
+                10.25,
+                23.83389
+              ],
+              0.26016
+            ],
+            "underside": [
+              [
+                0.0,
+                10.25,
+                17.76372
+              ],
+              0.60676
+            ]
+          },
+          "near_northwest_bevel": {
+            "xy_m": [
+              -6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "near_northeast_bevel": {
+            "xy_m": [
+              6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northwest_corner": {
+            "xy_m": [
+              -9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northeast_corner": {
+            "xy_m": [
+              9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.66200065612793,
+            27.66200065612793
+          ],
+          [
+            -19.723499298095703,
+            19.805299758911133
+          ],
+          [
+            0.0,
+            29.600000381469727
+          ]
+        ]
+      },
+      "_LOD1": {
+        "landmarks": {
+          "original_south_main": {
+            "xy_m": [
+              0,
+              -7.25
+            ],
+            "roof": [
+              [
+                0.0,
+                -7.25,
+                23.6453
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                -7.25,
+                23.35569
+              ],
+              0.73679
+            ]
+          },
+          "neck_center": {
+            "xy_m": [
+              0,
+              1.42
+            ],
+            "roof": [
+              [
+                0.0,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                1.42,
+                0.0
+              ],
+              1.0
+            ]
+          },
+          "west_near_neck_boundary": {
+            "xy_m": [
+              -4.5,
+              1.42
+            ],
+            "roof": [
+              [
+                -4.5,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                -4.5,
+                1.42,
+                0.4453
+              ],
+              0.70711
+            ]
+          },
+          "east_near_neck_boundary": {
+            "xy_m": [
+              4.5,
+              1.42
+            ],
+            "roof": [
+              [
+                4.5,
+                1.42,
+                15.6047
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                4.5,
+                1.42,
+                0.4453
+              ],
+              0.70711
+            ]
+          },
+          "lecture_hall_center": {
+            "xy_m": [
+              0,
+              10.25
+            ],
+            "roof": [
+              [
+                0.0,
+                10.25,
+                23.83389
+              ],
+              0.26016
+            ],
+            "underside": [
+              [
+                0.0,
+                10.25,
+                17.76372
+              ],
+              0.60676
+            ]
+          },
+          "near_northwest_bevel": {
+            "xy_m": [
+              -6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "near_northeast_bevel": {
+            "xy_m": [
+              6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northwest_corner": {
+            "xy_m": [
+              -9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northeast_corner": {
+            "xy_m": [
+              9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.66200065612793,
+            27.66200065612793
+          ],
+          [
+            -19.723499298095703,
+            19.805299758911133
+          ],
+          [
+            0.0,
+            29.600000381469727
+          ]
+        ]
+      },
+      "_LOD2": {
+        "landmarks": {
+          "original_south_main": {
+            "xy_m": [
+              0,
+              -7.25
+            ],
+            "roof": [
+              [
+                0.0,
+                -7.25,
+                23.49569
+              ],
+              0.73679
+            ],
+            "underside": [
+              [
+                0.0,
+                -7.25,
+                23.49569
+              ],
+              -0.73679
+            ]
+          },
+          "neck_center": {
+            "xy_m": [
+              0,
+              1.42
+            ],
+            "roof": [
+              [
+                0.0,
+                1.42,
+                12.06244
+              ],
+              0.83866
+            ],
+            "underside": [
+              [
+                0.0,
+                1.42,
+                0.0
+              ],
+              1.0
+            ]
+          },
+          "west_near_neck_boundary": {
+            "xy_m": [
+              -4.5,
+              1.42
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "east_near_neck_boundary": {
+            "xy_m": [
+              4.5,
+              1.42
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "lecture_hall_center": {
+            "xy_m": [
+              0,
+              10.25
+            ],
+            "roof": [
+              [
+                0.0,
+                10.25,
+                23.83389
+              ],
+              0.26016
+            ],
+            "underside": [
+              [
+                0.0,
+                10.25,
+                17.79695
+              ],
+              -0.83866
+            ]
+          },
+          "near_northwest_bevel": {
+            "xy_m": [
+              -6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "near_northeast_bevel": {
+            "xy_m": [
+              6.9,
+              17.8
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northwest_corner": {
+            "xy_m": [
+              -9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "far_northeast_corner": {
+            "xy_m": [
+              9,
+              19.0
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.45599937438965,
+            27.45599937438965
+          ],
+          [
+            -19.517499923706055,
+            19.517499923706055
+          ],
+          [
+            0.0,
+            28.399999618530273
+          ]
+        ]
+      }
+    }
+  },
+  "RyersonLaboratory": {
+    "source": "assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend",
+    "source_sha256": "e0a56891376e490df4678c21cf1261e55814cd43353e73dba9690da6299ee5fb",
+    "tiers": {
+      "near": {
+        "landmarks": {
+          "original_main_center": {
+            "xy_m": [
+              0,
+              -8.73
+            ],
+            "roof": [
+              [
+                0.0,
+                -8.73,
+                23.9
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                0.0,
+                -8.73,
+                23.7
+              ],
+              1.0
+            ]
+          },
+          "touching_annex_south_face_at_axis": {
+            "xy_m": [
+              0,
+              3.27
+            ],
+            "roof": [
+              [
+                0.0,
+                3.27,
+                24.6
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                0.0,
+                3.27,
+                0.01
+              ],
+              1.0
+            ]
+          },
+          "contact_left_of_center": {
+            "xy_m": [
+              -4,
+              3.27
+            ],
+            "roof": [
+              [
+                -4.0,
+                3.27,
+                25.25
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                -4.0,
+                3.27,
+                14.76179
+              ],
+              0.91247
+            ]
+          },
+          "contact_right_of_center": {
+            "xy_m": [
+              4,
+              3.27
+            ],
+            "roof": [
+              [
+                4.0,
+                3.27,
+                25.25
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                4.0,
+                3.27,
+                14.76179
+              ],
+              0.91247
+            ]
+          },
+          "north_annex_center": {
+            "xy_m": [
+              0,
+              12.41
+            ],
+            "roof": [
+              [
+                0.0,
+                12.41,
+                19.15
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                12.41,
+                18.86
+              ],
+              0.91247
+            ]
+          },
+          "outside_annex_left": {
+            "xy_m": [
+              -10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "outside_annex_right": {
+            "xy_m": [
+              10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.229999542236328,
+            27.229999542236328
+          ],
+          [
+            -23.784000396728516,
+            21.784000396728516
+          ],
+          [
+            0.0,
+            28.924999237060547
+          ]
+        ]
+      },
+      "_LOD1": {
+        "landmarks": {
+          "original_main_center": {
+            "xy_m": [
+              0,
+              -8.73
+            ],
+            "roof": [
+              [
+                0.0,
+                -8.73,
+                23.9
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                0.0,
+                -8.73,
+                23.7
+              ],
+              1.0
+            ]
+          },
+          "touching_annex_south_face_at_axis": {
+            "xy_m": [
+              0,
+              3.27
+            ],
+            "roof": [
+              [
+                0.0,
+                3.27,
+                24.6
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                0.0,
+                3.27,
+                0.01
+              ],
+              1.0
+            ]
+          },
+          "contact_left_of_center": {
+            "xy_m": [
+              -4,
+              3.27
+            ],
+            "roof": [
+              [
+                -4.0,
+                3.27,
+                25.25
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                -4.0,
+                3.27,
+                14.76179
+              ],
+              0.91247
+            ]
+          },
+          "contact_right_of_center": {
+            "xy_m": [
+              4,
+              3.27
+            ],
+            "roof": [
+              [
+                4.0,
+                3.27,
+                25.25
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                4.0,
+                3.27,
+                14.76179
+              ],
+              0.91247
+            ]
+          },
+          "north_annex_center": {
+            "xy_m": [
+              0,
+              12.41
+            ],
+            "roof": [
+              [
+                0.0,
+                12.41,
+                19.15
+              ],
+              0.70711
+            ],
+            "underside": [
+              [
+                0.0,
+                12.41,
+                18.86
+              ],
+              0.91247
+            ]
+          },
+          "outside_annex_left": {
+            "xy_m": [
+              -10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "outside_annex_right": {
+            "xy_m": [
+              10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.229999542236328,
+            27.229999542236328
+          ],
+          [
+            -23.784000396728516,
+            21.784000396728516
+          ],
+          [
+            0.0,
+            28.924999237060547
+          ]
+        ]
+      },
+      "_LOD2": {
+        "landmarks": {
+          "original_main_center": {
+            "xy_m": [
+              0,
+              -8.73
+            ],
+            "roof": [
+              [
+                0.0,
+                -8.73,
+                23.9
+              ],
+              1.0
+            ],
+            "underside": [
+              [
+                0.0,
+                -8.73,
+                23.7
+              ],
+              1.0
+            ]
+          },
+          "touching_annex_south_face_at_axis": {
+            "xy_m": [
+              0,
+              3.27
+            ],
+            "roof": [
+              [
+                0.0,
+                3.27,
+                14.90179
+              ],
+              0.91247
+            ],
+            "underside": [
+              [
+                0.0,
+                3.27,
+                14.90179
+              ],
+              -0.91247
+            ]
+          },
+          "contact_left_of_center": {
+            "xy_m": [
+              -4,
+              3.27
+            ],
+            "roof": [
+              [
+                -4.0,
+                3.27,
+                14.90179
+              ],
+              0.91247
+            ],
+            "underside": [
+              [
+                -4.0,
+                3.27,
+                14.90179
+              ],
+              -0.91247
+            ]
+          },
+          "contact_right_of_center": {
+            "xy_m": [
+              4,
+              3.27
+            ],
+            "roof": [
+              [
+                4.0,
+                3.27,
+                14.90179
+              ],
+              0.91247
+            ],
+            "underside": [
+              [
+                4.0,
+                3.27,
+                14.90179
+              ],
+              -0.91247
+            ]
+          },
+          "north_annex_center": {
+            "xy_m": [
+              0,
+              12.41
+            ],
+            "roof": [
+              [
+                0.0,
+                12.41,
+                19.0
+              ],
+              0.91247
+            ],
+            "underside": [
+              [
+                0.0,
+                12.41,
+                19.0
+              ],
+              -0.91247
+            ]
+          },
+          "outside_annex_left": {
+            "xy_m": [
+              -10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          },
+          "outside_annex_right": {
+            "xy_m": [
+              10.5,
+              12.41
+            ],
+            "roof": null,
+            "underside": null
+          }
+        },
+        "world_bounds_m": [
+          [
+            -27.02400016784668,
+            27.02400016784668
+          ],
+          [
+            -21.833999633789062,
+            21.577999114990234
+          ],
+          [
+            0.0,
+            28.200000762939453
+          ]
+        ]
+      }
+    }
+  }
+}

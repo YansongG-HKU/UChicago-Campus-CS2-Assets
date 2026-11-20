@@ -1,0 +1,322 @@
+{
+  "source": "HenryHindsLaboratory_repair.blend",
+  "source_sha256": "53b1a5868488cec6ad179f979a2bf9727827838cb50a8603879ca666c3cf353b",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "HenryHindsLaboratory",
+      "file_sha256": "d6504dcf6e2ab2053eec93498c50ea5334dae3d87a1b43efed2dbe254954d453",
+      "bytes": 833356,
+      "version": 7500,
+      "import_seconds": 0.19942341200021474,
+      "peak_rss_kib": 344220,
+      "texture_reference_hashes": {
+        "HenryHindsLaboratory_BaseColor.png": "ec40fce6583ee91c5fe2ae80b1c8585ee6bab82fdbd8a2f19d832cbae39e1bbe",
+        "HenryHindsLaboratory_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "HenryHindsLaboratory_Normal.png": "45c80809557a48686061c91e189ff63abf9e8216651a4f4e2d20d533c101ef89"
+      },
+      "imported_image_sizes": {
+        "HenryHindsLaboratory_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_Emissive.png": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 33442,
+      "reimport_triangles": 33442,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02685638719766938,
+      "bounds_max_delta_m": 4.398857981868787e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HenryHindsLaboratory_Mtl"
+      ],
+      "reimport_materials": [
+        "HenryHindsLaboratory_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -16.0,
+          -27.790000915527344,
+          0.0
+        ],
+        [
+          19.977500915527344,
+          27.790000915527344,
+          35.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -16.0,
+          -27.790000915527344,
+          -4.398857981868787e-06
+        ],
+        [
+          19.977500915527344,
+          27.79000473022461,
+          35.0
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HenryHindsLaboratory_Gls",
+      "file_sha256": "a9135a3c44014edb404761aa0243ef35bdc8fa3100fe9d7eab5b1151b91d4ccc",
+      "bytes": 66924,
+      "version": 7500,
+      "import_seconds": 0.005838062999828253,
+      "peak_rss_kib": 377212,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 1848,
+      "reimport_triangles": 1848,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 3.814697265625e-06,
+      "vertex_max_delta_m": 5.394796517066425e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -15.007499694824219,
+          -27.50750160217285,
+          1.4999998807907104
+        ],
+        [
+          12.007499694824219,
+          27.50750160217285,
+          20.940000534057617
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -15.007499694824219,
+          -27.50750160217285,
+          1.499998688697815
+        ],
+        [
+          12.007499694824219,
+          27.507505416870117,
+          20.940004348754883
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HenryHindsLaboratory_LOD1",
+      "file_sha256": "70bca2f9e50991707389865ff199783831edae03b01ea7bc91036f21cad92fcb",
+      "bytes": 287996,
+      "version": 7500,
+      "import_seconds": 0.1170339199998125,
+      "peak_rss_kib": 377212,
+      "texture_reference_hashes": {
+        "HenryHindsLaboratory_BaseColor.png": "ec40fce6583ee91c5fe2ae80b1c8585ee6bab82fdbd8a2f19d832cbae39e1bbe",
+        "HenryHindsLaboratory_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "HenryHindsLaboratory_Normal.png": "45c80809557a48686061c91e189ff63abf9e8216651a4f4e2d20d533c101ef89"
+      },
+      "imported_image_sizes": {
+        "HenryHindsLaboratory_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_Emissive.png": [
+          2048,
+          2048
+        ],
+        "HenryHindsLaboratory_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 10354,
+      "reimport_triangles": 10354,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.026278941808999073,
+      "bounds_max_delta_m": 4.398857981868787e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HenryHindsLaboratory_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "HenryHindsLaboratory_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -16.0,
+          -27.720001220703125,
+          0.0
+        ],
+        [
+          19.977500915527344,
+          27.720001220703125,
+          35.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -16.0,
+          -27.720001220703125,
+          -4.398857981868787e-06
+        ],
+        [
+          19.977500915527344,
+          27.72000503540039,
+          35.0
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HenryHindsLaboratory_LOD1_Gls",
+      "file_sha256": "be452849814ebe456409d84610248368821f5c1d7f4f32ba41bc8f069548002f",
+      "bytes": 67420,
+      "version": 7500,
+      "import_seconds": 0.0058606480001799355,
+      "peak_rss_kib": 377212,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 1848,
+      "reimport_triangles": 1848,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 3.814697265625e-06,
+      "vertex_max_delta_m": 5.394796517066425e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -15.007499694824219,
+          -27.50749969482422,
+          1.4999998807907104
+        ],
+        [
+          12.007499694824219,
+          27.50749969482422,
+          20.939998626708984
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -15.007499694824219,
+          -27.50749969482422,
+          1.499998688697815
+        ],
+        [
+          12.007499694824219,
+          27.507503509521484,
+          20.94000244140625
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HenryHindsLaboratory_LOD2",
+      "file_sha256": "1850460f6ce7c7ceb476fa0e378fcd9aa9a721164c82fee3f5120db9b32bdd04",
+      "bytes": 37772,
+      "version": 7500,
+      "import_seconds": 0.011772704000122758,
+      "peak_rss_kib": 377212,
+      "texture_reference_hashes": {
+        "HenryHindsLaboratory_LOD2_BaseColor.png": "438cd65db7e2cb4a15fe7c05d6605ef78c21183d61084940fa4bd8d0d90bdfe7",
+        "HenryHindsLaboratory_LOD2_Emissive.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "HenryHindsLaboratory_LOD2_Normal.png": "3a711168708995bfbf9e7f9c5e0d85a7ee0d7b43553f7a48a36bc94027b5540a"
+      },
+      "imported_image_sizes": {
+        "HenryHindsLaboratory_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "HenryHindsLaboratory_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "HenryHindsLaboratory_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "HenryHindsLaboratory_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 382,
+      "reimport_triangles": 382,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02173669004488026,
+      "bounds_max_delta_m": 4.398857981868787e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HenryHindsLaboratory_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "HenryHindsLaboratory_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -16.0,
+          -27.0,
+          0.0
+        ],
+        [
+          19.899999618530273,
+          27.0,
+          35.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -16.0,
+          -27.0,
+          -4.398857981868787e-06
+        ],
+        [
+          19.899999618530273,
+          27.000003814697266,
+          35.0
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

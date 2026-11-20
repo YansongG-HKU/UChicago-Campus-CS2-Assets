@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "source_sha256": "be0ac5a6c9914ccc9db2a667ad9c84ed53730ab8c4c6d2fef839f29a5864c1cf",
+    "candidate": "TowerGroup_far_contacts.blend",
+    "candidate_bytes": 6509978,
+    "candidate_sha256": "02269c8a07e48847fd8b6b4fb585a185c545ed92edce437f1c862be6242c7b2e",
+    "delta": "TowerGroup_far_contacts.zst",
+    "delta_bytes": 4372815,
+    "delta_sha256": "c9ae3c750b742e95d11d3b5d039c3a06014fba8719728449cec3a10475edb540"
+  }
+]

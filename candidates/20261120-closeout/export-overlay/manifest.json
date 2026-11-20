@@ -1,0 +1,62 @@
+[
+  {
+    "asset": "SaiehHall",
+    "baseline_package": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall",
+    "original_files": {
+      "SaiehHall.fbx": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+      "SaiehHall_BaseColor.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335",
+      "SaiehHall_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "SaiehHall_Emissive.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "SaiehHall_LOD1.fbx": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+      "SaiehHall_LOD2.fbx": "3c85dbf8364c0f5a714c908fce89d65b2a91c6757c1e0b1a8bc6cbbe121396f4",
+      "SaiehHall_LOD2_BaseColor.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "SaiehHall_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "SaiehHall_LOD2_Emissive.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "SaiehHall_LOD2_MaskMap.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "SaiehHall_LOD2_Normal.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "SaiehHall_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "SaiehHall_Normal.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "settings.json": "82a34bf3f4d7c3fb2792c0f65efe628ff6a7bd5191053ac300fc175167d24315",
+      "textures/195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "textures/5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "textures/80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "textures/9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "textures/ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "textures/c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "textures/da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "textures/ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335"
+    },
+    "replace": [
+      {
+        "name": "SaiehHall_LOD1.fbx",
+        "patch": "SaiehHall_LOD1.zst",
+        "before_sha256": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+        "patch_sha256": "18d2d15bb5010dd48adea9203097c36d6d3289304608061e6c1a8ddbf856441d",
+        "after_sha256": "173bc3696ee721210314f7cc0cf472dcc8535d2c6729493bbb624d7d71f07000",
+        "bytes": 1021676,
+        "baseline_bytes": 1021692,
+        "previous_candidate_bytes": 1021900
+      },
+      {
+        "name": "SaiehHall_LOD2.fbx",
+        "patch": "SaiehHall_LOD2.zst",
+        "before_sha256": "3c85dbf8364c0f5a714c908fce89d65b2a91c6757c1e0b1a8bc6cbbe121396f4",
+        "patch_sha256": "72bc94abb9efc76288fd8360587ce9ae4b8611f418f8da2658e064f8f77bdf65",
+        "after_sha256": "7a416d405b6b1e609d093731b6383ea9302a0b1138e9661dbea53cb2ff6a0c18",
+        "bytes": 60908,
+        "baseline_bytes": 60572
+      },
+      {
+        "name": "SaiehHall.fbx",
+        "patch": "SaiehHall.zst",
+        "before_sha256": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+        "patch_sha256": "eaf92283c13287e43bcab50129ad1664fb08e7f36b07376a272b7a2415f4b26e",
+        "after_sha256": "00fa09ea7c2242bb4df8868281c0bf39363c5e0a31c05c7e221721c456558679",
+        "bytes": 3039164,
+        "baseline_bytes": 3039580,
+        "previous_candidate_bytes": 3039276
+      }
+    ],
+    "add_references": []
+  }
+]

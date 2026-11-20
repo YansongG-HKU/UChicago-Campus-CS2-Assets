@@ -1,0 +1,22 @@
+{
+  "RyersonLaboratory": {
+    "original_main_center": [0, -8.73],
+    "touching_annex_south_face_at_axis": [0, 3.27],
+    "contact_left_of_center": [-4, 3.27],
+    "contact_right_of_center": [4, 3.27],
+    "north_annex_center": [0, 12.41],
+    "outside_annex_left": [-10.5, 12.41],
+    "outside_annex_right": [10.5, 12.41]
+  },
+  "KentChemicalLaboratory": {
+    "original_south_main": [0, -7.25],
+    "neck_center": [0, 1.42],
+    "west_near_neck_boundary": [-4.5, 1.42],
+    "east_near_neck_boundary": [4.5, 1.42],
+    "lecture_hall_center": [0, 10.25],
+    "near_northwest_bevel": [-6.9, 17.8],
+    "near_northeast_bevel": [6.9, 17.8],
+    "far_northwest_corner": [-9, 19.0],
+    "far_northeast_corner": [9, 19.0]
+  }
+}

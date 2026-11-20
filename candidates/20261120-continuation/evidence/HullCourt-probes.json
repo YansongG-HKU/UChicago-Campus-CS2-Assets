@@ -1,0 +1,1976 @@
+{
+  "assembly_sha256": "c031a0ea852971c397bc41e35373af46e5053dd36a122dddc1cf09ee3ed5c17e",
+  "components": {
+    "AnatomyBuilding": {
+      "sha256": "bcbd2ca187bdb9f9b41217155e4459af4f429075b7f9e29425425b655a46ca09",
+      "documented_model_body_xy_m": [
+        36.576,
+        15.24
+      ],
+      "body_measurement_basis": "published",
+      "tiers": {
+        "near": {
+          "bounds_m": [
+            [
+              -45.678001,
+              -8.362
+            ],
+            [
+              12.0924,
+              29.232401
+            ],
+            [
+              0.0,
+              26.450001
+            ]
+          ],
+          "triangles": 47970,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -45.678001,
+                -8.362
+              ],
+              [
+                12.0924,
+                29.232401
+              ],
+              [
+                0.0,
+                26.450001
+              ]
+            ],
+            "triangles": 47970
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -28.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -25.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -22.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 23.582672,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -19.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.959862,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -16.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.734695,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD1": {
+          "bounds_m": [
+            [
+              -45.638,
+              -8.362
+            ],
+            [
+              12.0924,
+              29.232401
+            ],
+            [
+              0.0,
+              26.450001
+            ]
+          ],
+          "triangles": 15474,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -45.638,
+                -8.362
+              ],
+              [
+                12.0924,
+                29.232401
+              ],
+              [
+                0.0,
+                26.450001
+              ]
+            ],
+            "triangles": 15474
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -28.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -25.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -22.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 23.582672,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -19.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.959862,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -16.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.734695,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD2": {
+          "bounds_m": [
+            [
+              -45.638,
+              -8.362
+            ],
+            [
+              12.0924,
+              29.232401
+            ],
+            [
+              0.0,
+              25.85
+            ]
+          ],
+          "triangles": 312,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -45.638,
+                -8.362
+              ],
+              [
+                12.0924,
+                29.232401
+              ],
+              [
+                0.0,
+                25.85
+              ]
+            ],
+            "triangles": 312
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -28.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.200005,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -25.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 24.200005,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -22.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 23.582672,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -19.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.959862,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -16.105999999999998,
+                20.662399999999998
+              ],
+              "roof_z_m": 19.734695,
+              "underside_z_m": 0.0
+            }
+          ]
+        }
+      }
+    },
+    "ZoologyBuilding": {
+      "sha256": "bcc8239870cf0159d59360cc2e42184172565aa17b1974dc3d22c9c7c553c703",
+      "documented_model_body_xy_m": [
+        36.576,
+        15.24
+      ],
+      "body_measurement_basis": "published",
+      "tiers": {
+        "near": {
+          "bounds_m": [
+            [
+              7.672,
+              46.328003
+            ],
+            [
+              12.652399,
+              28.672401
+            ],
+            [
+              0.0,
+              27.300001
+            ]
+          ],
+          "triangles": 48610,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                7.672,
+                46.328003
+              ],
+              [
+                12.652399,
+                28.672401
+              ],
+              [
+                0.0,
+                27.300001
+              ]
+            ],
+            "triangles": 48610
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                21.0,
+                20.6624
+              ],
+              "roof_z_m": 25.299999,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                24.0,
+                20.6624
+              ],
+              "roof_z_m": 25.299999,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                20.6624
+              ],
+              "roof_z_m": 27.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                30.0,
+                20.6624
+              ],
+              "roof_z_m": 25.299999,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                33.0,
+                20.6624
+              ],
+              "roof_z_m": 25.299999,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD1": {
+          "bounds_m": [
+            [
+              7.722001,
+              46.278004
+            ],
+            [
+              12.667399,
+              28.6574
+            ],
+            [
+              0.0,
+              27.300001
+            ]
+          ],
+          "triangles": 15330,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                7.722001,
+                46.278004
+              ],
+              [
+                12.667399,
+                28.6574
+              ],
+              [
+                0.0,
+                27.300001
+              ]
+            ],
+            "triangles": 15330
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                21.0,
+                20.6624
+              ],
+              "roof_z_m": 25.099998,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                24.0,
+                20.6624
+              ],
+              "roof_z_m": 25.099998,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                20.6624
+              ],
+              "roof_z_m": 27.300003,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                30.0,
+                20.6624
+              ],
+              "roof_z_m": 25.099998,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                33.0,
+                20.6624
+              ],
+              "roof_z_m": 25.099998,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD2": {
+          "bounds_m": [
+            [
+              7.982,
+              46.018002
+            ],
+            [
+              12.667399,
+              28.6574
+            ],
+            [
+              0.0,
+              26.65
+            ]
+          ],
+          "triangles": 306,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                7.982,
+                46.018002
+              ],
+              [
+                12.667399,
+                28.6574
+              ],
+              [
+                0.0,
+                26.65
+              ]
+            ],
+            "triangles": 306
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                21.0,
+                20.6624
+              ],
+              "roof_z_m": 25.0,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                24.0,
+                20.6624
+              ],
+              "roof_z_m": 25.0,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                20.6624
+              ],
+              "roof_z_m": 26.650002,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                30.0,
+                20.6624
+              ],
+              "roof_z_m": 25.000004,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                33.0,
+                20.6624
+              ],
+              "roof_z_m": 25.0,
+              "underside_z_m": 0.0
+            }
+          ]
+        }
+      }
+    },
+    "CulverHall": {
+      "sha256": "41349e953524cae36e81c5230cac79238e5286c0ff205f14ff5bbf5967506403",
+      "documented_model_body_xy_m": [
+        15.8496,
+        31.0896
+      ],
+      "body_measurement_basis": "published",
+      "tiers": {
+        "near": {
+          "bounds_m": [
+            [
+              -37.829803,
+              -18.685198
+            ],
+            [
+              -29.2724,
+              2.5972
+            ],
+            [
+              -0.0,
+              27.4
+            ]
+          ],
+          "triangles": 50477,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -37.829803,
+                -18.685198
+              ],
+              [
+                -29.2724,
+                2.5972
+              ],
+              [
+                -0.0,
+                27.4
+              ]
+            ],
+            "triangles": 50477
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 25.799995,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 25.799995,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 27.400002,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 25.799995,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 25.799995,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD1": {
+          "bounds_m": [
+            [
+              -37.829803,
+              -18.700199
+            ],
+            [
+              -29.257401,
+              2.5822
+            ],
+            [
+              -0.0,
+              27.4
+            ]
+          ],
+          "triangles": 14197,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -37.829803,
+                -18.700199
+              ],
+              [
+                -29.257401,
+                2.5822
+              ],
+              [
+                -0.0,
+                27.4
+              ]
+            ],
+            "triangles": 14197
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 25.599998,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 25.599998,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 27.400002,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 25.599998,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 25.599998,
+              "underside_z_m": 0.0
+            }
+          ]
+        },
+        "_LOD2": {
+          "bounds_m": [
+            [
+              -35.4398,
+              -18.700199
+            ],
+            [
+              -29.257401,
+              2.5822
+            ],
+            [
+              0.0,
+              27.299999
+            ]
+          ],
+          "triangles": 300,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                -35.4398,
+                -18.700199
+              ],
+              [
+                -29.257401,
+                2.5822
+              ],
+              [
+                0.0,
+                27.299999
+              ]
+            ],
+            "triangles": 300
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                -27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 25.500004,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 25.5,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 27.299995,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 25.5,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                -27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 25.5,
+              "underside_z_m": 0.0
+            }
+          ]
+        }
+      }
+    },
+    "ErmanBiologyCenter": {
+      "sha256": "c9bc554b8a703956083431ed289a105f9b3d89f2ca4d759ba5da5eeea256e655",
+      "documented_model_body_xy_m": [
+        16.0,
+        31.0
+      ],
+      "body_measurement_basis": "photo_estimate",
+      "tiers": {
+        "near": {
+          "bounds_m": [
+            [
+              18.609999,
+              37.905003
+            ],
+            [
+              -29.2276,
+              2.5524
+            ],
+            [
+              -0.0,
+              24.6
+            ]
+          ],
+          "triangles": 50353,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                18.609999,
+                37.905003
+              ],
+              [
+                -29.2276,
+                2.5524
+              ],
+              [
+                -0.0,
+                24.6
+              ]
+            ],
+            "triangles": 50353
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 24.0,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 24.0,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 24.0,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 24.0,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 24.0,
+              "underside_z_m": -0.0
+            }
+          ]
+        },
+        "_LOD1": {
+          "bounds_m": [
+            [
+              18.625,
+              37.905003
+            ],
+            [
+              -29.212601,
+              2.5374
+            ],
+            [
+              -0.0,
+              24.6
+            ]
+          ],
+          "triangles": 14157,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                18.625,
+                37.905003
+              ],
+              [
+                -29.212601,
+                2.5374
+              ],
+              [
+                -0.0,
+                24.6
+              ]
+            ],
+            "triangles": 14157
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 23.800003,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 23.800007,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 23.800007,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 23.800007,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 23.800003,
+              "underside_z_m": -0.0
+            }
+          ]
+        },
+        "_LOD2": {
+          "bounds_m": [
+            [
+              18.625,
+              35.514999
+            ],
+            [
+              -29.212601,
+              2.5374
+            ],
+            [
+              0.0,
+              24.549999
+            ]
+          ],
+          "triangles": 320,
+          "assembly_envelope": {
+            "bounds_m": [
+              [
+                18.625,
+                35.514999
+              ],
+              [
+                -29.212601,
+                2.5374
+              ],
+              [
+                0.0,
+                24.549999
+              ]
+            ],
+            "triangles": 320
+          },
+          "centerline": [
+            {
+              "xy_m": [
+                27.0,
+                -19.337600000000002
+              ],
+              "roof_z_m": 23.700001,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -16.337600000000002
+              ],
+              "roof_z_m": 23.700001,
+              "underside_z_m": -0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -13.337600000000002
+              ],
+              "roof_z_m": 23.700001,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -10.337600000000002
+              ],
+              "roof_z_m": 23.700001,
+              "underside_z_m": 0.0
+            },
+            {
+              "xy_m": [
+                27.0,
+                -7.337600000000002
+              ],
+              "roof_z_m": 23.699997,
+              "underside_z_m": -0.0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "loggias": {
+    "CulverHall.north_lab_loggia": {
+      "proxy": {
+        "bounds_m": [
+          [
+            -28.85,
+            -25.15
+          ],
+          [
+            2.0822,
+            13.1674
+          ],
+          [
+            0.0,
+            5.8
+          ]
+        ],
+        "triangles": 184
+      },
+      "samples": {
+        "near": [
+          {
+            "x": -28.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -28.2,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 12.732399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27.8,
+            "z": 1.1,
+            "south_lab_end": 2.352199,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 2.9,
+            "south_lab_end": 2.3197,
+            "north_lab_end": 12.907399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 4.75,
+            "south_lab_end": 2.3197,
+            "north_lab_end": 12.907399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27,
+            "z": 0.1,
+            "south_lab_end": 2.5172,
+            "north_lab_end": 12.732399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27,
+            "z": 1.1,
+            "south_lab_end": 2.3622,
+            "north_lab_end": 12.887399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 2.9,
+            "south_lab_end": 1.947199,
+            "north_lab_end": 13.3024,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 4.75,
+            "south_lab_end": 1.947199,
+            "north_lab_end": 13.3024,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -26.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -26.2,
+            "z": 1.1,
+            "south_lab_end": 2.352199,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 2.9,
+            "south_lab_end": 2.3197,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 4.75,
+            "south_lab_end": 2.3197,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -25.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -25.8,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          }
+        ],
+        "_LOD1": [
+          {
+            "x": -28.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -28.2,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27.8,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 12.907399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 12.907399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27,
+            "z": 1.1,
+            "south_lab_end": 2.3622,
+            "north_lab_end": 12.887399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 2.9,
+            "south_lab_end": 1.947199,
+            "north_lab_end": 13.3024,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 4.75,
+            "south_lab_end": 1.947199,
+            "north_lab_end": 13.3024,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -26.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -26.2,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -25.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -25.8,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          }
+        ],
+        "_LOD2": [
+          {
+            "x": -28.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -28.2,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -28.2,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27.8,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27.8,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -27,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -27,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -27,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -26.2,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -26.2,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": -26.2,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": -25.8,
+            "z": 0.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.2072,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": -25.8,
+            "z": 1.1,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 2.9,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.507201,
+            "north_proxy": 12.742401
+          },
+          {
+            "x": -25.8,
+            "z": 4.75,
+            "south_lab_end": 2.2072,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0822,
+            "north_proxy": 13.1674
+          }
+        ]
+      }
+    },
+    "ErmanBiologyCenter.north_lab_loggia": {
+      "proxy": {
+        "bounds_m": [
+          [
+            25.15,
+            28.85
+          ],
+          [
+            2.0374,
+            13.1674
+          ],
+          [
+            0.0,
+            5.8
+          ]
+        ],
+        "triangles": 184
+      },
+      "samples": {
+        "near": [
+          {
+            "x": 25.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 25.8,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 26.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 26.2,
+            "z": 1.1,
+            "south_lab_end": 2.307399,
+            "north_lab_end": 12.8974,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 2.9,
+            "south_lab_end": 2.274901,
+            "north_lab_end": 12.929898,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 4.75,
+            "south_lab_end": 2.274901,
+            "north_lab_end": 12.929898,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27,
+            "z": 0.1,
+            "south_lab_end": 2.4724,
+            "north_lab_end": 12.732399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27,
+            "z": 1.1,
+            "south_lab_end": 2.3174,
+            "north_lab_end": 12.887399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 2.9,
+            "south_lab_end": 1.9024,
+            "north_lab_end": 13.3024,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 4.75,
+            "south_lab_end": 1.9024,
+            "north_lab_end": 13.3024,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27.8,
+            "z": 1.1,
+            "south_lab_end": 2.307399,
+            "north_lab_end": 12.897401,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 2.9,
+            "south_lab_end": 2.274901,
+            "north_lab_end": 12.929898,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 4.75,
+            "south_lab_end": 2.274901,
+            "north_lab_end": 12.929898,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 28.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 28.2,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          }
+        ],
+        "_LOD1": [
+          {
+            "x": 25.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 25.8,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 26.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 26.2,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27,
+            "z": 1.1,
+            "south_lab_end": 2.3174,
+            "north_lab_end": 12.887399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 2.9,
+            "south_lab_end": 1.9024,
+            "north_lab_end": 13.3024,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 4.75,
+            "south_lab_end": 1.9024,
+            "north_lab_end": 13.3024,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27.8,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 28.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 28.2,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          }
+        ],
+        "_LOD2": [
+          {
+            "x": 25.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 25.8,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 25.8,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 26.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 26.2,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 26.2,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 27.8,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 27.8,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": null,
+            "north_proxy": null
+          },
+          {
+            "x": 27.8,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          },
+          {
+            "x": 28.2,
+            "z": 0.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.1624,
+            "north_proxy": 13.0424
+          },
+          {
+            "x": 28.2,
+            "z": 1.1,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 2.9,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.462399,
+            "north_proxy": 12.7424
+          },
+          {
+            "x": 28.2,
+            "z": 4.75,
+            "south_lab_end": 2.1624,
+            "north_lab_end": 13.042399,
+            "south_proxy": 2.0374,
+            "north_proxy": 13.1674
+          }
+        ]
+      }
+    }
+  },
+  "gate_markers": [
+    "Cobb Gate placement unresolved \u2014 reuse existing read-only ass"
+  ]
+}

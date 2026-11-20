@@ -1,0 +1,22 @@
+[
+  {
+    "source": "assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend",
+    "source_sha256": "dde66c841fd9abf82d4679496b6c360b32152c8c2a82ec0cd7a4f969e65cbea8",
+    "candidate": "WoodlawnDining_lawn_contact.blend",
+    "candidate_bytes": 593266,
+    "candidate_sha256": "23d1b584ec7b7805d0e20bf2fb1baf979a845c12119c361fb869252983a87f1c",
+    "delta": "WoodlawnDining_lawn_contact.zst",
+    "delta_bytes": 195998,
+    "delta_sha256": "1bdcc02aac4e00d5a05d729af4923f16fc18d425dc39ee18b430d01792744ca9"
+  },
+  {
+    "source": "assets/WoodlawnCommonsAssembly/WoodlawnCommonsAssembly/source/WoodlawnCommonsAssembly.blend",
+    "source_sha256": "e750b32ead9c5d11c09721bef6ab81631c066f489b30b8562d45ba7cf8f0b21c",
+    "candidate": "WoodlawnAssembly_lawn_contact.blend",
+    "candidate_bytes": 2171357,
+    "candidate_sha256": "49c5da1580a67e17f80cbdbc87be5e7aadc4eeb175a342d6372b2ad20555df11",
+    "delta": "WoodlawnAssembly_lawn_contact.zst",
+    "delta_bytes": 460052,
+    "delta_sha256": "1a3233795d64afe6561e757bd54a36a0076da9569adcc47c02f32c6cde1a31e0"
+  }
+]

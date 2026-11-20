@@ -1,0 +1,322 @@
+{
+  "source": "WilliamEckhardtResearchCenter.blend",
+  "source_sha256": "51938b86693fe4a9a336213fc6589629efb6e95f6a50ba91b11f7b55ec10e20c",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "WilliamEckhardtResearchCenter",
+      "file_sha256": "2ea60d4e8958cb3811f85c194f4e825ec2394fa4468f25bd935f88008a850493",
+      "bytes": 1312476,
+      "version": 7500,
+      "import_seconds": 0.20807316300033563,
+      "peak_rss_kib": 361884,
+      "texture_reference_hashes": {
+        "textures/5f62b0e79dbd1000488d580212b8efa42d61bde579e6ac6d1c59191a84947eca.png": "5f62b0e79dbd1000488d580212b8efa42d61bde579e6ac6d1c59191a84947eca",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/7271335340481b247d8e53e03c5de3307d8540feb2ed2c83e0dc109fe423d23d.png": "7271335340481b247d8e53e03c5de3307d8540feb2ed2c83e0dc109fe423d23d"
+      },
+      "imported_image_sizes": {
+        "WilliamEckhardtResearchCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 41936,
+      "reimport_triangles": 41936,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030718387474636892,
+      "bounds_max_delta_m": 7.510643172281561e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WilliamEckhardtResearchCenter_Mtl"
+      ],
+      "reimport_materials": [
+        "WilliamEckhardtResearchCenter_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -17.950000762939453,
+          -49.095001220703125,
+          0.0
+        ],
+        [
+          17.950000762939453,
+          47.095001220703125,
+          38.95000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -17.950000762939453,
+          -49.095001220703125,
+          -7.510643172281561e-06
+        ],
+        [
+          17.950000762939453,
+          47.09500503540039,
+          38.95000457763672
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WilliamEckhardtResearchCenter_Gls",
+      "file_sha256": "dbb4a6a6af02804795f4e0465efd545ad02df6c6f71c62b881c7730813353c87",
+      "bytes": 185820,
+      "version": 7500,
+      "import_seconds": 0.008812348999981623,
+      "peak_rss_kib": 397912,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 4130,
+      "reimport_triangles": 4130,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02806947924829859,
+      "bounds_max_delta_m": 7.62939453125e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -17.560625076293945,
+          -49.0,
+          0.15000000596046448
+        ],
+        [
+          17.560625076293945,
+          47.02000045776367,
+          26.719999313354492
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -17.560625076293945,
+          -49.0,
+          0.14999249577522278
+        ],
+        [
+          17.560625076293945,
+          47.02000427246094,
+          26.71999168395996
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WilliamEckhardtResearchCenter_LOD1",
+      "file_sha256": "362ad8e1daf632ac44e85f94539bb476883f5fc240036eb6dbd572dbbfc6787d",
+      "bytes": 521164,
+      "version": 7500,
+      "import_seconds": 0.11268607400006658,
+      "peak_rss_kib": 397912,
+      "texture_reference_hashes": {
+        "textures/5f62b0e79dbd1000488d580212b8efa42d61bde579e6ac6d1c59191a84947eca.png": "5f62b0e79dbd1000488d580212b8efa42d61bde579e6ac6d1c59191a84947eca",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/7271335340481b247d8e53e03c5de3307d8540feb2ed2c83e0dc109fe423d23d.png": "7271335340481b247d8e53e03c5de3307d8540feb2ed2c83e0dc109fe423d23d"
+      },
+      "imported_image_sizes": {
+        "WilliamEckhardtResearchCenter_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_Emissive.png": [
+          2048,
+          2048
+        ],
+        "WilliamEckhardtResearchCenter_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 15070,
+      "reimport_triangles": 15070,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030442481817332886,
+      "bounds_max_delta_m": 7.510643172281561e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WilliamEckhardtResearchCenter_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "WilliamEckhardtResearchCenter_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -17.950000762939453,
+          -49.08749771118164,
+          0.0
+        ],
+        [
+          17.950000762939453,
+          47.08749771118164,
+          38.900001525878906
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -17.950000762939453,
+          -49.08749771118164,
+          -7.510643172281561e-06
+        ],
+        [
+          17.950000762939453,
+          47.087501525878906,
+          38.90000534057617
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WilliamEckhardtResearchCenter_LOD1_Gls",
+      "file_sha256": "079867eaf497d9b7bb463dc44d228a773c762502fd1806ea90fae40aca631f2f",
+      "bytes": 185836,
+      "version": 7500,
+      "import_seconds": 0.009783492999758892,
+      "peak_rss_kib": 397912,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 4130,
+      "reimport_triangles": 4130,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02806947924829859,
+      "bounds_max_delta_m": 7.62939453125e-06,
+      "vertex_max_delta_m": 8.529922524758149e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -17.560625076293945,
+          -49.0,
+          0.15000000596046448
+        ],
+        [
+          17.560625076293945,
+          47.02000045776367,
+          26.719999313354492
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -17.560625076293945,
+          -49.0,
+          0.14999249577522278
+        ],
+        [
+          17.560625076293945,
+          47.02000427246094,
+          26.71999168395996
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WilliamEckhardtResearchCenter_LOD2",
+      "file_sha256": "b74aa572a93cb6be0ba97bbf0d096f3461037e20452a6dcc4d504bfb9e4f7c1c",
+      "bytes": 41852,
+      "version": 7500,
+      "import_seconds": 0.011541353999746207,
+      "peak_rss_kib": 397912,
+      "texture_reference_hashes": {
+        "textures/185fe2bfe74d9304f3570d0650317656e00cfa74a480d9fa4e1e19685c4d541b.png": "185fe2bfe74d9304f3570d0650317656e00cfa74a480d9fa4e1e19685c4d541b",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/cfbc57c28a79897f0c53b97a74a04ef828147c023f552554f2b88e694f9a665a.png": "cfbc57c28a79897f0c53b97a74a04ef828147c023f552554f2b88e694f9a665a"
+      },
+      "imported_image_sizes": {
+        "WilliamEckhardtResearchCenter_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "WilliamEckhardtResearchCenter_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "WilliamEckhardtResearchCenter_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "WilliamEckhardtResearchCenter_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 370,
+      "reimport_triangles": 370,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030517957424450674,
+      "bounds_max_delta_m": 7.510643172281561e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WilliamEckhardtResearchCenter_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "WilliamEckhardtResearchCenter_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -17.6299991607666,
+          -49.0,
+          0.0
+        ],
+        [
+          17.600000381469727,
+          47.0,
+          38.900001525878906
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -17.6299991607666,
+          -49.0,
+          -7.510643172281561e-06
+        ],
+        [
+          17.600000381469727,
+          47.000003814697266,
+          38.90000534057617
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

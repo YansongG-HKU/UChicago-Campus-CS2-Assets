@@ -1,0 +1,424 @@
+{
+  "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+  "candidate_sha256": "32629cb0e64fe8fb73e747a9107a200aa2c1df6022c119aca0b5b7b5b0bb8195",
+  "tiers": {
+    "near": {
+      "groups": {
+        "great_tower_east_lancet": {
+          "flipped_faces": 13,
+          "face_indices": [
+            1445,
+            31036,
+            31037,
+            31038,
+            31039,
+            31040,
+            31041,
+            31042,
+            31043,
+            31044,
+            31045,
+            31046,
+            31047
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 60.02315100003034
+        },
+        "great_tower_east_upper_lancet": {
+          "flipped_faces": 13,
+          "face_indices": [
+            1710,
+            31312,
+            31313,
+            31314,
+            31315,
+            31316,
+            31317,
+            31318,
+            31319,
+            31320,
+            31321,
+            31322,
+            31323
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 16.395443494431674
+        },
+        "square_tower_west": {
+          "flipped_faces": 12,
+          "face_indices": [
+            7519,
+            7580,
+            7641,
+            7702,
+            7763,
+            7824,
+            37182,
+            37243,
+            37304,
+            37365,
+            37426,
+            37487
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 89.3000135421753
+        },
+        "square_tower_north": {
+          "flipped_faces": 12,
+          "face_indices": [
+            7081,
+            7142,
+            7203,
+            7264,
+            7325,
+            7386,
+            36744,
+            36805,
+            36866,
+            36927,
+            36988,
+            37049
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 89.29994010925293
+        },
+        "chapel_court_windows": {
+          "flipped_faces": 78,
+          "face_indices": [
+            15275,
+            16128,
+            16981,
+            17834,
+            18687,
+            19540,
+            45031,
+            45032,
+            45033,
+            45034,
+            45035,
+            45036,
+            45037,
+            45038,
+            45039,
+            45040,
+            45041,
+            45042,
+            45895,
+            45896,
+            45897,
+            45898,
+            45899,
+            45900,
+            45901,
+            45902,
+            45903,
+            45904,
+            45905,
+            45906,
+            46759,
+            46760,
+            46761,
+            46762,
+            46763,
+            46764,
+            46765,
+            46766,
+            46767,
+            46768,
+            46769,
+            46770,
+            47623,
+            47624,
+            47625,
+            47626,
+            47627,
+            47628,
+            47629,
+            47630,
+            47631,
+            47632,
+            47633,
+            47634,
+            48487,
+            48488,
+            48489,
+            48490,
+            48491,
+            48492,
+            48493,
+            48494,
+            48495,
+            48496,
+            48497,
+            48498,
+            49351,
+            49352,
+            49353,
+            49354,
+            49355,
+            49356,
+            49357,
+            49358,
+            49359,
+            49360,
+            49361,
+            49362
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 114.08057598769665
+        }
+      },
+      "existing_custom_normals_preserved": false,
+      "unmodified_corner_normal_max_component_delta": null
+    },
+    "_LOD1": {
+      "groups": {
+        "great_tower_east_lancet": {
+          "flipped_faces": 11,
+          "face_indices": [
+            719,
+            11711,
+            11712,
+            11713,
+            11714,
+            11715,
+            11716,
+            11717,
+            11718,
+            11719,
+            11720
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 60.014423636719584
+        },
+        "great_tower_east_upper_lancet": {
+          "flipped_faces": 11,
+          "face_indices": [
+            816,
+            11817,
+            11818,
+            11819,
+            11820,
+            11821,
+            11822,
+            11823,
+            11824,
+            11825,
+            11826
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 16.38653379306197
+        },
+        "square_tower_west": {
+          "flipped_faces": 12,
+          "face_indices": [
+            3381,
+            3418,
+            3455,
+            3492,
+            3529,
+            3566,
+            14429,
+            14466,
+            14503,
+            14540,
+            14577,
+            14614
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 89.3000135421753
+        },
+        "square_tower_north": {
+          "flipped_faces": 12,
+          "face_indices": [
+            3147,
+            3184,
+            3221,
+            3258,
+            3295,
+            3332,
+            14195,
+            14232,
+            14269,
+            14306,
+            14343,
+            14380
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 89.29994010925293
+        },
+        "chapel_court_windows": {
+          "flipped_faces": 66,
+          "face_indices": [
+            5113,
+            5198,
+            5283,
+            5368,
+            5453,
+            5538,
+            16236,
+            16237,
+            16238,
+            16239,
+            16240,
+            16241,
+            16242,
+            16243,
+            16244,
+            16245,
+            16330,
+            16331,
+            16332,
+            16333,
+            16334,
+            16335,
+            16336,
+            16337,
+            16338,
+            16339,
+            16424,
+            16425,
+            16426,
+            16427,
+            16428,
+            16429,
+            16430,
+            16431,
+            16432,
+            16433,
+            16518,
+            16519,
+            16520,
+            16521,
+            16522,
+            16523,
+            16524,
+            16525,
+            16526,
+            16527,
+            16612,
+            16613,
+            16614,
+            16615,
+            16616,
+            16617,
+            16618,
+            16619,
+            16620,
+            16621,
+            16706,
+            16707,
+            16708,
+            16709,
+            16710,
+            16711,
+            16712,
+            16713,
+            16714,
+            16715
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 114.00993837416172
+        }
+      },
+      "existing_custom_normals_preserved": false,
+      "unmodified_corner_normal_max_component_delta": null
+    },
+    "_LOD2": {
+      "groups": {
+        "great_tower_east_lancet": {
+          "flipped_faces": 2,
+          "face_indices": [
+            69,
+            290
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 60.98637771606445
+        },
+        "great_tower_east_upper_lancet": {
+          "flipped_faces": 2,
+          "face_indices": [
+            70,
+            291
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 17.378328323364258
+        },
+        "square_tower_west": {
+          "flipped_faces": 2,
+          "face_indices": [
+            106,
+            311
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 84.0
+        },
+        "square_tower_north": {
+          "flipped_faces": 2,
+          "face_indices": [
+            105,
+            310
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 84.0
+        },
+        "chapel_court_windows": {
+          "flipped_faces": 6,
+          "face_indices": [
+            134,
+            135,
+            136,
+            355,
+            356,
+            357
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 69.59998893737793
+        },
+        "office_court_windows": {
+          "flipped_faces": 4,
+          "face_indices": [
+            148,
+            149,
+            369,
+            370
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 65.625
+        },
+        "west_range_court_windows": {
+          "flipped_faces": 6,
+          "face_indices": [
+            145,
+            146,
+            147,
+            366,
+            367,
+            368
+          ],
+          "outward_normal_axis": 1,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 98.4375
+        }
+      },
+      "existing_custom_normals_preserved": false,
+      "unmodified_corner_normal_max_component_delta": null
+    }
+  }
+}

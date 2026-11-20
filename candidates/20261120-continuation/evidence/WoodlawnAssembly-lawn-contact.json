@@ -1,0 +1,675 @@
+{
+  "source_sha256": "e750b32ead9c5d11c09721bef6ab81631c066f489b30b8562d45ba7cf8f0b21c",
+  "levels": {
+    "near": {
+      "vertices_moved": 8,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ]
+    },
+    "_LOD1": {
+      "vertices_moved": 7,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ]
+    },
+    "_LOD2": {
+      "vertices_moved": 6,
+      "before": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.205,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ],
+      "after": [
+        {
+          "xy_dining_local_m": [
+            -13,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -13,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            -4,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -14
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -22
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnDining"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -29
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        },
+        {
+          "xy_dining_local_m": [
+            1,
+            -35
+          ],
+          "lawn_underside_z_m": 4.197,
+          "podium_z_m": 4.2,
+          "roof_owner": "WoodlawnResidential"
+        }
+      ]
+    }
+  },
+  "candidate_sha256": "49c5da1580a67e17f80cbdbc87be5e7aadc4eeb175a342d6372b2ad20555df11"
+}

@@ -1,0 +1,225 @@
+[
+  {
+    "asset": "HutchinsonCommons",
+    "baseline_package": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/HutchinsonCommons",
+    "original_files": {
+      "HutchinsonCommons.fbx": "72d9bce6d4c0264720fc375c6494d69933b8ebd2dbbe9c2ef2f0c9e608b008c7",
+      "HutchinsonCommons_BaseColor.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e",
+      "HutchinsonCommons_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "HutchinsonCommons_Emissive.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "HutchinsonCommons_LOD1.fbx": "73928ea876d0e4ccb9128d44c253045a21fbf1b20940f32bd2da43ab4c058017",
+      "HutchinsonCommons_LOD2.fbx": "d5bb383130a9aa938b2cb488831acd1551538a57bd05a046ef12694b50cc8249",
+      "HutchinsonCommons_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "HutchinsonCommons_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "HutchinsonCommons_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "HutchinsonCommons_LOD2_MaskMap.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "HutchinsonCommons_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "HutchinsonCommons_MaskMap.png": "b6bbeda600cafc26436cc0d9c03a3198832ade4b08483bb284b38bbd1b07275f",
+      "HutchinsonCommons_Normal.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "settings.json": "7f8ecffc2ccc40e014023c5008abf9ab0bc31b185fa01ed5f2a35e6f399890fc",
+      "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "textures/8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "textures/9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+    },
+    "replace": [
+      {
+        "name": "HutchinsonCommons_LOD1.fbx",
+        "patch": "HutchinsonCommons_LOD1.zst",
+        "before_sha256": "73928ea876d0e4ccb9128d44c253045a21fbf1b20940f32bd2da43ab4c058017",
+        "patch_sha256": "ac80f4e00d3d0c047591ae702d2b6ba015bfe2597381dfe067fd25787162aade",
+        "after_sha256": "e0a7eb09a0b5bff9ac6d02edc26dd4a8615308c780fbbe093a74d314b63db6e8",
+        "bytes": 478668,
+        "baseline_bytes": 480076
+      },
+      {
+        "name": "HutchinsonCommons.fbx",
+        "patch": "HutchinsonCommons.zst",
+        "before_sha256": "72d9bce6d4c0264720fc375c6494d69933b8ebd2dbbe9c2ef2f0c9e608b008c7",
+        "patch_sha256": "cdb1ae7d956c71d8c7a82e301df623a3774b89aa20e392560a21978a93b708a8",
+        "after_sha256": "f68e991466f8ad0cbdf52a3bd79746f7f961c72214fdb45bb8408520d3a456a0",
+        "bytes": 1399852,
+        "baseline_bytes": 1402316
+      },
+      {
+        "name": "HutchinsonCommons_LOD2.fbx",
+        "patch": "HutchinsonCommons_LOD2.zst",
+        "before_sha256": "d5bb383130a9aa938b2cb488831acd1551538a57bd05a046ef12694b50cc8249",
+        "patch_sha256": "d1a751e62a59b6ba210f39b8a3303a6a110ac64ee494b13fd6fe0955b6ebd0db",
+        "after_sha256": "6e8d71ceaee5d25ae6988f2f5cfc6448347991a8e10857d206f3371ff9bbed81",
+        "bytes": 43340,
+        "baseline_bytes": 42892
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "ReynoldsClubhouse",
+    "baseline_package": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/ReynoldsClubhouse",
+    "original_files": {
+      "ReynoldsClubhouse.fbx": "b758d15234e4c54035806aa7746b60cead118fc6c456b55a1150ddb8b1a72ad4",
+      "ReynoldsClubhouse_BaseColor.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e",
+      "ReynoldsClubhouse_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "ReynoldsClubhouse_Emissive.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "ReynoldsClubhouse_LOD1.fbx": "77a5f70044969c4c882bc17cd05336972e582fcbfc14d1c0dc8694c1450a18b9",
+      "ReynoldsClubhouse_LOD2.fbx": "ea717a2a391840cda92b208f1eb622585f45732c7d7911d8f3ee709e85a41cc5",
+      "ReynoldsClubhouse_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "ReynoldsClubhouse_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "ReynoldsClubhouse_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "ReynoldsClubhouse_LOD2_MaskMap.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "ReynoldsClubhouse_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "ReynoldsClubhouse_MaskMap.png": "b6bbeda600cafc26436cc0d9c03a3198832ade4b08483bb284b38bbd1b07275f",
+      "ReynoldsClubhouse_Normal.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "settings.json": "bc4e3fe4d252303e75d661d12d906ee0630ad7d60e3c10719706c20aa2c54346",
+      "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "textures/8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "textures/9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+    },
+    "replace": [
+      {
+        "name": "ReynoldsClubhouse.fbx",
+        "patch": "ReynoldsClubhouse.zst",
+        "before_sha256": "b758d15234e4c54035806aa7746b60cead118fc6c456b55a1150ddb8b1a72ad4",
+        "patch_sha256": "f107075d7f1a2a85ba17f356e23991189b48b2abfb12d200e99d009f1129ee66",
+        "after_sha256": "b24cc9db9c6422b8e2ac7093c3420d4aa2be645f0270e86a070b75812201bfce",
+        "bytes": 467212,
+        "baseline_bytes": 460972
+      },
+      {
+        "name": "ReynoldsClubhouse_LOD1.fbx",
+        "patch": "ReynoldsClubhouse_LOD1.zst",
+        "before_sha256": "77a5f70044969c4c882bc17cd05336972e582fcbfc14d1c0dc8694c1450a18b9",
+        "patch_sha256": "9906ff38448e197862efc355b79d10fdccf8748cd8f6fe36ac5f17dcc758a81b",
+        "after_sha256": "7578a99734f3bb16291af7f6da4b240bd0b8caa9910cdb7a903c14054310d00a",
+        "bytes": 213916,
+        "baseline_bytes": 208284
+      },
+      {
+        "name": "ReynoldsClubhouse_LOD2.fbx",
+        "patch": "ReynoldsClubhouse_LOD2.zst",
+        "before_sha256": "ea717a2a391840cda92b208f1eb622585f45732c7d7911d8f3ee709e85a41cc5",
+        "patch_sha256": "0c136a5b75998a3799551f2462ec444ebe112f8d126b269f4c41c6b6dc5b0149",
+        "after_sha256": "d3821891be7b12c443789d166d06e3dfd812ab710909e4d4ebb17492622bfdf4",
+        "bytes": 52572,
+        "baseline_bytes": 51772
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "HarperMemorialLibrary",
+    "baseline_package": "assets/HarperMemorialLibrary/harper_memorial_library/exports/ProjectFiles/HarperMemorialLibrary",
+    "original_files": {
+      "HarperMemorialLibrary.fbx": "b115a83ddfde99eff18de651d39098fdc0037b18fd65880b36c592099ee2d7d3",
+      "HarperMemorialLibrary_BaseColor.png": "d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12",
+      "HarperMemorialLibrary_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "HarperMemorialLibrary_Emissive.png": "9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f",
+      "HarperMemorialLibrary_LOD1.fbx": "e72d009f31655134d020dcf6290d729ab27f619afdc16ecf3c0190be4eb04bf9",
+      "HarperMemorialLibrary_LOD2.fbx": "98bd28d7f287471c4202f27da2d1c6ef9a866f9ed70eacd359f09a69f6d4929a",
+      "HarperMemorialLibrary_LOD2_BaseColor.png": "d5cdb983fafea847f22a4cc02ba3dbb993882006e3eb8e0f9a6b6da24f06e628",
+      "HarperMemorialLibrary_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "HarperMemorialLibrary_LOD2_Emissive.png": "0177c93d76ed2a5e06e88af013457f716027561debe7bfff8bbac8a1f3a46dba",
+      "HarperMemorialLibrary_LOD2_MaskMap.png": "e8c714078c390e7e1d2db634ca3c360d97287f6a873d4e47d092c19a7e841d7a",
+      "HarperMemorialLibrary_LOD2_Normal.png": "c1ebb86a7ccc3b5fb7fd1e7597bef2048983db689f936753616cf36142ff16da",
+      "HarperMemorialLibrary_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "HarperMemorialLibrary_Normal.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+      "settings.json": "956dfeb25c273608b9617e8035b74d1c1ea18cdd00951b9d5b800f1082a6d813",
+      "textures/0177c93d76ed2a5e06e88af013457f716027561debe7bfff8bbac8a1f3a46dba.png": "0177c93d76ed2a5e06e88af013457f716027561debe7bfff8bbac8a1f3a46dba",
+      "textures/195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+      "textures/9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f.png": "9989e2f60c1fe1d70e43fab84518706c761e6d9ce24fa54fa3f56ec2b1bf0f6f",
+      "textures/c1ebb86a7ccc3b5fb7fd1e7597bef2048983db689f936753616cf36142ff16da.png": "c1ebb86a7ccc3b5fb7fd1e7597bef2048983db689f936753616cf36142ff16da",
+      "textures/d5cdb983fafea847f22a4cc02ba3dbb993882006e3eb8e0f9a6b6da24f06e628.png": "d5cdb983fafea847f22a4cc02ba3dbb993882006e3eb8e0f9a6b6da24f06e628",
+      "textures/d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12.png": "d5f259acff4786fd47ec9636df995082ae279a1844f358d335595c6a59d9de12",
+      "textures/e8c714078c390e7e1d2db634ca3c360d97287f6a873d4e47d092c19a7e841d7a.png": "e8c714078c390e7e1d2db634ca3c360d97287f6a873d4e47d092c19a7e841d7a"
+    },
+    "replace": [
+      {
+        "name": "HarperMemorialLibrary.fbx",
+        "patch": "HarperMemorialLibrary.zst",
+        "before_sha256": "b115a83ddfde99eff18de651d39098fdc0037b18fd65880b36c592099ee2d7d3",
+        "patch_sha256": "b5b31aa639a90423d5f285ae13046d1ed0b528662d0f9f99f7f9c47074af5a01",
+        "after_sha256": "9af515fb1ec2eaca5c95609ae9a0c205e081610149c1a74aa5c1fcdee0a38b12",
+        "bytes": 6648108,
+        "baseline_bytes": 6647180
+      },
+      {
+        "name": "HarperMemorialLibrary_LOD1.fbx",
+        "patch": "HarperMemorialLibrary_LOD1.zst",
+        "before_sha256": "e72d009f31655134d020dcf6290d729ab27f619afdc16ecf3c0190be4eb04bf9",
+        "patch_sha256": "504b42b0448345d9a3dc0864a1da5930cc0a7cd458d05e29db036aae375c4c53",
+        "after_sha256": "bdd98c62c1071dde19ecf622ea9ac52bb64338a2270c0652e3ca8772c39e5aa7",
+        "bytes": 3779100,
+        "baseline_bytes": 3778764
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "SaiehHall",
+    "baseline_package": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall",
+    "original_files": {
+      "SaiehHall.fbx": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+      "SaiehHall_BaseColor.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335",
+      "SaiehHall_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "SaiehHall_Emissive.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "SaiehHall_LOD1.fbx": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+      "SaiehHall_LOD2.fbx": "3c85dbf8364c0f5a714c908fce89d65b2a91c6757c1e0b1a8bc6cbbe121396f4",
+      "SaiehHall_LOD2_BaseColor.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "SaiehHall_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "SaiehHall_LOD2_Emissive.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "SaiehHall_LOD2_MaskMap.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "SaiehHall_LOD2_Normal.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "SaiehHall_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "SaiehHall_Normal.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "settings.json": "82a34bf3f4d7c3fb2792c0f65efe628ff6a7bd5191053ac300fc175167d24315",
+      "textures/195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "textures/5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "textures/80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "textures/9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "textures/ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "textures/c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "textures/da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "textures/ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335"
+    },
+    "replace": [
+      {
+        "name": "SaiehHall_LOD1.fbx",
+        "patch": "SaiehHall_LOD1.zst",
+        "before_sha256": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+        "patch_sha256": "25dc8528ed6f0a712958c699ccae5d6f45054d496b423a456123437ea7582a84",
+        "after_sha256": "85fb03ad279482d5324a21ade41a60d5df5afa07bdfe2f750fc9cc881b890c51",
+        "bytes": 1021900,
+        "baseline_bytes": 1021692
+      },
+      {
+        "name": "SaiehHall_LOD2.fbx",
+        "patch": "SaiehHall_LOD2.zst",
+        "before_sha256": "3c85dbf8364c0f5a714c908fce89d65b2a91c6757c1e0b1a8bc6cbbe121396f4",
+        "patch_sha256": "72bc94abb9efc76288fd8360587ce9ae4b8611f418f8da2658e064f8f77bdf65",
+        "after_sha256": "7a416d405b6b1e609d093731b6383ea9302a0b1138e9661dbea53cb2ff6a0c18",
+        "bytes": 60908,
+        "baseline_bytes": 60572
+      },
+      {
+        "name": "SaiehHall.fbx",
+        "patch": "SaiehHall.zst",
+        "before_sha256": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+        "patch_sha256": "4b8e0963d9e6d15aae65d5078340e4248ee26f8cd14b7606f3c39d9bcdc90449",
+        "after_sha256": "8aca64d7743951ceb6ca863ea1505867c6bea3c2fd65bddaca2ba8ad4f7ff66b",
+        "bytes": 3039276,
+        "baseline_bytes": 3039580
+      }
+    ],
+    "add_references": []
+  }
+]

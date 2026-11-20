@@ -1,0 +1,883 @@
+{
+  "source": "TowerGroup_far_contacts.blend",
+  "source_sha256": "02269c8a07e48847fd8b6b4fb585a185c545ed92edce437f1c862be6242c7b2e",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "HutchinsonCommons",
+      "file_sha256": "72d9bce6d4c0264720fc375c6494d69933b8ebd2dbbe9c2ef2f0c9e608b008c7",
+      "bytes": 1402316,
+      "version": 7500,
+      "import_seconds": 0.1895245740001883,
+      "peak_rss_kib": 377096,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 28598,
+      "reimport_triangles": 28598,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030914542898035104,
+      "bounds_max_delta_m": 6.5168273977178615e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HutchinsonCommons"
+      ],
+      "reimport_materials": [
+        "HutchinsonCommons"
+      ],
+      "source_bounds": [
+        [
+          -24.772499084472656,
+          21.934999465942383,
+          0.0
+        ],
+        [
+          13.187499046325684,
+          40.064998626708984,
+          21.450000762939453
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -24.772499084472656,
+          21.934999465942383,
+          -6.5168273977178615e-06
+        ],
+        [
+          13.187499046325684,
+          40.064998626708984,
+          21.449996948242188
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HutchinsonCommons_LOD1",
+      "file_sha256": "73928ea876d0e4ccb9128d44c253045a21fbf1b20940f32bd2da43ab4c058017",
+      "bytes": 480076,
+      "version": 7500,
+      "import_seconds": 0.1218459490000896,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 10938,
+      "reimport_triangles": 10938,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030914542898035104,
+      "bounds_max_delta_m": 6.5168273977178615e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HutchinsonCommons_LOD1"
+      ],
+      "reimport_materials": [
+        "HutchinsonCommons_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -24.772499084472656,
+          21.934999465942383,
+          0.0
+        ],
+        [
+          13.187499046325684,
+          40.064998626708984,
+          21.450000762939453
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -24.772499084472656,
+          21.934999465942383,
+          -6.5168273977178615e-06
+        ],
+        [
+          13.187499046325684,
+          40.064998626708984,
+          21.449996948242188
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "HutchinsonCommons_LOD2",
+      "file_sha256": "6e8d71ceaee5d25ae6988f2f5cfc6448347991a8e10857d206f3371ff9bbed81",
+      "bytes": 43340,
+      "version": 7500,
+      "import_seconds": 0.012734322000142129,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "HutchinsonCommons_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+        "HutchinsonCommons_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+        "HutchinsonCommons_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45"
+      },
+      "imported_image_sizes": {
+        "HutchinsonCommons_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "HutchinsonCommons_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "HutchinsonCommons_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "HutchinsonCommons_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 332,
+      "reimport_triangles": 332,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030914542898035104,
+      "bounds_max_delta_m": 6.35390597381047e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "HutchinsonCommons_LOD2"
+      ],
+      "reimport_materials": [
+        "HutchinsonCommons_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -24.772499084472656,
+          22.520000457763672,
+          0.0
+        ],
+        [
+          13.187499046325684,
+          39.47999954223633,
+          21.450000762939453
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -24.772499084472656,
+          22.520002365112305,
+          -6.35390597381047e-06
+        ],
+        [
+          13.187499046325684,
+          39.480003356933594,
+          21.449996948242188
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "ReynoldsClubhouse",
+      "file_sha256": "b758d15234e4c54035806aa7746b60cead118fc6c456b55a1150ddb8b1a72ad4",
+      "bytes": 460972,
+      "version": 7500,
+      "import_seconds": 0.12398696699983702,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 12002,
+      "reimport_triangles": 12002,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02959077075596827,
+      "bounds_max_delta_m": 4.887620434601558e-06,
+      "vertex_max_delta_m": 6.031566044839565e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ReynoldsClubhouse"
+      ],
+      "reimport_materials": [
+        "ReynoldsClubhouse"
+      ],
+      "source_bounds": [
+        [
+          8.412500381469727,
+          -4.329999923706055,
+          0.0
+        ],
+        [
+          24.217498779296875,
+          30.329999923706055,
+          17.549999237060547
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          8.412500381469727,
+          -4.32999849319458,
+          -4.887620434601558e-06
+        ],
+        [
+          24.217498779296875,
+          30.330001831054688,
+          17.549999237060547
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "ReynoldsClubhouse_LOD1",
+      "file_sha256": "77a5f70044969c4c882bc17cd05336972e582fcbfc14d1c0dc8694c1450a18b9",
+      "bytes": 208284,
+      "version": 7500,
+      "import_seconds": 0.10939289999987523,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 4850,
+      "reimport_triangles": 4850,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.026842052770160458,
+      "bounds_max_delta_m": 4.887620434601558e-06,
+      "vertex_max_delta_m": 5.1356932999624405e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ReynoldsClubhouse_LOD1"
+      ],
+      "reimport_materials": [
+        "ReynoldsClubhouse_LOD1"
+      ],
+      "source_bounds": [
+        [
+          8.412500381469727,
+          -4.329999923706055,
+          0.0
+        ],
+        [
+          24.217498779296875,
+          30.329999923706055,
+          16.825000762939453
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          8.412500381469727,
+          -4.32999849319458,
+          -4.887620434601558e-06
+        ],
+        [
+          24.217498779296875,
+          30.330001831054688,
+          16.825000762939453
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "ReynoldsClubhouse_LOD2",
+      "file_sha256": "d3821891be7b12c443789d166d06e3dfd812ab710909e4d4ebb17492622bfdf4",
+      "bytes": 52572,
+      "version": 7500,
+      "import_seconds": 0.013883495000300172,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "ReynoldsClubhouse_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+        "ReynoldsClubhouse_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+        "ReynoldsClubhouse_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45"
+      },
+      "imported_image_sizes": {
+        "ReynoldsClubhouse_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "ReynoldsClubhouse_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "ReynoldsClubhouse_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "ReynoldsClubhouse_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 636,
+      "reimport_triangles": 636,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.019597950266498576,
+      "bounds_max_delta_m": 4.8876199798542075e-06,
+      "vertex_max_delta_m": 5.1356932999624405e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ReynoldsClubhouse_LOD2"
+      ],
+      "reimport_materials": [
+        "ReynoldsClubhouse_LOD2"
+      ],
+      "source_bounds": [
+        [
+          8.557499885559082,
+          -4.329999923706055,
+          0.0
+        ],
+        [
+          23.987499237060547,
+          30.329999923706055,
+          16.700000762939453
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          8.557499885559082,
+          -4.32999849319458,
+          -4.8876199798542075e-06
+        ],
+        [
+          23.987499237060547,
+          30.330001831054688,
+          16.700000762939453
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MitchellTower",
+      "file_sha256": "601160afd289034fec470e49498bf3c809edb41074616d8dfba3a6c58406d6fb",
+      "bytes": 1359964,
+      "version": 7500,
+      "import_seconds": 0.17143427600012728,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 27129,
+      "reimport_triangles": 27129,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03089438885854177,
+      "bounds_max_delta_m": 6.679747912130551e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MitchellTower"
+      ],
+      "reimport_materials": [
+        "MitchellTower"
+      ],
+      "source_bounds": [
+        [
+          11.642499923706055,
+          28.934999465942383,
+          0.0
+        ],
+        [
+          23.772499084472656,
+          41.064998626708984,
+          38.779998779296875
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          11.642499923706055,
+          28.934999465942383,
+          -6.679747912130551e-06
+        ],
+        [
+          23.772499084472656,
+          41.064998626708984,
+          38.77999496459961
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MitchellTower_LOD1",
+      "file_sha256": "cff6f714b005f5712d0b087cd9356512e35573e060ed1fa01f8440983c39db4c",
+      "bytes": 410508,
+      "version": 7500,
+      "import_seconds": 0.11952214399980221,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 8919,
+      "reimport_triangles": 8919,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030739818199874046,
+      "bounds_max_delta_m": 6.679747912130551e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MitchellTower_LOD1"
+      ],
+      "reimport_materials": [
+        "MitchellTower_LOD1"
+      ],
+      "source_bounds": [
+        [
+          11.642499923706055,
+          28.934999465942383,
+          0.0
+        ],
+        [
+          23.772499084472656,
+          41.064998626708984,
+          38.779998779296875
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          11.642499923706055,
+          28.934999465942383,
+          -6.679747912130551e-06
+        ],
+        [
+          23.772499084472656,
+          41.064998626708984,
+          38.77999496459961
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MitchellTower_LOD2",
+      "file_sha256": "2e1352344d9db73392c4df2ad7591d6b11f373664f3442dc4605dec71b0ceeb6",
+      "bytes": 93324,
+      "version": 7500,
+      "import_seconds": 0.020544240000162972,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+        "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+        "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45"
+      },
+      "imported_image_sizes": {
+        "MitchellTower_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "MitchellTower_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "MitchellTower_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "MitchellTower_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 1597,
+      "reimport_triangles": 1597,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029795883891646297,
+      "bounds_max_delta_m": 6.679747912130551e-06,
+      "vertex_max_delta_m": 1.078959303413285e-05,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MitchellTower_LOD2"
+      ],
+      "reimport_materials": [
+        "MitchellTower_LOD2"
+      ],
+      "source_bounds": [
+        [
+          11.707499504089355,
+          29.0,
+          0.0
+        ],
+        [
+          23.707500457763672,
+          41.0,
+          38.779998779296875
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          11.707499504089355,
+          29.0,
+          -6.679747912130551e-06
+        ],
+        [
+          23.707500457763672,
+          41.0,
+          38.77999496459961
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MandelHall",
+      "file_sha256": "5f8bccd38a54499ba578da6c5091f4237cb182aec2deb0f9011a5c276facccc3",
+      "bytes": 1357148,
+      "version": 7500,
+      "import_seconds": 0.152311448999626,
+      "peak_rss_kib": 409512,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 27724,
+      "reimport_triangles": 27724,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030990804424729002,
+      "bounds_max_delta_m": 5.7220458984375e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MandelHall"
+      ],
+      "reimport_materials": [
+        "MandelHall"
+      ],
+      "source_bounds": [
+        [
+          2.6424994468688965,
+          -41.064998626708984,
+          0.0
+        ],
+        [
+          24.772499084472656,
+          -2.934999942779541,
+          23.399999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          2.6424994468688965,
+          -41.064998626708984,
+          4.887620548288396e-07
+        ],
+        [
+          24.772499084472656,
+          -2.9349992275238037,
+          23.400005340576172
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MandelHall_LOD1",
+      "file_sha256": "24a9bd6a307a1826f2d0ea0c6ad84c1760eea3f89b9ed65415e5d871b59a6834",
+      "bytes": 486220,
+      "version": 7500,
+      "import_seconds": 0.11903869600018879,
+      "peak_rss_kib": 410080,
+      "texture_reference_hashes": {
+        "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+        "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+        "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+      },
+      "imported_image_sizes": {
+        "TowerGroup_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Emissive.png": [
+          2048,
+          2048
+        ],
+        "TowerGroup_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 10928,
+      "reimport_triangles": 10928,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030739818199874046,
+      "bounds_max_delta_m": 5.7220458984375e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MandelHall_LOD1"
+      ],
+      "reimport_materials": [
+        "MandelHall_LOD1"
+      ],
+      "source_bounds": [
+        [
+          2.6424994468688965,
+          -41.064998626708984,
+          0.0
+        ],
+        [
+          24.772499084472656,
+          -2.934999942779541,
+          22.44854736328125
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          2.6424994468688965,
+          -41.064998626708984,
+          4.887620548288396e-07
+        ],
+        [
+          24.772499084472656,
+          -2.9349992275238037,
+          22.44855308532715
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "MandelHall_LOD2",
+      "file_sha256": "4da8c59cbb9d25cbe24c80a923c43cb32cdbf2de08d291f9cf41dbd33df9a41b",
+      "bytes": 40252,
+      "version": 7500,
+      "import_seconds": 0.01413305300002321,
+      "peak_rss_kib": 410080,
+      "texture_reference_hashes": {
+        "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+        "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+        "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45"
+      },
+      "imported_image_sizes": {
+        "MandelHall_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "MandelHall_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "MandelHall_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "MandelHall_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 268,
+      "reimport_triangles": 268,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02972125232509803,
+      "bounds_max_delta_m": 5.7220458984375e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "MandelHall_LOD2"
+      ],
+      "reimport_materials": [
+        "MandelHall_LOD2"
+      ],
+      "source_bounds": [
+        [
+          3.107499599456787,
+          -40.599998474121094,
+          0.0
+        ],
+        [
+          24.307498931884766,
+          -3.4000000953674316,
+          22.0
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          3.107499599456787,
+          -40.59999465942383,
+          6.516827397717861e-07
+        ],
+        [
+          24.307498931884766,
+          -3.3999972343444824,
+          22.0000057220459
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

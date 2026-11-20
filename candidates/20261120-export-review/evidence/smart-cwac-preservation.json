@@ -1,0 +1,44 @@
+{
+  "CochraneWoods": {
+    "position_uv_triangles_removed": 12,
+    "position_uv_triangles_added": 14,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "CochraneWoods_LOD1": {
+    "position_uv_triangles_removed": 12,
+    "position_uv_triangles_added": 14,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "CochraneWoods_LOD2": {
+    "position_uv_triangles_removed": 12,
+    "position_uv_triangles_added": 14,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "SmartMuseum": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "SmartMuseum_LOD1": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  },
+  "SmartMuseum_LOD2": {
+    "position_uv_triangles_removed": 0,
+    "position_uv_triangles_added": 0,
+    "matrix_unchanged": true,
+    "texture_bindings_unchanged": true,
+    "mesh_materials_unchanged": true
+  }
+}

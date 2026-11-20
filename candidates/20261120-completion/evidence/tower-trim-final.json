@@ -1,0 +1,122 @@
+{
+  "source_sha256": "02269c8a07e48847fd8b6b4fb585a185c545ed92edce437f1c862be6242c7b2e",
+  "candidate_sha256": "06f75668c992665e3b274eafd435be8101a780d2109891c6ebe4455a9ee1c095",
+  "planes": {
+    "near": [
+      {
+        "owner": "HutchinsonCommons",
+        "opposite_unchanged": "MitchellTower",
+        "plane_axis": 0,
+        "plane_m": 12.7074995,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": -1,
+        "removed_faces": 96,
+        "replacement_triangles": 20,
+        "overlap_removed_m2_summed_by_source_face": 102.75149585962737,
+        "remaining_planar_overlap_m2": 0.0,
+        "union_lost_m2": 1.6421999818588134e-08,
+        "union_added_m2": 4.961420781591369e-10
+      },
+      {
+        "owner": "ReynoldsClubhouse",
+        "opposite_unchanged": "MitchellTower",
+        "plane_axis": 1,
+        "plane_m": 30.0,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": -1,
+        "removed_faces": 42,
+        "replacement_triangles": 71,
+        "overlap_removed_m2_summed_by_source_face": 58.50949396732176,
+        "remaining_planar_overlap_m2": 2.1050254872534424e-08,
+        "union_lost_m2": 8.881648671729692e-17,
+        "union_added_m2": 0.0
+      },
+      {
+        "owner": "ReynoldsClubhouse",
+        "opposite_unchanged": "MitchellTower",
+        "plane_axis": 1,
+        "plane_m": 30.0,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": 1,
+        "removed_faces": 16,
+        "replacement_triangles": 46,
+        "overlap_removed_m2_summed_by_source_face": 4.689957778291511,
+        "remaining_planar_overlap_m2": 8.674442557898566e-07,
+        "union_lost_m2": 1.2316016858065412e-06,
+        "union_added_m2": 3.467888666783775e-08
+      },
+      {
+        "owner": "ReynoldsClubhouse",
+        "opposite_unchanged": "MandelHall",
+        "plane_axis": 1,
+        "plane_m": -4.0,
+        "owner_normal_sign": -1,
+        "cover_normal_sign": 1,
+        "removed_faces": 47,
+        "replacement_triangles": 37,
+        "overlap_removed_m2_summed_by_source_face": 75.01019401626979,
+        "remaining_planar_overlap_m2": 1.5115214539208888e-08,
+        "union_lost_m2": 0.0,
+        "union_added_m2": 3.801610713196729e-08
+      }
+    ],
+    "_LOD1": [
+      {
+        "owner": "HutchinsonCommons_LOD1",
+        "opposite_unchanged": "MitchellTower_LOD1",
+        "plane_axis": 0,
+        "plane_m": 12.7074995,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": -1,
+        "removed_faces": 72,
+        "replacement_triangles": 20,
+        "overlap_removed_m2_summed_by_source_face": 102.78134605527207,
+        "remaining_planar_overlap_m2": 0.0,
+        "union_lost_m2": 0.0,
+        "union_added_m2": 5.555743023575796e-08
+      },
+      {
+        "owner": "ReynoldsClubhouse_LOD1",
+        "opposite_unchanged": "MitchellTower_LOD1",
+        "plane_axis": 1,
+        "plane_m": 30.0,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": -1,
+        "removed_faces": 42,
+        "replacement_triangles": 63,
+        "overlap_removed_m2_summed_by_source_face": 58.53133260924187,
+        "remaining_planar_overlap_m2": 1.162879925686866e-08,
+        "union_lost_m2": 8.881648671729692e-17,
+        "union_added_m2": 0.0
+      },
+      {
+        "owner": "ReynoldsClubhouse_LOD1",
+        "opposite_unchanged": "MitchellTower_LOD1",
+        "plane_axis": 1,
+        "plane_m": 30.0,
+        "owner_normal_sign": 1,
+        "cover_normal_sign": 1,
+        "removed_faces": 13,
+        "replacement_triangles": 42,
+        "overlap_removed_m2_summed_by_source_face": 4.687038985887148,
+        "remaining_planar_overlap_m2": 7.672954843557286e-07,
+        "union_lost_m2": 1.219368518538605e-06,
+        "union_added_m2": 2.4155373878514115e-09
+      },
+      {
+        "owner": "ReynoldsClubhouse_LOD1",
+        "opposite_unchanged": "MandelHall_LOD1",
+        "plane_axis": 1,
+        "plane_m": -4.0,
+        "owner_normal_sign": -1,
+        "cover_normal_sign": 1,
+        "removed_faces": 47,
+        "replacement_triangles": 33,
+        "overlap_removed_m2_summed_by_source_face": 75.0186644407362,
+        "remaining_planar_overlap_m2": 2.0872903405688703e-10,
+        "union_lost_m2": 4.997619370422646e-08,
+        "union_added_m2": 3.801610713196729e-08
+      }
+    ]
+  }
+}

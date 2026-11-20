@@ -1,0 +1,391 @@
+[
+  {
+    "asset": "BondSwiftCloister",
+    "baseline_package": "assets/BondSwiftEnsemble/bond_swift_haskell/exports/ProjectFiles/BondSwiftCloister",
+    "original_files": {
+      "BondSwiftCloister.fbx": "ef6c1b397ef73488a311a1033ec9f9de28730ec35d8b868b36d84504d956f4a8",
+      "BondSwiftCloister_BaseColor.png": "990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78",
+      "BondSwiftCloister_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "BondSwiftCloister_Emissive.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94",
+      "BondSwiftCloister_LOD1.fbx": "ce46ffe3643aaa9c911762412e51087e30c78c108ade1baa344fca75c067f59a",
+      "BondSwiftCloister_LOD2.fbx": "ad79eeff0f9dcbe0ef3e5a800ec3665ea0457f946cc149f84b99f7c721b4e167",
+      "BondSwiftCloister_LOD2_BaseColor.png": "240db633a81e2bff5265eb4608867daf662e1c6d0b8299d0a6919f20aaba2d51",
+      "BondSwiftCloister_LOD2_ControlMask.png": "59141e9a74fea7b8e5ccee9078846a0efaaab2e3628f0fd0f6c472b4c1ca8322",
+      "BondSwiftCloister_LOD2_Emissive.png": "f5782b40a6f0ef34cfe31904e76247613bec1539d4dea56ab0682e6b67c614a1",
+      "BondSwiftCloister_LOD2_MaskMap.png": "c5e1997c5cf22e9413b976b8e8b34cca9798e8a696416d0bb61729b6a831f44f",
+      "BondSwiftCloister_LOD2_Normal.png": "3d6122710d8cd626cfefe3ed63aa9b656f417271416cd1117af03de75803f391",
+      "BondSwiftCloister_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "BondSwiftCloister_Normal.png": "7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2",
+      "settings.json": "bb4dc11c85aa4d3accfc67dbf831bbe3d4ce8226e95a8b28285fbdb5ff70f740",
+      "textures/240db633a81e2bff5265eb4608867daf662e1c6d0b8299d0a6919f20aaba2d51.png": "240db633a81e2bff5265eb4608867daf662e1c6d0b8299d0a6919f20aaba2d51",
+      "textures/3d6122710d8cd626cfefe3ed63aa9b656f417271416cd1117af03de75803f391.png": "3d6122710d8cd626cfefe3ed63aa9b656f417271416cd1117af03de75803f391",
+      "textures/59141e9a74fea7b8e5ccee9078846a0efaaab2e3628f0fd0f6c472b4c1ca8322.png": "59141e9a74fea7b8e5ccee9078846a0efaaab2e3628f0fd0f6c472b4c1ca8322",
+      "textures/7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2.png": "7e0de16ed90b0ff48562bb81f7de189175d49097570dcaa75bcb7bce4bb143c2",
+      "textures/990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78.png": "990596954cbdc07131064da913792febd27047c4fcee5ea0d29e5b451cea8f78",
+      "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94",
+      "textures/c5e1997c5cf22e9413b976b8e8b34cca9798e8a696416d0bb61729b6a831f44f.png": "c5e1997c5cf22e9413b976b8e8b34cca9798e8a696416d0bb61729b6a831f44f",
+      "textures/f5782b40a6f0ef34cfe31904e76247613bec1539d4dea56ab0682e6b67c614a1.png": "f5782b40a6f0ef34cfe31904e76247613bec1539d4dea56ab0682e6b67c614a1"
+    },
+    "replace": [
+      {
+        "name": "BondSwiftCloister_LOD2.fbx",
+        "patch": "BondSwiftCloister_LOD2.zst",
+        "before_sha256": "ad79eeff0f9dcbe0ef3e5a800ec3665ea0457f946cc149f84b99f7c721b4e167",
+        "patch_sha256": "180715a1aca28c17f2f6e27b0219aed588bca00d424cc902bf55b11e8e2baa77",
+        "after_sha256": "d842fcc44ef1599c25a68f56a99142ecbbb17146afe44ec9bef7abc442378d8c",
+        "bytes": 73180
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "BurtonJudsonCourts",
+    "baseline_package": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/ProjectFiles/BurtonJudsonCourts",
+    "original_files": {
+      "BurtonJudsonCourts.fbx": "9b5fbff28fda7601e4f48c96550761f3776ab4c6def5d0bb9aca03cecc32b490",
+      "BurtonJudsonCourts_BaseColor.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+      "BurtonJudsonCourts_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "BurtonJudsonCourts_Emissive.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a",
+      "BurtonJudsonCourts_LOD1.fbx": "9d81a7742068849d91300c9596f21f1fd70942a696c32f740d4530125e0ad66a",
+      "BurtonJudsonCourts_LOD2.fbx": "a2ef6815882faecbfb80c4e7392e9f98bda14a15b4b6cbbf6ba009a6cf46a1ce",
+      "BurtonJudsonCourts_LOD2_BaseColor.png": "c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d",
+      "BurtonJudsonCourts_LOD2_Blender7400.fbx": "2090b8ec8f23cb7b5552c2e4d1dff92cddda648051c3235b7ecf746098979cc3",
+      "BurtonJudsonCourts_LOD2_ControlMask.png": "074065f07e35265d9695cced0f42844dbb02e5766c4ed185d0a372b2d033b093",
+      "BurtonJudsonCourts_LOD2_Emissive.png": "e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33",
+      "BurtonJudsonCourts_LOD2_MaskMap.png": "c41eb4d4c80bb507488094dd061f6605107fa61280dc2a43c290a3baa535a590",
+      "BurtonJudsonCourts_LOD2_Normal.png": "9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827",
+      "BurtonJudsonCourts_MaskMap.png": "7a4fefea6268437d3f9af772f3b30290edd940d2090dc6b6dcf163682a62e52f",
+      "BurtonJudsonCourts_Normal.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+      "settings.json": "50ce4e645015875679bd73f317d86339ce6d344cb0460d1b6662a8d1e977a624",
+      "textures/074065f07e35265d9695cced0f42844dbb02e5766c4ed185d0a372b2d033b093.png": "074065f07e35265d9695cced0f42844dbb02e5766c4ed185d0a372b2d033b093",
+      "textures/5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+      "textures/64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+      "textures/9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827.png": "9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827",
+      "textures/c41eb4d4c80bb507488094dd061f6605107fa61280dc2a43c290a3baa535a590.png": "c41eb4d4c80bb507488094dd061f6605107fa61280dc2a43c290a3baa535a590",
+      "textures/c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d.png": "c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d",
+      "textures/d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a",
+      "textures/e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33.png": "e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33"
+    },
+    "replace": [
+      {
+        "name": "BurtonJudsonCourts_LOD2.fbx",
+        "patch": "BurtonJudsonCourts_LOD2.zst",
+        "before_sha256": "a2ef6815882faecbfb80c4e7392e9f98bda14a15b4b6cbbf6ba009a6cf46a1ce",
+        "patch_sha256": "ec00562a2dbad76585be3b9ecd8cbcceaeee3a56bcb4b755434f7eb9fae6b76c",
+        "after_sha256": "51c1be5a9fd99fb2049219d7ebbd5efbec340d2437b177dc380f703177e8e709",
+        "bytes": 85372
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "LillieHouse",
+    "baseline_package": "assets/LillieHouse/LillieHouse/exports/ProjectFiles/LillieHouse",
+    "original_files": {
+      "LillieHouse.fbx": "4d592e6e0acfbed55ad8e0ee5f70b42ef315312e82a50a5abb0cdda0644a8d2e",
+      "LillieHouse_BaseColor.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda",
+      "LillieHouse_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "LillieHouse_Emissive.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+      "LillieHouse_LOD1.fbx": "b5302c83ea019b3713c80e659df46c27c63103cfc549344c1ae244c73b3f93aa",
+      "LillieHouse_LOD1_BaseColor.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda",
+      "LillieHouse_LOD1_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "LillieHouse_LOD1_Emissive.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+      "LillieHouse_LOD1_MaskMap.png": "ffadb5e4d67e52951a100429cb50dd8cc712976921f5ac86ccb1090890aa1b47",
+      "LillieHouse_LOD1_Normal.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+      "LillieHouse_LOD2.fbx": "1b2668027cfb8499544af0b6eb8dbf4f67606d4b4e1666e0fbb5246488351ade",
+      "LillieHouse_LOD2_BaseColor.png": "28dd554844e97e942f84a3458ae5bd4ea68d09a70491310095bbeda1392aca19",
+      "LillieHouse_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "LillieHouse_LOD2_Emissive.png": "ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5",
+      "LillieHouse_LOD2_MaskMap.png": "ba5caac37ad9a8d9d620d0478afd284e7a7d50214f008b39e6c6e4be8fe07cf9",
+      "LillieHouse_LOD2_Normal.png": "87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203",
+      "LillieHouse_MaskMap.png": "ffadb5e4d67e52951a100429cb50dd8cc712976921f5ac86ccb1090890aa1b47",
+      "LillieHouse_Normal.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+      "settings.json": "564c97f053b78b435a1e4add3c7286d5c4ec72e1da8a13b5b0cf2827bcc5ae2c",
+      "textures/28dd554844e97e942f84a3458ae5bd4ea68d09a70491310095bbeda1392aca19.png": "28dd554844e97e942f84a3458ae5bd4ea68d09a70491310095bbeda1392aca19",
+      "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+      "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+      "textures/87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203.png": "87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203",
+      "textures/ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5.png": "ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5",
+      "textures/ba5caac37ad9a8d9d620d0478afd284e7a7d50214f008b39e6c6e4be8fe07cf9.png": "ba5caac37ad9a8d9d620d0478afd284e7a7d50214f008b39e6c6e4be8fe07cf9",
+      "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda",
+      "textures/f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f"
+    },
+    "replace": [
+      {
+        "name": "LillieHouse_LOD2.fbx",
+        "patch": "LillieHouse_LOD2.zst",
+        "before_sha256": "1b2668027cfb8499544af0b6eb8dbf4f67606d4b4e1666e0fbb5246488351ade",
+        "patch_sha256": "d7e86d5644147a71621cd34eb9ccbefbb50d82f59c92eb51f7738f9e27a87bf2",
+        "after_sha256": "0c2f264e651d63807d383dee4354a9da8b84d7f0dbc499102647d1b527781edb",
+        "bytes": 72892
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "RockefellerChapel",
+    "baseline_package": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/exports/ProjectFiles/RockefellerChapel",
+    "original_files": {
+      "RockefellerChapel.fbx": "75e8162c3b447be3446224b28228f5ef4fb9a8ff6afd114856734eb28e56295e",
+      "RockefellerChapel_BaseColor.png": "4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8",
+      "RockefellerChapel_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "RockefellerChapel_Emissive.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94",
+      "RockefellerChapel_LOD1.fbx": "8a4ea795bb0c0c0add66217acdd350969cfb411357756490d20664da97b2be7e",
+      "RockefellerChapel_LOD2.fbx": "6bb9d6fd5b0571dca47b68dc0876cc43efaf97bd43168a9b568c0858ab737c3f",
+      "RockefellerChapel_LOD2_BaseColor.png": "15f6f6e11d8d8f0d2339bb2e90e4ba42c162bcf1fb464a5606eb0edb827c134b",
+      "RockefellerChapel_LOD2_ControlMask.png": "008e64b67741be1277a1d4b940e8432ff749505861c8fa0842a6de76fd2c5f59",
+      "RockefellerChapel_LOD2_Emissive.png": "be8afb5b885a39046a8d127e137763f55a3de85210be6821cbd193166df17565",
+      "RockefellerChapel_LOD2_MaskMap.png": "a682f8eb97d9ab42b0f33753317dc20c9820e9c403b8b8ea8dcf625ce7d0ec8b",
+      "RockefellerChapel_LOD2_Normal.png": "556236cd8145889a4ce8bf68bb6bd095f8a5ad872d6bcf80f98e2cebfc5e21ec",
+      "RockefellerChapel_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "RockefellerChapel_Normal.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+      "settings.json": "b687a39817b0af01b0da8e30a2d822ef614965d02773ad70e487f6023d8c9472",
+      "textures/195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "textures/197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd.png": "197dea23904bc07cc63dbcf9b90311b3bce3141aced96998119b8d46517cb5bd",
+      "textures/4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8.png": "4ac6145ee60bfcdf0313affd30f7cb24631aeba110ca37a576b09990c3259fc8",
+      "textures/c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94.png": "c48e5de13fdd284326700dc5d4a7e7016a7cad71c5482aef05c01e64a8345f94"
+    },
+    "replace": [
+      {
+        "name": "RockefellerChapel_LOD1.fbx",
+        "patch": "RockefellerChapel_LOD1.zst",
+        "before_sha256": "8a4ea795bb0c0c0add66217acdd350969cfb411357756490d20664da97b2be7e",
+        "patch_sha256": "28a62304b524f218ad3a79fa84bb25bb144945620cbbe0d6ccc93eb622484f5f",
+        "after_sha256": "f691d7c1d0e1a7c0b189c95d150246e35acf2384e684486c5b0daba8b4341014",
+        "bytes": 2640268
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "SaiehHall",
+    "baseline_package": "assets/SaiehHall/SaiehHall_CS2_v0.1/ProjectFiles/SaiehHall",
+    "original_files": {
+      "SaiehHall.fbx": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+      "SaiehHall_BaseColor.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335",
+      "SaiehHall_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "SaiehHall_Emissive.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "SaiehHall_LOD1.fbx": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+      "SaiehHall_LOD2.fbx": "3c85dbf8364c0f5a714c908fce89d65b2a91c6757c1e0b1a8bc6cbbe121396f4",
+      "SaiehHall_LOD2_BaseColor.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "SaiehHall_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "SaiehHall_LOD2_Emissive.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "SaiehHall_LOD2_MaskMap.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "SaiehHall_LOD2_Normal.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "SaiehHall_MaskMap.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "SaiehHall_Normal.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "settings.json": "82a34bf3f4d7c3fb2792c0f65efe628ff6a7bd5191053ac300fc175167d24315",
+      "textures/195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61.png": "195f48a6d1fc48ebbf65e19fd9fb9b9986ec9b6a7588044107074f79cdd07a61",
+      "textures/5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85.png": "5f897d20fe7459dcfdde3830da6f981f09b0c2bb1f9645e2a14022bdd2567b85",
+      "textures/80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df.png": "80d0fde5c3d40a2c1e2ec2d3bbadda8db647d865eab22996a642b01d5b37c4df",
+      "textures/9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542.png": "9171a0acec145240dde6baa8678a1f3d2a7cf3d4667234ab761fecfe42212542",
+      "textures/ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443.png": "ac54bd221da13f5b41d10d664d3b30b9ccad9bba81e5a0af5c03baf5de6b1443",
+      "textures/c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b.png": "c4a97fc494371a279251f9155331da592f09ba0c457c8c45b833ad5cd955bc2b",
+      "textures/da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee.png": "da1428585aeacb9c2be9c814444800881076a208d36a24e0f00c6192b6b2eaee",
+      "textures/ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335.png": "ffc6178e04a3dabe3909216a050a717099ca4b7271e9e14ae6337eb706342335"
+    },
+    "replace": [
+      {
+        "name": "SaiehHall.fbx",
+        "patch": "SaiehHall.zst",
+        "before_sha256": "fc0ebd4189ff36f5503d95b6a52c9acc9e3542ac28b99584028d27d05e07a9b6",
+        "patch_sha256": "03dbbc3682666c23eb6c969452fde6196f3d86d7991630036bff2bb51cbe91b6",
+        "after_sha256": "08d56502df82b0ca442cc4db3cb0cc01ea3e09747150f7b6ba41949078703c75",
+        "bytes": 3039308
+      },
+      {
+        "name": "SaiehHall_LOD1.fbx",
+        "patch": "SaiehHall_LOD1.zst",
+        "before_sha256": "4f08752e5fe3e2c14e553cc5ced440887369e93b6f4611b399b76bbe2f4afc37",
+        "patch_sha256": "1e37977f8ed10168e82a2ec4e63b8e2820ae3c59f35b1fdc37b9e062ae7ddc7e",
+        "after_sha256": "77190a1e241e844e3d3043157a8b8425e2087e746606442c8c9ff59cf90db3bf",
+        "bytes": 1022188
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "HutchinsonCommons",
+    "baseline_package": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/HutchinsonCommons",
+    "original_files": {
+      "HutchinsonCommons.fbx": "72d9bce6d4c0264720fc375c6494d69933b8ebd2dbbe9c2ef2f0c9e608b008c7",
+      "HutchinsonCommons_BaseColor.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e",
+      "HutchinsonCommons_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "HutchinsonCommons_Emissive.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "HutchinsonCommons_LOD1.fbx": "73928ea876d0e4ccb9128d44c253045a21fbf1b20940f32bd2da43ab4c058017",
+      "HutchinsonCommons_LOD2.fbx": "d5bb383130a9aa938b2cb488831acd1551538a57bd05a046ef12694b50cc8249",
+      "HutchinsonCommons_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "HutchinsonCommons_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "HutchinsonCommons_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "HutchinsonCommons_LOD2_MaskMap.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "HutchinsonCommons_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "HutchinsonCommons_MaskMap.png": "b6bbeda600cafc26436cc0d9c03a3198832ade4b08483bb284b38bbd1b07275f",
+      "HutchinsonCommons_Normal.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "settings.json": "7f8ecffc2ccc40e014023c5008abf9ab0bc31b185fa01ed5f2a35e6f399890fc",
+      "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "textures/8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "textures/9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+    },
+    "replace": [
+      {
+        "name": "HutchinsonCommons_LOD2.fbx",
+        "patch": "HutchinsonCommons_LOD2.zst",
+        "before_sha256": "d5bb383130a9aa938b2cb488831acd1551538a57bd05a046ef12694b50cc8249",
+        "patch_sha256": "d1a751e62a59b6ba210f39b8a3303a6a110ac64ee494b13fd6fe0955b6ebd0db",
+        "after_sha256": "6e8d71ceaee5d25ae6988f2f5cfc6448347991a8e10857d206f3371ff9bbed81",
+        "bytes": 43340
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "ReynoldsClubhouse",
+    "baseline_package": "assets/TowerGroup/TowerGroup/exports/ProjectFiles/ReynoldsClubhouse",
+    "original_files": {
+      "ReynoldsClubhouse.fbx": "b758d15234e4c54035806aa7746b60cead118fc6c456b55a1150ddb8b1a72ad4",
+      "ReynoldsClubhouse_BaseColor.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e",
+      "ReynoldsClubhouse_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "ReynoldsClubhouse_Emissive.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "ReynoldsClubhouse_LOD1.fbx": "77a5f70044969c4c882bc17cd05336972e582fcbfc14d1c0dc8694c1450a18b9",
+      "ReynoldsClubhouse_LOD2.fbx": "ea717a2a391840cda92b208f1eb622585f45732c7d7911d8f3ee709e85a41cc5",
+      "ReynoldsClubhouse_LOD2_BaseColor.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "ReynoldsClubhouse_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "ReynoldsClubhouse_LOD2_Emissive.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "ReynoldsClubhouse_LOD2_MaskMap.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "ReynoldsClubhouse_LOD2_Normal.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "ReynoldsClubhouse_MaskMap.png": "b6bbeda600cafc26436cc0d9c03a3198832ade4b08483bb284b38bbd1b07275f",
+      "ReynoldsClubhouse_Normal.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "settings.json": "bc4e3fe4d252303e75d661d12d906ee0630ad7d60e3c10719706c20aa2c54346",
+      "textures/2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c.png": "2c441358ead1595d0c6f534e0b6e87cde8ae0f5d83043952443c486e39360e5c",
+      "textures/3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a.png": "3014445c3cccc7f7cfaa46b3249e8d9846559c6b301f572ae14abb425844fc1a",
+      "textures/5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db.png": "5582700f741993b047283e3e2a15895dce40b092959ede1ae9d779ee7ad612db",
+      "textures/8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c.png": "8136cb0c2dcea9c504946f501b4640f8333990312a1b5a14f2d592ef72af1f5c",
+      "textures/88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44.png": "88b261c6f76827b0d62f77eff777521de3eef293f291fa6cb24f419215bfdc44",
+      "textures/9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "textures/9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45.png": "9d7c65e1028a51f2201e6c3330673f1fc303f24e94a81c13523462a111d4bb45",
+      "textures/dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e.png": "dfe0922bc3b94fcd58ce9595837ed210d474d782679cba589259fef72c95714e"
+    },
+    "replace": [
+      {
+        "name": "ReynoldsClubhouse_LOD2.fbx",
+        "patch": "ReynoldsClubhouse_LOD2.zst",
+        "before_sha256": "ea717a2a391840cda92b208f1eb622585f45732c7d7911d8f3ee709e85a41cc5",
+        "patch_sha256": "0c136a5b75998a3799551f2462ec444ebe112f8d126b269f4c41c6b6dc5b0149",
+        "after_sha256": "d3821891be7b12c443789d166d06e3dfd812ab710909e4d4ebb17492622bfdf4",
+        "bytes": 52572
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "WoodlawnDining",
+    "baseline_package": "assets/WoodlawnDining/WoodlawnDining/exports/ProjectFiles/WoodlawnDining",
+    "original_files": {
+      "WoodlawnDining.fbx": "6236d34a220331743a2475e01d1301cc34f654116588c15c3695a7cc89e582bb",
+      "WoodlawnDining_BaseColor.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70",
+      "WoodlawnDining_ControlMask.png": "4366893496c99f69cef48e1359ec843e15879ba94879171d8596e5514ea615aa",
+      "WoodlawnDining_Emissive.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+      "WoodlawnDining_LOD1.fbx": "03be73c67667fc16c8f56f3fcc188eb53bc06ff1bb7d0ec954042a333ccd77e2",
+      "WoodlawnDining_LOD2.fbx": "6a078b6439b42cb1a44caaefd7e69fd8ee9460516d909fdcaf5d02c9115b655e",
+      "WoodlawnDining_LOD2_BaseColor.png": "5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8",
+      "WoodlawnDining_LOD2_ControlMask.png": "9b04f10d403456a5dc17495d1e558b3c412862e34be805faae06e263a2668920",
+      "WoodlawnDining_LOD2_Emissive.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+      "WoodlawnDining_LOD2_MaskMap.png": "3aa85af5585d594a47625c68c424bfc22c354364d770ad8a295f73fdb3c26c53",
+      "WoodlawnDining_LOD2_Normal.png": "593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042",
+      "WoodlawnDining_MaskMap.png": "56afd76d7f00f5b4311dfbf6d049f7c577f668d65ae8f24e39e56c683f2faf74",
+      "WoodlawnDining_Normal.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+      "settings.json": "06e74f40ef89ca98f716b62aba9c37b16e710bc7390fea32f8d927dac93d6d9a",
+      "textures/38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+      "textures/5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8.png": "5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8",
+      "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+      "textures/593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042.png": "593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042",
+      "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+      "textures/e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70"
+    },
+    "replace": [
+      {
+        "name": "WoodlawnDining.fbx",
+        "patch": "WoodlawnDining.zst",
+        "before_sha256": "6236d34a220331743a2475e01d1301cc34f654116588c15c3695a7cc89e582bb",
+        "patch_sha256": "91dcc00cde3ce18bcab3c6cd4f0e3a2fd165ac7ad581a970fdd7fc585bd9a3d9",
+        "after_sha256": "93770f0adc6f456808170e4f842dd596f3cefe90ccd67efa477a691f351c2a34",
+        "bytes": 176492
+      },
+      {
+        "name": "WoodlawnDining_LOD1.fbx",
+        "patch": "WoodlawnDining_LOD1.zst",
+        "before_sha256": "03be73c67667fc16c8f56f3fcc188eb53bc06ff1bb7d0ec954042a333ccd77e2",
+        "patch_sha256": "8add91e5e3df964ee156b32c1e5339596da692e8bd33d74ed75038bf7a051843",
+        "after_sha256": "3c43dd368bf7d292a36518000c95440b1d8ad15b4eddd4b0421eaf3ba89fe241",
+        "bytes": 90796
+      },
+      {
+        "name": "WoodlawnDining_LOD2.fbx",
+        "patch": "WoodlawnDining_LOD2.zst",
+        "before_sha256": "6a078b6439b42cb1a44caaefd7e69fd8ee9460516d909fdcaf5d02c9115b655e",
+        "patch_sha256": "4e78494407f0dedf0d3bb2f71687b9300392007fa16caa16c0a031e14a14fad0",
+        "after_sha256": "10ea7b41e836fcc65976235f9099d476861eb304e14e98b691e4cd05b673d88a",
+        "bytes": 30780
+      }
+    ],
+    "add_references": []
+  },
+  {
+    "asset": "RatnerAthletics",
+    "baseline_package": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/ProjectFiles/RatnerAthletics",
+    "original_files": {
+      "RatnerAthletics.fbx": "f5dd3b6dfafeec19655bb60d10ff93e5603214cfd9696ef67afab83963fa6ce3",
+      "RatnerAthletics_BaseColor.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+      "RatnerAthletics_ControlMask.png": "38b71c678d03e6d720929c80dabeb72fdd0c8d2b2c1d04cd54f64713cbdb8f7d",
+      "RatnerAthletics_Emissive.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+      "RatnerAthletics_LOD1.fbx": "edc929e697e29e9ab855b746f1a0b5bd113cbec937c78276ca963892809760e2",
+      "RatnerAthletics_LOD2.fbx": "ba3acc846a34781c7587e97189c881ba2154ce00813cd4804aa4e3667db24f77",
+      "RatnerAthletics_LOD2_BaseColor.png": "fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f",
+      "RatnerAthletics_LOD2_ControlMask.png": "f12ddfea20dcca2fa350d75d5ed2ae76a4fffbcdfd2b8f2357558b90072dab9f",
+      "RatnerAthletics_LOD2_Emissive.png": "4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58",
+      "RatnerAthletics_LOD2_MaskMap.png": "2691d5cbc7005e10e4f6b054214b7b5108a475f8f21b0fd7600d935ec22491d8",
+      "RatnerAthletics_LOD2_Normal.png": "28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f",
+      "RatnerAthletics_MaskMap.png": "d0f5755e2c43a19254b80c4c91875db79be110f5fa3dbcdef03eee5f5cc7ee98",
+      "RatnerAthletics_Normal.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0",
+      "settings.json": "7082d4e36e6b35d3ec2a2cab323bb8190a02e539e7d3b43a8857bcb9bca5b67f",
+      "textures/0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46.png": "0ca723b2bde8c226824f730d5d7b2fa1e0af8382a75b7989b41e699f74e07c46",
+      "textures/28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f.png": "28e9710e32c5d57bba2540bfbdd19728575823cd4efd55da684115508502735f",
+      "textures/4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58.png": "4a3364b5a8663d1c713cc8bffb01fe44f2547ee1786a8aed2d9e3f7617af6d58",
+      "textures/679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c.png": "679b70af55750fb19e869482178c8a6f7919f0c2c3fe3d8ab59ed552a51d182c",
+      "textures/e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0.png": "e45750a416f927c8195b68b5a568a383ec19790ac994c9145a52702357ea17e0",
+      "textures/fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f.png": "fca97821e81a075bf187f9c9466842d5cee9d3f1983082cec065762991ac197f"
+    },
+    "replace": [
+      {
+        "name": "RatnerAthletics.fbx",
+        "patch": "RatnerAthletics.zst",
+        "before_sha256": "f5dd3b6dfafeec19655bb60d10ff93e5603214cfd9696ef67afab83963fa6ce3",
+        "patch_sha256": "507821e4de115dfc19fbbaf827aeecc5bba351a0cb803e4a333a66e50a5d67f3",
+        "after_sha256": "bfe5ce221749851673015247847d768f03290693aa6dbc2cdcae9dfa2e24fab1",
+        "bytes": 1474364
+      },
+      {
+        "name": "RatnerAthletics_LOD1.fbx",
+        "patch": "RatnerAthletics_LOD1.zst",
+        "before_sha256": "edc929e697e29e9ab855b746f1a0b5bd113cbec937c78276ca963892809760e2",
+        "patch_sha256": "febc485c06b9de43aea367c730b633b75c23c68e75aed3b8bb0b450c3974751d",
+        "after_sha256": "84421cee6c8574c20f077e151fb579894c1201bf6f4cc19e1ba5ba375e51e65d",
+        "bytes": 169948
+      },
+      {
+        "name": "RatnerAthletics_LOD2.fbx",
+        "patch": "RatnerAthletics_LOD2.zst",
+        "before_sha256": "ba3acc846a34781c7587e97189c881ba2154ce00813cd4804aa4e3667db24f77",
+        "patch_sha256": "8a30a062a74b383c0e826f4f26789962e9ea6e9e6f85cee0231cdbe48ef9860d",
+        "after_sha256": "212260ce453cb4d3ec4e01307ac74b5646fad7dc39fbe5391c5bd803630f4f6d",
+        "bytes": 45340
+      }
+    ],
+    "add_references": []
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend",
+    "source_sha256": "2635421fdfb3f78ec2a07263f5b909cdd76237a6113361ee9fa7e9a131464dae",
+    "candidate": "HenryHindsLaboratory_repair.blend",
+    "candidate_bytes": 1059896,
+    "candidate_sha256": "53b1a5868488cec6ad179f979a2bf9727827838cb50a8603879ca666c3cf353b",
+    "delta": "HenryHindsLaboratory_repair.zst",
+    "delta_bytes": 678180,
+    "delta_sha256": "d7f0f471826a3d224d064f9dd188806da3a16573f73baf17cb9c25e19923c3f5"
+  }
+]

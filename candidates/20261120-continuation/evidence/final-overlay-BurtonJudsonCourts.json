@@ -1,0 +1,214 @@
+{
+  "source": "BurtonJudsonCourts.blend",
+  "source_sha256": "24ca75b6b870c6f520a4308116c0ef5f3bfe6d8d40f4135a58c9edddb70230bb",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "BurtonJudsonCourts",
+      "file_sha256": "9b5fbff28fda7601e4f48c96550761f3776ab4c6def5d0bb9aca03cecc32b490",
+      "bytes": 6877132,
+      "version": 7500,
+      "import_seconds": 0.5009842360000221,
+      "peak_rss_kib": 553200,
+      "texture_reference_hashes": {
+        "textures/5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+        "textures/64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+        "textures/d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 161305,
+      "reimport_triangles": 161305,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030511581112547786,
+      "bounds_max_delta_m": 5.949227834367576e-06,
+      "vertex_max_delta_m": 8.092194548225962e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts"
+      ],
+      "source_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -7.1525572131747595e-09
+        ],
+        [
+          48.77000045776367,
+          36.90999984741211,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -5.956380391580751e-06
+        ],
+        [
+          48.77000045776367,
+          36.910003662109375,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BurtonJudsonCourts_LOD1",
+      "file_sha256": "9d81a7742068849d91300c9596f21f1fd70942a696c32f740d4530125e0ad66a",
+      "bytes": 1719228,
+      "version": 7500,
+      "import_seconds": 0.1300132549999944,
+      "peak_rss_kib": 553200,
+      "texture_reference_hashes": {
+        "textures/5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a.png": "5f5838bf13791435fda1e1022925fd28d9fe7f28fff17d88a10474d3371f6d0a",
+        "textures/64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2.png": "64ed5c473f57b26991631d8856c8060b7f9f979aa57535c2f0f39814eb72ccd2",
+        "textures/d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a.png": "d42249e316f6de32a0f46e39d4896d22f204ae6137d8b8fa7b0195279106f70a"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Emissive.png": [
+          2048,
+          2048
+        ],
+        "BurtonJudsonCourts_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 42255,
+      "reimport_triangles": 42255,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030936369022854317,
+      "bounds_max_delta_m": 5.949227834367576e-06,
+      "vertex_max_delta_m": 8.092194548225962e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts_LOD1"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts_LOD1"
+      ],
+      "source_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -7.1525572131747595e-09
+        ],
+        [
+          48.77000045776367,
+          36.90999984741211,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -49.01000213623047,
+          -36.404998779296875,
+          -5.956380391580751e-06
+        ],
+        [
+          48.77000045776367,
+          36.910003662109375,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "BurtonJudsonCourts_LOD2",
+      "file_sha256": "51c1be5a9fd99fb2049219d7ebbd5efbec340d2437b177dc380f703177e8e709",
+      "bytes": 85372,
+      "version": 7500,
+      "import_seconds": 0.013181668000015634,
+      "peak_rss_kib": 553200,
+      "texture_reference_hashes": {
+        "BurtonJudsonCourts_LOD2_BaseColor.png": "c68961f47067ae1e4191280a2457be35aec4d1ceb31afbc76e614ea0532b9c7d",
+        "BurtonJudsonCourts_LOD2_Emissive.png": "e9c4a470ad900801f7de4f9402eb27af8a1cc00eac80d618ef16bac39fb27d33",
+        "BurtonJudsonCourts_LOD2_Normal.png": "9b731446685318b101722c79ad07f84b37bfbc693a36cba301c8ffe31cd61827"
+      },
+      "imported_image_sizes": {
+        "BurtonJudsonCourts_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "BurtonJudsonCourts_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "BurtonJudsonCourts_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 1742,
+      "reimport_triangles": 1742,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029663482801892228,
+      "bounds_max_delta_m": 5.865143975825049e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "BurtonJudsonCourts_LOD2"
+      ],
+      "reimport_materials": [
+        "BurtonJudsonCourts_LOD2"
+      ],
+      "source_bounds": [
+        [
+          -48.380001068115234,
+          -36.0,
+          0.0
+        ],
+        [
+          48.380001068115234,
+          36.380001068115234,
+          30.899999618530273
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -48.380001068115234,
+          -36.0,
+          -5.865143975825049e-06
+        ],
+        [
+          48.380001068115234,
+          36.3800048828125,
+          30.899995803833008
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/LawQuadrangleAssembly/LawQuadrangleAssembly/source/LawQuadrangleAssembly.blend",
+    "source_sha256": "dd512bcb190c5b7bc962b39c09652c716c6feab41d5296a514ae95693824faca",
+    "candidate": "LawQuadrangle_hallway_seams.blend",
+    "candidate_bytes": 655516,
+    "candidate_sha256": "9119e7d040bb1b1a9ffede32fdf2056e15b0296743eb131d7e53501706922b30",
+    "delta": "LawQuadrangle_hallway_seams.zst",
+    "delta_bytes": 494246,
+    "delta_sha256": "85a3328de56be333b5e18cd7d5eea65b187dfded6dd36a89f553ba7d50920341"
+  }
+]

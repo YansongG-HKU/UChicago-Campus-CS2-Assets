@@ -1,0 +1,12 @@
+[
+  {
+    "source": "assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend",
+    "source_sha256": "5452d61c34fdfa5ee877e7c69267e973496318009d5834de1a685e987b08dce0",
+    "candidate": "CampusNorthResidential_back_support.blend",
+    "candidate_bytes": 2621304,
+    "candidate_sha256": "5cfee6d9f052ff852785bef96f523f68ac92a6685e5ccfe2ed2d2e8b6cf3a257",
+    "delta": "CampusNorthResidential_back_support.zst",
+    "delta_bytes": 579386,
+    "delta_sha256": "171d0d87c9573d8bc9ae00eee924422aee624e95621a26b8ccefdda44b4a321c"
+  }
+]

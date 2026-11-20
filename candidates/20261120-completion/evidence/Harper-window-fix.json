@@ -1,0 +1,187 @@
+{
+  "source_sha256": "bb03527fb16b5e1e6dae9281108209f860bcbf3de6ab761c3fa0672c6976ece6",
+  "candidate_sha256": "06934d07b62e3b96195bd1df22688bf04b0f3484fe40fa4a3edf382ed849fe48",
+  "tiers": {
+    "near": {
+      "groups": {
+        "inner_tower_-1_-6": {
+          "flipped_faces": 13,
+          "face_indices": [
+            35347,
+            101778,
+            101779,
+            101780,
+            101781,
+            101782,
+            101783,
+            101784,
+            101785,
+            101786,
+            101787,
+            101788,
+            101789
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 19.806713577359915
+        },
+        "inner_tower_-1_6": {
+          "flipped_faces": 13,
+          "face_indices": [
+            36176,
+            102618,
+            102619,
+            102620,
+            102621,
+            102622,
+            102623,
+            102624,
+            102625,
+            102626,
+            102627,
+            102628,
+            102629
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 19.806713577359915
+        },
+        "inner_tower_1_-6": {
+          "flipped_faces": 13,
+          "face_indices": [
+            57399,
+            123874,
+            123875,
+            123876,
+            123877,
+            123878,
+            123879,
+            123880,
+            123881,
+            123882,
+            123883,
+            123884,
+            123885
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 19.806713607162237
+        },
+        "inner_tower_1_6": {
+          "flipped_faces": 13,
+          "face_indices": [
+            58228,
+            124714,
+            124715,
+            124716,
+            124717,
+            124718,
+            124719,
+            124720,
+            124721,
+            124722,
+            124723,
+            124724,
+            124725
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 19.806713607162237
+        }
+      },
+      "existing_custom_normals_preserved": true,
+      "unmodified_corner_normal_max_component_delta": 0.00027108192443847656
+    },
+    "_LOD1": {
+      "groups": {
+        "inner_tower_-1_-6": {
+          "flipped_faces": 5,
+          "face_indices": [
+            35461,
+            35462,
+            35463,
+            35464,
+            35465
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 19.382789075374603
+        },
+        "inner_tower_-1_6": {
+          "flipped_faces": 5,
+          "face_indices": [
+            35817,
+            35818,
+            35819,
+            35820,
+            35821
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 19.382789075374603
+        },
+        "inner_tower_1_-6": {
+          "flipped_faces": 5,
+          "face_indices": [
+            42116,
+            42117,
+            42118,
+            42119,
+            42120
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 19.38278901576996
+        },
+        "inner_tower_1_6": {
+          "flipped_faces": 5,
+          "face_indices": [
+            42497,
+            42498,
+            42499,
+            42500,
+            42501
+          ],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 19.38278901576996
+        }
+      },
+      "existing_custom_normals_preserved": true,
+      "unmodified_corner_normal_max_component_delta": 0.0
+    },
+    "_LOD2": {
+      "groups": {
+        "inner_tower_-1_-6": {
+          "flipped_faces": 0,
+          "face_indices": [],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 0
+        },
+        "inner_tower_-1_6": {
+          "flipped_faces": 0,
+          "face_indices": [],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": 1,
+          "surface_area_m2_counted_by_face": 0
+        },
+        "inner_tower_1_-6": {
+          "flipped_faces": 0,
+          "face_indices": [],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 0
+        },
+        "inner_tower_1_6": {
+          "flipped_faces": 0,
+          "face_indices": [],
+          "outward_normal_axis": 0,
+          "outward_normal_sign": -1,
+          "surface_area_m2_counted_by_face": 0
+        }
+      },
+      "existing_custom_normals_preserved": false
+    }
+  }
+}

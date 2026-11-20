@@ -1,0 +1,322 @@
+{
+  "source": "CatheyDining.blend",
+  "source_sha256": "ad6007625b8f320b1531bff4cafde5eb425bd50e80470b00ef7952f14f216675",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "CatheyDining",
+      "file_sha256": "42dd5fcbf7b5d03b29804dce99f91ac782ed2fb66ffa1deebf70ec77cf9f6e42",
+      "bytes": 278588,
+      "version": 7500,
+      "import_seconds": 0.15739329400003044,
+      "peak_rss_kib": 305036,
+      "texture_reference_hashes": {
+        "textures/1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682.png": "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619.png": "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 4858,
+      "reimport_triangles": 4858,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030280165905334437,
+      "bounds_max_delta_m": 2.2808897028880892e-06,
+      "vertex_max_delta_m": 2.7906178274861304e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -27.5,
+          -16.0,
+          0.0
+        ],
+        [
+          27.5,
+          14.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -27.5,
+          -15.999999046325684,
+          -2.2808897028880892e-06
+        ],
+        [
+          27.5,
+          14.15000057220459,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_Gls",
+      "file_sha256": "c05db49744c3c44f5c144d2f49870bca9d9dfd7e826f99e47f68738c7333d42e",
+      "bytes": 46268,
+      "version": 7500,
+      "import_seconds": 0.003538725999987946,
+      "peak_rss_kib": 338940,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 420,
+      "reimport_triangles": 420,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030360362162222675,
+      "bounds_max_delta_m": 1.6987323760986328e-06,
+      "vertex_max_delta_m": 2.6973982585332124e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -25.0,
+          -14.0,
+          0.3499999940395355
+        ],
+        [
+          25.0,
+          10.0,
+          9.425000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -25.0,
+          -14.0,
+          0.3500016927719116
+        ],
+        [
+          25.0,
+          10.000000953674316,
+          9.42500114440918
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD1",
+      "file_sha256": "b5d66274f9770bd5e5f3d5fed06f52c94d09218f49a902d0539177a25b80e499",
+      "bytes": 93180,
+      "version": 7500,
+      "import_seconds": 0.09942518600018957,
+      "peak_rss_kib": 338940,
+      "texture_reference_hashes": {
+        "textures/1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682.png": "1bc9af4ac192ecfff84c5aadc1b618af4c7a395595e9c3ea52c9c55b657ef682",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619.png": "7bcbaf048c2efdd92e6fcf62be675cdf1c77607ca8b79393219fab3960982619"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Emissive.png": [
+          2048,
+          2048
+        ],
+        "CatheyDining_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 1314,
+      "reimport_triangles": 1314,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.02861430922493239,
+      "bounds_max_delta_m": 2.280889475514414e-06,
+      "vertex_max_delta_m": 2.7906178274861304e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -27.5,
+          -16.0,
+          0.0
+        ],
+        [
+          27.5,
+          14.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -27.5,
+          -15.999999046325684,
+          -2.280889475514414e-06
+        ],
+        [
+          27.5,
+          14.15000057220459,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD1_Gls",
+      "file_sha256": "c48cd918f34ca555c702e874336251543bd2ffd9d50320117089a3c17181613a",
+      "bytes": 32860,
+      "version": 7500,
+      "import_seconds": 0.00469547100010459,
+      "peak_rss_kib": 338988,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 228,
+      "reimport_triangles": 228,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.029289841692492873,
+      "bounds_max_delta_m": 1.6987323760986328e-06,
+      "vertex_max_delta_m": 2.6973982585332124e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -25.0,
+          -14.0,
+          0.3499999940395355
+        ],
+        [
+          25.0,
+          10.0,
+          9.425000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -25.0,
+          -14.0,
+          0.3500016927719116
+        ],
+        [
+          25.0,
+          10.000000953674316,
+          9.42500114440918
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "CatheyDining_LOD2",
+      "file_sha256": "dfab3f62a7f6ace4150eff9fc8961f0184b63cad97e2ee97017b6c2f57154e40",
+      "bytes": 45756,
+      "version": 7500,
+      "import_seconds": 0.01107979800008252,
+      "peak_rss_kib": 338988,
+      "texture_reference_hashes": {
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/71f21f68317429c1f53fdab2ef85af10314fd40b4552fe782fcd575d21b12f2f.png": "71f21f68317429c1f53fdab2ef85af10314fd40b4552fe782fcd575d21b12f2f",
+        "textures/dc921fa0147fec1e9c0552c7aba38b7defc52150e371a21649399beef6e8fc62.png": "dc921fa0147fec1e9c0552c7aba38b7defc52150e371a21649399beef6e8fc62"
+      },
+      "imported_image_sizes": {
+        "CatheyDining_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "CatheyDining_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 354,
+      "reimport_triangles": 354,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.025918349536476433,
+      "bounds_max_delta_m": 2.280889475514414e-06,
+      "vertex_max_delta_m": 2.7906178274861304e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "CatheyDining_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "CatheyDining_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -27.5,
+          -16.0,
+          0.0
+        ],
+        [
+          27.5,
+          14.149999618530273,
+          10.084342002868652
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -27.5,
+          -15.999999046325684,
+          -2.280889475514414e-06
+        ],
+        [
+          27.5,
+          14.15000057220459,
+          10.084342956542969
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

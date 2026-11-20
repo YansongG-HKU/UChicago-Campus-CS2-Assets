@@ -1,0 +1,6 @@
+{
+  "head_checked": "15eb8095479457c0bfe0989c990a0874e05288f3",
+  "tracked_paths_checked": 240,
+  "new_ignore_pattern_matches": [],
+  "note": "Existing broad asset ignore rules predate hygiene work; no git rm or untracking performed. Added local-work/cache and Python/OS junk rules match none of tracked paths."
+}

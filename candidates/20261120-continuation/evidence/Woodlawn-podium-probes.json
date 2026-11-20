@@ -1,0 +1,4986 @@
+{
+  "assembly_sha256": "e750b32ead9c5d11c09721bef6ab81631c066f489b30b8562d45ba7cf8f0b21c",
+  "nominal_podium_roof_z_m": 4.2,
+  "tiers": {
+    "near": {
+      "components": {
+        "WoodlawnDining": {
+          "bounds_m": [
+            [
+              -2.079985,
+              51.655804
+            ],
+            [
+              -39.490002,
+              43.96302
+            ],
+            [
+              0.0,
+              5.3225
+            ]
+          ],
+          "triangles": 4470
+        },
+        "WoodlawnResidential": {
+          "bounds_m": [
+            [
+              -52.18,
+              49.978996
+            ],
+            [
+              -43.949001,
+              35.668999
+            ],
+            [
+              0.0,
+              51.950001
+            ]
+          ],
+          "triangles": 52246
+        }
+      },
+      "podium_sections": [
+        {
+          "segment": 1,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -1.032419,
+                3.91864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -1.040526,
+                3.884592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -1.044,
+                3.87
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -1.047474,
+                3.855408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -1.055581,
+                3.82136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.479581,
+                3.55864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.471474,
+                3.524592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.468,
+                3.51
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.464526,
+                3.495408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.456419,
+                3.46136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                1.991581,
+                3.19864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                1.983474,
+                3.164592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                1.98,
+                3.15
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                1.976526,
+                3.135408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                1.968419,
+                3.10136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.503581,
+                2.83864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.495474,
+                2.804592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.492,
+                2.79
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.488526,
+                2.775408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.480419,
+                2.74136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.015581,
+                2.47864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.007474,
+                2.444592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.004,
+                2.43
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.000525,
+                2.415408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                4.992419,
+                2.38136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 2,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.106525,
+                -0.588053
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.072557,
+                -0.579615
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.058,
+                -0.575999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.043443,
+                -0.572383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                5.009475,
+                -0.563945
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.702525,
+                -6.240054
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.668558,
+                -6.231616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.654,
+                -6.228
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.639442,
+                -6.224383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.605475,
+                -6.215946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.298525,
+                -11.892055
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.264558,
+                -11.883616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.25,
+                -11.88
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.235442,
+                -11.876384
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.201475,
+                -11.867946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.894525,
+                -17.544056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.860558,
+                -17.535618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.846,
+                -17.532001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.831442,
+                -17.528385
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.797475,
+                -17.519947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -0.509475,
+                -23.196056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -0.543442,
+                -23.187618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -0.558,
+                -23.184002
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -0.572558,
+                -23.180386
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -0.606525,
+                -23.171947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 3,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.916,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.916,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.916,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.916,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.916,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                11.268001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                11.268001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                11.268001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                11.268001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                11.268001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                19.620001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                19.620001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                19.620001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                19.620001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                19.620001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                27.972,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                27.972,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                27.972,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                27.972,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                27.972,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                36.324001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                36.324001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                36.324001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                36.324001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                36.324001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 4,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_LOD1": {
+      "components": {
+        "WoodlawnDining": {
+          "bounds_m": [
+            [
+              -2.079985,
+              51.580002
+            ],
+            [
+              -39.430004,
+              43.927624
+            ],
+            [
+              0.0,
+              5.3225
+            ]
+          ],
+          "triangles": 1638
+        },
+        "WoodlawnResidential": {
+          "bounds_m": [
+            [
+              -52.120003,
+              49.955002
+            ],
+            [
+              -43.925003,
+              35.645
+            ],
+            [
+              0.0,
+              51.950001
+            ]
+          ],
+          "triangles": 9366
+        }
+      },
+      "podium_sections": [
+        {
+          "segment": 1,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -1.032419,
+                3.91864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -1.040526,
+                3.884592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -1.044,
+                3.87
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -1.047474,
+                3.855408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -1.055581,
+                3.82136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.479581,
+                3.55864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.471474,
+                3.524592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.468,
+                3.51
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.464526,
+                3.495408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.456419,
+                3.46136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                1.991581,
+                3.19864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                1.983474,
+                3.164592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                1.98,
+                3.15
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                1.976526,
+                3.135408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                1.968419,
+                3.10136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.503581,
+                2.83864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.495474,
+                2.804592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.492,
+                2.79
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.488526,
+                2.775408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.480419,
+                2.74136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.015581,
+                2.47864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.007474,
+                2.444592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.004,
+                2.43
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.000525,
+                2.415408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                4.992419,
+                2.38136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 2,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.106525,
+                -0.588053
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.072557,
+                -0.579615
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.058,
+                -0.575999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.043443,
+                -0.572383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                5.009475,
+                -0.563945
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.702525,
+                -6.240054
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.668558,
+                -6.231616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.654,
+                -6.228
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.639442,
+                -6.224383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.605475,
+                -6.215946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.298525,
+                -11.892055
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.264558,
+                -11.883616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.25,
+                -11.88
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.235442,
+                -11.876384
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.201475,
+                -11.867946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.894525,
+                -17.544056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.860558,
+                -17.535618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.846,
+                -17.532001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.831442,
+                -17.528385
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.797475,
+                -17.519947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -0.509475,
+                -23.196056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -0.543442,
+                -23.187618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -0.558,
+                -23.184002
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -0.572558,
+                -23.180386
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -0.606525,
+                -23.171947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 3,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.916,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.916,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.916,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.916,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.916,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                11.268001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                11.268001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                11.268001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                11.268001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                11.268001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                19.620001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                19.620001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                19.620001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                19.620001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                19.620001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                27.972,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                27.972,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                27.972,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                27.972,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                27.972,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                36.324001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                36.324001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                36.324001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                36.324001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                36.324001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 4,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_LOD2": {
+      "components": {
+        "WoodlawnDining": {
+          "bounds_m": [
+            [
+              -1.98,
+              51.48
+            ],
+            [
+              -39.330002,
+              43.830002
+            ],
+            [
+              0.0,
+              4.65
+            ]
+          ],
+          "triangles": 66
+        },
+        "WoodlawnResidential": {
+          "bounds_m": [
+            [
+              -52.115005,
+              49.955002
+            ],
+            [
+              -43.925003,
+              35.645
+            ],
+            [
+              0.0,
+              51.950001
+            ]
+          ],
+          "triangles": 494
+        }
+      },
+      "podium_sections": [
+        {
+          "segment": 1,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -1.032419,
+                3.91864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -1.040526,
+                3.884592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -1.044,
+                3.87
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -1.047474,
+                3.855408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -1.055581,
+                3.82136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.479581,
+                3.55864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.471474,
+                3.524592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.468,
+                3.51
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.464526,
+                3.495408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.456419,
+                3.46136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                1.991581,
+                3.19864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                1.983474,
+                3.164592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                1.98,
+                3.15
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                1.976526,
+                3.135408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                1.968419,
+                3.10136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.503581,
+                2.83864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.495474,
+                2.804592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.492,
+                2.79
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.488526,
+                2.775408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.480419,
+                2.74136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.015581,
+                2.47864
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.007474,
+                2.444592
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.004,
+                2.43
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.000525,
+                2.415408
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                4.992419,
+                2.38136
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 2,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                5.106525,
+                -0.588053
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                5.072557,
+                -0.579615
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                5.058,
+                -0.575999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                5.043443,
+                -0.572383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                5.009475,
+                -0.563945
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                3.702525,
+                -6.240054
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                3.668558,
+                -6.231616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                3.654,
+                -6.228
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                3.639442,
+                -6.224383
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                3.605475,
+                -6.215946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.298525,
+                -11.892055
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.264558,
+                -11.883616
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.25,
+                -11.88
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.235442,
+                -11.876384
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.201475,
+                -11.867946
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                0.894525,
+                -17.544056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                0.860558,
+                -17.535618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                0.846,
+                -17.532001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                0.831442,
+                -17.528385
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                0.797475,
+                -17.519947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                -0.509475,
+                -23.196056
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                -0.543442,
+                -23.187618
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                -0.558,
+                -23.184002
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                -0.572558,
+                -23.180386
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                -0.606525,
+                -23.171947
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 3,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                2.916,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                2.916,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                2.916,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                2.916,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                2.916,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                11.268001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                11.268001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                11.268001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                11.268001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                11.268001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                19.620001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                19.620001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                19.620001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                19.620001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                19.620001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                27.972,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                27.972,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                27.972,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                27.972,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                27.972,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.235001,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                36.324001,
+                -25.960001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                36.324001,
+                -25.995001
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                36.324001,
+                -26.01
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                36.324001,
+                -26.025
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                36.324001,
+                -26.059999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "segment": 4,
+          "samples": [
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -27.341999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": -0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -30.005999
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -32.669998
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.199999
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.2,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -35.334
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.05,
+              "xy_m": [
+                40.549999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": -0.015,
+              "xy_m": [
+                40.514999,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": -0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0,
+              "xy_m": [
+                40.5,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": 4.2,
+                "WoodlawnResidential": null
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": 0.0,
+                "WoodlawnResidential": null
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.015,
+              "xy_m": [
+                40.485001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": -0.0
+              }
+            },
+            {
+              "along_fraction": 0.4,
+              "signed_offset_m": 0.05,
+              "xy_m": [
+                40.450001,
+                -37.997997
+              ],
+              "roof_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 4.2
+              },
+              "underside_first_hit_m": {
+                "WoodlawnDining": null,
+                "WoodlawnResidential": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

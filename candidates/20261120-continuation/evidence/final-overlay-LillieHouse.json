@@ -1,0 +1,226 @@
+{
+  "source": "LillieHouse.blend",
+  "source_sha256": "a824d6c72610027a7a51ea6236a8a58181c32c9ebefd5af953f056c9e61b04de",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "LillieHouse",
+      "file_sha256": "4d592e6e0acfbed55ad8e0ee5f70b42ef315312e82a50a5abb0cdda0644a8d2e",
+      "bytes": 828092,
+      "version": 7500,
+      "import_seconds": 0.3433005850001791,
+      "peak_rss_kib": 327624,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "LillieHouse_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "LillieHouse_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "LillieHouse_Emissive.png": [
+          2048,
+          2048
+        ],
+        "LillieHouse_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 25244,
+      "reimport_triangles": 25244,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030510567766636007,
+      "bounds_max_delta_m": 1.8760315469990019e-06,
+      "vertex_max_delta_m": 2.5678466499812203e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LillieHouse_Mtl"
+      ],
+      "reimport_materials": [
+        "LillieHouse_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.359999656677246,
+          -9.404999732971191,
+          0.0
+        ],
+        [
+          11.649999618530273,
+          11.649999618530273,
+          15.133999824523926
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.359999656677246,
+          -9.404998779296875,
+          -1.8760315469990019e-06
+        ],
+        [
+          11.649999618530273,
+          11.649999618530273,
+          15.133999824523926
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LillieHouse_LOD1",
+      "file_sha256": "b5302c83ea019b3713c80e659df46c27c63103cfc549344c1ae244c73b3f93aa",
+      "bytes": 394812,
+      "version": 7500,
+      "import_seconds": 0.1160838379996676,
+      "peak_rss_kib": 364404,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "LillieHouse_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "LillieHouse_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "LillieHouse_Emissive.png": [
+          2048,
+          2048
+        ],
+        "LillieHouse_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 11644,
+      "reimport_triangles": 11644,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030510567766636007,
+      "bounds_max_delta_m": 1.8760315469990019e-06,
+      "vertex_max_delta_m": 2.5678466499812203e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LillieHouse_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "LillieHouse_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.359999656677246,
+          -9.399999618530273,
+          0.0
+        ],
+        [
+          10.359999656677246,
+          11.649999618530273,
+          15.133999824523926
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.359999656677246,
+          -9.399998664855957,
+          -1.8760315469990019e-06
+        ],
+        [
+          10.359999656677246,
+          11.649999618530273,
+          15.133999824523926
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "LillieHouse_LOD2",
+      "file_sha256": "0c2f264e651d63807d383dee4354a9da8b84d7f0dbc499102647d1b527781edb",
+      "bytes": 72892,
+      "version": 7500,
+      "import_seconds": 0.03156763500010129,
+      "peak_rss_kib": 374784,
+      "texture_reference_hashes": {
+        "LillieHouse_LOD2_BaseColor.png": "28dd554844e97e942f84a3458ae5bd4ea68d09a70491310095bbeda1392aca19",
+        "LillieHouse_LOD2_Emissive.png": "ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5",
+        "LillieHouse_LOD2_Normal.png": "87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203"
+      },
+      "imported_image_sizes": {
+        "LillieHouse_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "LillieHouse_LOD2_BaseColor.png.001": [
+          1024,
+          1024
+        ],
+        "LillieHouse_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "LillieHouse_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 1418,
+      "reimport_triangles": 1418,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03038718688916754,
+      "bounds_max_delta_m": 1.8760315469990019e-06,
+      "vertex_max_delta_m": 2.5678466499812203e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "LillieHouse_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "LillieHouse_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.300000190734863,
+          -9.21500015258789,
+          0.0
+        ],
+        [
+          10.300000190734863,
+          11.649999618530273,
+          14.949999809265137
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.300000190734863,
+          -9.214999198913574,
+          -1.8760315469990019e-06
+        ],
+        [
+          10.300000190734863,
+          11.649999618530273,
+          14.949999809265137
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "base_commit": "2a92e2e96ac2b9a333ef525bcc00698a21e154fa",
+  "source_scenes": 101,
+  "registered_families": 136,
+  "source_mesh_records": 425,
+  "file_image_references": 1473,
+  "maskmap_blue_channel_scans": 290,
+  "roundtrip_meshes": 425,
+  "roundtrip_pass": true,
+  "normalized_materials": 24,
+  "repaired_scenes": 8,
+  "newly_changed_vs_prior11": 6,
+  "total_changed_sources_vs_20261013": 17,
+  "lod1_recommendation_exceptions": 2,
+  "lod2_recommendation_exceptions": 27,
+  "fbx_format": "Blender 7400 geometry-check exports, not Autodesk FBX2018 certification",
+  "game_editor_verified": false,
+  "excluded_from_missing_mesh_failures": [
+    "__context_scene__ is an intentional background-only register placeholder"
+  ],
+  "roundtrip_scope": "Mesh count, triangle count, UV-layer count, world bbox and bidirectional vertex distance < 0.0001m. Does not prove shader appearance, special-shader UV nonoverlap, normals convention, collision/navigation or game import."
+}

@@ -1,0 +1,157 @@
+{
+  "pixels_per_side": 192,
+  "source_sha256": "bcd8d7dbae3d68340c1352dda766a58b3598fbd2b890d6b24207079b8a2d5474",
+  "candidate_sha256": "32629cb0e64fe8fb73e747a9107a200aa2c1df6022c119aca0b5b7b5b0bb8195",
+  "tiers": {
+    "near": {
+      "(1, -1, 0.75)": {
+        "covered_before": 6557,
+        "covered_after": 6557,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 580,
+        "first_hit_backfacing_after": 432
+      },
+      "(-1, 1, 0.65)": {
+        "covered_before": 6811,
+        "covered_after": 6811,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 202,
+        "first_hit_backfacing_after": 88
+      },
+      "(0, 0, 1)": {
+        "covered_before": 5017,
+        "covered_after": 5017,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 45,
+        "first_hit_backfacing_after": 45
+      },
+      "(1, 1, 0.55)": {
+        "covered_before": 6745,
+        "covered_after": 6745,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 187,
+        "first_hit_backfacing_after": 114
+      },
+      "(-1, -1, 0.55)": {
+        "covered_before": 6511,
+        "covered_after": 6511,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 474,
+        "first_hit_backfacing_after": 354
+      },
+      "focus": {
+        "covered_before": 16317,
+        "covered_after": 16317,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 4201,
+        "first_hit_backfacing_after": 2221
+      }
+    },
+    "_LOD1": {
+      "(1, -1, 0.75)": {
+        "covered_before": 6562,
+        "covered_after": 6562,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 555,
+        "first_hit_backfacing_after": 379
+      },
+      "(-1, 1, 0.65)": {
+        "covered_before": 6827,
+        "covered_after": 6827,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 226,
+        "first_hit_backfacing_after": 130
+      },
+      "(0, 0, 1)": {
+        "covered_before": 5014,
+        "covered_after": 5014,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 19,
+        "first_hit_backfacing_after": 19
+      },
+      "(1, 1, 0.55)": {
+        "covered_before": 6772,
+        "covered_after": 6772,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 267,
+        "first_hit_backfacing_after": 113
+      },
+      "(-1, -1, 0.55)": {
+        "covered_before": 6533,
+        "covered_after": 6533,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 427,
+        "first_hit_backfacing_after": 299
+      },
+      "focus": {
+        "covered_before": 16316,
+        "covered_after": 16316,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 4894,
+        "first_hit_backfacing_after": 2830
+      }
+    },
+    "_LOD2": {
+      "(1, -1, 0.75)": {
+        "covered_before": 6373,
+        "covered_after": 6373,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 278,
+        "first_hit_backfacing_after": 15
+      },
+      "(-1, 1, 0.65)": {
+        "covered_before": 6698,
+        "covered_after": 6698,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 166,
+        "first_hit_backfacing_after": 19
+      },
+      "(0, 0, 1)": {
+        "covered_before": 4799,
+        "covered_after": 4799,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 4,
+        "first_hit_backfacing_after": 4
+      },
+      "(1, 1, 0.55)": {
+        "covered_before": 6655,
+        "covered_after": 6655,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 233,
+        "first_hit_backfacing_after": 29
+      },
+      "(-1, -1, 0.55)": {
+        "covered_before": 6399,
+        "covered_after": 6399,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 281,
+        "first_hit_backfacing_after": 7
+      },
+      "focus": {
+        "covered_before": 15145,
+        "covered_after": 15145,
+        "coverage_changed_pixels": 0,
+        "covered_distance_delta_over_2mm_pixels": 0,
+        "first_hit_backfacing_before": 4776,
+        "first_hit_backfacing_after": 2228
+      }
+    }
+  }
+}

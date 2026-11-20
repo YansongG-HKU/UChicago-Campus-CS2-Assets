@@ -1,0 +1,2609 @@
+{
+  "source_sha256": "9119e7d040bb1b1a9ffede32fdf2056e15b0296743eb131d7e53501706922b30",
+  "rays": {
+    "near": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ],
+    "_LOD1": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ],
+            [
+              -0.075001,
+              -1.0
+            ],
+            [
+              0.075001,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              -0.119999,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ],
+    "_LOD2": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025002,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "LawClassroomAdministration": [
+            [
+              0.025,
+              1.0
+            ]
+          ],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "LawClassroomAdministration": [],
+          "DAngeloLawLibrary": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

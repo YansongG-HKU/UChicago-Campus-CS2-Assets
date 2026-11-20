@@ -1,0 +1,226 @@
+{
+  "source": "ChicagoLyingIn.blend",
+  "source_sha256": "ea5872614e57fc5750ec05c4eb42c938a03c70f92b1c5fb2a2d61992ae1ebe55",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "ChicagoLyingIn",
+      "file_sha256": "8233aa87484b1885783e5759165f62ebfa91d40f047b55099a5118cff3a80577",
+      "bytes": 3066796,
+      "version": 7500,
+      "import_seconds": 0.8142353560000402,
+      "peak_rss_kib": 393808,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "ChicagoLyingIn_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_Emissive.png": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 85151,
+      "reimport_triangles": 85151,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03082581434721696,
+      "bounds_max_delta_m": 4.235937922203448e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ChicagoLyingIn_Mtl"
+      ],
+      "reimport_materials": [
+        "ChicagoLyingIn_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -33.040000915527344,
+          -26.982070922851562,
+          0.0
+        ],
+        [
+          32.32500076293945,
+          26.32499885559082,
+          40.599998474121094
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -33.040000915527344,
+          -26.98206901550293,
+          -4.235937922203448e-06
+        ],
+        [
+          32.32500076293945,
+          26.325002670288086,
+          40.599998474121094
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "ChicagoLyingIn_LOD1",
+      "file_sha256": "60aa4c92a2ad56c9eba0ea44ea27ace26bf80e27193ff316ac19cf2d7cfc3a35",
+      "bytes": 808924,
+      "version": 7500,
+      "import_seconds": 0.5928560629999993,
+      "peak_rss_kib": 426436,
+      "texture_reference_hashes": {
+        "textures/3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552.png": "3256c26456c91067e65722f92c54b3221c5f5b18344c198bf72dad6339727552",
+        "textures/3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59.png": "3c68b7bace128a846bb72e38985cb6d379af0b08e215a54988a078380aea0f59",
+        "textures/bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda.png": "bce14c5ad08956c46485edcb4cde7a2a6e2c25c060553717ad4e7069805ccdda"
+      },
+      "imported_image_sizes": {
+        "ChicagoLyingIn_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_Emissive.png": [
+          2048,
+          2048
+        ],
+        "ChicagoLyingIn_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 24963,
+      "reimport_triangles": 24963,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.03038718688916754,
+      "bounds_max_delta_m": 4.235937922203448e-06,
+      "vertex_max_delta_m": 7.68876816437114e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ChicagoLyingIn_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "ChicagoLyingIn_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -32.97500228881836,
+          -26.982070922851562,
+          0.0
+        ],
+        [
+          32.25,
+          26.15999984741211,
+          40.599998474121094
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.97500228881836,
+          -26.98206901550293,
+          -4.235937922203448e-06
+        ],
+        [
+          32.25,
+          26.160003662109375,
+          40.599998474121094
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "ChicagoLyingIn_LOD2",
+      "file_sha256": "c3d3dd019ac29a011ffe1e97fdbd7e33c1e7d311343a46f0cda75aff784d060e",
+      "bytes": 40012,
+      "version": 7500,
+      "import_seconds": 0.12143881199995121,
+      "peak_rss_kib": 426436,
+      "texture_reference_hashes": {
+        "textures/87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203.png": "87b31070ff3e3719c704eca2af272dcee10b0280bc42a3744a29e7eef7598203",
+        "textures/ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5.png": "ad196c6c5e07280988c497d16740c7452499af70851c1e60f1d334fe5c8a9ba5",
+        "textures/f574a1a703acdcde1eef2c740e5cb383f8b13409cbf6cc861a234be69df1842f.png": "f574a1a703acdcde1eef2c740e5cb383f8b13409cbf6cc861a234be69df1842f"
+      },
+      "imported_image_sizes": {
+        "ChicagoLyingIn_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "ChicagoLyingIn_LOD2_BaseColor.png.001": [
+          1024,
+          1024
+        ],
+        "ChicagoLyingIn_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "ChicagoLyingIn_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      },
+      "source_triangles": 398,
+      "reimport_triangles": 398,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.017691162273957877,
+      "bounds_max_delta_m": 4.235937922203448e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "ChicagoLyingIn_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "ChicagoLyingIn_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -32.900001525878906,
+          -26.299999237060547,
+          0.0
+        ],
+        [
+          32.04999923706055,
+          26.0,
+          40.599998474121094
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -32.900001525878906,
+          -26.299997329711914,
+          -4.235937922203448e-06
+        ],
+        [
+          32.04999923706055,
+          26.000003814697266,
+          40.599998474121094
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

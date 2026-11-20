@@ -1,0 +1,226 @@
+{
+  "source": "WoodlawnResidential.blend",
+  "source_sha256": "8605812af9de25be448fb08a4b0364bd882c751e86418a576b4ba4eb065c2f6c",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "WoodlawnResidential",
+      "file_sha256": "9e81d1cf7601ce30c9726488354604fdda55254d8c9054f454928a3d0515f105",
+      "bytes": 1695484,
+      "version": 7500,
+      "import_seconds": 0.29356974200004515,
+      "peak_rss_kib": 375820,
+      "texture_reference_hashes": {
+        "textures/38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70"
+      },
+      "imported_image_sizes": {
+        "WoodlawnResidential_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_Emissive.png": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 52246,
+      "reimport_triangles": 52246,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030955743540153915,
+      "bounds_max_delta_m": 4.92672143082018e-06,
+      "vertex_max_delta_m": 9.39260280574672e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WoodlawnResidential_Mtl"
+      ],
+      "reimport_materials": [
+        "WoodlawnResidential_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -46.42000198364258,
+          -30.71900177001953,
+          0.0
+        ],
+        [
+          55.73899841308594,
+          48.89899826049805,
+          51.95000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -46.42000198364258,
+          -30.71900177001953,
+          -4.92672143082018e-06
+        ],
+        [
+          55.73899841308594,
+          48.89900207519531,
+          51.95000457763672
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WoodlawnResidential_LOD1",
+      "file_sha256": "504b94a664e1ada25720a8d34133461fd0f174c9d162f94aa6d496b72c6f2bd5",
+      "bytes": 307068,
+      "version": 7500,
+      "import_seconds": 0.10443252400000347,
+      "peak_rss_kib": 411528,
+      "texture_reference_hashes": {
+        "textures/38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198.png": "38b82ef21240671c2a3edaef8ac1b39af73e670dc0c70dba6420c7d999044198",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70.png": "e345d51b27fda8ddc435f2bc223037a9c886de640ce773171e7d95912d484b70"
+      },
+      "imported_image_sizes": {
+        "WoodlawnResidential_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_Emissive.png": [
+          2048,
+          2048
+        ],
+        "WoodlawnResidential_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 9366,
+      "reimport_triangles": 9366,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030955743540153915,
+      "bounds_max_delta_m": 4.92672143082018e-06,
+      "vertex_max_delta_m": 9.39260280574672e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WoodlawnResidential_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "WoodlawnResidential_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -46.36000442504883,
+          -30.695003509521484,
+          0.0
+        ],
+        [
+          55.71500015258789,
+          48.875,
+          51.95000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -46.36000442504883,
+          -30.69500160217285,
+          -4.92672143082018e-06
+        ],
+        [
+          55.71500015258789,
+          48.875003814697266,
+          51.95000457763672
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "WoodlawnResidential_LOD2",
+      "file_sha256": "215d27b842ba8758c40358396dc1748250a4ccdef657d15185288f4051989fe7",
+      "bytes": 47676,
+      "version": 7500,
+      "import_seconds": 0.012389552999820808,
+      "peak_rss_kib": 411528,
+      "texture_reference_hashes": {
+        "textures/5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8.png": "5599cb720f60e05a3a4116d7d3a8582dd84079399fed463d0f3594d234eff0f8",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042.png": "593280b008057e98999fc9ff4a79dbeb5c565c2b7da0bda311f61307530dc042"
+      },
+      "imported_image_sizes": {
+        "WoodlawnResidential_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "WoodlawnResidential_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "WoodlawnResidential_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "WoodlawnResidential_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 494,
+      "reimport_triangles": 494,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.030955743540153915,
+      "bounds_max_delta_m": 4.92672143082018e-06,
+      "vertex_max_delta_m": 8.58306884765625e-06,
+      "local_vertex_max_delta_m": 0.0,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "WoodlawnResidential_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "WoodlawnResidential_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -46.355003356933594,
+          -30.695003509521484,
+          0.0
+        ],
+        [
+          55.71500015258789,
+          48.875,
+          51.95000076293945
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -46.355003356933594,
+          -30.69500160217285,
+          -4.92672143082018e-06
+        ],
+        [
+          55.71500015258789,
+          48.875003814697266,
+          51.95000457763672
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

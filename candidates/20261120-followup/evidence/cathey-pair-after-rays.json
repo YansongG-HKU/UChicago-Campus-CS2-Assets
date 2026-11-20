@@ -1,0 +1,1061 @@
+{
+  "source_sha256": "e5ea6cffdbfbaf5cafa7c59c1e0db27abac4b97ee2a7b4210523317fcf238bd2",
+  "rays": {
+    "near": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ],
+    "_LOD1": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ],
+    "_LOD2": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "CatheyDining": [],
+          "BurtonJudsonCourts": [
+            [
+              0.0,
+              -1.0
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

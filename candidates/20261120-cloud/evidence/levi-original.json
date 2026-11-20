@@ -1,0 +1,317 @@
+{
+  "source": "EdwardHLeviHall.blend",
+  "source_sha256": "2d367e1c5ef31fdb0cf52bb7e6473a889e144260ded5c013f341f59bdd9c9b72",
+  "blender": "4.3.2",
+  "records": [
+    {
+      "name": "EdwardHLeviHall",
+      "file_sha256": "32caea74d01c5175b922bd5349d59ccb8c019f356602d72d1ecab8a39fab3c85",
+      "bytes": 614060,
+      "version": 7500,
+      "import_seconds": 0.19826042700003654,
+      "peak_rss_kib": 317572,
+      "texture_reference_hashes": {
+        "textures/289910c5a95d3e08d5b2501d73a74df0fcc53dcef83c6c77826f528c3bbcfc47.png": "289910c5a95d3e08d5b2501d73a74df0fcc53dcef83c6c77826f528c3bbcfc47",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/de369a2b79742172fe205f2c06973b1b3c10113b2e531523c288cbfb83ee9473.png": "de369a2b79742172fe205f2c06973b1b3c10113b2e531523c288cbfb83ee9473"
+      },
+      "imported_image_sizes": {
+        "EdwardHLeviHall_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_Emissive.png": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 24808,
+      "reimport_triangles": 24808,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014990886722909632,
+      "bounds_max_delta_m": 5.405708179750945e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "EdwardHLeviHall_Mtl"
+      ],
+      "reimport_materials": [
+        "EdwardHLeviHall_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.75,
+          -33.400001525878906,
+          0.0
+        ],
+        [
+          10.75,
+          33.400001525878906,
+          27.299999237060547
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.75,
+          -33.39999771118164,
+          -5.405708179750945e-06
+        ],
+        [
+          10.75,
+          33.40000534057617,
+          27.300003051757812
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "EdwardHLeviHall_Gls",
+      "file_sha256": "d17a8753b1ec0a92c53ccc9e7616968bb5ea4a8d4c574050e1ec9093b57e0ce3",
+      "bytes": 17804,
+      "version": 7500,
+      "import_seconds": 0.0029125130000124955,
+      "peak_rss_kib": 358812,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 36,
+      "reimport_triangles": 36,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.028435598172126472,
+      "bounds_max_delta_m": 1.430511474609375e-06,
+      "vertex_max_delta_m": 1.430511474609375e-06,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -8.079999923706055,
+          -2.799999952316284,
+          0.8999999761581421
+        ],
+        [
+          8.079999923706055,
+          2.799999952316284,
+          8.550000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -8.079999923706055,
+          -2.799999713897705,
+          0.8999994993209839
+        ],
+        [
+          8.079999923706055,
+          2.800001382827759,
+          8.550000190734863
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "EdwardHLeviHall_LOD1",
+      "file_sha256": "e42ab2a6520c0962e555c1f7b0241e8e6ee8ab8adab8d028b7809bd22154f357",
+      "bytes": 136188,
+      "version": 7500,
+      "import_seconds": 0.12119065600001022,
+      "peak_rss_kib": 358812,
+      "texture_reference_hashes": {
+        "textures/289910c5a95d3e08d5b2501d73a74df0fcc53dcef83c6c77826f528c3bbcfc47.png": "289910c5a95d3e08d5b2501d73a74df0fcc53dcef83c6c77826f528c3bbcfc47",
+        "textures/6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0.png": "6e84541fac14f31507b9d68f110245775261bfd6f75fb997b4b053e25a0614b0",
+        "textures/de369a2b79742172fe205f2c06973b1b3c10113b2e531523c288cbfb83ee9473.png": "de369a2b79742172fe205f2c06973b1b3c10113b2e531523c288cbfb83ee9473"
+      },
+      "imported_image_sizes": {
+        "EdwardHLeviHall_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_BaseColor.png.001": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_Emissive.png": [
+          2048,
+          2048
+        ],
+        "EdwardHLeviHall_Normal.png": [
+          2048,
+          2048
+        ]
+      },
+      "source_triangles": 4840,
+      "reimport_triangles": 4840,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.014990886722909632,
+      "bounds_max_delta_m": 5.405708179750945e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "EdwardHLeviHall_LOD1_Mtl"
+      ],
+      "reimport_materials": [
+        "EdwardHLeviHall_LOD1_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.75,
+          -33.400001525878906,
+          0.0
+        ],
+        [
+          10.75,
+          33.400001525878906,
+          27.299999237060547
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.75,
+          -33.39999771118164,
+          -5.405708179750945e-06
+        ],
+        [
+          10.75,
+          33.40000534057617,
+          27.300003051757812
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "EdwardHLeviHall_LOD1_Gls",
+      "file_sha256": "a23ce1c517debc9a7275d56a1e10499538158ba6e92dc6308cc16a0b4e724e00",
+      "bytes": 17820,
+      "version": 7500,
+      "import_seconds": 0.002585148999969533,
+      "peak_rss_kib": 359424,
+      "texture_reference_hashes": {},
+      "imported_image_sizes": {},
+      "source_triangles": 36,
+      "reimport_triangles": 36,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.028435598172126472,
+      "bounds_max_delta_m": 1.430511474609375e-06,
+      "vertex_max_delta_m": 1.430511474609375e-06,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [],
+      "reimport_materials": [],
+      "source_bounds": [
+        [
+          -8.079999923706055,
+          -2.799999952316284,
+          0.8999999761581421
+        ],
+        [
+          8.079999923706055,
+          2.799999952316284,
+          8.550000190734863
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -8.079999923706055,
+          -2.799999713897705,
+          0.8999994993209839
+        ],
+        [
+          8.079999923706055,
+          2.800001382827759,
+          8.550000190734863
+        ]
+      ],
+      "zero_triangles": 0
+    },
+    {
+      "name": "EdwardHLeviHall_LOD2",
+      "file_sha256": "21911926d9690ec478e22cd7549c338376edaa1f6661f68f97cb23d23fad17ca",
+      "bytes": 39948,
+      "version": 7500,
+      "import_seconds": 0.01804832699997405,
+      "peak_rss_kib": 359424,
+      "texture_reference_hashes": {
+        "textures/1f36f856f315e11c3aa356c97062bbd50ead64fdfdf8aed5691bc3f6ceac834d.png": "1f36f856f315e11c3aa356c97062bbd50ead64fdfdf8aed5691bc3f6ceac834d",
+        "textures/57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974.png": "57b5e40e68e97c62837b9d0a5a8f7aac22471c1633897f9bcf4fa62864ecc974",
+        "textures/e14935a5b8170a95b5660e78e7cede3d1b2a6d9773ff299eb80c1acf6aa9fe76.png": "e14935a5b8170a95b5660e78e7cede3d1b2a6d9773ff299eb80c1acf6aa9fe76"
+      },
+      "imported_image_sizes": {
+        "EdwardHLeviHall_LOD2_BaseColor.png": [
+          512,
+          512
+        ],
+        "EdwardHLeviHall_LOD2_BaseColor.png.001": [
+          512,
+          512
+        ],
+        "EdwardHLeviHall_LOD2_Emissive.png": [
+          512,
+          512
+        ],
+        "EdwardHLeviHall_LOD2_Normal.png": [
+          512,
+          512
+        ]
+      },
+      "source_triangles": 496,
+      "reimport_triangles": 496,
+      "oriented_triangles_match": true,
+      "corner_uv_max_delta": 0.0,
+      "corner_normal_max_delta_degrees": 0.0,
+      "bounds_max_delta_m": 5.405708179750945e-06,
+      "vertex_max_delta_m": 6.8770432335441e-06,
+      "missing_source_positions": 0,
+      "source_uv_layers": 1,
+      "reimport_uv_layers": 1,
+      "source_materials": [
+        "EdwardHLeviHall_LOD2_Mtl"
+      ],
+      "reimport_materials": [
+        "EdwardHLeviHall_LOD2_Mtl"
+      ],
+      "source_bounds": [
+        [
+          -10.75,
+          -33.400001525878906,
+          0.0
+        ],
+        [
+          10.75,
+          33.400001525878906,
+          27.299999237060547
+        ]
+      ],
+      "reimport_bounds": [
+        [
+          -10.75,
+          -33.39999771118164,
+          -5.405708179750945e-06
+        ],
+        [
+          10.75,
+          33.40000534057617,
+          27.300003051757812
+        ]
+      ],
+      "zero_triangles": 0
+    }
+  ]
+}

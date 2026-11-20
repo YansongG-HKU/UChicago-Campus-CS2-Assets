@@ -1,0 +1,5722 @@
+{
+  "AlumniHouse": {
+    "source": "assets/AlumniHouse/AlumniHouse/source/AlumniHouse.blend",
+    "tiers": [
+      {
+        "triangles": 29811,
+        "view_stats": [
+          {
+            "covered_pixels": 5683,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5568,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7986,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 8375,
+        "view_stats": [
+          {
+            "covered_pixels": 5680,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5565,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7966,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 178,
+        "view_stats": [
+          {
+            "covered_pixels": 5592,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5500,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7658,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "AnatomyBuilding": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/AnatomyBuilding.blend",
+    "tiers": [
+      {
+        "triangles": 47970,
+        "view_stats": [
+          {
+            "covered_pixels": 7357,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7880,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5858,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 15474,
+        "view_stats": [
+          {
+            "covered_pixels": 7339,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7863,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5858,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 312,
+        "view_stats": [
+          {
+            "covered_pixels": 7257,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7818,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5858,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BakerDining": {
+    "source": "assets/BakerDining/BakerDining/source/BakerDining.blend",
+    "tiers": [
+      {
+        "triangles": 3858,
+        "view_stats": [
+          {
+            "covered_pixels": 2628,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2438,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6451,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 650,
+        "view_stats": [
+          {
+            "covered_pixels": 2628,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2438,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6451,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 230,
+        "view_stats": [
+          {
+            "covered_pixels": 2621,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2418,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6322,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BartlettHall": {
+    "source": "assets/BartlettHall/BartlettHall_CS2_SourceCandidate_v0.1/source/BartlettHall.blend",
+    "tiers": [
+      {
+        "triangles": 56854,
+        "view_stats": [
+          {
+            "covered_pixels": 5025,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4812,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5232,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 17846,
+        "view_stats": [
+          {
+            "covered_pixels": 5019,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4810,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5232,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 474,
+        "view_stats": [
+          {
+            "covered_pixels": 4936,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4732,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5114,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BeecherHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "tiers": [
+      {
+        "triangles": 17577,
+        "view_stats": [
+          {
+            "covered_pixels": 5873,
+            "first_hit_backface_pixels": 856,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6187,
+            "first_hit_backface_pixels": 16,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10352,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 6122,
+        "view_stats": [
+          {
+            "covered_pixels": 5868,
+            "first_hit_backface_pixels": 847,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6185,
+            "first_hit_backface_pixels": 5,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10320,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 454,
+        "view_stats": [
+          {
+            "covered_pixels": 5826,
+            "first_hit_backface_pixels": 572,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6129,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9718,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BelfieldHall": {
+    "source": "assets/BelfieldHall/BelfieldHall/source/BelfieldHall.blend",
+    "tiers": [
+      {
+        "triangles": 26132,
+        "view_stats": [
+          {
+            "covered_pixels": 2371,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2391,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 968,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 7188,
+        "view_stats": [
+          {
+            "covered_pixels": 2371,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2391,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 968,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 320,
+        "view_stats": [
+          {
+            "covered_pixels": 2343,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2366,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 956,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BillingsHospital": {
+    "source": "assets/BillingsHospital/BillingsHospital/source/BillingsHospital.blend",
+    "tiers": [
+      {
+        "triangles": 195963,
+        "view_stats": [
+          {
+            "covered_pixels": 5625,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5586,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5308,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 40049,
+        "view_stats": [
+          {
+            "covered_pixels": 5620,
+            "first_hit_backface_pixels": 5,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5580,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5182,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 252,
+        "view_stats": [
+          {
+            "covered_pixels": 5609,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5564,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5092,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BlaineHall": {
+    "source": "assets/BlaineHall/BlaineHall/source/BlaineHall.blend",
+    "tiers": [
+      {
+        "triangles": 63921,
+        "view_stats": [
+          {
+            "covered_pixels": 4037,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3987,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3190,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 22973,
+        "view_stats": [
+          {
+            "covered_pixels": 4037,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3985,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3180,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 504,
+        "view_stats": [
+          {
+            "covered_pixels": 3957,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3943,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3024,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BondChapel": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondChapel.blend",
+    "tiers": [
+      {
+        "triangles": 51299,
+        "view_stats": [
+          {
+            "covered_pixels": 7317,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7153,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5169,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 17069,
+        "view_stats": [
+          {
+            "covered_pixels": 7307,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7147,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5159,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 390,
+        "view_stats": [
+          {
+            "covered_pixels": 7191,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7075,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4804,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BondSwiftCloister": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/BondSwiftCloister.blend",
+    "tiers": [
+      {
+        "triangles": 21992,
+        "view_stats": [
+          {
+            "covered_pixels": 5749,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5567,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7060,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 9380,
+        "view_stats": [
+          {
+            "covered_pixels": 5704,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5519,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6952,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1318,
+        "view_stats": [
+          {
+            "covered_pixels": 5689,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5492,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6952,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BoothHarperCenter": {
+    "source": "assets/BoothHarperCenter/BoothHarperCenter/source/BoothHarperCenter.blend",
+    "tiers": [
+      {
+        "triangles": 32632,
+        "view_stats": [
+          {
+            "covered_pixels": 2862,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 381
+          },
+          {
+            "covered_pixels": 2721,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 354
+          },
+          {
+            "covered_pixels": 7542,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 566
+          }
+        ]
+      },
+      {
+        "triangles": 13908,
+        "view_stats": [
+          {
+            "covered_pixels": 2862,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 392
+          },
+          {
+            "covered_pixels": 2721,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 360
+          },
+          {
+            "covered_pixels": 7542,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 634
+          }
+        ]
+      },
+      {
+        "triangles": 1986,
+        "view_stats": [
+          {
+            "covered_pixels": 2861,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2721,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7542,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "BurtonJudsonCourts": {
+    "source": "assets/BurtonJudsonCourts/BurtonJudsonCourts_CS2_v0.1/source/BurtonJudsonCourts.blend",
+    "tiers": [
+      {
+        "triangles": 161305,
+        "view_stats": [
+          {
+            "covered_pixels": 4543,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4277,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5328,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 42255,
+        "view_stats": [
+          {
+            "covered_pixels": 4543,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4277,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5325,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1742,
+        "view_stats": [
+          {
+            "covered_pixels": 4515,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4242,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5036,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CampusNorthResidential": {
+    "source": "assets/CampusNorthResidential/CampusNorthResidential/source/CampusNorthResidential.blend",
+    "tiers": [
+      {
+        "triangles": 75560,
+        "view_stats": [
+          {
+            "covered_pixels": 4061,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3006,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4860,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 18216,
+        "view_stats": [
+          {
+            "covered_pixels": 4051,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2997,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4766,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 234,
+        "view_stats": [
+          {
+            "covered_pixels": 3976,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2927,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4559,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CatheyDining": {
+    "source": "assets/CatheyDining/CatheyDining/source/CatheyDining.blend",
+    "tiers": [
+      {
+        "triangles": 5278,
+        "view_stats": [
+          {
+            "covered_pixels": 2888,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 540
+          },
+          {
+            "covered_pixels": 2828,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 234
+          },
+          {
+            "covered_pixels": 5668,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1542,
+        "view_stats": [
+          {
+            "covered_pixels": 2888,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 553
+          },
+          {
+            "covered_pixels": 2828,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 252
+          },
+          {
+            "covered_pixels": 5666,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 354,
+        "view_stats": [
+          {
+            "covered_pixels": 2886,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2826,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5662,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ChapinOldBuilding": {
+    "source": "assets/ChapinOldBuilding/ChapinOldBuilding/source/ChapinOldBuilding.blend",
+    "tiers": [
+      {
+        "triangles": 40843,
+        "view_stats": [
+          {
+            "covered_pixels": 4443,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4325,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7061,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 18179,
+        "view_stats": [
+          {
+            "covered_pixels": 4441,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4324,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7013,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 142,
+        "view_stats": [
+          {
+            "covered_pixels": 4430,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4308,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6870,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ChicagoLyingIn": {
+    "source": "assets/ChicagoLyingIn/ChicagoLyingIn/source/ChicagoLyingIn.blend",
+    "tiers": [
+      {
+        "triangles": 85151,
+        "view_stats": [
+          {
+            "covered_pixels": 6306,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5161,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7488,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 24963,
+        "view_stats": [
+          {
+            "covered_pixels": 6306,
+            "first_hit_backface_pixels": 3,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5161,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7227,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 398,
+        "view_stats": [
+          {
+            "covered_pixels": 6267,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5140,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7147,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ClassicsBuilding": {
+    "source": "assets/ClassicsBuilding/ClassicsBuilding/source/ClassicsBuilding.blend",
+    "tiers": [
+      {
+        "triangles": 87317,
+        "view_stats": [
+          {
+            "covered_pixels": 7059,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7086,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6958,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 20669,
+        "view_stats": [
+          {
+            "covered_pixels": 7059,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7086,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6937,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 336,
+        "view_stats": [
+          {
+            "covered_pixels": 7026,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7050,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6667,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CobbGate": {
+    "source": "assets/CobbGate/CobbGate_CS2_v0.2/source/CobbGate.blend",
+    "tiers": [
+      {
+        "triangles": 32902,
+        "view_stats": [
+          {
+            "covered_pixels": 4577,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4916,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3124,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 5238,
+        "view_stats": [
+          {
+            "covered_pixels": 4544,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4881,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3120,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 262,
+        "view_stats": [
+          {
+            "covered_pixels": 4375,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4698,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2888,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CobbLectureHall": {
+    "source": "assets/CobbLectureHall/CobbLectureHall_CS2_v0.1/source/CobbLectureHall.blend",
+    "tiers": [
+      {
+        "triangles": 57211,
+        "view_stats": [
+          {
+            "covered_pixels": 6703,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6533,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6796,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 24267,
+        "view_stats": [
+          {
+            "covered_pixels": 6702,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6533,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6794,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 474,
+        "view_stats": [
+          {
+            "covered_pixels": 6627,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6500,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6598,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CochraneWoods": {
+    "source": "assets/CochraneWoods/CochraneWoods/source/CochraneWoods.blend",
+    "tiers": [
+      {
+        "triangles": 1982,
+        "view_stats": [
+          {
+            "covered_pixels": 3172,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2944,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7036,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 504,
+        "view_stats": [
+          {
+            "covered_pixels": 3172,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2944,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7036,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 200,
+        "view_stats": [
+          {
+            "covered_pixels": 3151,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2923,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7036,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "CulverHall": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/CulverHall.blend",
+    "tiers": [
+      {
+        "triangles": 50477,
+        "view_stats": [
+          {
+            "covered_pixels": 6555,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7082,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7156,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 14197,
+        "view_stats": [
+          {
+            "covered_pixels": 6543,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7030,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7118,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 300,
+        "view_stats": [
+          {
+            "covered_pixels": 6478,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6869,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6974,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "DAngeloLawLibrary": {
+    "source": "assets/DAngeloLawLibrary/DAngeloLawLibrary/source/DAngeloLawLibrary.blend",
+    "tiers": [
+      {
+        "triangles": 11634,
+        "view_stats": [
+          {
+            "covered_pixels": 6596,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6533,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 12780,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 3114,
+        "view_stats": [
+          {
+            "covered_pixels": 6596,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6533,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 12766,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 490,
+        "view_stats": [
+          {
+            "covered_pixels": 6589,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6531,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 12656,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "DavidRubensteinForum": {
+    "source": "assets/DavidRubensteinForum/DavidRubensteinForum_Source/DavidRubensteinForum/source/DavidRubensteinForum.blend",
+    "tiers": [
+      {
+        "triangles": 14772,
+        "view_stats": [
+          {
+            "covered_pixels": 6038,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1146
+          },
+          {
+            "covered_pixels": 5528,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1523
+          },
+          {
+            "covered_pixels": 9461,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 3420,
+        "view_stats": [
+          {
+            "covered_pixels": 6038,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1207
+          },
+          {
+            "covered_pixels": 5536,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1584
+          },
+          {
+            "covered_pixels": 9461,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 280,
+        "view_stats": [
+          {
+            "covered_pixels": 6001,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5524,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9461,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "EckhartHall": {
+    "source": "assets/EckhartHall/EckhartHall/source/EckhartHall.blend",
+    "tiers": [
+      {
+        "triangles": 77348,
+        "view_stats": [
+          {
+            "covered_pixels": 5198,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5271,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6795,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 19056,
+        "view_stats": [
+          {
+            "covered_pixels": 5192,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5271,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6788,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 413,
+        "view_stats": [
+          {
+            "covered_pixels": 5137,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5224,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6336,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "EdwardHLeviHall": {
+    "source": "assets/EdwardHLeviHall/EdwardHLeviHall_Source/EdwardHLeviHall/source/EdwardHLeviHall.blend",
+    "tiers": [
+      {
+        "triangles": 24844,
+        "view_stats": [
+          {
+            "covered_pixels": 6322,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 50
+          },
+          {
+            "covered_pixels": 6255,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 53
+          },
+          {
+            "covered_pixels": 3378,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4876,
+        "view_stats": [
+          {
+            "covered_pixels": 6322,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 50
+          },
+          {
+            "covered_pixels": 6255,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 53
+          },
+          {
+            "covered_pixels": 3378,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 496,
+        "view_stats": [
+          {
+            "covered_pixels": 6321,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6256,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3368,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ErmanBiologyCenter": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/ErmanBiologyCenter.blend",
+    "tiers": [
+      {
+        "triangles": 50353,
+        "view_stats": [
+          {
+            "covered_pixels": 7357,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7780,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7206,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 14157,
+        "view_stats": [
+          {
+            "covered_pixels": 7340,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7719,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7198,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 320,
+        "view_stats": [
+          {
+            "covered_pixels": 7220,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7653,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7076,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "FosterHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "tiers": [
+      {
+        "triangles": 40853,
+        "view_stats": [
+          {
+            "covered_pixels": 5986,
+            "first_hit_backface_pixels": 26,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6486,
+            "first_hit_backface_pixels": 7,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6344,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 13107,
+        "view_stats": [
+          {
+            "covered_pixels": 5975,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6454,
+            "first_hit_backface_pixels": 11,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6312,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 443,
+        "view_stats": [
+          {
+            "covered_pixels": 5940,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6408,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6014,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "GatesBlakeHall": {
+    "source": "assets/GatesBlakeHall/GatesBlakeHall/source/GatesBlakeHall.blend",
+    "tiers": [
+      {
+        "triangles": 57755,
+        "view_stats": [
+          {
+            "covered_pixels": 6618,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6724,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3108,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 25601,
+        "view_stats": [
+          {
+            "covered_pixels": 6592,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6702,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3108,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 461,
+        "view_stats": [
+          {
+            "covered_pixels": 6577,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6680,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3094,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "GoodspeedHall": {
+    "source": "assets/GoodspeedHall/GoodspeedHall/source/GoodspeedHall.blend",
+    "tiers": [
+      {
+        "triangles": 25439,
+        "view_stats": [
+          {
+            "covered_pixels": 7240,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7575,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6988,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 11327,
+        "view_stats": [
+          {
+            "covered_pixels": 7173,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7507,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6983,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 240,
+        "view_stats": [
+          {
+            "covered_pixels": 7139,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7481,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6608,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "GordonParksArtsHall": {
+    "source": "assets/GordonParksArtsHall/GordonParksArtsHall/source/GordonParksArtsHall.blend",
+    "tiers": [
+      {
+        "triangles": 9326,
+        "view_stats": [
+          {
+            "covered_pixels": 3527,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3037,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5756,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 3866,
+        "view_stats": [
+          {
+            "covered_pixels": 3526,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3037,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5753,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 442,
+        "view_stats": [
+          {
+            "covered_pixels": 3498,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3008,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5666,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "GreenHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "tiers": [
+      {
+        "triangles": 35056,
+        "view_stats": [
+          {
+            "covered_pixels": 6628,
+            "first_hit_backface_pixels": 420,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7141,
+            "first_hit_backface_pixels": 524,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4868,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 11598,
+        "view_stats": [
+          {
+            "covered_pixels": 6620,
+            "first_hit_backface_pixels": 420,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7137,
+            "first_hit_backface_pixels": 517,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4864,
+            "first_hit_backface_pixels": 6,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 376,
+        "view_stats": [
+          {
+            "covered_pixels": 6547,
+            "first_hit_backface_pixels": 267,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7046,
+            "first_hit_backface_pixels": 332,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4640,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "HarperMemorialLibrary": {
+    "source": "assets/HarperMemorialLibrary/harper_memorial_library/source/HarperMemorialLibrary.blend",
+    "tiers": [
+      {
+        "triangles": 133016,
+        "view_stats": [
+          {
+            "covered_pixels": 6708,
+            "first_hit_backface_pixels": 96,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6705,
+            "first_hit_backface_pixels": 98,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3868,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 46718,
+        "view_stats": [
+          {
+            "covered_pixels": 6670,
+            "first_hit_backface_pixels": 200,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6676,
+            "first_hit_backface_pixels": 242,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3782,
+            "first_hit_backface_pixels": 25,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 432,
+        "view_stats": [
+          {
+            "covered_pixels": 6556,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6509,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3592,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "HaskellHall": {
+    "source": "assets/HaskellHall/haskell_hall/source/HaskellHall.blend",
+    "tiers": [
+      {
+        "triangles": 18140,
+        "view_stats": [
+          {
+            "covered_pixels": 6324,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6534,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6612,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 8616,
+        "view_stats": [
+          {
+            "covered_pixels": 6312,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6524,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6612,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 367,
+        "view_stats": [
+          {
+            "covered_pixels": 6225,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6464,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6190,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "HenryCrownFieldHouse": {
+    "source": "assets/HenryCrownFieldHouse/HenryCrownFieldHouse/source/HenryCrownFieldHouse.blend",
+    "tiers": [
+      {
+        "triangles": 126042,
+        "view_stats": [
+          {
+            "covered_pixels": 4126,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3889,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5960,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 59538,
+        "view_stats": [
+          {
+            "covered_pixels": 4124,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3888,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5960,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 118,
+        "view_stats": [
+          {
+            "covered_pixels": 4074,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3845,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5924,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "HenryHindsLaboratory": {
+    "source": "assets/HenryHindsLaboratory/HenryHindsLaboratory/source/HenryHindsLaboratory.blend",
+    "tiers": [
+      {
+        "triangles": 35290,
+        "view_stats": [
+          {
+            "covered_pixels": 6538,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 220
+          },
+          {
+            "covered_pixels": 6374,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 251
+          },
+          {
+            "covered_pixels": 7932,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 12202,
+        "view_stats": [
+          {
+            "covered_pixels": 6538,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 290
+          },
+          {
+            "covered_pixels": 6374,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 325
+          },
+          {
+            "covered_pixels": 7932,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 382,
+        "view_stats": [
+          {
+            "covered_pixels": 6512,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6353,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7818,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "HutchinsonCommons": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "tiers": [
+      {
+        "triangles": 28598,
+        "view_stats": [
+          {
+            "covered_pixels": 7241,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7125,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5612,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 10938,
+        "view_stats": [
+          {
+            "covered_pixels": 7221,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7101,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5612,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 330,
+        "view_stats": [
+          {
+            "covered_pixels": 6776,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6686,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5396,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ISAC": {
+    "source": "assets/ISAC/ISAC/source/ISAC.blend",
+    "tiers": [
+      {
+        "triangles": 19458,
+        "view_stats": [
+          {
+            "covered_pixels": 4146,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3947,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8513,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 6910,
+        "view_stats": [
+          {
+            "covered_pixels": 4146,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3947,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8504,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 280,
+        "view_stats": [
+          {
+            "covered_pixels": 4131,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3931,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8248,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "IdaNoyesHall": {
+    "source": "assets/IdaNoyesHall/IdaNoyesHall_CS2_v0.1/source/IdaNoyesHall.blend",
+    "tiers": [
+      {
+        "triangles": 63040,
+        "view_stats": [
+          {
+            "covered_pixels": 3514,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3778,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7071,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 18322,
+        "view_stats": [
+          {
+            "covered_pixels": 3514,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3776,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7070,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 854,
+        "view_stats": [
+          {
+            "covered_pixels": 3468,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3717,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6960,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "InternationalHouse": {
+    "source": "assets/InternationalHouse/InternationalHouse/source/InternationalHouse.blend",
+    "tiers": [
+      {
+        "triangles": 193605,
+        "view_stats": [
+          {
+            "covered_pixels": 7353,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6189,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6990,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 57113,
+        "view_stats": [
+          {
+            "covered_pixels": 7353,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6189,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6990,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 436,
+        "view_stats": [
+          {
+            "covered_pixels": 7323,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6142,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6864,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "JohnCrerarLibrary": {
+    "source": "assets/JohnCrerarLibrary/JohnCrerarLibrary/source/JohnCrerarLibrary.blend",
+    "tiers": [
+      {
+        "triangles": 19510,
+        "view_stats": [
+          {
+            "covered_pixels": 4095,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 651
+          },
+          {
+            "covered_pixels": 3822,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 743
+          },
+          {
+            "covered_pixels": 6179,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 326
+          }
+        ]
+      },
+      {
+        "triangles": 9214,
+        "view_stats": [
+          {
+            "covered_pixels": 4095,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 706
+          },
+          {
+            "covered_pixels": 3822,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 804
+          },
+          {
+            "covered_pixels": 6179,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 341
+          }
+        ]
+      },
+      {
+        "triangles": 282,
+        "view_stats": [
+          {
+            "covered_pixels": 4082,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3823,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6089,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "JonesLaboratory": {
+    "source": "assets/JonesLaboratory/JonesLaboratory/source/JonesLaboratory.blend",
+    "tiers": [
+      {
+        "triangles": 24403,
+        "view_stats": [
+          {
+            "covered_pixels": 6188,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6043,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7896,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 6943,
+        "view_stats": [
+          {
+            "covered_pixels": 6181,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6043,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7853,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 327,
+        "view_stats": [
+          {
+            "covered_pixels": 6120,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6025,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7497,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "JuddHall": {
+    "source": "assets/JuddHall/JuddHall/source/JuddHall.blend",
+    "tiers": [
+      {
+        "triangles": 29365,
+        "view_stats": [
+          {
+            "covered_pixels": 4741,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4290,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4616,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 8801,
+        "view_stats": [
+          {
+            "covered_pixels": 4741,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4290,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4604,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 472,
+        "view_stats": [
+          {
+            "covered_pixels": 4709,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4265,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4282,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "KellerCenter": {
+    "source": "assets/KellerCenter/KellerCenter/source/KellerCenter.blend",
+    "tiers": [
+      {
+        "triangles": 30332,
+        "view_stats": [
+          {
+            "covered_pixels": 3985,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 2
+          },
+          {
+            "covered_pixels": 3816,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 91
+          },
+          {
+            "covered_pixels": 6110,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 14504,
+        "view_stats": [
+          {
+            "covered_pixels": 3985,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 2
+          },
+          {
+            "covered_pixels": 3816,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 91
+          },
+          {
+            "covered_pixels": 6110,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 356,
+        "view_stats": [
+          {
+            "covered_pixels": 3958,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3788,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6110,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "KellyHall": {
+    "source": "assets/WomensQuadrangle/WomensQuadrangle/source/WomensQuadrangle.blend",
+    "tiers": [
+      {
+        "triangles": 19563,
+        "view_stats": [
+          {
+            "covered_pixels": 6395,
+            "first_hit_backface_pixels": 664,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6838,
+            "first_hit_backface_pixels": 712,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6964,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 6708,
+        "view_stats": [
+          {
+            "covered_pixels": 6392,
+            "first_hit_backface_pixels": 682,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6833,
+            "first_hit_backface_pixels": 687,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6964,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1036,
+        "view_stats": [
+          {
+            "covered_pixels": 6379,
+            "first_hit_backface_pixels": 431,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6811,
+            "first_hit_backface_pixels": 426,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6860,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "KentChemicalLaboratory": {
+    "source": "assets/KentChemicalLaboratory/KentChemicalLaboratory/source/KentChemicalLaboratory.blend",
+    "tiers": [
+      {
+        "triangles": 98408,
+        "view_stats": [
+          {
+            "covered_pixels": 4541,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4914,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6151,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 22664,
+        "view_stats": [
+          {
+            "covered_pixels": 4537,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4911,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6151,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 477,
+        "view_stats": [
+          {
+            "covered_pixels": 4499,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4851,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5926,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "KovlerGymnasium": {
+    "source": "assets/KovlerGymnasium/KovlerGymnasium/source/KovlerGymnasium.blend",
+    "tiers": [
+      {
+        "triangles": 13250,
+        "view_stats": [
+          {
+            "covered_pixels": 5988,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6114,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8418,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 5806,
+        "view_stats": [
+          {
+            "covered_pixels": 5988,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6114,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8418,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 154,
+        "view_stats": [
+          {
+            "covered_pixels": 5988,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6114,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8238,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "LawClassroomAdministration": {
+    "source": "assets/LawClassroomAdministration/LawClassroomAdministration/source/LawClassroomAdministration.blend",
+    "tiers": [
+      {
+        "triangles": 5992,
+        "view_stats": [
+          {
+            "covered_pixels": 1936,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 363
+          },
+          {
+            "covered_pixels": 1782,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 294
+          },
+          {
+            "covered_pixels": 3871,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1080
+          }
+        ]
+      },
+      {
+        "triangles": 2512,
+        "view_stats": [
+          {
+            "covered_pixels": 1933,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 363
+          },
+          {
+            "covered_pixels": 1782,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 294
+          },
+          {
+            "covered_pixels": 3871,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1080
+          }
+        ]
+      },
+      {
+        "triangles": 340,
+        "view_stats": [
+          {
+            "covered_pixels": 1933,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 363
+          },
+          {
+            "covered_pixels": 1782,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 294
+          },
+          {
+            "covered_pixels": 3871,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1080
+          }
+        ]
+      }
+    ]
+  },
+  "LillieHouse": {
+    "source": "assets/LillieHouse/LillieHouse/source/LillieHouse.blend",
+    "tiers": [
+      {
+        "triangles": 25244,
+        "view_stats": [
+          {
+            "covered_pixels": 6258,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6048,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9632,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 11644,
+        "view_stats": [
+          {
+            "covered_pixels": 6201,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5992,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9526,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1418,
+        "view_stats": [
+          {
+            "covered_pixels": 6131,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5951,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9208,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "LoganArts": {
+    "source": "assets/LoganArts/LoganArts_CS2_v0.2/source/LoganArts.blend",
+    "tiers": [
+      {
+        "triangles": 9278,
+        "view_stats": [
+          {
+            "covered_pixels": 4437,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4345,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7977,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1734,
+        "view_stats": [
+          {
+            "covered_pixels": 4433,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4316,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7829,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 534,
+        "view_stats": [
+          {
+            "covered_pixels": 4427,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4290,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7897,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MandelHall": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "tiers": [
+      {
+        "triangles": 27724,
+        "view_stats": [
+          {
+            "covered_pixels": 6984,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6848,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6948,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 10928,
+        "view_stats": [
+          {
+            "covered_pixels": 6961,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6820,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6948,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 268,
+        "view_stats": [
+          {
+            "covered_pixels": 6645,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6658,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6516,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MansuetoLibrary": {
+    "source": "assets/MansuetoLibrary/MansuetoLibrary_CS2_v0.2/source/MansuetoLibrary.blend",
+    "tiers": [
+      {
+        "triangles": 85572,
+        "view_stats": [
+          {
+            "covered_pixels": 1838,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1505
+          },
+          {
+            "covered_pixels": 1664,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1377
+          },
+          {
+            "covered_pixels": 5538,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 4544
+          }
+        ]
+      },
+      {
+        "triangles": 9284,
+        "view_stats": [
+          {
+            "covered_pixels": 1836,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1466
+          },
+          {
+            "covered_pixels": 1664,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1348
+          },
+          {
+            "covered_pixels": 5538,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 4348
+          }
+        ]
+      },
+      {
+        "triangles": 458,
+        "view_stats": [
+          {
+            "covered_pixels": 1818,
+            "first_hit_backface_pixels": 5,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 1637,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5508,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MaxPalevskyCentral": {
+    "source": "assets/MaxPalevskyCentral/MaxPalevskyCentral/source/MaxPalevskyCentral.blend",
+    "tiers": [
+      {
+        "triangles": 16554,
+        "view_stats": [
+          {
+            "covered_pixels": 3248,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2796,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2545,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 2840,
+        "view_stats": [
+          {
+            "covered_pixels": 3248,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2796,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2427,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 344,
+        "view_stats": [
+          {
+            "covered_pixels": 3248,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2796,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2427,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MaxPalevskyEast": {
+    "source": "assets/MaxPalevskyEast/MaxPalevskyEast/source/MaxPalevskyEast.blend",
+    "tiers": [
+      {
+        "triangles": 22716,
+        "view_stats": [
+          {
+            "covered_pixels": 4368,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4243,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6232,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 3744,
+        "view_stats": [
+          {
+            "covered_pixels": 4368,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4243,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5995,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 464,
+        "view_stats": [
+          {
+            "covered_pixels": 4368,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4243,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5995,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MaxPalevskyWest": {
+    "source": "assets/MaxPalevskyWest/MaxPalevskyWest/source/MaxPalevskyWest.blend",
+    "tiers": [
+      {
+        "triangles": 16310,
+        "view_stats": [
+          {
+            "covered_pixels": 4830,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4868,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6753,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 2836,
+        "view_stats": [
+          {
+            "covered_pixels": 4830,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4868,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6550,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 336,
+        "view_stats": [
+          {
+            "covered_pixels": 4830,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4868,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6550,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MidwayStudios": {
+    "source": "assets/MidwayStudios/MidwayStudios/source/MidwayStudios.blend",
+    "tiers": [
+      {
+        "triangles": 6430,
+        "view_stats": [
+          {
+            "covered_pixels": 4253,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4275,
+            "first_hit_backface_pixels": 17,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9167,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 2794,
+        "view_stats": [
+          {
+            "covered_pixels": 4253,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4273,
+            "first_hit_backface_pixels": 17,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 9080,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 360,
+        "view_stats": [
+          {
+            "covered_pixels": 4243,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4220,
+            "first_hit_backface_pixels": 17,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8908,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "MitchellTower": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "tiers": [
+      {
+        "triangles": 27129,
+        "view_stats": [
+          {
+            "covered_pixels": 3886,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3931,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10836,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 8919,
+        "view_stats": [
+          {
+            "covered_pixels": 3884,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3930,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10836,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1597,
+        "view_stats": [
+          {
+            "covered_pixels": 3854,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3896,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10676,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "NeubauerCollegium": {
+    "source": "assets/NeubauerCollegium/NeubauerCollegium/source/NeubauerCollegium.blend",
+    "tiers": [
+      {
+        "triangles": 18780,
+        "view_stats": [
+          {
+            "covered_pixels": 6081,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6155,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5350,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 9256,
+        "view_stats": [
+          {
+            "covered_pixels": 6081,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6154,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5350,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 158,
+        "view_stats": [
+          {
+            "covered_pixels": 6001,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6030,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5061,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "PresidentsHouse": {
+    "source": "assets/PresidentsHouse/PresidentsHouse/source/PresidentsHouse.blend",
+    "tiers": [
+      {
+        "triangles": 5792,
+        "view_stats": [
+          {
+            "covered_pixels": 5707,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5992,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5071,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 2196,
+        "view_stats": [
+          {
+            "covered_pixels": 5703,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5980,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5057,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 214,
+        "view_stats": [
+          {
+            "covered_pixels": 5628,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5906,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4809,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "QuadrangleClub": {
+    "source": "assets/QuadrangleClub/QuadrangleClub/source/QuadrangleClub.blend",
+    "tiers": [
+      {
+        "triangles": 26258,
+        "view_stats": [
+          {
+            "covered_pixels": 4596,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4517,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6708,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 8706,
+        "view_stats": [
+          {
+            "covered_pixels": 4596,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4516,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6708,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 316,
+        "view_stats": [
+          {
+            "covered_pixels": 4467,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4450,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6446,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RGGEast": {
+    "source": "assets/RGGEast/RGGEast/source/RGGEast.blend",
+    "tiers": [
+      {
+        "triangles": 55070,
+        "view_stats": [
+          {
+            "covered_pixels": 6474,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5873,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6575,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 18056,
+        "view_stats": [
+          {
+            "covered_pixels": 6474,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5873,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6537,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 434,
+        "view_stats": [
+          {
+            "covered_pixels": 6434,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5851,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6493,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RGGWest": {
+    "source": "assets/RGGWest/RGGWest/source/RGGWest.blend",
+    "tiers": [
+      {
+        "triangles": 30128,
+        "view_stats": [
+          {
+            "covered_pixels": 5156,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4239,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4726,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 10026,
+        "view_stats": [
+          {
+            "covered_pixels": 5156,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4239,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4693,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 302,
+        "view_stats": [
+          {
+            "covered_pixels": 5116,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4212,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4618,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RatnerAthletics": {
+    "source": "assets/RatnerAthletics/RatnerAthletics_CS2_v0.2/source/RatnerAthletics.blend",
+    "tiers": [
+      {
+        "triangles": 31806,
+        "view_stats": [
+          {
+            "covered_pixels": 3484,
+            "first_hit_backface_pixels": 12,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3481,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6657,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 2742,
+        "view_stats": [
+          {
+            "covered_pixels": 3485,
+            "first_hit_backface_pixels": 10,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3479,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6641,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 392,
+        "view_stats": [
+          {
+            "covered_pixels": 3437,
+            "first_hit_backface_pixels": 12,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3454,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6591,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RegensteinLibrary": {
+    "source": "assets/RegensteinLibrary/RegensteinLibrary_CS2_v0.1/source/RegensteinLibrary.blend",
+    "tiers": [
+      {
+        "triangles": 51834,
+        "view_stats": [
+          {
+            "covered_pixels": 4225,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4042,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8128,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 20848,
+        "view_stats": [
+          {
+            "covered_pixels": 4230,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4048,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8128,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 778,
+        "view_stats": [
+          {
+            "covered_pixels": 4200,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4025,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8138,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ReynoldsClubhouse": {
+    "source": "assets/TowerGroup/TowerGroup/source/TowerGroup.blend",
+    "tiers": [
+      {
+        "triangles": 12002,
+        "view_stats": [
+          {
+            "covered_pixels": 5969,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5949,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5116,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4850,
+        "view_stats": [
+          {
+            "covered_pixels": 5908,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5905,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5116,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 631,
+        "view_stats": [
+          {
+            "covered_pixels": 5875,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5877,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5050,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RobieHouse": {
+    "source": "assets/RobieHouse/RobieHouse_CS2_v0.2/source/RobieHouse.blend",
+    "tiers": [
+      {
+        "triangles": 15972,
+        "view_stats": [
+          {
+            "covered_pixels": 3338,
+            "first_hit_backface_pixels": 9,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2950,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3489,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4188,
+        "view_stats": [
+          {
+            "covered_pixels": 3318,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2934,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3477,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 296,
+        "view_stats": [
+          {
+            "covered_pixels": 3302,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2925,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3422,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RockefellerChapel": {
+    "source": "assets/Rockefeller_Chapel_v0.1/RockefellerChapel/source/RockefellerChapel.blend",
+    "tiers": [
+      {
+        "triangles": 79600,
+        "view_stats": [
+          {
+            "covered_pixels": 4314,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4813,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3358,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 46469,
+        "view_stats": [
+          {
+            "covered_pixels": 4314,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4813,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3358,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 364,
+        "view_stats": [
+          {
+            "covered_pixels": 4178,
+            "first_hit_backface_pixels": 7,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4668,
+            "first_hit_backface_pixels": 3,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3180,
+            "first_hit_backface_pixels": 2,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RosenwaldWalker": {
+    "source": "assets/RosenwaldWalker/RosenwaldWalker/source/RosenwaldWalker.blend",
+    "tiers": [
+      {
+        "triangles": 101352,
+        "view_stats": [
+          {
+            "covered_pixels": 4941,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4784,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5678,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 20878,
+        "view_stats": [
+          {
+            "covered_pixels": 4936,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4777,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5615,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 354,
+        "view_stats": [
+          {
+            "covered_pixels": 4902,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4737,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5518,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RyersonLaboratory": {
+    "source": "assets/RyersonLaboratory/RyersonLaboratory/source/RyersonLaboratory.blend",
+    "tiers": [
+      {
+        "triangles": 92662,
+        "view_stats": [
+          {
+            "covered_pixels": 4570,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4753,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7142,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 20426,
+        "view_stats": [
+          {
+            "covered_pixels": 4566,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4752,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7137,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 480,
+        "view_stats": [
+          {
+            "covered_pixels": 4508,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4695,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6684,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SaiehHall": {
+    "source": "assets/SaiehHall/SaiehHall_CS2_v0.1/source/SaiehHall.blend",
+    "tiers": [
+      {
+        "triangles": 59577,
+        "view_stats": [
+          {
+            "covered_pixels": 4400,
+            "first_hit_backface_pixels": 421,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4820,
+            "first_hit_backface_pixels": 154,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3278,
+            "first_hit_backface_pixels": 26,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 22269,
+        "view_stats": [
+          {
+            "covered_pixels": 4393,
+            "first_hit_backface_pixels": 390,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4816,
+            "first_hit_backface_pixels": 152,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3210,
+            "first_hit_backface_pixels": 10,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 718,
+        "view_stats": [
+          {
+            "covered_pixels": 4220,
+            "first_hit_backface_pixels": 172,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4675,
+            "first_hit_backface_pixels": 116,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3054,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SaiehNorthPavilion": {
+    "source": "assets/SaiehNorthPavilion/SaiehNorthPavilion/source/SaiehNorthPavilion.blend",
+    "tiers": [
+      {
+        "triangles": 10838,
+        "view_stats": [
+          {
+            "covered_pixels": 4042,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3681,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5783,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4918,
+        "view_stats": [
+          {
+            "covered_pixels": 4042,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3681,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5783,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 386,
+        "view_stats": [
+          {
+            "covered_pixels": 4022,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3679,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5677,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SaiehWoodlawn5740": {
+    "source": "assets/SaiehWoodlawn5740/SaiehWoodlawn5740/source/SaiehWoodlawn5740.blend",
+    "tiers": [
+      {
+        "triangles": 13479,
+        "view_stats": [
+          {
+            "covered_pixels": 8264,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8561,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5996,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 5443,
+        "view_stats": [
+          {
+            "covered_pixels": 8258,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8554,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5996,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 224,
+        "view_stats": [
+          {
+            "covered_pixels": 8250,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8541,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5949,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SaiehWoodlawn5750": {
+    "source": "assets/SaiehWoodlawn5750/SaiehWoodlawn5750/source/SaiehWoodlawn5750.blend",
+    "tiers": [
+      {
+        "triangles": 8995,
+        "view_stats": [
+          {
+            "covered_pixels": 6653,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6764,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6902,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4143,
+        "view_stats": [
+          {
+            "covered_pixels": 6651,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6763,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6889,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 247,
+        "view_stats": [
+          {
+            "covered_pixels": 6548,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6691,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6364,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SearleChemistry": {
+    "source": "assets/SearleChemistry/SearleChemistry/source/SearleChemistry.blend",
+    "tiers": [
+      {
+        "triangles": 41818,
+        "view_stats": [
+          {
+            "covered_pixels": 4188,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3830,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4163,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 13330,
+        "view_stats": [
+          {
+            "covered_pixels": 4188,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3828,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4161,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 226,
+        "view_stats": [
+          {
+            "covered_pixels": 4188,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3819,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3952,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SmartMuseum": {
+    "source": "assets/SmartMuseum/SmartMuseum/source/SmartMuseum.blend",
+    "tiers": [
+      {
+        "triangles": 2086,
+        "view_stats": [
+          {
+            "covered_pixels": 4836,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4559,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10208,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 446,
+        "view_stats": [
+          {
+            "covered_pixels": 4836,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4559,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10208,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 134,
+        "view_stats": [
+          {
+            "covered_pixels": 4803,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4511,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 10032,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SnellHitchcock": {
+    "source": "assets/SnellHitchcock/SnellHitchcock_CS2_SourceCandidate_v0.1/source/SnellHitchcock.blend",
+    "tiers": [
+      {
+        "triangles": 72059,
+        "view_stats": [
+          {
+            "covered_pixels": 4326,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4178,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4739,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 32069,
+        "view_stats": [
+          {
+            "covered_pixels": 4324,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4176,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4670,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 470,
+        "view_stats": [
+          {
+            "covered_pixels": 4287,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4153,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4473,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SocialSciencesResearch": {
+    "source": "assets/SocialSciencesResearch/SocialSciencesResearch/source/SocialSciencesResearch.blend",
+    "tiers": [
+      {
+        "triangles": 84112,
+        "view_stats": [
+          {
+            "covered_pixels": 6122,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6249,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5241,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 14644,
+        "view_stats": [
+          {
+            "covered_pixels": 6120,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6248,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5191,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 677,
+        "view_stats": [
+          {
+            "covered_pixels": 6051,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6208,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5171,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "StuartHall": {
+    "source": "assets/StuartHall/StuartHall/source/StuartHall.blend",
+    "tiers": [
+      {
+        "triangles": 97785,
+        "view_stats": [
+          {
+            "covered_pixels": 6413,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6251,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4505,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 21495,
+        "view_stats": [
+          {
+            "covered_pixels": 6407,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6245,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4505,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 346,
+        "view_stats": [
+          {
+            "covered_pixels": 6224,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6064,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4328,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SunnyGymnasium": {
+    "source": "assets/SunnyGymnasium/SunnyGymnasium/source/SunnyGymnasium.blend",
+    "tiers": [
+      {
+        "triangles": 35975,
+        "view_stats": [
+          {
+            "covered_pixels": 5204,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4777,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5676,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 7007,
+        "view_stats": [
+          {
+            "covered_pixels": 5204,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4776,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5606,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 334,
+        "view_stats": [
+          {
+            "covered_pixels": 5129,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4697,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5427,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SwiftHall": {
+    "source": "assets/BondSwiftEnsemble/bond_swift_haskell/source/SwiftHall.blend",
+    "tiers": [
+      {
+        "triangles": 97339,
+        "view_stats": [
+          {
+            "covered_pixels": 4742,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4695,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6086,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 45525,
+        "view_stats": [
+          {
+            "covered_pixels": 4739,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4692,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6075,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1322,
+        "view_stats": [
+          {
+            "covered_pixels": 4532,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4481,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5835,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "TaftHouse": {
+    "source": "assets/TaftHouse/TaftHouse/source/TaftHouse.blend",
+    "tiers": [
+      {
+        "triangles": 15900,
+        "view_stats": [
+          {
+            "covered_pixels": 4886,
+            "first_hit_backface_pixels": 29,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5054,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8132,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4996,
+        "view_stats": [
+          {
+            "covered_pixels": 4886,
+            "first_hit_backface_pixels": 29,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5047,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8058,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 540,
+        "view_stats": [
+          {
+            "covered_pixels": 4860,
+            "first_hit_backface_pixels": 29,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5037,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 8018,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "UniversityHighSchoolModern": {
+    "source": "assets/UniversityHighSchoolModern/UniversityHighSchoolModern/source/UniversityHighSchoolModern.blend",
+    "tiers": [
+      {
+        "triangles": 10358,
+        "view_stats": [
+          {
+            "covered_pixels": 4111,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3992,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4458,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 3378,
+        "view_stats": [
+          {
+            "covered_pixels": 4111,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3992,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4458,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 330,
+        "view_stats": [
+          {
+            "covered_pixels": 4111,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 3992,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4458,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "WieboldtHall": {
+    "source": "assets/WieboldtHall/WieboldtHall/source/WieboldtHall.blend",
+    "tiers": [
+      {
+        "triangles": 65188,
+        "view_stats": [
+          {
+            "covered_pixels": 7358,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7070,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6266,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 16504,
+        "view_stats": [
+          {
+            "covered_pixels": 7358,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7070,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6240,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 660,
+        "view_stats": [
+          {
+            "covered_pixels": 7160,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6940,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6015,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "WilderHouse": {
+    "source": "assets/WilderHouse/WilderHouse/source/WilderHouse.blend",
+    "tiers": [
+      {
+        "triangles": 14850,
+        "view_stats": [
+          {
+            "covered_pixels": 5956,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6287,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7735,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 4250,
+        "view_stats": [
+          {
+            "covered_pixels": 5956,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6284,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7735,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 212,
+        "view_stats": [
+          {
+            "covered_pixels": 5876,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6141,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7405,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "WilliamEckhardtResearchCenter": {
+    "source": "assets/WilliamEckhardtResearchCenter/WilliamEckhardtResearchCenter/source/WilliamEckhardtResearchCenter.blend",
+    "tiers": [
+      {
+        "triangles": 46066,
+        "view_stats": [
+          {
+            "covered_pixels": 5895,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 2045
+          },
+          {
+            "covered_pixels": 5876,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1821
+          },
+          {
+            "covered_pixels": 4724,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 19200,
+        "view_stats": [
+          {
+            "covered_pixels": 5895,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 2091
+          },
+          {
+            "covered_pixels": 5876,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 1858
+          },
+          {
+            "covered_pixels": 4724,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 370,
+        "view_stats": [
+          {
+            "covered_pixels": 5908,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5892,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4699,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "WoodlawnDining": {
+    "source": "assets/WoodlawnDining/WoodlawnDining/source/WoodlawnDining.blend",
+    "tiers": [
+      {
+        "triangles": 4470,
+        "view_stats": [
+          {
+            "covered_pixels": 2911,
+            "first_hit_backface_pixels": 50,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2746,
+            "first_hit_backface_pixels": 141,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7265,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 1638,
+        "view_stats": [
+          {
+            "covered_pixels": 2912,
+            "first_hit_backface_pixels": 50,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2745,
+            "first_hit_backface_pixels": 146,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7265,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 66,
+        "view_stats": [
+          {
+            "covered_pixels": 2910,
+            "first_hit_backface_pixels": 50,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 2741,
+            "first_hit_backface_pixels": 146,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7238,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "WoodlawnResidential": {
+    "source": "assets/WoodlawnResidential/WoodlawnResidential/source/WoodlawnResidential.blend",
+    "tiers": [
+      {
+        "triangles": 52246,
+        "view_stats": [
+          {
+            "covered_pixels": 5088,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4287,
+            "first_hit_backface_pixels": 12,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6198,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 9366,
+        "view_stats": [
+          {
+            "covered_pixels": 5088,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4287,
+            "first_hit_backface_pixels": 12,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6195,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 494,
+        "view_stats": [
+          {
+            "covered_pixels": 5088,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 4287,
+            "first_hit_backface_pixels": 12,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 6032,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "YoungMemorial": {
+    "source": "assets/YoungMemorial/YoungMemorial/source/YoungMemorial.blend",
+    "tiers": [
+      {
+        "triangles": 28538,
+        "view_stats": [
+          {
+            "covered_pixels": 5898,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5769,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5337,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 12554,
+        "view_stats": [
+          {
+            "covered_pixels": 5898,
+            "first_hit_backface_pixels": 1,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5769,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5337,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 452,
+        "view_stats": [
+          {
+            "covered_pixels": 5870,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5745,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5290,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ZoologyBuilding": {
+    "source": "assets/HullCourt_v0.1/HullCourt/source/ZoologyBuilding.blend",
+    "tiers": [
+      {
+        "triangles": 48610,
+        "view_stats": [
+          {
+            "covered_pixels": 7094,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7523,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5472,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 15330,
+        "view_stats": [
+          {
+            "covered_pixels": 7075,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7500,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5472,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      },
+      {
+        "triangles": 306,
+        "view_stats": [
+          {
+            "covered_pixels": 6972,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 7452,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          },
+          {
+            "covered_pixels": 5420,
+            "first_hit_backface_pixels": 0,
+            "glass_or_water_pixels": 0
+          }
+        ]
+      }
+    ]
+  }
+}

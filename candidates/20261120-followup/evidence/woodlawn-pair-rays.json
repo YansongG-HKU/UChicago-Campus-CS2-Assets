@@ -1,0 +1,2825 @@
+{
+  "source_sha256": "e750b32ead9c5d11c09721bef6ab81631c066f489b30b8562d45ba7cf8f0b21c",
+  "rays": {
+    "near": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.386367,
+              0.98539
+            ],
+            [
+              -1.310255,
+              0.98539
+            ],
+            [
+              -1.183402,
+              -0.69677
+            ],
+            [
+              -1.102215,
+              0.696782
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.117728,
+              0.98539
+            ],
+            [
+              -1.041616,
+              0.98539
+            ],
+            [
+              -0.914764,
+              -0.69677
+            ],
+            [
+              -0.833577,
+              0.696782
+            ],
+            [
+              -0.378938,
+              -0.999609
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      }
+    ],
+    "_LOD1": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.386367,
+              0.98539
+            ],
+            [
+              -1.310255,
+              0.98539
+            ],
+            [
+              -1.183402,
+              -0.69677
+            ],
+            [
+              -1.102215,
+              0.696782
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.117728,
+              0.98539
+            ],
+            [
+              -1.041616,
+              0.98539
+            ],
+            [
+              -0.914764,
+              -0.69677
+            ],
+            [
+              -0.833577,
+              0.696782
+            ],
+            [
+              -0.378938,
+              -0.999609
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      }
+    ],
+    "_LOD2": [
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.386367,
+              0.98539
+            ],
+            [
+              -1.376218,
+              0.98539
+            ],
+            [
+              -1.310255,
+              0.98539
+            ],
+            [
+              -1.183401,
+              0.98539
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 1,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": [
+            [
+              -1.117728,
+              0.98539
+            ],
+            [
+              -1.10758,
+              0.98539
+            ],
+            [
+              -1.041617,
+              0.98539
+            ],
+            [
+              -0.914763,
+              0.98539
+            ],
+            [
+              -0.378938,
+              -0.999609
+            ]
+          ]
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 2,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 3,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": -0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.2,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 0.05,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.0,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 1.8,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 3.6,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      },
+      {
+        "segment": 4,
+        "fraction": 0.4,
+        "z": 4.2,
+        "hits": {
+          "WoodlawnDining": [],
+          "WoodlawnResidential": []
+        }
+      }
+    ]
+  }
+}
